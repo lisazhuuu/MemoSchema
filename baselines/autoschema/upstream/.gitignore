@@ -1,0 +1,22 @@
+# credentials
+.env
+# caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.DS_Store
+# third-party baseline code, fetched by baselines/fetch_upstream.sh
+baselines/arxivdigestables/upstream_repo/
+baselines/intentaware/upstream/
+baselines/evaporate/upstream/*
+!baselines/evaporate/upstream/PROVENANCE.json
+baselines/evaporate/full_upstream/*
+!baselines/evaporate/full_upstream/PROVENANCE.json
+# seed PDFs and run outputs (papers are not redistributed; see seeds/seed_manifest.tsv)
+seeds/**/*.pdf
+results/
+# input-package components installed from MemoSchema-inputs / MemoSchema-inputs-pending (distributed separately)
+Ablation/
+.memoschema-inputs/
+baselines/evaporate/.venv-full/
