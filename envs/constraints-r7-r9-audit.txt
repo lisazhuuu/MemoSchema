@@ -1,0 +1,6 @@
+# Versions confirmed for the original r7-r9 work (pip constraints; use with requirements.txt, see envs/README.md):
+#   PyMuPDF 1.26.4: re-extracting the r7-r9 frozen texts (reproduces their SHA-256) and scripts/memo_audit.py
+#                   (reads the r10 PDFs; reproduces 590 of 592 identical texts; 1.28.2 gives 373)
+#   tiktoken 0.9.0: token estimate of the unlogged restructuring call in scripts/memexp39_report.py (Fig. 3b)
+PyMuPDF==1.26.4
+tiktoken==0.9.0

@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/HazyResearch/evaporate",
+  "commit": "59eda5d34415f71ffb3a72bb902e1505d1f59e83",
+  "files": {
+    "schema_identification.py": "04848bf91371ed11f6c1ca53bee354855620157789dddbb81aaeeb6f2a67ad01",
+    "prompts.py": "0c2200898cf6089822f05875735f1d69edb23fd386aacc4eb055064e51580415",
+    "profiler_utils.py": "b9909b27918052f861ac5a74b7f5221d0bcbe434ac956575d46b4b9fb66cf009",
+    "run_profiler.py": "0154b48fc17f0f3737ab1b5268c3c4a468f26817b6a30bbaff57beca81ceab63",
+    "configs.py": "d3c58cb125da61f66e5211304ffc70bd8906eaec9bf1a01cb1e147b3733a3caf",
+    "utils.py": "f002cc600bbf104a458cb5f4a847d53caa3c37c978133e793ad41ba9829e3d36"
+  }
+}

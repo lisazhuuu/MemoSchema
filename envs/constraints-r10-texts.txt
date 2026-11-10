@@ -1,0 +1,3 @@
+# Version confirmed for preparing the r10 frozen texts (baselines/evaporate/reproduce.py prepare on the r10 PDFs;
+# reproduces the SHA-256 in MemoSchema-inputs/frozen_texts_r7-r10.tsv). See envs/README.md.
+PyMuPDF==1.28.2
