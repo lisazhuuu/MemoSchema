@@ -1,0 +1,1434 @@
+{
+ "batch": "dev",
+ "run": "neuroinflammation_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Astrocytic_and_microglial_cells_as_the_modulators_of_neuroinflammation_in_Alzheimer_s_disease__nature",
+   "title": "Astrocytic and microglial cells as the modulators of neuroinflammation in Alzheimer’s disease",
+   "doi": "10.1186/s12974-022-02565-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4292320039"
+  },
+  {
+   "round": 1,
+   "paper_id": "From_Genetics_to_Neuroinflammation_The_Impact_of_ApoE4_on_Microglial_Function_in_Alzheimer_s_Disease.__nih",
+   "title": "From Genetics to Neuroinflammation: The Impact of ApoE4 on Microglial Function in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11853365/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Rusty_microglia_trainers_of_innate_immunity_in_Alzheimer_s_disease__ac",
+   "title": "Rusty microglia: trainers of innate immunity in Alzheimer's disease",
+   "doi": "10.3389/fneur.2018.01062",
+   "source": "core",
+   "url": "https://core.ac.uk/download/195777199.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Formyl_Peptide_Receptor_2_Regulates_Microglial_Phenotype_Through_Immunometabolism_Implications_for_Alzheimer__ac",
+   "title": "The Formyl Peptide Receptor 2 Regulates Microglial Phenotype Through Immunometabolism: Implications for Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/286269502.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Exploiting_formyl_peptide_receptor_2_to_promote_microglial_resolution_a_new_approach_to_Alzheimer_s_disease_trea__ac",
+   "title": "Exploiting formyl peptide receptor 2 to promote microglial resolution: a new approach to Alzheimer's disease treatment.",
+   "doi": "10.1111/febs.15861",
+   "source": "core",
+   "url": "https://core.ac.uk/download/417928825.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Neuroinflammation_and_its_resolution_in_Alzheimer_s_disease__ac",
+   "title": "Neuroinflammation and its resolution in Alzheimer's disease",
+   "doi": "10.2174/1567205018666210330162207",
+   "source": "core",
+   "url": "https://core.ac.uk/download/459196054.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia-Astrocyte_Communication_in_Alzheimer_s_Disease__ac",
+   "title": "Microglia-Astrocyte Communication in Alzheimer's Disease",
+   "doi": "10.3233/jad-230199",
+   "source": "core",
+   "url": "https://core.ac.uk/download/589870105.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia_in_aging_and_Alzheimer_s_disease_A_comparative_species_review__ac",
+   "title": "Microglia in aging and Alzheimer’s disease: A comparative species review",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/554815350.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Role_of_Neuroinflammation_in_Alzheimer_s_Disease__ac",
+   "title": "The Role of Neuroinflammation in Alzheimer's Disease",
+   "doi": "10.17863/cam.76910",
+   "source": "core",
+   "url": "https://core.ac.uk/download/479496620.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Tracking_neuroinflammatory_biomarkers_in_Alzheimer_s_disease_a_strategy_for_individualized_therapeutic_appro__nature",
+   "title": "Tracking neuroinflammatory biomarkers in Alzheimer’s disease: a strategy for individualized therapeutic approaches?",
+   "doi": "10.1186/s12974-024-03163-y",
+   "source": "core",
+   "url": "https://core.ac.uk/download/620488165.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglial_inflammation_and_phagocytosis_in_Alzheimer_s_disease_potential_therapeutic_targets__ac",
+   "title": "Microglial inflammation and phagocytosis in Alzheimer's disease: potential therapeutic targets",
+   "doi": "10.1111/bph.14618",
+   "source": "core",
+   "url": "https://core.ac.uk/download/346564935.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Contribution_of_Spleen_Tyrosine_Kinase_to_the_Pathobiology_of_Alzheimer_s_Disease__ac",
+   "title": "The Contribution of Spleen Tyrosine Kinase to the Pathobiology of Alzheimer’s Disease",
+   "doi": "10.21954/ou.ro.0000dfc5",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161816840.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_dual_role_of_microglia_in_Alzheimer_s_disease_from_immune_regulation_to_pathological_progression__ac",
+   "title": "The dual role of microglia in Alzheimer’s disease: from immune regulation to pathological progression",
+   "doi": "10.3389/fnagi.2025.1554398",
+   "source": "core",
+   "url": "https://core.ac.uk/download/655585704.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Small_RNA_big_impact_Profiling_the_therapeutic_potential_of_microRNA-132_in_Alzheimer_s_disease__ac",
+   "title": "Small RNA, big impact:Profiling the therapeutic potential of microRNA-132 in Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/655141549.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Small_RNA_big_impact_Profiling_the_therapeutic_potential_of_microRNA-132_in_Alzheimer_s_disease__ac",
+   "title": "Small RNA, big impact:Profiling the therapeutic potential of microRNA-132 in Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/655141549.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Neuroinflammatory_Biomarkers_in_Alzheimer_s_Disease_From_Pathophysiology_to_Clinical_Implications__ac",
+   "title": "Neuroinflammatory Biomarkers in Alzheimer's Disease: From Pathophysiology to Clinical Implications",
+   "doi": "10.3390/ijms252211941",
+   "source": "core",
+   "url": "https://core.ac.uk/download/639894456.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia_in_Alzheimer_s_Disease_Risk_Factors_and_Inflammation__ac",
+   "title": "Microglia in Alzheimer's Disease: Risk Factors and Inflammation",
+   "doi": "10.3389/fneur.2018.00978",
+   "source": "core",
+   "url": "https://core.ac.uk/download/201615692.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Small_RNA_big_impact_Profiling_the_therapeutic_potential_of_microRNA-132_in_Alzheimer_s_disease__ac",
+   "title": "Small RNA, big impact:Profiling the therapeutic potential of microRNA-132 in Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/655141549.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_role_and_mechanism_of_innate_immune_molecules_in_Alzheimer_s_disease_and_cerebrovascular_disorders__ac",
+   "title": "The role and mechanism of innate immune molecules in Alzheimer's disease and cerebrovascular disorders",
+   "doi": "10.22028/d291-35358",
+   "source": "core",
+   "url": "https://core.ac.uk/download/521111576.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_Mechanisms_of_Neuroinflammation_in_Aging_and_Alzheimer_s_Disease_Progression.__nih",
+   "title": "Molecular Mechanisms of Neuroinflammation in Aging and Alzheimer's Disease Progression.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915182/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Alzheimer_s_Disease_Research_Using_Human_Microglia.__nih",
+   "title": "Alzheimer's Disease Research Using Human Microglia.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6721636/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Comparative_Insight_into_Microglia_Macrophages-Associated_Pathways_in_Glioblastoma_and_Alzheimer_s_Disease.__nih",
+   "title": "Comparative Insight into Microglia/Macrophages-Associated Pathways in Glioblastoma and Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10778632/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia_in_Alzheimer_s_Disease_in_the_Context_of_Tau_Pathology.__nih",
+   "title": "Microglia in Alzheimer's Disease in the Context of Tau Pathology.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7602223/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Visualising_the_Knowledge_Structure_of_Microglia_in_Alzheimer_s_Disease_A_CiteSpace_Analysis.__nih",
+   "title": "Visualising the Knowledge Structure of Microglia in Alzheimer's Disease: A CiteSpace Analysis.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12451011/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_neuroinflammation_on_the_progression_of_Alzheimer_s_disease_and_its_significant_ramifications_for_nov__nih",
+   "title": "Effect of neuroinflammation on the progression of Alzheimer's disease and its significant ramifications for novel anti-inflammatory treatments.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12159511/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglial_clearance_neuroprotection_and_cognitive_recovery_via_a_novel_synthetic_sulfolipid_in_Alzheimer_s_dis__nih",
+   "title": "Microglial clearance, neuroprotection and cognitive recovery via a novel synthetic sulfolipid in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12821313/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia_in_Alzheimer_s_disease_pathogenesis_mechanisms_and_therapeutic_potentials.__nih",
+   "title": "Microglia in Alzheimer's disease: pathogenesis, mechanisms, and therapeutic potentials.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10309009/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Modulating_Neuroinflammation_as_a_Prospective_Therapeutic_Target_in_Alzheimer_s_Disease.__nih",
+   "title": "Modulating Neuroinflammation as a Prospective Therapeutic Target in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11817173/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Inhibition_of_TLR4_Induces_M2_Microglial_Polarization_and_Provides_Neuroprotection_via_the_NLRP3_Inflammasome_i__nih",
+   "title": "Inhibition of TLR4 Induces M2 Microglial Polarization and Provides Neuroprotection via the NLRP3 Inflammasome in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7251077/"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Computational_Exploration_of_the_Molecular_Network_Associated_to_Neuroinflammation_in_Alzheimer_s_Disease.__nih",
+   "title": "A Computational Exploration of the Molecular Network Associated to Neuroinflammation in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8319636/"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_role_of_microglia_in_processing_and_spreading_of_bioactive_tau_seeds_in_Alzheimer_s_disease.__nih",
+   "title": "The role of microglia in processing and spreading of bioactive tau seeds in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6145371/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_Mechanism_of_Huanglian_Jiedu_Decoction_in_Treatment_of_Alzheimer_s_Disease_based_on_Network_Pharm__biorxiv",
+   "title": "Molecular Mechanism of Huanglian Jiedu Decoction in Treatment of Alzheimer's Disease based on Network Pharmacology",
+   "doi": "10.1101/2024.05.15.594364",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594364"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_wake-_and_sleep-modulating_neurons_of_the_lateral_hypothalamic_area_demonstrate_a_differential_pattern___biorxiv",
+   "title": "The wake- and sleep-modulating neurons of the lateral hypothalamic area demonstrate a differential pattern of degeneration in Alzheimers disease",
+   "doi": "10.1101/2024.03.06.583765",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.03.06.583765"
+  },
+  {
+   "round": 2,
+   "paper_id": "Targeting_microglia-mediated_neuroinflammation_in_Alzheimer_s_disease_mechanisms_and_therapeutic_approache__openalex",
+   "title": "Targeting microglia-mediated neuroinflammation in Alzheimer’s disease: mechanisms and therapeutic approaches",
+   "doi": "10.3389/fimmu.2026.1818802",
+   "source": "openalex",
+   "url": "https://openalex.org/W7161032242"
+  },
+  {
+   "round": 2,
+   "paper_id": "Intercellular_adhesion_molecule-1_reprograms_microglia_to_improve_cognitive_functions_by_inhibiting_ERK_STA__biorxiv",
+   "title": "Intercellular adhesion molecule-1 reprograms microglia to improve cognitive functions by inhibiting ERK/STAT3 signalling pathway in a model of Alzheimer's disease",
+   "doi": "10.1101/2024.05.20.594921",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.20.594921"
+  },
+  {
+   "round": 2,
+   "paper_id": "Role_of_neuroinflammation_in_an_amyloid-beta_model_of_Alzheimer_s_disease_and_the_identification_of_possible_bio__ac",
+   "title": "Role of neuroinflammation in an amyloid-beta model of Alzheimer’s disease and the identification of possible biomarker.",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/467102646.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Neuroinflammation_in_Alzheimer_u27s_Disease_and_Vascular_Cognitive_Impairment__ac",
+   "title": "Neuroinflammation in Alzheimer\\u27s Disease and Vascular Cognitive Impairment",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/232577239.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Pathogenesis_therapeutic_strategies_and_biomarker_development_based_on_omics_analysis_related_to_microglia_i__nature",
+   "title": "Pathogenesis, therapeutic strategies and biomarker development based on “omics” analysis related to microglia in Alzheimer’s disease",
+   "doi": "10.1186/s12974-022-02580-1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4294555566"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bidirectional_crosstalk_between_microglia_and_serotonin_signaling_in_neuroinflammation_and_CNS_disorders__ac",
+   "title": "Bidirectional crosstalk between microglia and serotonin signaling in neuroinflammation and CNS disorders",
+   "doi": "10.3389/fimmu.2025.1646740",
+   "source": "core",
+   "url": "https://core.ac.uk/download/670618129.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "NF_B1_a_common_biomarker_linking_Alzheimer_s_and_Parkinson_s_disease_pathology__ac",
+   "title": "NFκB1: a common biomarker linking Alzheimer's and Parkinson's disease pathology",
+   "doi": "10.3389/fnins.2025.1589857",
+   "source": "core",
+   "url": "https://core.ac.uk/download/656651711.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Markers_of_neuroinflammation_associated_with_Alzheimer_s_disease_pathology_in_older_adults.__ac",
+   "title": "Markers of neuroinflammation associated with Alzheimer's disease pathology in older adults.",
+   "doi": "10.1016/j.bbi.2017.01.020",
+   "source": "core",
+   "url": "https://core.ac.uk/download/84059507.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Neuroinflammation_in_Alzheimer_s_Disease__ac",
+   "title": "Neuroinflammation in Alzheimer's Disease",
+   "doi": "10.1016/s1474-4422(15)70016-5",
+   "source": "core",
+   "url": "https://core.ac.uk/download/560386824.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "2_cerebrospinal_fluid_levels_are_a_potential_biomarker_for_microglia_activity_in_early-stage_Alzheimer_s_disease__ac",
+   "title": "2 cerebrospinal fluid levels are a potential biomarker for microglia activity in early-stage Alzheimer's disease and associate with neuronal injury markers",
+   "doi": "10.15252/emmm.201506123",
+   "source": "core",
+   "url": "https://core.ac.uk/download/328839857.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Genetic_Ablation_of_Hematopoietic_Cell_Kinase_Accelerates_Alzheimer_s_Disease_Like_Neuropathology_in_Tg2576___nature",
+   "title": "Genetic Ablation of Hematopoietic Cell Kinase Accelerates Alzheimer’s Disease–Like Neuropathology in Tg2576 Mice",
+   "doi": "10.1007/s12035-020-01894-6",
+   "source": "core",
+   "url": "https://core.ac.uk/download/573402513.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia_in_Alzheimer_s_disease__openalex",
+   "title": "Microglia in Alzheimer’s disease",
+   "doi": "10.1172/jci90606",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia_in_Alzheimer_s_disease_a_role_for_ion_channels__ac",
+   "title": "Microglia in Alzheimer's disease: a role for ion channels",
+   "doi": "10.3389/fnins.2018.00676",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161508656.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Unraveling_Alzheimer_s_disease_insights_from_single-cell_sequencing_and_spatial_transcriptomic__ac",
+   "title": "Unraveling Alzheimer’s disease: insights from single-cell sequencing and spatial transcriptomic",
+   "doi": "10.3389/fneur.2024.1515981",
+   "source": "core",
+   "url": "https://core.ac.uk/download/636118143.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "New_neurons_old_questions_Cellular_and_molecular_insights_into_the_neurogenesis_debate_in_Alzheimer_s_disease__ac",
+   "title": "New neurons, old questions:Cellular and molecular insights into the neurogenesis debate in Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/689125633.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Should_we_open_fire_on_microglia_Depletion_models_as_tools_to_elucidate_microglial_role_in_health_and_alzheimer___ac",
+   "title": "Should we open fire on microglia? Depletion models as tools to elucidate microglial role in health and alzheimer’s disease",
+   "doi": "10.3390/ijms22189734",
+   "source": "core",
+   "url": "https://core.ac.uk/download/483360256.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia_in_Alzheimer_s_Disease_A_Target_for_Therapeutic_Intervention__openalex",
+   "title": "Microglia in Alzheimer’s Disease: A Target for Therapeutic Intervention",
+   "doi": "10.3389/fncel.2021.749587",
+   "source": "openalex",
+   "url": "https://openalex.org/W3215454682"
+  },
+  {
+   "round": 2,
+   "paper_id": "Spermidine_reduces_neuroinflammation_and_soluble_amyloid_beta_in_an_Alzheimer_s_disease_mouse_model.__nih",
+   "title": "Spermidine reduces neuroinflammation and soluble amyloid beta in an Alzheimer's disease mouse model.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9250727/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Early_microglial_and_astrocyte_reactivity_in_preclinical_Alzheimer_s_disease.__nih",
+   "title": "Early microglial and astrocyte reactivity in preclinical Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12314543/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Cerebrospinal_fluid_neuronal_pentraxin_levels_are_associated_with_tau_pathology_via_microglia-astrocyte_signali__nih",
+   "title": "Cerebrospinal fluid neuronal pentraxin levels are associated with tau pathology via microglia-astrocyte signaling in alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12492848/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia-Mediated_Neuroinflammation_A_Potential_Target_for_the_Treatment_of_Cardiovascular_Diseases.__nih",
+   "title": "Microglia-Mediated Neuroinflammation: A Potential Target for the Treatment of Cardiovascular Diseases.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9148574/"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Gut_Microbiota_Modulates_Neuroinflammation_in_Alzheimer_s_Disease_Elucidating_Crucial_Factors_and_Mechanist__nih",
+   "title": "The Gut Microbiota Modulates Neuroinflammation in Alzheimer's Disease: Elucidating Crucial Factors and Mechanistic Underpinnings.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11512114/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Periodontitis-induced_neuroinflammation_triggers_IFITM3-A_axis_to_cause_alzheimer_s_disease-like_pathology_and___nih",
+   "title": "Periodontitis-induced neuroinflammation triggers IFITM3-Aβ axis to cause alzheimer's disease-like pathology and cognitive decline.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12275411/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bibliometric_analysis_of_neuroinflammation_and_Alzheimer_s_disease.__nih",
+   "title": "Bibliometric analysis of neuroinflammation and Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11284157/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Immune_checkpoint_TIM-3_regulates_microglia_and_Alzheimer_s_disease.__nih",
+   "title": "Immune checkpoint TIM-3 regulates microglia and Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12079183/"
+  },
+  {
+   "round": 2,
+   "paper_id": "H3K18_lactylation_of_senescent_microglia_potentiates_brain_aging_and_Alzheimer_s_disease_through_the_NF_B_signa__nih",
+   "title": "H3K18 lactylation of senescent microglia potentiates brain aging and Alzheimer's disease through the NFκB signaling pathway.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10494370/"
+  },
+  {
+   "round": 2,
+   "paper_id": "NAD_supplementation_reduces_neuroinflammation_and_cell_senescence_in_a_transgenic_mouse_model_of_Alzheimer_s_di__nih",
+   "title": "NAD(+) supplementation reduces neuroinflammation and cell senescence in a transgenic mouse model of Alzheimer's disease via cGAS-STING.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8449423/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Targeting_Microglia_in_Alzheimer_s_Disease_Pathogenesis_and_Potential_Therapeutic_Strategies.__nih",
+   "title": "Targeting Microglia in Alzheimer's Disease: Pathogenesis and Potential Therapeutic Strategies.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11274940/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Neuraminidase_1_regulates_the_cellular_state_of_microglia_by_modulating_the_sialylation_of_Trem2__biorxiv",
+   "title": "Neuraminidase 1 regulates the cellular state of microglia by modulating the sialylation of Trem2",
+   "doi": "10.1101/2024.05.20.595036",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.20.595036"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_neuroimmune_axis_of_Alzheimer_s_disease__nature",
+   "title": "The neuroimmune axis of Alzheimer’s disease",
+   "doi": "10.1186/s13073-023-01155-w",
+   "source": "openalex",
+   "url": "https://openalex.org/W4318067131"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_aging_immune_system_in_Alzheimer_s_and_Parkinson_s_diseases__nature",
+   "title": "The aging immune system in Alzheimer’s and Parkinson’s diseases",
+   "doi": "10.1007/s00281-022-00944-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W4225293040"
+  },
+  {
+   "round": 2,
+   "paper_id": "Lipidome_disruption_in_Alzheimer_s_disease_brain_detection_pathological_mechanisms_and_therapeutic_implicati__nature",
+   "title": "Lipidome disruption in Alzheimer’s disease brain: detection, pathological mechanisms, and therapeutic implications",
+   "doi": "10.1186/s13024-025-00803-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406861008"
+  },
+  {
+   "round": 2,
+   "paper_id": "Genome-wide_association_study_in_Alzheimer_s_disease_a_bibliometric_and_visualization_analysis__openalex",
+   "title": "Genome-wide association study in Alzheimer’s disease: a bibliometric and visualization analysis",
+   "doi": "10.3389/fnagi.2023.1290657",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389150433"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_review_and_analysis_of_key_biomarkers_in_Alzheimer_s_disease__openalex",
+   "title": "A review and analysis of key biomarkers in Alzheimer’s disease",
+   "doi": "10.3389/fnins.2024.1358998",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391967985"
+  },
+  {
+   "round": 2,
+   "paper_id": "Neuroinflammation_in_Alzheimer_disease__ac",
+   "title": "Neuroinflammation in Alzheimer disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/643235562.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Assessment_of_microglia_influence_in_synaptic_transmission_and_early_amyloid-_plaque_deposition_in_knock-in_mous__ac",
+   "title": "Assessment of microglia influence in synaptic transmission and early amyloid-β plaque deposition in knock-in mouse models for Alzheimer`s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/483550628.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia_in_Alzheimer_s_disease__openalex",
+   "title": "Microglia in Alzheimer’s disease",
+   "doi": "10.1172/jci90606",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Ouabain_Ameliorates_Alzheimer_s_Disease-Associated_Neuropathology_and_Cognitive_Impairment_in_FAD_4T_Mice.__nih",
+   "title": "Ouabain Ameliorates Alzheimer's Disease-Associated Neuropathology and Cognitive Impairment in FAD(4T) Mice.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "ER_mediates_sex-specific_protection_in_the_App-NL-G-F_mouse_model_of_Alzheimer_s_disease.__nih",
+   "title": "ERβ mediates sex-specific protection in the App-NL-G-F mouse model of Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "PILRA_regulates_microglial_neuroinflammation_and_lipid_metabolism_as_a_candidate_therapeutic_target_for_Al__openalex",
+   "title": "PILRA regulates microglial neuroinflammation and lipid metabolism as a candidate therapeutic target for Alzheimer’s disease",
+   "doi": "10.21203/rs.3.rs-3954863/v1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4392783646"
+  },
+  {
+   "round": 3,
+   "paper_id": "PKC_serves_as_a_potential_biomarker_and_therapeutic_target_for_microglia-mediated_neuroinflammation_in_Alzheime__nih",
+   "title": "PKCδ serves as a potential biomarker and therapeutic target for microglia-mediated neuroinflammation in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11350009/"
+  },
+  {
+   "round": 3,
+   "paper_id": "NTN-1_attenuates_amyloid-_-mediated_microglial_neuroinflammation_and_memory_impairment_via_the_NF-_B_pathway_an__nih",
+   "title": "NTN-1 attenuates amyloid-β-mediated microglial neuroinflammation and memory impairment via the NF-κB pathway and NLRP3 inflammasome in a rat model of Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12066592/"
+  },
+  {
+   "round": 3,
+   "paper_id": "APOE_mediated_neuroinflammation_and_neurodegeneration_in_Alzheimer_u27s_disease__ac",
+   "title": "APOE mediated neuroinflammation and neurodegeneration in Alzheimer\\u27s disease",
+   "doi": "10.1016/j.smim.2022.101594",
+   "source": "core",
+   "url": "https://core.ac.uk/download/589252606.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Targeting_Neuroinflammation_to_Treat_Alzheimer_s_Disease__nature",
+   "title": "Targeting Neuroinflammation to Treat Alzheimer’s Disease",
+   "doi": "10.1007/s40263-017-0483-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W2777733505"
+  },
+  {
+   "round": 3,
+   "paper_id": "Microbiota_in_neuroinflammation_and_synaptic_dysfunction_a_focus_on_Alzheimer_s_disease__nature",
+   "title": "Microbiota in neuroinflammation and synaptic dysfunction: a focus on Alzheimer’s disease",
+   "doi": "10.1186/s13024-022-00522-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W4221080416"
+  },
+  {
+   "round": 3,
+   "paper_id": "Gut_microbial_metabolites_and_the_brain_gut_axis_in_Alzheimer_s_disease_A_review__ac",
+   "title": "Gut microbial metabolites and the brain–gut axis in Alzheimer’s disease: A review",
+   "doi": "10.17305/bb.2025.12921",
+   "source": "core",
+   "url": "https://core.ac.uk/download/669022168.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_the_study_of_the_effects_of_gut_microflora_on_microglia_in_Alzheimer_s_disease__ac",
+   "title": "Advances in the study of the effects of gut microflora on microglia in Alzheimer’s disease",
+   "doi": "10.3389/fnmol.2023.1295916",
+   "source": "core",
+   "url": "https://core.ac.uk/download/595463572.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_therapeutic_potential_of_butyrate_and_lauric_acid_in_modulating_glial_and_neuronal_activity_in_Alzheimer_s_d__ac",
+   "title": "The therapeutic potential of butyrate and lauric acid in modulating glial and neuronal activity in Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/667633704.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Repercussions_of_microglial_efferocytosis_on_neurodegeneration_in_Alzheimer_s_Disease_AD_a_double-edged_swor__nature",
+   "title": "Repercussions of microglial efferocytosis on neurodegeneration in Alzheimer’s Disease (AD): a double-edged sword and perplexing factor warranting scrutiny in AD research",
+   "doi": "10.1186/s41983-024-00853-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W4400281843"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_protective_PLC_2-P522R_variant_mitigates_Alzheimer_s_disease-associated_pathologies_by_enhancing_benefic__nature",
+   "title": "The protective PLCγ2-P522R variant mitigates Alzheimer’s disease-associated pathologies by enhancing beneficial microglial functions",
+   "doi": "10.1186/s12974-025-03387-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W4408216742"
+  },
+  {
+   "round": 3,
+   "paper_id": "Elucidating_the_Interactive_Roles_of_Glia_in_Alzheimer_s_Disease_Using_Established_and_Newly_Developed_Experimen__ac",
+   "title": "Elucidating the Interactive Roles of Glia in Alzheimer's Disease Using Established and Newly Developed Experimental Models",
+   "doi": "10.3389/fneur.2018.00797",
+   "source": "core",
+   "url": "https://core.ac.uk/download/201775390.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Rutin_prevents_tau_pathology_and_neuroinflammation_in_a_mouse_model_of_Alzheimer_s_disease.__nih",
+   "title": "Rutin prevents tau pathology and neuroinflammation in a mouse model of Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8196535/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Dimethyl_fumarate_improves_cognitive_impairment_and_neuroinflammation_in_mice_with_Alzheimer_s_disease.__nih",
+   "title": "Dimethyl fumarate improves cognitive impairment and neuroinflammation in mice with Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10882778/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Impact_of_noradrenergic_inhibition_on_neuroinflammation_and_pathophysiology_in_mouse_models_of_Alzheimer_s_dise__nih",
+   "title": "Impact of noradrenergic inhibition on neuroinflammation and pathophysiology in mouse models of Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11657531/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Delphinidin_attenuates_cognitive_deficits_and_pathology_of_Alzheimer_s_disease_by_preventing_microglial_senesce__nih",
+   "title": "Delphinidin attenuates cognitive deficits and pathology of Alzheimer's disease by preventing microglial senescence via AMPK/SIRT1 pathway.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12180243/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Temporal_impact_of_sepsis_on_Alzheimer_s_disease_pathology_and_neuroinflammation.__nih",
+   "title": "Temporal impact of sepsis on Alzheimer's disease pathology and neuroinflammation.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12285756/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Revisiting_the_neuroinflammation_hypothesis_in_Alzheimer_s_disease_a_focus_on_the_druggability_of_current_targe__nih",
+   "title": "Revisiting the neuroinflammation hypothesis in Alzheimer's disease: a focus on the druggability of current targets.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10288808/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Promising_Intervention_Approaches_to_Potentially_Resolve_Neuroinflammation_And_Steroid_Hormones_Alterations_in___nih",
+   "title": "Promising Intervention Approaches to Potentially Resolve Neuroinflammation And Steroid Hormones Alterations in Alzheimer's Disease and Its Neuropsychiatric Symptoms.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8279527/"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Role_of_Microglia_and_the_Nlrp3_Inflammasome_in_Alzheimer_s_Disease.__nih",
+   "title": "The Role of Microglia and the Nlrp3 Inflammasome in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7530640/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Ethanol_consumption_aggravates_amyloid_pathology_and_neuroinflammation_in_Alzheimer_s_disease_associated_with_i__nih",
+   "title": "Ethanol consumption aggravates amyloid pathology and neuroinflammation in Alzheimer's disease associated with inflammasome activation and ASC speck propagation.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12265316/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Ginkgolide_attenuates_memory_impairment_and_neuroinflammation_by_suppressing_the_NLRP3_caspase-1_pathway_in_Alz__nih",
+   "title": "Ginkgolide attenuates memory impairment and neuroinflammation by suppressing the NLRP3/caspase-1 pathway in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10599747/"
+  },
+  {
+   "round": 3,
+   "paper_id": "-Asarone_Attenuates_Neuroinflammation_of_Alzheimer_s_Disease_by_Activating_Autophagy_and_Suppressing_NLRP3_Infl__nih",
+   "title": "β-Asarone Attenuates Neuroinflammation of Alzheimer's Disease by Activating Autophagy and Suppressing NLRP3 Inflammasome Assembly.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12869116/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Identification_of_inflammasome_signaling_proteins_in_neurons_and_microglia_in_early_and_intermediate_stages_of___nih",
+   "title": "Identification of inflammasome signaling proteins in neurons and microglia in early and intermediate stages of Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10307529/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Microglia-Astrocyte_Communication_in_Alzheimer_s_Disease.__nih",
+   "title": "Microglia-Astrocyte Communication in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10578295/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Microglial_Rack1_Deficiency_Alleviates_Alzheimer_s_Disease_Pathology_through_Enhancing_IGF1-Mediated_Astrocytic__nih",
+   "title": "Microglial Rack1 Deficiency Alleviates Alzheimer's Disease Pathology through Enhancing IGF1-Mediated Astrocytic Phagocytosis.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12806348/"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_potential_of_the_gut_microbiome_for_identifying_Alzheimer_s_disease_diagnostic_biomarkers_and_future_therapi__ac",
+   "title": "The potential of the gut microbiome for identifying Alzheimer’s disease diagnostic biomarkers and future therapies",
+   "doi": "10.3389/fnins.2023.1130730",
+   "source": "core",
+   "url": "https://core.ac.uk/download/564121723.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Microbiome_alterations_and_Alzheimer_s_Disease_modeling_strategies_with_transgenic_mice.__ac",
+   "title": "Microbiome alterations and Alzheimer's Disease: modeling strategies with transgenic mice.",
+   "doi": "10.3390/biomedicines11071846.",
+   "source": "core",
+   "url": "https://core.ac.uk/download/599472028.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Bidirectional_modulation_of_Alzheimer_s_disease_via_gut_microbiota_rescue_by_fecal_transplantation_from_healthy___ac",
+   "title": "Bidirectional modulation of Alzheimer’s disease via gut microbiota: rescue by fecal transplantation from healthy donors and aggravation by colitis-associated dysbiosis",
+   "doi": "10.3389/fnins.2025.1593854",
+   "source": "core",
+   "url": "https://core.ac.uk/download/658758829.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Analyzing_the_therapeutic_and_preventive_potential_of_probiotics_in_Alzheimer_s_disease_a_scoping_review__ac",
+   "title": "Analyzing the therapeutic and preventive potential of probiotics in Alzheimer’s disease: a scoping review",
+   "doi": "10.37349/ent.2025.1004120",
+   "source": "core",
+   "url": "https://core.ac.uk/download/684549852.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_effect_that_disease-linked_PLC_2_variants_have_on_enzymatic_activity_and_exploring_PLC_2_s_rol__ac",
+   "title": "Investigating the effect that disease-linked PLCγ2 variants have on enzymatic activity and exploring PLCγ2’s role within microglia cell function",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/558910506.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_Role_of_Diet_in_Modulating_Neuroinflammation_in_Health_and_Disease__ac",
+   "title": "Investigating the Role of Diet in Modulating Neuroinflammation in Health and Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/614446326.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Involvement_of_astrocytes_in_Alzheimer_s_disease_from_a_neuroinflammatory_and_oxidative_stress_perspective__ac",
+   "title": "Involvement of astrocytes in Alzheimer’s disease from a neuroinflammatory and oxidative stress perspective",
+   "doi": "10.3389/fnmol.2017.00427",
+   "source": "core",
+   "url": "https://core.ac.uk/download/486932759.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_role_of_gliosis_in_cognitive_impairment_in_early_Alzheimer_s_Disease__ac",
+   "title": "Investigating the role of gliosis in cognitive impairment in early Alzheimer’s Disease",
+   "doi": "10.5463/thesis.726",
+   "source": "core",
+   "url": "https://core.ac.uk/download/616577806.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Multifaceted_Role_of_P2X7R_in_Microglia_and_Astrocytes__nature",
+   "title": "The Multifaceted Role of P2X7R in Microglia and Astrocytes",
+   "doi": "10.1007/s11064-025-04502-y",
+   "source": "core",
+   "url": "https://core.ac.uk/download/674611421.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Microglia_and_monocytes_in_inflammatory_CNS_disease_integrating_phenotype_and_function__nature",
+   "title": "Microglia and monocytes in inflammatory CNS disease: integrating phenotype and function",
+   "doi": "10.1007/s00401-021-02384-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W3216899936"
+  },
+  {
+   "round": 3,
+   "paper_id": "Biomarkers_and_therapeutic_strategies_targeting_microglia_in_neurodegenerative_diseases_current_status_and_f__nature",
+   "title": "Biomarkers and therapeutic strategies targeting microglia in neurodegenerative diseases: current status and future directions",
+   "doi": "10.1186/s13024-025-00867-4",
+   "source": "openalex",
+   "url": "https://openalex.org/W4412158343"
+  },
+  {
+   "round": 3,
+   "paper_id": "New_insight_on_microglia_activation_in_neurodegenerative_diseases_and_therapeutics__openalex",
+   "title": "New insight on microglia activation in neurodegenerative diseases and therapeutics",
+   "doi": "10.3389/fnins.2023.1308345",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390111572"
+  },
+  {
+   "round": 3,
+   "paper_id": "Targeting_SHIP_paralogs_to_promote_microglial_effector_function_in_the_CNS__ac",
+   "title": "Targeting SHIP paralogs to promote microglial effector function in the CNS",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/638983712.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Activation_of_the_pro-resolving_receptor_Fpr2_attenuates_inflammatory_microglial_activation__ac",
+   "title": "Activation of the pro-resolving receptor Fpr2 attenuates inflammatory microglial activation",
+   "doi": "10.1177/2398212817705279",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161105550.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Gut_Microbiota_and_Dysbiosis_in_Alzheimer_s_Disease_Implications_for_Pathogenesis_and_Treatment__nature",
+   "title": "Gut Microbiota and Dysbiosis in Alzheimer’s Disease: Implications for Pathogenesis and Treatment",
+   "doi": "10.1007/s12035-020-02073-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W3080830493"
+  },
+  {
+   "round": 3,
+   "paper_id": "Current_understanding_of_the_Alzheimer_s_disease-associated_microbiome_and_therapeutic_strategies__nature",
+   "title": "Current understanding of the Alzheimer’s disease-associated microbiome and therapeutic strategies",
+   "doi": "10.1038/s12276-023-01146-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390562552"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Brain_Gut_Axis_an_Important_Player_in_Alzheimer_and_Parkinson_Disease_A_Narrative_Review__ac",
+   "title": "The Brain–Gut Axis, an Important Player in Alzheimer and Parkinson Disease: A Narrative Review",
+   "doi": "10.3390/jcm13144130",
+   "source": "core",
+   "url": "https://core.ac.uk/download/621935053.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Potential_Role_of_Gut_Microbiota_in_Alzheimer_s_Disease_from_Diagnosis_to_Treatment__ac",
+   "title": "The Potential Role of Gut Microbiota in Alzheimer’s Disease: from Diagnosis to Treatment",
+   "doi": "10.3390/nu14030668",
+   "source": "core",
+   "url": "https://core.ac.uk/download/523362995.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigation_of_microbial-derived_metabolites_as_risk_factors_and_key_mediators_of_the_microbiota-gut-brain_axi__ac",
+   "title": "Investigation of microbial-derived metabolites as risk factors and key mediators of the microbiota-gut-brain axis in early cognitive decline and dementia.",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/655210135.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Exploring_the_Efficacy_and_Safety_of_Nutritional_Supplements_in_Alzheimer_s_Disease__ac",
+   "title": "Exploring the Efficacy and Safety of Nutritional Supplements in\r\nAlzheimer’s Disease",
+   "doi": "10.3390/nu17050922",
+   "source": "core",
+   "url": "https://core.ac.uk/download/655036277.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_role_of_the_gut-brain_axis_in_at-genetic-risk_and_clinical_Alzheimer_s_disease.__ac",
+   "title": "The role of the gut-brain axis in at-genetic-risk and clinical Alzheimer’s disease.",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/492528762.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Second-generation_anti-amyloid_monoclonal_antibodies_for_Alzheimer_s_disease_current_landscape_and_future_pe__nature",
+   "title": "Second-generation anti-amyloid monoclonal antibodies for Alzheimer’s disease: current landscape and future perspectives",
+   "doi": "10.1186/s40035-025-00465-w",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406829716"
+  },
+  {
+   "round": 3,
+   "paper_id": "BIOGENESIS_AND_FUNCTION_OF_MICROGLIAL_EXTRACELLULAR_VESICLES_IN_NEUROINFLAMMATION_AND_PARKINSON_S_DISEASE__ac",
+   "title": "BIOGENESIS AND FUNCTION OF MICROGLIAL EXTRACELLULAR VESICLES IN NEUROINFLAMMATION AND PARKINSON’S DISEASE",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/622467970.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Full_genome_analysis_of_microglial_activation_ramifications_of_TREM2__ac",
+   "title": "Full genome analysis of microglial activation; ramifications of TREM2",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/219542446.pdf"
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "-Asarone_Attenuates_Neuroinflammation_of_Alzheimer_s_Disease_by_Activating_Autophagy_and_Suppressing_NLRP3_Infl__nih",
+  "2_cerebrospinal_fluid_levels_are_a_potential_biomarker_for_microglia_activity_in_early-stage_Alzheimer_s_disease__ac",
+  "APOE_mediated_neuroinflammation_and_neurodegeneration_in_Alzheimer_u27s_disease__ac",
+  "A_Computational_Exploration_of_the_Molecular_Network_Associated_to_Neuroinflammation_in_Alzheimer_s_Disease.__nih",
+  "A_review_and_analysis_of_key_biomarkers_in_Alzheimer_s_disease__openalex",
+  "Advances_in_the_study_of_the_effects_of_gut_microflora_on_microglia_in_Alzheimer_s_disease__ac",
+  "Alzheimer_s_Disease_Research_Using_Human_Microglia.__nih",
+  "Alzheimer_s_Disease_and_Type_2_Diabetes_A_Critical_Assessment_of_the_Shared_Pathological_Traits__openalex",
+  "Amyloid_-based_therapy_for_Alzheimer_s_disease_challenges_successes_and_future__nature",
+  "Amyloid_beta_glycation_leads_to_neuronal_mitochondrial_dysfunction_and_Alzheimers_pathogenesis_through_VDAC__biorxiv",
+  "An_AI-Driven_Framework_for_Discovery_of_BACE1_Inhibitors_for_Alzheimer_s_Disease__biorxiv",
+  "Analyzing_the_therapeutic_and_preventive_potential_of_probiotics_in_Alzheimer_s_disease_a_scoping_review__ac",
+  "Application_of_Multiomics_Approach_to_Investigate_the_Therapeutic_Potentials_of_Stem_Cell-derived_Extracell__biorxiv",
+  "Assessment_of_microglia_influence_in_synaptic_transmission_and_early_amyloid-_plaque_deposition_in_knock-in_mous__ac",
+  "Astrocytic_and_microglial_cells_as_the_modulators_of_neuroinflammation_in_Alzheimer_s_disease__nature",
+  "BIOGENESIS_AND_FUNCTION_OF_MICROGLIAL_EXTRACELLULAR_VESICLES_IN_NEUROINFLAMMATION_AND_PARKINSON_S_DISEASE__ac",
+  "Bibliometric_analysis_of_neuroinflammation_and_Alzheimer_s_disease.__nih",
+  "Bidirectional_crosstalk_between_microglia_and_serotonin_signaling_in_neuroinflammation_and_CNS_disorders__ac",
+  "Biomarkers_and_therapeutic_strategies_targeting_microglia_in_neurodegenerative_diseases_current_status_and_f__nature",
+  "Cerebrospinal_fluid_neuronal_pentraxin_levels_are_associated_with_tau_pathology_via_microglia-astrocyte_signali__nih",
+  "Comparative_Insight_into_Microglia_Macrophages-Associated_Pathways_in_Glioblastoma_and_Alzheimer_s_Disease.__nih",
+  "Current_understanding_of_the_Alzheimer_s_disease-associated_microbiome_and_therapeutic_strategies__nature",
+  "Deep_proteomic_analysis_of_human_microglia_and_model_systems_reveal_fundamental_biological_differences_of_i__biorxiv",
+  "Delphinidin_attenuates_cognitive_deficits_and_pathology_of_Alzheimer_s_disease_by_preventing_microglial_senesce__nih",
+  "Dimethyl_fumarate_improves_cognitive_impairment_and_neuroinflammation_in_mice_with_Alzheimer_s_disease.__nih",
+  "ER_mediates_sex-specific_protection_in_the_App-NL-G-F_mouse_model_of_Alzheimer_s_disease.__nih",
+  "Early_microglial_and_astrocyte_reactivity_in_preclinical_Alzheimer_s_disease.__nih",
+  "Effect_of_neuroinflammation_on_the_progression_of_Alzheimer_s_disease_and_its_significant_ramifications_for_nov__nih",
+  "Ethanol_consumption_aggravates_amyloid_pathology_and_neuroinflammation_in_Alzheimer_s_disease_associated_with_i__nih",
+  "Exploiting_formyl_peptide_receptor_2_to_promote_microglial_resolution_a_new_approach_to_Alzheimer_s_disease_trea__ac",
+  "Exploring_the_Efficacy_and_Safety_of_Nutritional_Supplements_in_Alzheimer_s_Disease__ac",
+  "Fate-mapping_and_functional_dissection_reveal_perilous_influence_of_type_I_interferon_signaling_in_mouse_br__biorxiv",
+  "Friends_and_Foes_in_Alzheimer_s_Disease.__nih",
+  "From_Genetics_to_Neuroinflammation_The_Impact_of_ApoE4_on_Microglial_Function_in_Alzheimer_s_Disease.__nih",
+  "Full_genome_analysis_of_microglial_activation_ramifications_of_TREM2__ac",
+  "Genetic_Ablation_of_Hematopoietic_Cell_Kinase_Accelerates_Alzheimer_s_Disease_Like_Neuropathology_in_Tg2576___nature",
+  "Genetic_screening_and_metabolomics_identify_glial_adenosine_metabolism_as_a_therapeutic_target_in_Parkinson__biorxiv",
+  "Genome-wide_association_study_in_Alzheimer_s_disease_a_bibliometric_and_visualization_analysis__openalex",
+  "Ginkgolide_attenuates_memory_impairment_and_neuroinflammation_by_suppressing_the_NLRP3_caspase-1_pathway_in_Alz__nih",
+  "Glial_cell_activation_precedes_neurodegeneration_in_the_cerebellar_cortex_of_the_YG8-800_murine_model_of_Fr__biorxiv",
+  "Graded_multidimensional_clinical_and_radiological_variation_in_patients_with_Alzheimer_s_disease_and_poster__biorxiv",
+  "Gut_Microbiota_and_Dysbiosis_in_Alzheimer_s_Disease_Implications_for_Pathogenesis_and_Treatment__nature",
+  "Gut_microbial_metabolites_and_the_brain_gut_axis_in_Alzheimer_s_disease_A_review__ac",
+  "H3K18_lactylation_of_senescent_microglia_potentiates_brain_aging_and_Alzheimer_s_disease_through_the_NF_B_signa__nih",
+  "Identification_of_inflammasome_signaling_proteins_in_neurons_and_microglia_in_early_and_intermediate_stages_of___nih",
+  "Immune_checkpoint_TIM-3_regulates_microglia_and_Alzheimer_s_disease.__nih",
+  "Impact_of_noradrenergic_inhibition_on_neuroinflammation_and_pathophysiology_in_mouse_models_of_Alzheimer_s_dise__nih",
+  "Inflammation_in_Alzheimer_Disease--A_Brief_Review_of_the_Basic_Science_and_Clinical_Literature__openalex",
+  "Inhibition_of_TLR4_Induces_M2_Microglial_Polarization_and_Provides_Neuroprotection_via_the_NLRP3_Inflammasome_i__nih",
+  "Intercellular_adhesion_molecule-1_reprograms_microglia_to_improve_cognitive_functions_by_inhibiting_ERK_STA__biorxiv",
+  "Interleukin-3_is_associated_with_sTREM2_and_mediates_the_correlation_between_amyloid-_and_tau_pathology_in_Alzh__nih",
+  "Investigating_the_Role_of_Diet_in_Modulating_Neuroinflammation_in_Health_and_Disease__ac",
+  "Investigating_the_effect_that_disease-linked_PLC_2_variants_have_on_enzymatic_activity_and_exploring_PLC_2_s_rol__ac",
+  "Investigating_the_role_of_gliosis_in_cognitive_impairment_in_early_Alzheimer_s_Disease__ac",
+  "Investigation_of_microbial-derived_metabolites_as_risk_factors_and_key_mediators_of_the_microbiota-gut-brain_axi__ac",
+  "Involvement_of_astrocytes_in_Alzheimer_s_disease_from_a_neuroinflammatory_and_oxidative_stress_perspective__ac",
+  "Lipidome_disruption_in_Alzheimer_s_disease_brain_detection_pathological_mechanisms_and_therapeutic_implicati__nature",
+  "Markers_of_neuroinflammation_associated_with_Alzheimer_s_disease_pathology_in_older_adults.__ac",
+  "Methodology_for_isolation_of_serum_cerebrospinal_fluid_and_hippocampal_neuron_proteins_from_rat_and_their_a__biorxiv",
+  "Methods_to_Utilize_Pulse_Wave_Velocity_to_Measure_Alterations_in_Cerebral_and_Cardiovascular_Parameters__biorxiv",
+  "Microbiome_alterations_and_Alzheimer_s_Disease_modeling_strategies_with_transgenic_mice.__ac",
+  "Microbiota_in_neuroinflammation_and_synaptic_dysfunction_a_focus_on_Alzheimer_s_disease__nature",
+  "Microglia-Astrocyte_Communication_in_Alzheimer_s_Disease.__nih",
+  "Microglia-Astrocyte_Communication_in_Alzheimer_s_Disease__ac",
+  "Microglia-Mediated_Neuroinflammation_A_Potential_Target_for_the_Treatment_of_Cardiovascular_Diseases.__nih",
+  "Microglia_dynamics_in_aging-related_neurobehavioral_and_neuroinflammatory_diseases__nature",
+  "Microglia_in_Alzheimer_s_Disease_A_Target_for_Therapeutic_Intervention__openalex",
+  "Microglia_in_Alzheimer_s_Disease_Risk_Factors_and_Inflammation__ac",
+  "Microglia_in_Alzheimer_s_Disease_in_the_Context_of_Tau_Pathology.__nih",
+  "Microglia_in_Alzheimer_s_disease__openalex",
+  "Microglia_in_Alzheimer_s_disease_a_role_for_ion_channels__ac",
+  "Microglia_in_Alzheimer_s_disease_pathogenesis_mechanisms_and_therapeutic_potentials.__nih",
+  "Microglia_in_Physiology_and_Disease__openalex",
+  "Microglia_in_aging_and_Alzheimer_s_disease_A_comparative_species_review__ac",
+  "Microglia_in_neurodegenerative_diseases_mechanism_and_potential_therapeutic_targets__nature",
+  "Microglial_Rack1_Deficiency_Alleviates_Alzheimer_s_Disease_Pathology_through_Enhancing_IGF1-Mediated_Astrocytic__nih",
+  "Microglial_clearance_neuroprotection_and_cognitive_recovery_via_a_novel_synthetic_sulfolipid_in_Alzheimer_s_dis__nih",
+  "Microglial_inflammation_and_phagocytosis_in_Alzheimer_s_disease_potential_therapeutic_targets__ac",
+  "Microglial_lipid_droplets_as_therapeutic_targets_in_age-related_neurodegenerative_diseases__nature",
+  "Modulating_Neuroinflammation_as_a_Prospective_Therapeutic_Target_in_Alzheimer_s_Disease.__nih",
+  "Molecular_Mechanism_of_Huanglian_Jiedu_Decoction_in_Treatment_of_Alzheimer_s_Disease_based_on_Network_Pharm__biorxiv",
+  "Molecular_Mechanisms_of_Neuroinflammation_in_Aging_and_Alzheimer_s_Disease_Progression.__nih",
+  "Molecular_and_cellular_mechanisms_underlying_the_pathogenesis_of_Alzheimer_s_disease__nature",
+  "NF_B1_a_common_biomarker_linking_Alzheimer_s_and_Parkinson_s_disease_pathology__ac",
+  "NTN-1_attenuates_amyloid-_-mediated_microglial_neuroinflammation_and_memory_impairment_via_the_NF-_B_pathway_an__nih",
+  "Neuroinflammation_and_its_resolution_in_Alzheimer_s_disease__ac",
+  "Neuroinflammation_in_Alzheimer_s_Disease__ac",
+  "Neuroinflammation_in_Alzheimer_u27s_Disease_and_Vascular_Cognitive_Impairment__ac",
+  "Neuroinflammation_in_neurodegenerative_disorders_the_roles_of_microglia_and_astrocytes__nature",
+  "Neuroinflammatory_Biomarkers_in_Alzheimer_s_Disease_From_Pathophysiology_to_Clinical_Implications__ac",
+  "New_insight_on_microglia_activation_in_neurodegenerative_diseases_and_therapeutics__openalex",
+  "New_insights_into_the_role_of_TREM2_in_Alzheimer_s_disease__nature",
+  "New_neurons_old_questions_Cellular_and_molecular_insights_into_the_neurogenesis_debate_in_Alzheimer_s_disease__ac",
+  "Non-invasive_photobiomodulation_treatment_in_an_Alzheimer_Disease-like_transgenic_rat_model.__nih",
+  "Ocular_indicators_of_Alzheimer_s_exploring_disease_in_the_retina__nature",
+  "Ouabain_Ameliorates_Alzheimer_s_Disease-Associated_Neuropathology_and_Cognitive_Impairment_in_FAD_4T_Mice.__nih",
+  "PILRA_regulates_microglial_neuroinflammation_and_lipid_metabolism_as_a_candidate_therapeutic_target_for_Al__openalex",
+  "PKC_serves_as_a_potential_biomarker_and_therapeutic_target_for_microglia-mediated_neuroinflammation_in_Alzheime__nih",
+  "Pathogenesis_therapeutic_strategies_and_biomarker_development_based_on_omics_analysis_related_to_microglia_i__nature",
+  "Periodontitis-induced_neuroinflammation_triggers_IFITM3-A_axis_to_cause_alzheimer_s_disease-like_pathology_and___nih",
+  "Recent_advances_in_Alzheimer_s_disease_mechanisms_clinical_trials_and_new_drug_development_strategies__nature",
+  "Relationship_Between_Amyloid-_Deposition_and_Blood_Brain_Barrier_Dysfunction_in_Alzheimer_s_Disease__openalex",
+  "Repercussions_of_microglial_efferocytosis_on_neurodegeneration_in_Alzheimer_s_Disease_AD_a_double-edged_swor__nature",
+  "Revisiting_the_neuroinflammation_hypothesis_in_Alzheimer_s_disease_a_focus_on_the_druggability_of_current_targe__nih",
+  "Role_of_neuroinflammation_in_an_amyloid-beta_model_of_Alzheimer_s_disease_and_the_identification_of_possible_bio__ac",
+  "Rutin_prevents_tau_pathology_and_neuroinflammation_in_a_mouse_model_of_Alzheimer_s_disease.__nih",
+  "Second-generation_anti-amyloid_monoclonal_antibodies_for_Alzheimer_s_disease_current_landscape_and_future_pe__nature",
+  "Small_RNA_big_impact_Profiling_the_therapeutic_potential_of_microRNA-132_in_Alzheimer_s_disease__ac",
+  "Spermidine_reduces_neuroinflammation_and_soluble_amyloid_beta_in_an_Alzheimer_s_disease_mouse_model.__nih",
+  "Targeting_Microglia_in_Alzheimer_s_Disease_Pathogenesis_and_Potential_Therapeutic_Strategies.__nih",
+  "Targeting_Neuroinflammation_to_Treat_Alzheimer_s_Disease__nature",
+  "Targeting_microglia-mediated_neuroinflammation_in_Alzheimer_s_disease_mechanisms_and_therapeutic_approache__openalex",
+  "TbpB-based_oral_mucosal_vaccine_provides_heterologous_protection_against_Glasser_disease_caused_by_differen__biorxiv",
+  "Temporal_impact_of_sepsis_on_Alzheimer_s_disease_pathology_and_neuroinflammation.__nih",
+  "The_Amyloid-_Pathway_in_Alzheimer_s_Disease__nature",
+  "The_Contribution_of_Spleen_Tyrosine_Kinase_to_the_Pathobiology_of_Alzheimer_s_Disease__ac",
+  "The_Formyl_Peptide_Receptor_2_Regulates_Microglial_Phenotype_Through_Immunometabolism_Implications_for_Alzheimer__ac",
+  "The_Gut_Microbiota_Modulates_Neuroinflammation_in_Alzheimer_s_Disease_Elucidating_Crucial_Factors_and_Mechanist__nih",
+  "The_Impact_of_Systemic_Inflammation_on_Alzheimer_s_Disease_Pathology__openalex",
+  "The_Multifaceted_Role_of_P2X7R_in_Microglia_and_Astrocytes__nature",
+  "The_Role_of_Microglia_and_the_Nlrp3_Inflammasome_in_Alzheimer_s_Disease.__nih",
+  "The_Role_of_Neuroinflammation_in_Alzheimer_s_Disease__ac",
+  "The_aging_immune_system_in_Alzheimer_s_and_Parkinson_s_diseases__nature",
+  "The_dual_role_of_microglia_in_Alzheimer_s_disease_from_immune_regulation_to_pathological_progression__ac",
+  "The_emerging_role_of_disease-associated_microglia_in_Parkinson_s_disease.__nih",
+  "The_potential_of_the_gut_microbiome_for_identifying_Alzheimer_s_disease_diagnostic_biomarkers_and_future_therapi__ac",
+  "The_protective_PLC_2-P522R_variant_mitigates_Alzheimer_s_disease-associated_pathologies_by_enhancing_benefic__nature",
+  "The_role_of_microglia_in_processing_and_spreading_of_bioactive_tau_seeds_in_Alzheimer_s_disease.__nih",
+  "The_role_of_the_gut-brain_axis_in_at-genetic-risk_and_clinical_Alzheimer_s_disease.__ac",
+  "The_semantics_of_microglia_activation_neuroinflammation_homeostasis_and_stress__nature",
+  "The_therapeutic_potential_of_butyrate_and_lauric_acid_in_modulating_glial_and_neuronal_activity_in_Alzheimer_s_d__ac",
+  "Toxoplasma_gondii_infection_accelerates_the_progression_of_hereditary_spastic_paraplegia__biorxiv",
+  "Tracking_neuroinflammatory_biomarkers_in_Alzheimer_s_disease_a_strategy_for_individualized_therapeutic_appro__nature",
+  "Tracking_neuroinflammatory_biomarkers_in_Alzheimer_s_disease_a_strategy_for_individualized_therapeutic_approach__nih",
+  "Unraveling_Alzheimer_s_disease_insights_from_single-cell_sequencing_and_spatial_transcriptomic__ac"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 1,
+   "paper_id": "Alzheimer_s_Disease_and_Type_2_Diabetes_A_Critical_Assessment_of_the_Shared_Pathological_Traits__openalex",
+   "title": "Alzheimer's Disease and Type 2 Diabetes: A Critical Assessment of the Shared Pathological Traits",
+   "doi": "10.3389/fnins.2018.00383",
+   "source": "openalex",
+   "url": "https://openalex.org/W2804519474",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Amyloid_-based_therapy_for_Alzheimer_s_disease_challenges_successes_and_future__nature",
+   "title": "Amyloid β-based therapy for Alzheimer’s disease: challenges, successes and future",
+   "doi": "10.1038/s41392-023-01484-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W4382601497",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Amyloid_beta_glycation_leads_to_neuronal_mitochondrial_dysfunction_and_Alzheimers_pathogenesis_through_VDAC__biorxiv",
+   "title": "Amyloid beta glycation leads to neuronal mitochondrial dysfunction and Alzheimers pathogenesis through VDAC1-dependent mtDNA efflux",
+   "doi": "10.1101/2024.05.14.594173",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.14.594173",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "An_AI-Driven_Framework_for_Discovery_of_BACE1_Inhibitors_for_Alzheimer_s_Disease__biorxiv",
+   "title": "An AI-Driven Framework for Discovery of BACE1 Inhibitors for Alzheimer's Disease",
+   "doi": "10.1101/2024.05.15.594361",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594361",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Application_of_Multiomics_Approach_to_Investigate_the_Therapeutic_Potentials_of_Stem_Cell-derived_Extracell__biorxiv",
+   "title": "Application of Multiomics Approach to Investigate the Therapeutic Potentials of Stem Cell-derived Extracellular Vesicle Subpopulations for Alzheimer's Disease",
+   "doi": "10.1101/2024.05.10.593647",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.10.593647",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Deep_proteomic_analysis_of_human_microglia_and_model_systems_reveal_fundamental_biological_differences_of_i__biorxiv",
+   "title": "Deep proteomic analysis of human microglia and model systems reveal fundamental biological differences of in vitro and ex vivo cells",
+   "doi": "10.1101/2022.07.07.498804",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2022.07.07.498804",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Fate-mapping_and_functional_dissection_reveal_perilous_influence_of_type_I_interferon_signaling_in_mouse_br__biorxiv",
+   "title": "Fate-mapping and functional dissection reveal perilous influence of type I interferon signaling in mouse brain aging",
+   "doi": "10.1101/2024.05.20.595027",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.20.595027",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Friends_and_Foes_in_Alzheimer_s_Disease.__nih",
+   "title": "Friends and Foes in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10727688/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Genetic_screening_and_metabolomics_identify_glial_adenosine_metabolism_as_a_therapeutic_target_in_Parkinson__biorxiv",
+   "title": "Genetic screening and metabolomics identify glial adenosine metabolism as a therapeutic target in Parkinson's disease",
+   "doi": "10.1101/2024.05.15.594309",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594309",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Glial_cell_activation_precedes_neurodegeneration_in_the_cerebellar_cortex_of_the_YG8-800_murine_model_of_Fr__biorxiv",
+   "title": "Glial cell activation precedes neurodegeneration in the cerebellar cortex of the YG8-800 murine model of Friedreich's ataxia",
+   "doi": "10.1101/2024.05.17.594658",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.17.594658",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Graded_multidimensional_clinical_and_radiological_variation_in_patients_with_Alzheimer_s_disease_and_poster__biorxiv",
+   "title": "Graded multidimensional clinical and radiological variation in patients with Alzheimer's disease and posterior cortical atrophy",
+   "doi": "10.1101/2023.02.07.527424",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2023.02.07.527424",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Inflammation_in_Alzheimer_Disease--A_Brief_Review_of_the_Basic_Science_and_Clinical_Literature__openalex",
+   "title": "Inflammation in Alzheimer Disease--A Brief Review of the Basic Science and Clinical Literature",
+   "doi": "10.1101/cshperspect.a006346",
+   "source": "openalex",
+   "url": "https://openalex.org/W2107376426",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Interleukin-3_is_associated_with_sTREM2_and_mediates_the_correlation_between_amyloid-_and_tau_pathology_in_Alzh__nih",
+   "title": "Interleukin-3 is associated with sTREM2 and mediates the correlation between amyloid-β and tau pathology in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798566/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Methodology_for_isolation_of_serum_cerebrospinal_fluid_and_hippocampal_neuron_proteins_from_rat_and_their_a__biorxiv",
+   "title": "Methodology for isolation of serum, cerebrospinal fluid, and hippocampal neuron proteins from rat and their analysis using mass spectrometry-based shotgun proteomics",
+   "doi": "10.1101/2024.05.15.594456",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594456",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Methods_to_Utilize_Pulse_Wave_Velocity_to_Measure_Alterations_in_Cerebral_and_Cardiovascular_Parameters__biorxiv",
+   "title": "Methods to Utilize Pulse Wave Velocity to Measure Alterations in Cerebral and Cardiovascular Parameters",
+   "doi": "10.1101/2023.06.22.546154",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2023.06.22.546154",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia_dynamics_in_aging-related_neurobehavioral_and_neuroinflammatory_diseases__nature",
+   "title": "Microglia dynamics in aging-related neurobehavioral and neuroinflammatory diseases",
+   "doi": "10.1186/s12974-022-02637-1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4309467168",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia_in_Physiology_and_Disease__openalex",
+   "title": "Microglia in Physiology and Disease",
+   "doi": "10.1146/annurev-physiol-022516-034406",
+   "source": "openalex",
+   "url": "https://openalex.org/W2336534940",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Microglia_in_neurodegenerative_diseases_mechanism_and_potential_therapeutic_targets__nature",
+   "title": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
+   "doi": "10.1038/s41392-023-01588-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386913845",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Microglial_lipid_droplets_as_therapeutic_targets_in_age-related_neurodegenerative_diseases__nature",
+   "title": "Microglial lipid droplets as therapeutic targets in age-related neurodegenerative diseases",
+   "doi": "10.1038/s41514-025-00295-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4416824109",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_and_cellular_mechanisms_underlying_the_pathogenesis_of_Alzheimer_s_disease__nature",
+   "title": "Molecular and cellular mechanisms underlying the pathogenesis of Alzheimer’s disease",
+   "doi": "10.1186/s13024-020-00391-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W3042981350",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Neuroinflammation_in_neurodegenerative_disorders_the_roles_of_microglia_and_astrocytes__nature",
+   "title": "Neuroinflammation in neurodegenerative disorders: the roles of microglia and astrocytes",
+   "doi": "10.1186/s40035-020-00221-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W3107395714",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "New_insights_into_the_role_of_TREM2_in_Alzheimer_s_disease__nature",
+   "title": "New insights into the role of TREM2 in Alzheimer’s disease",
+   "doi": "10.1186/s13024-018-0298-9",
+   "source": "openalex",
+   "url": "https://openalex.org/W2905219483",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Non-invasive_photobiomodulation_treatment_in_an_Alzheimer_Disease-like_transgenic_rat_model.__nih",
+   "title": "Non-invasive photobiomodulation treatment in an Alzheimer Disease-like transgenic rat model.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8899582/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Ocular_indicators_of_Alzheimer_s_exploring_disease_in_the_retina__nature",
+   "title": "Ocular indicators of Alzheimer’s: exploring disease in the retina",
+   "doi": "10.1007/s00401-016-1613-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W2521439892",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Recent_advances_in_Alzheimer_s_disease_mechanisms_clinical_trials_and_new_drug_development_strategies__nature",
+   "title": "Recent advances in Alzheimer’s disease: mechanisms, clinical trials and new drug development strategies",
+   "doi": "10.1038/s41392-024-01911-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4401806028",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Relationship_Between_Amyloid-_Deposition_and_Blood_Brain_Barrier_Dysfunction_in_Alzheimer_s_Disease__openalex",
+   "title": "Relationship Between Amyloid-β Deposition and Blood–Brain Barrier Dysfunction in Alzheimer’s Disease",
+   "doi": "10.3389/fncel.2021.695479",
+   "source": "openalex",
+   "url": "https://openalex.org/W3186565724",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "TbpB-based_oral_mucosal_vaccine_provides_heterologous_protection_against_Glasser_disease_caused_by_differen__biorxiv",
+   "title": "TbpB-based oral mucosal vaccine provides heterologous protection against Glasser disease caused by different serovars of Spanish field isolates of Glaesserella parasuis",
+   "doi": "10.1101/2024.05.15.594294",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594294",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Amyloid-_Pathway_in_Alzheimer_s_Disease__nature",
+   "title": "The Amyloid-β Pathway in Alzheimer’s Disease",
+   "doi": "10.1038/s41380-021-01249-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W3198052269",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Impact_of_Systemic_Inflammation_on_Alzheimer_s_Disease_Pathology__openalex",
+   "title": "The Impact of Systemic Inflammation on Alzheimer’s Disease Pathology",
+   "doi": "10.3389/fimmu.2021.796867",
+   "source": "openalex",
+   "url": "https://openalex.org/W4205125680",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_emerging_role_of_disease-associated_microglia_in_Parkinson_s_disease.__nih",
+   "title": "The emerging role of disease-associated microglia in Parkinson's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11573507/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_semantics_of_microglia_activation_neuroinflammation_homeostasis_and_stress__nature",
+   "title": "The semantics of microglia activation: neuroinflammation, homeostasis, and stress",
+   "doi": "10.1186/s12974-021-02309-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W3211761706",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Toxoplasma_gondii_infection_accelerates_the_progression_of_hereditary_spastic_paraplegia__biorxiv",
+   "title": "Toxoplasma gondii infection accelerates the progression of hereditary spastic paraplegia",
+   "doi": "10.1101/2024.05.15.594284",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594284",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Tracking_neuroinflammatory_biomarkers_in_Alzheimer_s_disease_a_strategy_for_individualized_therapeutic_approach__nih",
+   "title": "Tracking neuroinflammatory biomarkers in Alzheimer's disease: a strategy for individualized therapeutic approaches?",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11289964/",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "ad",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/ad/neuroinflammation_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_ad/neuroinflammation_02",
+ "seed_set_matches_run_id": true,
+ "target_total_papers": 250,
+ "actual_total_papers": 119,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}

@@ -1,0 +1,1541 @@
+{
+ "batch": "dev",
+ "run": "llm_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "From_Language_to_Action_A_Review_of_Large_Language_Models_as_Autonomous_Agents_and_Tool_Users__nature",
+   "title": "From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users",
+   "doi": "10.1007/s10462-025-11471-9",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2508.17281v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "StrategyLLM_Large_Language_Models_as_Strategy_Generators_Executors_Optimizers_and_Evaluators_for_Problem_Solv__arxiv",
+   "title": "StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2311.08803v4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Sentient_Agent_as_a_Judge_Evaluating_Higher-Order_Social_Cognition_in_Large_Language_Models__arxiv",
+   "title": "Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2505.02847v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "World_model_inspired_sarcasm_reasoning_with_large_language_model_agents__nature",
+   "title": "World model inspired sarcasm reasoning with large language model agents",
+   "doi": "10.1007/s44163-026-01360-7",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2512.24329v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "ReSpAct_Harmonizing_Reasoning_Speaking_and_Acting_Towards_Building_Large_Language_Model-Based_Conversational___arxiv",
+   "title": "ReSpAct: Harmonizing Reasoning, Speaking, and Acting Towards Building Large Language Model-Based Conversational AI Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.00927v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "MMAG_Mixed_Memory-Augmented_Generation_for_Large_Language_Models_Applications__arxiv",
+   "title": "MMAG: Mixed Memory-Augmented Generation for Large Language Models Applications",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2512.01710v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Accelerating_Reinforcement_Learning_of_Robotic_Manipulations_via_Feedback_from_Large_Language_Models__arxiv",
+   "title": "Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2311.02379v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Exploring_Large_Language_Model_based_Intelligent_Agents_Definitions_Methods_and_Prospects__openreview",
+   "title": "Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=deaVhWYRJq"
+  },
+  {
+   "round": 1,
+   "paper_id": "Can_Open_Large_Language_Models_Catch_Vulnerabilities__openalex",
+   "title": "Can Open Large Language Models Catch Vulnerabilities?",
+   "doi": "10.4230/oasics.icpec.2025.4",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406779522"
+  },
+  {
+   "round": 1,
+   "paper_id": "Siren_s_Song_in_the_AI_Ocean_A_Survey_on_Hallucination_in_Large_Language_Models__openalex",
+   "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+   "doi": "10.48550/arxiv.2309.01219",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386501849"
+  },
+  {
+   "round": 1,
+   "paper_id": "Large_Language_Models_A_Survey__openalex",
+   "title": "Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2402.06196",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391766565"
+  },
+  {
+   "round": 1,
+   "paper_id": "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__openalex",
+   "title": "Unleashing the potential of prompt engineering for large language models",
+   "doi": "10.48550/arxiv.2310.14735",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387929411"
+  },
+  {
+   "round": 1,
+   "paper_id": "Challenges_and_Applications_of_Large_Language_Models__openalex",
+   "title": "Challenges and Applications of Large Language Models",
+   "doi": "10.48550/arxiv.2307.10169",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384920109"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Comprehensive_Overview_of_Large_Language_Models__openalex",
+   "title": "A Comprehensive Overview of Large Language Models",
+   "doi": "10.48550/arxiv.2307.06435",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384389802"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Rise_and_Potential_of_Large_Language_Model_Based_Agents_A_Survey__openalex",
+   "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+   "doi": "10.48550/arxiv.2309.07864",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386794445"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_on_Large_Language_Model_based_Autonomous_Agents__openalex",
+   "title": "A Survey on Large Language Model based Autonomous Agents",
+   "doi": "10.48550/arxiv.2308.11432",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386184788"
+  },
+  {
+   "round": 1,
+   "paper_id": "Prompting_and_Evaluating_Large_Language_Models_for_Proactive_Dialogues_Clarification_Target-guided_and_Non-co__arxiv",
+   "title": "Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration",
+   "doi": "10.48550/arXiv.2305.13626",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/13c85adfa950651ffcd91ef3018fa30801b74472"
+  },
+  {
+   "round": 1,
+   "paper_id": "Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey__openalex",
+   "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2312.10997",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389984066"
+  },
+  {
+   "round": 1,
+   "paper_id": "ChatGLM_A_Family_of_Large_Language_Models_from_GLM-130B_to_GLM-4_All_Tools__openalex",
+   "title": "ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools",
+   "doi": "10.48550/arxiv.2406.12793",
+   "source": "openalex",
+   "url": "https://openalex.org/W4399837985"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_on_Knowledge_Distillation_of_Large_Language_Models__openalex",
+   "title": "A Survey on Knowledge Distillation of Large Language Models",
+   "doi": "10.48550/arxiv.2402.13116",
+   "source": "openalex",
+   "url": "https://openalex.org/W4392019445"
+  },
+  {
+   "round": 1,
+   "paper_id": "Large_Language_Models_for_Robotics_A_Survey__openalex",
+   "title": "Large Language Models for Robotics: A Survey",
+   "doi": "10.48550/arxiv.2311.07226",
+   "source": "openalex",
+   "url": "https://openalex.org/W4388685466"
+  },
+  {
+   "round": 1,
+   "paper_id": "Exploring_Large_Language_Model_based_Intelligent_Agents_Definitions_Methods_and_Prospects__openalex",
+   "title": "Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects",
+   "doi": "10.48550/arxiv.2401.03428",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390730779"
+  },
+  {
+   "round": 1,
+   "paper_id": "Knowledge_of_Knowledge_Exploring_Known-Unknowns_Uncertainty_with_Large_Language_Models__arxiv",
+   "title": "Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models",
+   "doi": "10.48550/arXiv.2305.13712",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/c22bfecc684be370bc22611deb8737d65466a390"
+  },
+  {
+   "round": 1,
+   "paper_id": "What_It_Wants_Me_To_Say_Bridging_the_Abstraction_Gap_Between_End-User_Programmers_and_Code-Generating_Larg__openalex",
+   "title": "“What It Wants Me To Say”: Bridging the Abstraction Gap Between End-User Programmers and Code-Generating Large Language Models",
+   "doi": "10.1145/3544548.3580817",
+   "source": "openalex",
+   "url": "https://openalex.org/W4365601419"
+  },
+  {
+   "round": 1,
+   "paper_id": "Igniting_Language_Intelligence_The_Hitchhiker_s_Guide_From_Chain-of-Thought_Reasoning_to_Language_Agents__arxiv",
+   "title": "Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2311.11797v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Automating_Structural_Engineering_Workflows_with_Large_Language_Model_Agents__arxiv",
+   "title": "Automating Structural Engineering Workflows with Large Language Model Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.11004v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Improving_Language_Agents_through_BREW__arxiv",
+   "title": "Improving Language Agents through BREW",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2511.20297v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "CoderAgent_Simulating_Student_Behavior_for_Personalized_Programming_Learning_with_Large_Language_Models__arxiv",
+   "title": "CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2505.20642v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Compressing_Context_to_Enhance_Inference_Efficiency_of_Large_Language_Models__arxiv",
+   "title": "Compressing Context to Enhance Inference Efficiency of Large Language Models",
+   "doi": "10.48550/arXiv.2310.06201",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/b12541867632737e826b7b01c7fbe1c4222d8655"
+  },
+  {
+   "round": 1,
+   "paper_id": "Research_on_Security_Enhancement_Methods_for_Adversarial_Robust_Large_Language_Model_Intelligent_Agents_for_M__arxiv",
+   "title": "Research on Security Enhancement Methods for Adversarial Robust Large Language Model Intelligent Agents for Medical Decision-Making Tasks",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2605.08257v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "One_STEP_at_a_time_Language_Agents_are_Stepwise_Planners__arxiv",
+   "title": "One STEP at a time: Language Agents are Stepwise Planners",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.08432v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Building_Resource-Constrained_Language_Agents_A_Korean_Case_Study_on_Chemical_Toxicity_Information__arxiv",
+   "title": "Building Resource-Constrained Language Agents: A Korean Case Study on Chemical Toxicity Information",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.17753v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Reflexion_Language_Agents_with_Verbal_Reinforcement_Learning__arxiv",
+   "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2303.11366v4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Evaluating_Object_Hallucination_in_Large_Vision-Language_Models__arxiv",
+   "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+   "doi": "10.48550/arXiv.2305.10355",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773"
+  },
+  {
+   "round": 1,
+   "paper_id": "Siren_s_Song_in_the_AI_Ocean_A_Survey_on_Hallucination_in_Large_Language_Models__openalex",
+   "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+   "doi": "10.1162/coli.a.16",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386501849"
+  },
+  {
+   "round": 1,
+   "paper_id": "Towards_Autonomous_Agents_Adaptive-planning_Reasoning_and_Acting_in_Language_Models__openreview",
+   "title": "Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=HOLs697aIx"
+  },
+  {
+   "round": 1,
+   "paper_id": "Encouraging_Divergent_Thinking_in_Large_Language_Models_through_Multi-Agent_Debate__aclanthology",
+   "title": "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate",
+   "doi": "10.48550/arXiv.2305.19118",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.992/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Leveraging_In-Context_Learning_for_Language_Model_Agents__openreview",
+   "title": "Leveraging In-Context Learning for Language Model Agents",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=BzBqRAbdFC"
+  },
+  {
+   "round": 1,
+   "paper_id": "Group_Preference_Optimization_Few-Shot_Alignment_of_Large_Language_Models__openreview",
+   "title": "Group Preference Optimization: Few-Shot Alignment of Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=zyAUP4bbBE"
+  },
+  {
+   "round": 1,
+   "paper_id": "PersonaAgent_When_Large_Language_Model_Agents_Meet_Personalization_at_Test_Time__openreview",
+   "title": "PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=fgCOkyJG3f"
+  },
+  {
+   "round": 1,
+   "paper_id": "TPTU-v2_Boosting_Task_Planning_and_Tool_Usage_of_Large_Language_Model-based_Agents_in_Real-world_Indus__aclanthology",
+   "title": "TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Industry Systems",
+   "doi": "10.18653/v1/2024.emnlp-industry.27",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-industry.27/"
+  },
+  {
+   "round": 1,
+   "paper_id": "EHRAgent_Code_Empowers_Large_Language_Models_for_Few-shot_Complex_Tabular_Reasoning_on_Electronic_Heal__aclanthology",
+   "title": "EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records",
+   "doi": "10.18653/v1/2024.emnlp-main.1245",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.1245/"
+  },
+  {
+   "round": 1,
+   "paper_id": "zrLLM_Zero-Shot_Relational_Learning_on_Temporal_Knowledge_Graphs_with_Large_Language_Models__aclanthology",
+   "title": "zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models",
+   "doi": "10.48550/arXiv.2311.10112",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.104/"
+  },
+  {
+   "round": 1,
+   "paper_id": "ConstraintChecker_A_Plugin_for_Large_Language_Models_to_Reason_on_Commonsense_Knowledge_Bases__aclanthology",
+   "title": "ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases",
+   "doi": "10.48550/arXiv.2401.14003",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.eacl-long.42/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Natural_Language_Programming_in_Medicine_Administering_Evidence_Based_Clinical_Workflows_with_Autonomous_Agen__arxiv",
+   "title": "Natural Language Programming in Medicine: Administering Evidence Based Clinical Workflows with Autonomous Agents Powered by Generative Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2401.02851v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "KwaiAgents_Generalized_Information-seeking_Agent_System_with_Large_Language_Models__arxiv",
+   "title": "KwaiAgents: Generalized Information-seeking Agent System with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2312.04889v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Exploring_Autonomous_Agents_through_the_Lens_of_Large_Language_Models_A_Review__arxiv",
+   "title": "Exploring Autonomous Agents through the Lens of Large Language Models: A Review",
+   "doi": "10.48550/arXiv.2404.04442",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.04442v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "APT_Architectural_Planning_and_Text-to-Blueprint_Construction_Using_Large_Language_Models_for_Open-World_Agen__arxiv",
+   "title": "APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.17255v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Intelligent_Digital_Agents_in_the_Era_of_Large_Language_Models__openreview",
+   "title": "Intelligent Digital Agents in the Era of Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=tdONJ7s4pf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Explainable_Behavior_Cloning_Teaching_Large_Language_Model_Agents_through_Learning_by_Demonstration__arxiv",
+   "title": "Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.22916v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Understanding_the_Weakness_of_Large_Language_Model_Agents_within_a_Complex_Android_Environment__arxiv",
+   "title": "Understanding the Weakness of Large Language Model Agents within a Complex Android Environment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.06596v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Graph-enhanced_Large_Language_Models_in_Asynchronous_Plan_Reasoning__arxiv",
+   "title": "Graph-enhanced Large Language Models in Asynchronous Plan Reasoning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.02805v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "SafetyALFRED_Evaluating_Safety-Conscious_Planning_of_Multimodal_Large_Language_Models__arxiv",
+   "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.19638v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Advancing_Tool-Augmented_Large_Language_Models_Integrating_Insights_from_Errors_in_Inference_Trees__arxiv",
+   "title": "Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.07115v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Digital_Player_Evaluating_Large_Language_Models_based_Human-like_Agent_in_Games__arxiv",
+   "title": "Digital Player: Evaluating Large Language Models based Human-like Agent in Games",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.20807v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "ToolChain_Efficient_Action_Space_Navigation_in_Large_Language_Models_with_A_Search__arxiv",
+   "title": "ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.13227v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Agentic_Multimodal_Large_Language_Models__arxiv",
+   "title": "A Survey on Agentic Multimodal Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.10991v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges__arxiv",
+   "title": "Large Language Model based Multi-Agents: A Survey of Progress and Challenges",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.01680v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Multi-Agent_Collaboration_in_Incident_Response_with_Large_Language_Models__arxiv",
+   "title": "Multi-Agent Collaboration in Incident Response with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2412.00652v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "KoMA_Knowledge-driven_Multi-agent_Framework_for_Autonomous_Driving_with_Large_Language_Models__arxiv",
+   "title": "KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.14239v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Agentic_Tool_Use_in_Large_Language_Models__arxiv",
+   "title": "Agentic Tool Use in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.00835v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "TOOLCAD_Exploring_Tool-Using_Large_Language_Models_in_Text-to-CAD_Generation_with_Reinforcement_Learning__arxiv",
+   "title": "TOOLCAD: Exploring Tool-Using Large Language Models in Text-to-CAD Generation with Reinforcement Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.07960v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Agentic_Reasoning_for_Large_Language_Models__arxiv",
+   "title": "Agentic Reasoning for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.12538v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Unlocking_the_Future_Exploring_Look-Ahead_Planning_Mechanistic_Interpretability_in_Large_Language_Models__arxiv",
+   "title": "Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.16033v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "From_Passive_Metric_to_Active_Signal_The_Evolving_Role_of_Uncertainty_Quantification_in_Large_Language_Models__arxiv",
+   "title": "From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.15690v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Large_Language_Models_for_Code_Generation__openalex",
+   "title": "A Survey on Large Language Models for Code Generation",
+   "doi": "10.48550/arxiv.2406.00515",
+   "source": "openalex",
+   "url": "https://openalex.org/W4399357038"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Large_Language_Model-Based_Game_Agents__openalex",
+   "title": "A Survey on Large Language Model-Based Game Agents",
+   "doi": "10.48550/arxiv.2404.02039",
+   "source": "openalex",
+   "url": "https://openalex.org/W4393942320"
+  },
+  {
+   "round": 2,
+   "paper_id": "Retroformer_Retrospective_Large_Language_Agents_with_Policy_Gradient_Optimization__openalex",
+   "title": "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization",
+   "doi": "10.48550/arxiv.2308.02151",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385644214"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Data_Synthesis_and_Augmentation_for_Large_Language_Models__openalex",
+   "title": "A Survey on Data Synthesis and Augmentation for Large Language Models",
+   "doi": "10.48550/arxiv.2410.12896",
+   "source": "openalex",
+   "url": "https://openalex.org/W4403578783"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges__openalex",
+   "title": "Large Language Model based Multi-Agents: A Survey of Progress and Challenges",
+   "doi": "10.48550/arxiv.2402.01680",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391591599"
+  },
+  {
+   "round": 2,
+   "paper_id": "Tree_of_Thoughts_Deliberate_Problem_Solving_with_Large_Language_Models__openalex",
+   "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+   "doi": "10.48550/arxiv.2305.10601",
+   "source": "openalex",
+   "url": "https://openalex.org/W4377130677"
+  },
+  {
+   "round": 2,
+   "paper_id": "AdaPlanner_Adaptive_Planning_from_Feedback_with_Language_Models__arxiv",
+   "title": "AdaPlanner: Adaptive Planning from Feedback with Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2305.16653v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Teaching_Large_Language_Models_to_Self-Debug__openalex",
+   "title": "Teaching Large Language Models to Self-Debug",
+   "doi": "10.48550/arxiv.2304.05128",
+   "source": "openalex",
+   "url": "https://openalex.org/W4365205411"
+  },
+  {
+   "round": 2,
+   "paper_id": "LiveCodeBench_Holistic_and_Contamination_Free_Evaluation_of_Large_Language_Models_for_Code__openalex",
+   "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+   "doi": "10.48550/arxiv.2403.07974",
+   "source": "openalex",
+   "url": "https://openalex.org/W4392822190"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Models_for_Software_Engineering_Survey_and_Open_Problems__openalex",
+   "title": "Large Language Models for Software Engineering: Survey and Open Problems",
+   "doi": "10.48550/arxiv.2310.03533",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387427818"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Large_Language_Models_for_Software_Engineering__openalex",
+   "title": "A Survey on Large Language Models for Software Engineering",
+   "doi": "10.48550/arxiv.2312.15223",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390306128"
+  },
+  {
+   "round": 2,
+   "paper_id": "ChatGPT_s_One-year_Anniversary_Are_Open-Source_Large_Language_Models_Catching_up__openalex",
+   "title": "ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?",
+   "doi": "10.48550/arxiv.2311.16989",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389217180"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Systematic_Literature_Review_on_Large_Language_Models_for_Automated_Program_Repair__openalex",
+   "title": "A Systematic Literature Review on Large Language Models for Automated Program Repair",
+   "doi": "10.48550/arxiv.2405.01466",
+   "source": "openalex",
+   "url": "https://openalex.org/W4396651321"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Model-Based_Agents_for_Software_Engineering_A_Survey__openalex",
+   "title": "Large Language Model-Based Agents for Software Engineering: A Survey",
+   "doi": "10.48550/arxiv.2409.02977",
+   "source": "openalex",
+   "url": "https://openalex.org/W4403555534"
+  },
+  {
+   "round": 2,
+   "paper_id": "RES-Q_Evaluating_Code-Editing_Large_Language_Model_Systems_at_the_Repository_Scale__arxiv",
+   "title": "RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.16801v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "XUAT-Copilot_Multi-Agent_Collaborative_System_for_Automated_User_Acceptance_Testing_with_Large_Language_Model__arxiv",
+   "title": "XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2401.02705v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Models_for_Information_Retrieval_A_Survey__openalex",
+   "title": "Large Language Models for Information Retrieval: A Survey",
+   "doi": "10.48550/arxiv.2308.07107",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385889719"
+  },
+  {
+   "round": 2,
+   "paper_id": "ModelScope-Agent_Building_Your_Customizable_Agent_System_with_Open-source_Large_Language_Models__arxiv",
+   "title": "ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models",
+   "doi": "10.48550/arXiv.2309.00986",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/e2f1f04f648a8863d11439aa4c80ee65d6caccda"
+  },
+  {
+   "round": 2,
+   "paper_id": "Agent_Instructs_Large_Language_Models_to_be_General_Zero-Shot_Reasoners__arxiv",
+   "title": "Agent Instructs Large Language Models to be General Zero-Shot Reasoners",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.03710v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Agents_An_Open-source_Framework_for_Autonomous_Language_Agents__arxiv",
+   "title": "Agents: An Open-source Framework for Autonomous Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2309.07870v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "QuantAgent_Seeking_Holy_Grail_in_Trading_by_Self-Improving_Large_Language_Model__arxiv",
+   "title": "QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.03755v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation__arxiv",
+   "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.13232v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Planning_with_Multi-Constraints_via_Collaborative_Language_Agents__arxiv",
+   "title": "Planning with Multi-Constraints via Collaborative Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.16510v4"
+  },
+  {
+   "round": 2,
+   "paper_id": "An_In-depth_Survey_of_Large_Language_Model-based_Artificial_Intelligence_Agents__arxiv",
+   "title": "An In-depth Survey of Large Language Model-based Artificial Intelligence Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2309.14365v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "TravelPlanner_A_Benchmark_for_Real-World_Planning_with_Language_Agents__arxiv",
+   "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.01622v4"
+  },
+  {
+   "round": 2,
+   "paper_id": "Theory_of_Mind_for_Multi-Agent_Collaboration_via_Large_Language_Models__aclanthology",
+   "title": "Theory of Mind for Multi-Agent Collaboration via Large Language Models",
+   "doi": "10.18653/v1/2023.emnlp-main.13",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/e17c58d7a48b6b811df023484161a3b9c03e0d6b"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Large_Language_Models_Applications_Challenges_Limitations_and_Practical_Usage__openalex",
+   "title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
+   "doi": "10.36227/techrxiv.23589741.v1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4383737134"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Models_are_Better_Reasoners_with_Self-Verification__aclanthology",
+   "title": "Large Language Models are Better Reasoners with Self-Verification",
+   "doi": "10.18653/v1/2023.findings-emnlp.167",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/7715ba5e75f5256e1061c7473afe61bb0dbb9065"
+  },
+  {
+   "round": 2,
+   "paper_id": "ChainLM_Empowering_Large_Language_Models_with_Improved_Chain-of-Thought_Prompting__aclanthology",
+   "title": "ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting",
+   "doi": "10.48550/arXiv.2403.14312",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.265/"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Brief_Overview_Agentic_Reinforcement_Learning_In_Large_Language_Models__arxiv",
+   "title": "A Brief Overview: Agentic Reinforcement Learning In Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "GRPO_and_Reflection_Reward_for_Mathematical_Reasoning_in_Large_Language_Models__arxiv",
+   "title": "GRPO and Reflection Reward for Mathematical Reasoning in Large Language Models",
+   "doi": "10.54254/2755-2721/2025.TJ23144",
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Exploring_Large_Language_Model_based_Intelligent_Agents_Definitions_Methods_and_Prospects__arxiv",
+   "title": "Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "LLMArena_Assessing_Capabilities_of_Large_Language_Models_in_Dynamic_Multi-Agent_Environments__arxiv",
+   "title": "LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "AMONGAGENTS_Evaluating_Large_Language_Models_in_the_Interactive_Text-Based_Social_Deduction_Game__arxiv",
+   "title": "AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.16521v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Role-Playing_Agents_Driven_by_Large_Language_Models_Current_Status_Challenges_and_Future_Trends__arxiv",
+   "title": "Role-Playing Agents Driven by Large Language Models: Current Status, Challenges, and Future Trends",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.10122v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Nemobot_Games_Crafting_Strategic_AI_Gaming_Agents_for_Interactive_Learning_with_Large_Language_Models__arxiv",
+   "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.21896v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Building_Cooperative_Embodied_Agents_Modularly_with_Large_Language_Models__arxiv",
+   "title": "Building Cooperative Embodied Agents Modularly with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2307.02485v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Describe_Explain_Plan_and_Select_Interactive_Planning_with_Large_Language_Models_Enables_Open-World_Multi-Tas__arxiv",
+   "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2302.01560v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Monte_Carlo_Planning_with_Large_Language_Model_for_Text-Based_Game_Agents__arxiv",
+   "title": "Monte Carlo Planning with Large Language Model for Text-Based Game Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2504.16855v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Natural_Language_Tools_A_Natural_Language_Approach_to_Tool_Calling_In_Large_Language_Agents__arxiv",
+   "title": "Natural Language Tools: A Natural Language Approach to Tool Calling In Large Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.14453v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_on_Evaluation_of_Large_Language_Models__openalex",
+   "title": "A Survey on Evaluation of Large Language Models",
+   "doi": "10.48550/arxiv.2307.03109",
+   "source": "openalex",
+   "url": "https://openalex.org/W4383605161"
+  },
+  {
+   "round": 3,
+   "paper_id": "Trustworthy_LLMs_a_Survey_and_Guideline_for_Evaluating_Large_Language_Models_Alignment__openalex",
+   "title": "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment",
+   "doi": "10.48550/arxiv.2308.05374",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385774833"
+  },
+  {
+   "round": 3,
+   "paper_id": "Aligning_Large_Language_Models_with_Human_A_Survey__openalex",
+   "title": "Aligning Large Language Models with Human: A Survey",
+   "doi": "10.48550/arxiv.2307.12966",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385262268"
+  },
+  {
+   "round": 3,
+   "paper_id": "MT-Bench-101_A_Fine-Grained_Benchmark_for_Evaluating_Large_Language_Models_in_Multi-Turn_Dialogues__arxiv",
+   "title": "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues",
+   "doi": "10.18653/v1/2024.acl-long.401",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/9978f937189a279a726545a734d20558095e7a0a"
+  },
+  {
+   "round": 3,
+   "paper_id": "PCGRLLM_Large_Language_Model-Driven_Reward_Design_for_Procedural_Content_Generation_Reinforcement_Learning__arxiv",
+   "title": "PCGRLLM: Large Language Model-Driven Reward Design for Procedural Content Generation Reinforcement Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.10906v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Towards_Objectively_Benchmarking_Social_Intelligence_for_Language_Agents_at_Action_Level__arxiv",
+   "title": "Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.05337v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Empowering_Large_Language_Model_Agents_through_Action_Learning__arxiv",
+   "title": "Empowering Large Language Model Agents through Action Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.15809v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "TextAtari_100K_Frames_Game_Playing_with_Language_Agents__arxiv",
+   "title": "TextAtari: 100K Frames Game Playing with Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.04098v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Video-ChatGPT_Towards_Detailed_Video_Understanding_via_Large_Vision_and_Language_Models__arxiv",
+   "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+   "doi": "10.48550/arXiv.2306.05424",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/bf7025a2e5dbb3c09deae02a1aa98a256ca559e2"
+  },
+  {
+   "round": 3,
+   "paper_id": "clembench_Using_Game_Play_to_Evaluate_Chat-Optimized_Language_Models_as_Conversational_Agents__arxiv",
+   "title": "clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents",
+   "doi": "10.48550/arXiv.2305.13455",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/f52af5abe78ca2af836f70ce193f0161bc2e6264"
+  },
+  {
+   "round": 3,
+   "paper_id": "CAMEL_Communicative_Agents_for_Mind_Exploration_of_Large_Language_Model_Society__openalex",
+   "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Language Model Society",
+   "doi": "10.48550/arxiv.2303.17760",
+   "source": "openalex",
+   "url": "https://openalex.org/W4362508448"
+  },
+  {
+   "round": 3,
+   "paper_id": "Efficient_Large_Language_Models_A_Survey__openalex",
+   "title": "Efficient Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2312.03863",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389500833"
+  },
+  {
+   "round": 3,
+   "paper_id": "RedAgent_Red_Teaming_Large_Language_Models_with_Context-aware_Autonomous_Language_Agent__arxiv",
+   "title": "RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.16667v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cognitive_Architectures_for_Language_Agents__arxiv",
+   "title": "Cognitive Architectures for Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2309.02427v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "MetaReflection_Learning_Instructions_for_Language_Agents_using_Past_Reflections__arxiv",
+   "title": "MetaReflection: Learning Instructions for Language Agents using Past Reflections",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.13009v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Ask-before-Plan_Proactive_Language_Agents_for_Real-World_Planning__arxiv",
+   "title": "Ask-before-Plan: Proactive Language Agents for Real-World Planning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.12639v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Monte_Carlo_Planning_with_Large_Language_Model_for_Text-Based_Game_Agents__openalex",
+   "title": "Monte Carlo Planning with Large Language Model for Text-Based Game Agents",
+   "doi": "10.48550/arxiv.2504.16855",
+   "source": "openalex",
+   "url": "https://openalex.org/W4415067260"
+  },
+  {
+   "round": 3,
+   "paper_id": "Sub-goal_Distillation_A_Method_to_Improve_Small_Language_Agents__arxiv",
+   "title": "Sub-goal Distillation: A Method to Improve Small Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.02749v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Input_Conditioned_Graph_Generation_for_Language_Agents__arxiv",
+   "title": "Input Conditioned Graph Generation for Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.11555v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Trembling_House_of_Cards_Mapping_Adversarial_Attacks_against_Language_Agents__arxiv",
+   "title": "A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.10196v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "SocialVeil_Probing_Social_Intelligence_of_Language_Agents_under_Communication_Barriers__arxiv",
+   "title": "SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2602.05115v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Language_Agents_with_Reinforcement_Learning_for_Strategic_Play_in_the_Werewolf_Game__arxiv",
+   "title": "Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.18940v4"
+  },
+  {
+   "round": 3,
+   "paper_id": "Improving_Retrospective_Language_Agents_via_Joint_Policy_Gradient_Optimization__arxiv",
+   "title": "Improving Retrospective Language Agents via Joint Policy Gradient Optimization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.01490v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Multi-agent_KTO_Reinforcing_Strategic_Interactions_of_Large_Language_Model_in_Language_Game__arxiv",
+   "title": "Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2501.14225v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Rethinking_Machine_Unlearning_for_Large_Language_Models__openalex",
+   "title": "Rethinking Machine Unlearning for Large Language Models",
+   "doi": "10.48550/arxiv.2402.08787",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391835381"
+  },
+  {
+   "round": 3,
+   "paper_id": "Large_Language_Models_for_Planning_A_Comprehensive_and_Systematic_Survey__openalex",
+   "title": "Large Language Models for Planning: A Comprehensive and Systematic Survey",
+   "doi": "10.48550/arxiv.2505.19683",
+   "source": "openalex",
+   "url": "https://openalex.org/W4414586831"
+  },
+  {
+   "round": 3,
+   "paper_id": "Have_LLMs_Advanced_Enough_A_Challenging_Problem_Solving_Benchmark_For_Large_Language_Models__arxiv",
+   "title": "Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models",
+   "doi": "10.48550/arXiv.2305.15074",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/2cf1f6c723006f258599fd9f000bb616ae83387a"
+  },
+  {
+   "round": 3,
+   "paper_id": "OpenAgents_An_Open_Platform_for_Language_Agents_in_the_Wild__arxiv",
+   "title": "OpenAgents: An Open Platform for Language Agents in the Wild",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.10634v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "L3GO_Language_Agents_with_Chain-of-3D-Thoughts_for_Generating_Unconventional_Objects__arxiv",
+   "title": "L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.09052v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Evaluating_Tool-Using_Language_Agents_Judge_Reliability_Propagation_Cascades_and_Runtime_Mitigation_in_AgentP__arxiv",
+   "title": "Evaluating Tool-Using Language Agents: Judge Reliability, Propagation Cascades, and Runtime Mitigation in AgentProp-Bench",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.16706v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Computational_Experiments_Meet_Large_Language_Model_Based_Agents_A_Survey_and_Perspective__openalex",
+   "title": "Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective",
+   "doi": "10.48550/arxiv.2402.00262",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391505394"
+  },
+  {
+   "round": 3,
+   "paper_id": "Voyager_An_Open-Ended_Embodied_Agent_with_Large_Language_Models__arxiv",
+   "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2305.16291v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Do_Embodied_Agents_Dream_of_Pixelated_Sheep_Embodied_Decision_Making_using_Language_Guided_World_Modelling__arxiv",
+   "title": "Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2301.12050v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Direct_Multi-Turn_Preference_Optimization_for_Language_Agents__arxiv",
+   "title": "Direct Multi-Turn Preference Optimization for Language Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.14868v5"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_on_Large_Language_Model-Based_Social_Agents_in_Game-Theoretic_Scenarios__openalex",
+   "title": "A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios",
+   "doi": "10.48550/arxiv.2412.03920",
+   "source": "openalex",
+   "url": "https://openalex.org/W4405094899"
+  },
+  {
+   "round": 3,
+   "paper_id": "Auditing_large_language_models_a_three-layered_approach__nature",
+   "title": "Auditing large language models: a three-layered approach",
+   "doi": "10.1007/s43681-023-00289-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W4381572755"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_framework_for_evaluating_the_chemical_knowledge_and_reasoning_abilities_of_large_language_models_against_t__nature",
+   "title": "A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists",
+   "doi": "10.1038/s41557-025-01815-x",
+   "source": "openalex",
+   "url": "https://openalex.org/W4410521503"
+  },
+  {
+   "round": 3,
+   "paper_id": "DIALIGHT_Lightweight_Multilingual_Development_and_Evaluation_of_Task-Oriented_Dialogue_Systems_with_La__aclanthology",
+   "title": "DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models",
+   "doi": "10.48550/arXiv.2401.02208",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-demo.4/"
+  },
+  {
+   "round": 3,
+   "paper_id": "African_or_European_Swallow_Benchmarking_Large_Vision-Language_Models_for_Fine-Grained_Object_Classifi__aclanthology",
+   "title": "African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification",
+   "doi": "10.48550/arXiv.2406.14496",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.154/"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Devil_Is_in_the_Errors_Leveraging_Large_Language_Models_for_Fine-grained_Machine_Translation_Evalu__aclanthology",
+   "title": "The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation",
+   "doi": "10.48550/arXiv.2308.07286",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.wmt-1.100/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Fine-grained_Gender_Control_in_Machine_Translation_with_Large_Language_Models__aclanthology",
+   "title": "Fine-grained Gender Control in Machine Translation with Large Language Models",
+   "doi": "10.18653/v1/2024.naacl-long.303",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.303/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Assessing_the_Capabilities_of_Large_Language_Models_in_Coreference_An_Evaluation__aclanthology",
+   "title": "Assessing the Capabilities of Large Language Models in Coreference: An Evaluation",
+   "doi": "10.63317/3bxow5zxwb2a",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.145/"
+  },
+  {
+   "round": 3,
+   "paper_id": "ReTA_Recursively_Thinking_Ahead_to_Improve_the_Strategic_Reasoning_of_Large_Language_Models__aclanthology",
+   "title": "ReTA: Recursively Thinking Ahead to Improve the Strategic Reasoning of Large Language Models",
+   "doi": "10.18653/v1/2024.naacl-long.123",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.123/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Outcome-Constrained_Large_Language_Models_for_Countering_Hate_Speech__aclanthology",
+   "title": "Outcome-Constrained Large Language Models for Countering Hate Speech",
+   "doi": "10.48550/arXiv.2403.17146",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.260/"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_on_Large_Language_Model-Based_Game_Agents__arxiv",
+   "title": "A Survey on Large Language Model-Based Game Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.02039v4"
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "AMONGAGENTS_Evaluating_Large_Language_Models_in_the_Interactive_Text-Based_Social_Deduction_Game__arxiv",
+  "APT_Architectural_Planning_and_Text-to-Blueprint_Construction_Using_Large_Language_Models_for_Open-World_Agen__arxiv",
+  "A_Brief_Overview_Agentic_Reinforcement_Learning_In_Large_Language_Models__arxiv",
+  "A_Comprehensive_Overview_of_Large_Language_Models__openalex",
+  "A_Survey_on_Agentic_Multimodal_Large_Language_Models__arxiv",
+  "A_Survey_on_Data_Synthesis_and_Augmentation_for_Large_Language_Models__openalex",
+  "A_Survey_on_Evaluation_of_Large_Language_Models__openalex",
+  "A_Survey_on_Knowledge_Distillation_of_Large_Language_Models__openalex",
+  "A_Survey_on_Large_Language_Model-Based_Game_Agents__arxiv",
+  "A_Survey_on_Large_Language_Model-Based_Game_Agents__openalex",
+  "A_Survey_on_Large_Language_Model-Based_Social_Agents_in_Game-Theoretic_Scenarios__openalex",
+  "A_Survey_on_Large_Language_Model_based_Autonomous_Agents__openalex",
+  "A_Survey_on_Large_Language_Models_Applications_Challenges_Limitations_and_Practical_Usage__openalex",
+  "A_Survey_on_Large_Language_Models_for_Code_Generation__openalex",
+  "A_Survey_on_Large_Language_Models_for_Software_Engineering__openalex",
+  "A_Systematic_Literature_Review_on_Large_Language_Models_for_Automated_Program_Repair__openalex",
+  "A_Trembling_House_of_Cards_Mapping_Adversarial_Attacks_against_Language_Agents__arxiv",
+  "A_framework_for_evaluating_the_chemical_knowledge_and_reasoning_abilities_of_large_language_models_against_t__nature",
+  "Accelerating_Reinforcement_Learning_of_Robotic_Manipulations_via_Feedback_from_Large_Language_Models__arxiv",
+  "AdaPlanner_Adaptive_Planning_from_Feedback_with_Language_Models__arxiv",
+  "African_or_European_Swallow_Benchmarking_Large_Vision-Language_Models_for_Fine-Grained_Object_Classifi__aclanthology",
+  "Agentic_Reasoning_for_Large_Language_Models__arxiv",
+  "Agentic_Tool_Use_in_Large_Language_Models__arxiv",
+  "Agents_An_Open-source_Framework_for_Autonomous_Language_Agents__arxiv",
+  "Aligning_Large_Language_Models_with_Human_A_Survey__openalex",
+  "An_Empirical_Study_on_Reinforcement_Learning_for_Reasoning-Search_Interleaved_LLM_Agents__openreview",
+  "An_In-depth_Survey_of_Large_Language_Model-based_Artificial_Intelligence_Agents__arxiv",
+  "Ask-before-Plan_Proactive_Language_Agents_for_Real-World_Planning__arxiv",
+  "Athena_Safe_Autonomous_Agents_with_Verbal_Contrastive_Learning__aclanthology",
+  "Auditing_large_language_models_a_three-layered_approach__nature",
+  "Automating_Structural_Engineering_Workflows_with_Large_Language_Model_Agents__arxiv",
+  "BEEAR_Embedding-based_Adversarial_Removal_of_Safety_Backdoors_in_Instruction-tuned_Language_Models__aclanthology",
+  "BrowserArena_Evaluating_LLM_Agents_on_Real-World_Web_Navigation_Tasks__openreview",
+  "Building_Cooperative_Embodied_Agents_Modularly_with_Large_Language_Models__arxiv",
+  "Building_Resource-Constrained_Language_Agents_A_Korean_Case_Study_on_Chemical_Toxicity_Information__arxiv",
+  "CAMEL_Communicative_Agents_for_Mind_Exploration_of_Large_Language_Model_Society__openalex",
+  "CORE_Measuring_Multi-Agent_LLM_Interaction_Quality_under_Game-Theoretic_Pressures__openreview",
+  "Can_Open_Large_Language_Models_Catch_Vulnerabilities__openalex",
+  "ChainLM_Empowering_Large_Language_Models_with_Improved_Chain-of-Thought_Prompting__aclanthology",
+  "Challenges_and_Applications_of_Large_Language_Models__openalex",
+  "ChatGLM_A_Family_of_Large_Language_Models_from_GLM-130B_to_GLM-4_All_Tools__openalex",
+  "Cognitive_Architectures_for_Language_Agents__arxiv",
+  "Compressing_Context_to_Enhance_Inference_Efficiency_of_Large_Language_Models__arxiv",
+  "Computational_Experiments_Meet_Large_Language_Model_Based_Agents_A_Survey_and_Perspective__openalex",
+  "DIALIGHT_Lightweight_Multilingual_Development_and_Evaluation_of_Task-Oriented_Dialogue_Systems_with_La__aclanthology",
+  "Describe_Explain_Plan_and_Select_Interactive_Planning_with_Large_Language_Models_Enables_Open-World_Multi-Tas__arxiv",
+  "Do_Embodied_Agents_Dream_of_Pixelated_Sheep_Embodied_Decision_Making_using_Language_Guided_World_Modelling__arxiv",
+  "EHRAgent_Code_Empowers_Large_Language_Models_for_Few-shot_Complex_Tabular_Reasoning_on_Electronic_Heal__aclanthology",
+  "Efficient_Large_Language_Models_A_Survey__openalex",
+  "Empowering_Large_Language_Model_Agents_through_Action_Learning__arxiv",
+  "Enhancing_Translation_Accuracy_of_Large_Language_Models_through_Continual_Pre-Training_on_Parallel_Dat__aclanthology",
+  "Explainable_Behavior_Cloning_Teaching_Large_Language_Model_Agents_through_Learning_by_Demonstration__arxiv",
+  "Exploring_Autonomous_Agents_through_the_Lens_of_Large_Language_Models_A_Review__arxiv",
+  "Exploring_Large_Language_Model_based_Intelligent_Agents_Definitions_Methods_and_Prospects__arxiv",
+  "Exploring_Large_Language_Model_based_Intelligent_Agents_Definitions_Methods_and_Prospects__openalex",
+  "From_Language_to_Action_A_Review_of_Large_Language_Models_as_Autonomous_Agents_and_Tool_Users__nature",
+  "From_Passive_Metric_to_Active_Signal_The_Evolving_Role_of_Uncertainty_Quantification_in_Large_Language_Models__arxiv",
+  "GRPO_and_Reflection_Reward_for_Mathematical_Reasoning_in_Large_Language_Models__arxiv",
+  "Graph-enhanced_Large_Language_Models_in_Asynchronous_Plan_Reasoning__arxiv",
+  "Group_Preference_Optimization_Few-Shot_Alignment_of_Large_Language_Models__openreview",
+  "Have_LLMs_Advanced_Enough_A_Challenging_Problem_Solving_Benchmark_For_Large_Language_Models__arxiv",
+  "Igniting_Language_Intelligence_The_Hitchhiker_s_Guide_From_Chain-of-Thought_Reasoning_to_Language_Agents__arxiv",
+  "Improving_Language_Agents_through_BREW__arxiv",
+  "Input_Conditioned_Graph_Generation_for_Language_Agents__arxiv",
+  "Intelligent_Digital_Agents_in_the_Era_of_Large_Language_Models__openreview",
+  "Knowledge_of_Knowledge_Exploring_Known-Unknowns_Uncertainty_with_Large_Language_Models__arxiv",
+  "KoMA_Knowledge-driven_Multi-agent_Framework_for_Autonomous_Driving_with_Large_Language_Models__arxiv",
+  "KwaiAgents_Generalized_Information-seeking_Agent_System_with_Large_Language_Models__arxiv",
+  "L3GO_Language_Agents_with_Chain-of-3D-Thoughts_for_Generating_Unconventional_Objects__arxiv",
+  "LLM4Drive_A_Survey_of_Large_Language_Models_for_Autonomous_Driving__openreview",
+  "LLMArena_Assessing_Capabilities_of_Large_Language_Models_in_Dynamic_Multi-Agent_Environments__arxiv",
+  "Language_Agents_with_Reinforcement_Learning_for_Strategic_Play_in_the_Werewolf_Game__arxiv",
+  "Large_Language_Model-Based_Agents_for_Software_Engineering_A_Survey__openalex",
+  "Large_Language_Models_A_Survey__openalex",
+  "Large_Language_Models_for_Constrained-Based_Causal_Discovery__openreview",
+  "Large_Language_Models_for_Information_Retrieval_A_Survey__openalex",
+  "Large_Language_Models_for_Robotics_A_Survey__openalex",
+  "Large_Language_Models_for_Software_Engineering_Survey_and_Open_Problems__openalex",
+  "Leveraging_In-Context_Learning_for_Language_Model_Agents__openreview",
+  "LiveCodeBench_Holistic_and_Contamination_Free_Evaluation_of_Large_Language_Models_for_Code__openalex",
+  "MAgIC_Investigation_of_Large_Language_Model_Powered_Multi-Agent_in_Cognition_Adaptability_Rationality___aclanthology",
+  "MMAG_Mixed_Memory-Augmented_Generation_for_Large_Language_Models_Applications__arxiv",
+  "MT-PATCHER_Selective_and_Extendable_Knowledge_Distillation_from_Large_Language_Models_for_Machine_Tran__aclanthology",
+  "MacGyver_Are_Large_Language_Models_Creative_Problem_Solvers__aclanthology",
+  "Matching_Pairs_Attributing_Fine-Tuned_Models_to_their_Pre-Trained_Large_Language_Models__openreview",
+  "ModelScope-Agent_Building_Your_Customizable_Agent_System_with_Open-source_Large_Language_Models__arxiv",
+  "Monte_Carlo_Planning_with_Large_Language_Model_for_Text-Based_Game_Agents__arxiv",
+  "Multi-Agent_Collaboration_in_Incident_Response_with_Large_Language_Models__arxiv",
+  "Multi-agent_KTO_Reinforcing_Strategic_Interactions_of_Large_Language_Model_in_Language_Game__arxiv",
+  "Natural_Language_Tools_A_Natural_Language_Approach_to_Tool_Calling_In_Large_Language_Agents__arxiv",
+  "Nemobot_Games_Crafting_Strategic_AI_Gaming_Agents_for_Interactive_Learning_with_Large_Language_Models__arxiv",
+  "On_Learning_to_Summarize_with_Large_Language_Models_as_References__aclanthology",
+  "OpenAgents_An_Open_Platform_for_Language_Agents_in_the_Wild__arxiv",
+  "Outcome-Constrained_Large_Language_Models_for_Countering_Hate_Speech__aclanthology",
+  "PCGRLLM_Large_Language_Model-Driven_Reward_Design_for_Procedural_Content_Generation_Reinforcement_Learning__arxiv",
+  "PersonaAgent_When_Large_Language_Model_Agents_Meet_Personalization_at_Test_Time__openreview",
+  "Personal_Large_Language_Model_Agents_A_Case_Study_on_Tailored_Travel_Planning__aclanthology",
+  "Probing_the_Capacity_of_Language_Model_Agents_to_Operationalize_Disparate_Experiential_Context_Despite_Distra__arxiv",
+  "RES-Q_Evaluating_Code-Editing_Large_Language_Model_Systems_at_the_Repository_Scale__arxiv",
+  "ReSpAct_Harmonizing_Reasoning_Speaking_and_Acting_Towards_Building_Large_Language_Model-Based_Conversational___arxiv",
+  "RedAgent_Red_Teaming_Large_Language_Models_with_Context-aware_Autonomous_Language_Agent__arxiv",
+  "Reflexion_Language_Agents_with_Verbal_Reinforcement_Learning__arxiv",
+  "Research_on_Security_Enhancement_Methods_for_Adversarial_Robust_Large_Language_Model_Intelligent_Agents_for_M__arxiv",
+  "Rethinking_Machine_Unlearning_for_Large_Language_Models__openalex",
+  "Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey__openalex",
+  "Retroformer_Retrospective_Large_Language_Agents_with_Policy_Gradient_Optimization__openalex",
+  "Role-Playing_Agents_Driven_by_Large_Language_Models_Current_Status_Challenges_and_Future_Trends__arxiv",
+  "Sentient_Agent_as_a_Judge_Evaluating_Higher-Order_Social_Cognition_in_Large_Language_Models__arxiv",
+  "Siren_s_Song_in_the_AI_Ocean_A_Survey_on_Hallucination_in_Large_Language_Models__openalex",
+  "Small_LLMs_Are_Weak_Tool_Learners_A_Multi-LLM_Agent__aclanthology",
+  "SocialVeil_Probing_Social_Intelligence_of_Language_Agents_under_Communication_Barriers__arxiv",
+  "StrategyLLM_Large_Language_Models_as_Strategy_Generators_Executors_Optimizers_and_Evaluators_for_Problem_Solv__arxiv",
+  "Sub-goal_Distillation_A_Method_to_Improve_Small_Language_Agents__arxiv",
+  "TPTU-v2_Boosting_Task_Planning_and_Tool_Usage_of_Large_Language_Model-based_Agents_in_Real-world_Indus__aclanthology",
+  "TelBench_A_Benchmark_for_Evaluating_Telco-Specific_Large_Language_Models__aclanthology",
+  "TextAtari_100K_Frames_Game_Playing_with_Language_Agents__arxiv",
+  "The_Devil_Is_in_the_Errors_Leveraging_Large_Language_Models_for_Fine-grained_Machine_Translation_Evalu__aclanthology",
+  "The_Influence_of_Scaffolds_on_Coordination_Scaling_Laws_in_LLM_Agents__openreview",
+  "The_Rise_and_Potential_of_Large_Language_Model_Based_Agents_A_Survey__openalex",
+  "Theory_of_Mind_for_Multi-Agent_Collaboration_via_Large_Language_Models__aclanthology",
+  "ToolChain_Efficient_Action_Space_Navigation_in_Large_Language_Models_with_A_Search__arxiv",
+  "Towards_Objectively_Benchmarking_Social_Intelligence_for_Language_Agents_at_Action_Level__arxiv",
+  "TravelPlanner_A_Benchmark_for_Real-World_Planning_with_Language_Agents__arxiv",
+  "Trustworthy_LLMs_a_Survey_and_Guideline_for_Evaluating_Large_Language_Models_Alignment__openalex",
+  "Understanding_the_Weakness_of_Large_Language_Model_Agents_within_a_Complex_Android_Environment__arxiv",
+  "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__openalex",
+  "Unlocking_the_Future_Exploring_Look-Ahead_Planning_Mechanistic_Interpretability_in_Large_Language_Mode__aclanthology",
+  "Unlocking_the_Future_Exploring_Look-Ahead_Planning_Mechanistic_Interpretability_in_Large_Language_Models__arxiv",
+  "Verlog_Context-lite_Multi-turn_Reinforcement_Learning_framework_for_Long-Horizon_LLM_Agents__openreview",
+  "Video-ChatGPT_Towards_Detailed_Video_Understanding_via_Large_Vision_and_Language_Models__arxiv",
+  "Voyager_An_Open-Ended_Embodied_Agent_with_Large_Language_Models__arxiv",
+  "Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation__arxiv",
+  "What_It_Wants_Me_To_Say_Bridging_the_Abstraction_Gap_Between_End-User_Programmers_and_Code-Generating_Larg__openalex",
+  "World_model_inspired_sarcasm_reasoning_with_large_language_model_agents__nature",
+  "XUAT-Copilot_Multi-Agent_Collaborative_System_for_Automated_User_Acceptance_Testing_with_Large_Language_Model__arxiv"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 1,
+   "paper_id": "An_Empirical_Study_on_Reinforcement_Learning_for_Reasoning-Search_Interleaved_LLM_Agents__openreview",
+   "title": "An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=IQNZIBspz5",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Athena_Safe_Autonomous_Agents_with_Verbal_Contrastive_Learning__aclanthology",
+   "title": "Athena: Safe Autonomous Agents with Verbal Contrastive Learning",
+   "doi": "10.48550/arXiv.2408.11021",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-industry.84/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "BEEAR_Embedding-based_Adversarial_Removal_of_Safety_Backdoors_in_Instruction-tuned_Language_Models__aclanthology",
+   "title": "BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models",
+   "doi": "10.48550/arXiv.2406.17092",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.732/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "BrowserArena_Evaluating_LLM_Agents_on_Real-World_Web_Navigation_Tasks__openreview",
+   "title": "BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=yd3c3Xztgj",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "CORE_Measuring_Multi-Agent_LLM_Interaction_Quality_under_Game-Theoretic_Pressures__openreview",
+   "title": "CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=cArAB6Sj5X",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Enhancing_Translation_Accuracy_of_Large_Language_Models_through_Continual_Pre-Training_on_Parallel_Dat__aclanthology",
+   "title": "Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data",
+   "doi": "10.48550/arXiv.2407.03145",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.iwslt-1.26/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "LLM4Drive_A_Survey_of_Large_Language_Models_for_Autonomous_Driving__openreview",
+   "title": "LLM4Drive: A Survey of Large Language Models for Autonomous Driving",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=ehojTglbMj",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Large_Language_Models_for_Constrained-Based_Causal_Discovery__openreview",
+   "title": "Large Language Models for Constrained-Based Causal Discovery",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=NEAoZRWHPN",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "MAgIC_Investigation_of_Large_Language_Model_Powered_Multi-Agent_in_Cognition_Adaptability_Rationality___aclanthology",
+   "title": "MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration",
+   "doi": "10.48550/arXiv.2311.08562",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.416/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "MT-PATCHER_Selective_and_Extendable_Knowledge_Distillation_from_Large_Language_Models_for_Machine_Tran__aclanthology",
+   "title": "MT-PATCHER: Selective and Extendable Knowledge Distillation from Large Language Models for Machine Translation",
+   "doi": "10.48550/arXiv.2403.09522",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.358/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "MacGyver_Are_Large_Language_Models_Creative_Problem_Solvers__aclanthology",
+   "title": "MacGyver: Are Large Language Models Creative Problem Solvers?",
+   "doi": "10.48550/arXiv.2311.09682",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.297/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Matching_Pairs_Attributing_Fine-Tuned_Models_to_their_Pre-Trained_Large_Language_Models__openreview",
+   "title": "Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=IpZqewO10T",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "On_Learning_to_Summarize_with_Large_Language_Models_as_References__aclanthology",
+   "title": "On Learning to Summarize with Large Language Models as References",
+   "doi": "10.48550/arXiv.2305.14239",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.478/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Personal_Large_Language_Model_Agents_A_Case_Study_on_Tailored_Travel_Planning__aclanthology",
+   "title": "Personal Large Language Model Agents: A Case Study on Tailored Travel Planning",
+   "doi": "10.18653/v1/2024.emnlp-industry.37",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-industry.37/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Probing_the_Capacity_of_Language_Model_Agents_to_Operationalize_Disparate_Experiential_Context_Despite_Distra__arxiv",
+   "title": "Probing the Capacity of Language Model Agents to Operationalize Disparate Experiential Context Despite Distraction",
+   "doi": "10.18653/v1/2024.findings-emnlp.905",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/9369ea09276fca4d3a10a760812b717f99735adb",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Small_LLMs_Are_Weak_Tool_Learners_A_Multi-LLM_Agent__aclanthology",
+   "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+   "doi": "10.48550/arXiv.2401.07324",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.929/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "TelBench_A_Benchmark_for_Evaluating_Telco-Specific_Large_Language_Models__aclanthology",
+   "title": "TelBench: A Benchmark for Evaluating Telco-Specific Large Language Models",
+   "doi": "10.18653/v1/2024.emnlp-industry.45",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-industry.45/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Influence_of_Scaffolds_on_Coordination_Scaling_Laws_in_LLM_Agents__openreview",
+   "title": "The Influence of Scaffolds on Coordination Scaling Laws in LLM Agents",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=iS49teIy7h",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Unlocking_the_Future_Exploring_Look-Ahead_Planning_Mechanistic_Interpretability_in_Large_Language_Mode__aclanthology",
+   "title": "Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models",
+   "doi": "10.48550/arXiv.2406.16033",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.440/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Verlog_Context-lite_Multi-turn_Reinforcement_Learning_framework_for_Long-Horizon_LLM_Agents__openreview",
+   "title": "Verlog: Context-lite Multi-turn Reinforcement Learning framework for Long-Horizon LLM Agents",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=GmodkWwMV3",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "cs",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/cs/llm_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_cs/llm_01",
+ "seed_set_matches_run_id": false,
+ "target_total_papers": 250,
+ "actual_total_papers": 149,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}

@@ -1,0 +1,1564 @@
+{
+ "batch": "dev",
+ "run": "RLHF_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Robust_Reinforcement_Learning_from_Human_Feedback_for_Large_Language_Models_Fine-Tuning__arxiv",
+   "title": "Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2504.03784v6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Okapi_Instruction-tuned_Large_Language_Models_in_Multiple_Languages_with_Reinforcement_Learning_from_Human_Fe__arxiv",
+   "title": "Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback",
+   "doi": "10.48550/arXiv.2307.16039",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/fc84f5b58e68871f3d6889dc2a93dffa7e107be2"
+  },
+  {
+   "round": 1,
+   "paper_id": "RLHFPoison_Reward_Poisoning_Attack_for_Reinforcement_Learning_with_Human_Feedback_in_Large_Language_Models__arxiv",
+   "title": "RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models",
+   "doi": "10.18653/v1/2024.acl-long.140",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/d3ee9ab2b145e9e6a94441c5fff61a95bb875bb2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Safe_RLHF_Safe_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Safe RLHF: Safe Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.12773v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "RLAIF_vs._RLHF_Scaling_Reinforcement_Learning_from_Human_Feedback_with_AI_Feedback__arxiv",
+   "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2309.00267v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Safe_RLHF_Safe_Reinforcement_Learning_from_Human_Feedback__openreview",
+   "title": "Safe RLHF: Safe Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=FOYAxGdI2R"
+  },
+  {
+   "round": 1,
+   "paper_id": "Safe_RLHF_Safe_Reinforcement_Learning_from_Human_Feedback__openreview",
+   "title": "Safe RLHF: Safe Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=FOYAxGdI2R"
+  },
+  {
+   "round": 1,
+   "paper_id": "ChatGLM-RLHF_Practices_of_Aligning_Large_Language_Models_with_Human_Feedback__openreview",
+   "title": "ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=2fwG6FZaab"
+  },
+  {
+   "round": 1,
+   "paper_id": "Policy_Gradient_Primal-Dual_Method_for_Safe_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Policy Gradient Primal-Dual Method for Safe Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.19024v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Dense_Reward_for_Free_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Dense Reward for Free in Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.00782v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Teaching_Large_Language_Models_to_Reason_with_Reinforcement_Learning__arxiv",
+   "title": "Teaching Large Language Models to Reason with Reinforcement Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2403.04642v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Reinforcement_Learning_from_Human_Feedback_with_Active_Queries__arxiv",
+   "title": "Reinforcement Learning from Human Feedback with Active Queries",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.09401v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Technical_Survey_of_Reinforcement_Learning_Techniques_for_Large_Language_Models__arxiv",
+   "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2507.04136v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "AI_Alignment_through_Reinforcement_Learning_from_Human_Feedback_Contradictions_and_Limitations__arxiv",
+   "title": "AI Alignment through Reinforcement Learning from Human Feedback? Contradictions and Limitations",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.18346v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "CHAI_for_LLMs_Improving_Code-Mixed_Translation_in_Large_Language_Models_through_Reinforcement_Learning_with_A__arxiv",
+   "title": "CHAI for LLMs: Improving Code-Mixed Translation in Large Language Models through Reinforcement Learning with AI Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.09073v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback__arxiv",
+   "title": "Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.01834v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Reinforcement_Learning_from_Human_Feedback_A_Statistical_Perspective__arxiv",
+   "title": "Reinforcement Learning from Human Feedback: A Statistical Perspective",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.02507v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Improving_Reinforcement_Learning_from_Human_Feedback_with_Efficient_Reward_Model_Ensemble__arxiv",
+   "title": "Improving Reinforcement Learning from Human Feedback with Efficient Reward Model Ensemble",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2401.16635v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "RRHF_Rank_Responses_to_Align_Language_Models_with_Human_Feedback_without_tears__arxiv",
+   "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2304.05302v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Adaptive_Preference_Scaling_for_Reinforcement_Learning_with_Human_Feedback__arxiv",
+   "title": "Adaptive Preference Scaling for Reinforcement Learning with Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.02764v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Reinforcement_Learning_from_Human_Feedback_with_High-Confidence_Safety_Constraints__arxiv",
+   "title": "Reinforcement Learning from Human Feedback with High-Confidence Safety Constraints",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.08266v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "TLCR_Token-Level_Continuous_Reward_for_Fine-grained_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.16574v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancing_the_Traditional_Chinese_Medicine_Capabilities_of_Large_Language_Model_through_Reinforcement_Learnin__arxiv",
+   "title": "Enhancing the Traditional Chinese Medicine Capabilities of Large Language Model through Reinforcement Learning from AI Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.00897v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2204.05862v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Secrets_of_RLHF_in_Large_Language_Models_Part_II_Reward_Modeling__arxiv",
+   "title": "Secrets of RLHF in Large Language Models Part II: Reward Modeling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2401.06080v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "SuperHF_Supervised_Iterative_Learning_from_Human_Feedback__arxiv",
+   "title": "SuperHF: Supervised Iterative Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.16763v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "On_the_Algorithmic_Bias_of_Aligning_Large_Language_Models_with_RLHF_Preference_Collapse_and_Matching_Regulari__arxiv",
+   "title": "On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.16455v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "STA-RLHF_Stackelberg_Aligned_Reinforcement_Learning_with_Human_Feedback__openreview",
+   "title": "STA-RLHF: Stackelberg Aligned Reinforcement Learning with Human Feedback",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=Jcn8pxwRa9"
+  },
+  {
+   "round": 1,
+   "paper_id": "Safe_RLHF_Safe_Reinforcement_Learning_from_Human_Feedback__openalex",
+   "title": "Safe RLHF: Safe Reinforcement Learning from Human Feedback",
+   "doi": "10.48550/arxiv.2310.12773",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387838992"
+  },
+  {
+   "round": 1,
+   "paper_id": "RS-DPO_A_Hybrid_Rejection_Sampling_and_Direct_Preference_Optimization_Method_for_Alignment_of_Large_Language___arxiv",
+   "title": "RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.10038v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "RLAIF_vs._RLHF_Scaling_Reinforcement_Learning_from_Human_Feedback_with_AI_Feedback__openalex",
+   "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+   "doi": "10.48550/arxiv.2309.00267",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386437475"
+  },
+  {
+   "round": 1,
+   "paper_id": "Verbosity_Bias_in_Preference_Labeling_by_Large_Language_Models__arxiv",
+   "title": "Verbosity Bias in Preference Labeling by Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.10076v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "HRLAIF_Improvements_in_Helpfulness_and_Harmlessness_in_Open-domain_Reinforcement_Learning_From_AI_Feedback__arxiv",
+   "title": "HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2403.08309v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Aligning_Large_Language_Models_via_Fully_Self-Synthetic_Data__arxiv",
+   "title": "Aligning Large Language Models via Fully Self-Synthetic Data",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.06652v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Video-Text_Dataset_Construction_from_Multi-AI_Feedback_Promoting_Weak-to-Strong_Preference_Learning_for_Video__arxiv",
+   "title": "Video-Text Dataset Construction from Multi-AI Feedback: Promoting Weak-to-Strong Preference Learning for Video Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.16201v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Open_Problems_and_Fundamental_Limitations_of_Reinforcement_Learning_from_Human_Feedback__openalex",
+   "title": "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback",
+   "doi": "10.48550/arxiv.2307.15217",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385436553"
+  },
+  {
+   "round": 1,
+   "paper_id": "Loose_lips_sink_ships_Mitigating_Length_Bias_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Loose lips sink ships: Mitigating Length Bias in Reinforcement Learning from Human Feedback",
+   "doi": "10.48550/arXiv.2310.05199",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/73b54d0875c8c9b8f0120a29f8d7a924166a1e68"
+  },
+  {
+   "round": 1,
+   "paper_id": "Just_Ask_for_Calibration_Strategies_for_Eliciting_Calibrated_Confidence_Scores_from_Language_Models_Fine-Tune__arxiv",
+   "title": "Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback",
+   "doi": "10.48550/arXiv.2305.14975",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/ab4ce5dda7ad4d9032995c9c049a89d65723c6aa"
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeroth-Order_Policy_Gradient_for_Reinforcement_Learning_from_Human_Feedback_without_Reward_Inference__openalex",
+   "title": "Zeroth-Order Policy Gradient for Reinforcement Learning from Human Feedback without Reward Inference",
+   "doi": "10.48550/arxiv.2409.17401",
+   "source": "openalex",
+   "url": "https://openalex.org/W4403795684"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_of_Reinforcement_Learning_from_Human_Feedback__openalex",
+   "title": "A Survey of Reinforcement Learning from Human Feedback",
+   "doi": "10.48550/arxiv.2312.14925",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390215524"
+  },
+  {
+   "round": 2,
+   "paper_id": "RLHF_Deciphered_A_Critical_Analysis_of_Reinforcement_Learning_from_Human_Feedback_for_LLMs__arxiv",
+   "title": "RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.08555v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Privacy-Preserving_Reinforcement_Learning_from_Human_Feedback_via_Decoupled_Reward_Modeling__arxiv",
+   "title": "Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2603.22563v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Exploring_Data_Scaling_Trends_and_Effects_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.22230v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Learning_to_summarize_user_information_for_personalized_reinforcement_learning_from_human_feedback__arxiv",
+   "title": "Learning to summarize user information for personalized reinforcement learning from human feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2507.13579v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Alignment_Ceiling_Objective_Mismatch_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "The Alignment Ceiling: Objective Mismatch in Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2311.00168v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Uncertainty-Penalized_Reinforcement_Learning_from_Human_Feedback_with_Diverse_Reward_LoRA_Ensembles__arxiv",
+   "title": "Uncertainty-Penalized Reinforcement Learning from Human Feedback with Diverse Reward LoRA Ensembles",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2401.00243v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Seeing_Eye_to_AI_Human_Alignment_via_Gaze-Based_Response_Rewards_for_Large_Language_Models__arxiv",
+   "title": "Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.01532v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Reviving_The_Classics_Active_Reward_Modeling_in_Large_Language_Model_Alignment__arxiv",
+   "title": "Reviving The Classics: Active Reward Modeling in Large Language Model Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.04354v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning__arxiv",
+   "title": "CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.02229v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Does_RLHF_Scale_Exploring_the_Impacts_From_Data_Model_and_Method__arxiv",
+   "title": "Does RLHF Scale? Exploring the Impacts From Data, Model, and Method",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2412.06000v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Beyond_Reward_Hacking_Causal_Rewards_for_Large_Language_Model_Alignment__arxiv",
+   "title": "Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2501.09620v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Reusing_Embeddings_Reproducible_Reward_Model_Research_in_Large_Language_Model_Alignment_without_GPUs__arxiv",
+   "title": "Reusing Embeddings: Reproducible Reward Model Research in Large Language Model Alignment without GPUs",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.04357v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Factored_Causal_Representation_Learning_for_Robust_Reward_Modeling_in_RLHF__arxiv",
+   "title": "Factored Causal Representation Learning for Robust Reward Modeling in RLHF",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.21350v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences__arxiv",
+   "title": "Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.03715v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Mitigating_Reward_Hacking_in_RLHF_via_Bayesian_Non-negative_Reward_Modeling__arxiv",
+   "title": "Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2602.10623v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bias_Fitting_to_Mitigate_Length_Bias_of_Reward_Model_in_RLHF__arxiv",
+   "title": "Bias Fitting to Mitigate Length Bias of Reward Model in RLHF",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2505.12843v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Disentangling_Length_Bias_In_Preference_Learning_Via_Response-Conditioned_Modeling__arxiv",
+   "title": "Disentangling Length Bias In Preference Learning Via Response-Conditioned Modeling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.00814v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Mitigating_Length_Bias_in_RLHF_through_a_Causal_Lens__arxiv",
+   "title": "Mitigating Length Bias in RLHF through a Causal Lens",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2511.12573v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Debiasing_Reward_Models_by_Representation_Learning_with_Guarantees__arxiv",
+   "title": "Debiasing Reward Models by Representation Learning with Guarantees",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.23751v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Eliminating_Inductive_Bias_in_Reward_Models_with_Information-Theoretic_Guidance__arxiv",
+   "title": "Eliminating Inductive Bias in Reward Models with Information-Theoretic Guidance",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2512.23461v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "From_Lists_to_Emojis_How_Format_Bias_Affects_Model_Alignment__arxiv",
+   "title": "From Lists to Emojis: How Format Bias Affects Model Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2409.11704v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Disentangling_Length_from_Quality_in_Direct_Preference_Optimization__arxiv",
+   "title": "Disentangling Length from Quality in Direct Preference Optimization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2403.19159v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Long_Way_to_Go_Investigating_Length_Correlations_in_RLHF__arxiv",
+   "title": "A Long Way to Go: Investigating Length Correlations in RLHF",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.03716v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "OPPO_Accelerating_PPO-based_RLHF_via_Pipeline_Overlap__arxiv",
+   "title": "OPPO: Accelerating PPO-based RLHF via Pipeline Overlap",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2509.25762v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "WPO_Enhancing_RLHF_with_Weighted_Preference_Optimization__arxiv",
+   "title": "WPO: Enhancing RLHF with Weighted Preference Optimization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.11827v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Generalizing_Reward_Modeling_for_Out-of-Distribution_Preference_Learning__arxiv",
+   "title": "Generalizing Reward Modeling for Out-of-Distribution Preference Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.14760v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Regularizing_Hidden_States_Enables_Learning_Generalizable_Reward_Model_for_LLMs__arxiv",
+   "title": "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.10216v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Generative_Reward_Models__arxiv",
+   "title": "Generative Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.12832v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Reward_Shaping_to_Mitigate_Reward_Hacking_in_RLHF__arxiv",
+   "title": "Reward Shaping to Mitigate Reward Hacking in RLHF",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.18770v5"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bayesian_Reward_Models_for_LLM_Alignment__arxiv",
+   "title": "Bayesian Reward Models for LLM Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.13210v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Principled_Reinforcement_Learning_with_Human_Feedback_from_Pairwise_or_K_-wise_Comparisons__openalex",
+   "title": "Principled Reinforcement Learning with Human Feedback from Pairwise or $K$-wise Comparisons",
+   "doi": "10.48550/arxiv.2301.11270",
+   "source": "openalex",
+   "url": "https://openalex.org/W4318350868"
+  },
+  {
+   "round": 2,
+   "paper_id": "Scaling_Laws_for_Reward_Model_Overoptimization_in_Direct_Alignment_Algorithms__arxiv",
+   "title": "Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.02900v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Beyond_Correctness_Confidence-Aware_Reward_Modeling_for_Enhancing_Large_Language_Model_Reasoning__arxiv",
+   "title": "Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large Language Model Reasoning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2511.07483v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Offline_Preference_Optimization_via_Maximum_Marginal_Likelihood_Estimation__arxiv",
+   "title": "Offline Preference Optimization via Maximum Marginal Likelihood Estimation",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.22881v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Efficient_Exploration_at_Scale__arxiv",
+   "title": "Efficient Exploration at Scale",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2603.17378v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Post-hoc_Reward_Calibration_A_Case_Study_on_Length_Bias__arxiv",
+   "title": "Post-hoc Reward Calibration: A Case Study on Length Bias",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2409.17407v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Probabilistic_Uncertain_Reward_Model__arxiv",
+   "title": "Probabilistic Uncertain Reward Model",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.22480v6"
+  },
+  {
+   "round": 2,
+   "paper_id": "Rectifying_Shortcut_Behaviors_in_Preference-based_Reward_Learning__arxiv",
+   "title": "Rectifying Shortcut Behaviors in Preference-based Reward Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.19050v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "CARMO_Dynamic_Criteria_Generation_for_Context-Aware_Reward_Modelling__arxiv",
+   "title": "CARMO: Dynamic Criteria Generation for Context-Aware Reward Modelling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.21545v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Alleviating_Attention_Hacking_in_Discriminative_Reward_Modeling_through_Interaction_Distillation__arxiv",
+   "title": "Alleviating Attention Hacking in Discriminative Reward Modeling through Interaction Distillation",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2508.02618v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "NIFTY_Financial_News_Headlines_Dataset__arxiv",
+   "title": "NIFTY Financial News Headlines Dataset",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.09747v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Reward_Model_Ensembles_Help_Mitigate_Overoptimization__arxiv",
+   "title": "Reward Model Ensembles Help Mitigate Overoptimization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.02743v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Secrets_of_RLHF_in_Large_Language_Models_Part_I_PPO__openalex",
+   "title": "Secrets of RLHF in Large Language Models Part I: PPO",
+   "doi": "10.48550/arxiv.2307.04964",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384111857"
+  },
+  {
+   "round": 2,
+   "paper_id": "Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey__openalex",
+   "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2312.10997",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389984066"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Models_A_Survey__openalex",
+   "title": "Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2402.06196",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391766565"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Hallucination_in_Large_Language_Models_Principles_Taxonomy_Challenges_and_Open_Questions__openalex",
+   "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+   "doi": "10.48550/arxiv.2311.05232",
+   "source": "openalex",
+   "url": "https://openalex.org/W4388585881"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Evaluation_of_Large_Language_Models__openalex",
+   "title": "A Survey on Evaluation of Large Language Models",
+   "doi": "10.48550/arxiv.2307.03109",
+   "source": "openalex",
+   "url": "https://openalex.org/W4383605161"
+  },
+  {
+   "round": 2,
+   "paper_id": "ChatGLM-RLHF_Practices_of_Aligning_Large_Language_Models_with_Human_Feedback__arxiv",
+   "title": "ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.00934v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Zeroth-Order_Policy_Gradient_for_Reinforcement_Learning_from_Human_Feedback_without_Reward_Inference__arxiv",
+   "title": "Zeroth-Order Policy Gradient for Reinforcement Learning from Human Feedback without Reward Inference",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2409.17401v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Loose_lips_sink_ships_Mitigating_Length_Bias_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+   "title": "Loose lips sink ships: Mitigating Length Bias in Reinforcement Learning from Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.05199v5"
+  },
+  {
+   "round": 2,
+   "paper_id": "Self-Generated_Critiques_Boost_Reward_Modeling_for_Language_Models__arxiv",
+   "title": "Self-Generated Critiques Boost Reward Modeling for Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.16646v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Improving_Reinforcement_Learning_from_Human_Feedback_with_Efficient_Reward_Model_Ensemble__openalex",
+   "title": "Improving Reinforcement Learning from Human Feedback with Efficient Reward Model Ensemble",
+   "doi": "10.48550/arxiv.2401.16635",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391420971"
+  },
+  {
+   "round": 2,
+   "paper_id": "RRHF_Rank_Responses_to_Align_Language_Models_with_Human_Feedback_without_tears__openalex",
+   "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+   "doi": "10.48550/arxiv.2304.05302",
+   "source": "openalex",
+   "url": "https://openalex.org/W4365211596"
+  },
+  {
+   "round": 2,
+   "paper_id": "SuperHF_Supervised_Iterative_Learning_from_Human_Feedback__openalex",
+   "title": "SuperHF: Supervised Iterative Learning from Human Feedback",
+   "doi": "10.48550/arxiv.2310.16763",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387964122"
+  },
+  {
+   "round": 3,
+   "paper_id": "From_RLHF_to_Direct_Alignment_A_Theoretical_Unification_of_Preference_Learning_for_Large_Language_Models__arxiv",
+   "title": "From RLHF to Direct Alignment: A Theoretical Unification of Preference Learning for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.06108v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Uncertainty_Quantification_for_Large_Language_Model_Reward_Learning_under_Heterogeneous_Human_Feedback__arxiv",
+   "title": "Uncertainty Quantification for Large Language Model Reward Learning under Heterogeneous Human Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2512.03208v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "ReMax_A_Simple_Effective_and_Efficient_Reinforcement_Learning_Method_for_Aligning_Large_Language_Models__arxiv",
+   "title": "ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.10505v4"
+  },
+  {
+   "round": 3,
+   "paper_id": "Offline_Regularised_Reinforcement_Learning_for_Large_Language_Models_Alignment__arxiv",
+   "title": "Offline Regularised Reinforcement Learning for Large Language Models Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.19107v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Gradient_Regularization_Prevents_Reward_Hacking_in_Reinforcement_Learning_from_Human_Feedback_and_Verifiable___arxiv",
+   "title": "Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2602.18037v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Contrastive_Preference_Learning_Learning_from_Human_Feedback_without_RL__arxiv",
+   "title": "Contrastive Preference Learning: Learning from Human Feedback without RL",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.13639v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Principle-Driven_Self-Alignment_of_Language_Models_from_Scratch_with_Minimal_Human_Supervision__arxiv",
+   "title": "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2305.03047v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Fine-Tuning_Language_Models_with_Reward_Learning_on_Policy__arxiv",
+   "title": "Fine-Tuning Language Models with Reward Learning on Policy",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2403.19279v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "SeRA_Self-Reviewing_and_Alignment_of_Large_Language_Models_using_Implicit_Reward_Margins__arxiv",
+   "title": "SeRA: Self-Reviewing and Alignment of Large Language Models using Implicit Reward Margins",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.09362v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "MedAide_Leveraging_Large_Language_Models_for_On-Premise_Medical_Assistance_on_Edge_Devices__arxiv",
+   "title": "MedAide: Leveraging Large Language Models for On-Premise Medical Assistance on Edge Devices",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2403.00830v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Hard_Negative_Sample-Augmented_DPO_Post-Training_for_Small_Language_Models__arxiv",
+   "title": "Hard Negative Sample-Augmented DPO Post-Training for Small Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2512.19728v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Accelerated_Preference_Optimization_for_Large_Language_Model_Alignment__arxiv",
+   "title": "Accelerated Preference Optimization for Large Language Model Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.06293v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Towards_Faithful_and_Controllable_Personalization_via_Critique-Post-Edit_Reinforcement_Learning__arxiv",
+   "title": "Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.18849v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Symmetric_Reinforcement_Learning_Loss_for_Robust_Learning_on_Diverse_Tasks_and_Model_Scales__arxiv",
+   "title": "Symmetric Reinforcement Learning Loss for Robust Learning on Diverse Tasks and Model Scales",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.17618v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Reinforcement_Learning_Enhanced_LLMs_A_Survey__arxiv",
+   "title": "Reinforcement Learning Enhanced LLMs: A Survey",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2412.10400v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Bootstrapping_Language_Models_with_DPO_Implicit_Rewards__arxiv",
+   "title": "Bootstrapping Language Models with DPO Implicit Rewards",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.09760v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "DISCO_Balances_the_Scales_Adaptive_Domain-_and_Difficulty-Aware_Reinforcement_Learning_on_Imbalanced_Data__arxiv",
+   "title": "DISCO Balances the Scales: Adaptive Domain- and Difficulty-Aware Reinforcement Learning on Imbalanced Data",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2505.15074v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "SERL_Self-Examining_Reinforcement_Learning_on_Open-Domain__arxiv",
+   "title": "SERL: Self-Examining Reinforcement Learning on Open-Domain",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2511.07922v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Learning_Goal-Conditioned_Representations_for_Language_Reward_Models__arxiv",
+   "title": "Learning Goal-Conditioned Representations for Language Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.13887v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Self-Exploring_Language_Models_Active_Preference_Elicitation_for_Online_Alignment__arxiv",
+   "title": "Self-Exploring Language Models: Active Preference Elicitation for Online Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2405.19332v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Critique-out-Loud_Reward_Models__arxiv",
+   "title": "Critique-out-Loud Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2408.11791v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Beyond_Bradley-Terry_Models_A_General_Preference_Model_for_Language_Model_Alignment__arxiv",
+   "title": "Beyond Bradley-Terry Models: A General Preference Model for Language Model Alignment",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.02197v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Unified_Pairwise_Framework_for_RLHF_Bridging_Generative_Reward_Modeling_and_Policy_Optimization__arxiv",
+   "title": "A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2504.04950v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "ENCORE_Entropy-guided_Reward_Composition_for_Multi-head_Safety_Reward_Models__arxiv",
+   "title": "ENCORE: Entropy-guided Reward Composition for Multi-head Safety Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.20995v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "R-Align_Enhancing_Generative_Reward_Models_through_Rationale-Centric_Meta-Judging__arxiv",
+   "title": "R-Align: Enhancing Generative Reward Models through Rationale-Centric Meta-Judging",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2602.06763v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Fast-Slow_Thinking_RM_Efficient_Integration_of_Scalar_and_Generative_Reward_Models__arxiv",
+   "title": "Fast-Slow Thinking RM: Efficient Integration of Scalar and Generative Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2603.20212v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Think-RM_Enabling_Long-Horizon_Reasoning_in_Generative_Reward_Models__arxiv",
+   "title": "Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2505.16265v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Direct_Preference_Optimization_Your_Language_Model_is_Secretly_a_Reward_Model__arxiv",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2305.18290v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "IPO_Your_Language_Model_is_Secretly_a_Preference_Classifier__arxiv",
+   "title": "IPO: Your Language Model is Secretly a Preference Classifier",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.16182v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Gradient-Gated_DPO_Stabilizing_Preference_Optimization_in_Language_Models__arxiv",
+   "title": "Gradient-Gated DPO: Stabilizing Preference Optimization in Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2605.02626v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "ReflectRM_Boosting_Generative_Reward_Models_via_Self-Reflection_within_a_Unified_Judgment_Framework__arxiv",
+   "title": "ReflectRM: Boosting Generative Reward Models via Self-Reflection within a Unified Judgment Framework",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.07506v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "DogeRM_Equipping_Reward_Models_with_Domain_Knowledge_through_Model_Merging__arxiv",
+   "title": "DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.01470v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Direct_Language_Model_Alignment_from_Online_AI_Feedback__arxiv",
+   "title": "Direct Language Model Alignment from Online AI Feedback",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.04792v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "RLHF_A_comprehensive_Survey_for_Cultural_Multimodal_and_Low_Latency_Alignment_Methods__arxiv",
+   "title": "RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2511.03939v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_Regularization_of_Self-Play_Language_Models__arxiv",
+   "title": "Investigating Regularization of Self-Play Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.04291v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Self-Evolved_Reward_Learning_for_LLMs__arxiv",
+   "title": "Self-Evolved Reward Learning for LLMs",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2411.00418v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "BOND_Aligning_LLMs_with_Best-of-N_Distillation__arxiv",
+   "title": "BOND: Aligning LLMs with Best-of-N Distillation",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.14622v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "West-of-N_Synthetic_Preferences_for_Self-Improving_Reward_Models__arxiv",
+   "title": "West-of-N: Synthetic Preferences for Self-Improving Reward Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2401.12086v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Intra-Trajectory_Consistency_for_Reward_Modeling__arxiv",
+   "title": "Intra-Trajectory Consistency for Reward Modeling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.09096v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Doubly_Robust_Alignment_for_Large_Language_Models__arxiv",
+   "title": "Doubly Robust Alignment for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.01183v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Permutative_Preference_Alignment_from_Listwise_Ranking_of_Human_Judgments__arxiv",
+   "title": "Permutative Preference Alignment from Listwise Ranking of Human Judgments",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.04346v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Igniting_Creative_Writing_in_Small_Language_Models_LLM-as-a-Judge_versus_Multi-Agent_Refined_Rewards__arxiv",
+   "title": "Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2508.21476v1"
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "ARES_Alternating_Reinforcement_Learning_and_Supervised_Fine-Tuning_for_Enhanced_Multi-Modal_Chain-of-T__aclanthology",
+  "A_Comprehensive_Overview_of_Large_Language_Models__openalex",
+  "A_Survey_of_Large_Language_Models__nature",
+  "A_Survey_of_Reinforcement_Learning_from_Human_Feedback__openalex",
+  "A_Survey_on_Data_Synthesis_and_Augmentation_for_Large_Language_Models__openalex",
+  "A_Survey_on_Evaluation_of_Large_Language_Models__openalex",
+  "A_Survey_on_Hallucination_in_Large_Language_Models_Principles_Taxonomy_Challenges_and_Open_Questions__openalex",
+  "A_Survey_on_Knowledge_Distillation_of_Large_Language_Models__openalex",
+  "A_Survey_on_Large_Language_Models_for_Code_Generation__openalex",
+  "A_Survey_on_Multimodal_Large_Language_Models__openalex",
+  "A_Technical_Survey_of_Reinforcement_Learning_Techniques_for_Large_Language_Models__arxiv",
+  "A_Unified_Pairwise_Framework_for_RLHF_Bridging_Generative_Reward_Modeling_and_Policy_Optimization__arxiv",
+  "Accelerated_Preference_Optimization_for_Large_Language_Model_Alignment__arxiv",
+  "Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback__arxiv",
+  "Aligning_Large_Language_Models_via_Fully_Self-Synthetic_Data__arxiv",
+  "Aligning_Large_Language_Models_with_Human_A_Survey__openalex",
+  "Aligning_Large_Multimodal_Models_with_Factually_Augmented_RLHF__arxiv",
+  "AlpacaFarm_A_Simulation_Framework_for_Methods_that_Learn_from_Human_Feedback__openalex",
+  "Automatically_Correcting_Large_Language_Models_Surveying_the_landscape_of_diverse_self-correction_strategi__openalex",
+  "BOND_Aligning_LLMs_with_Best-of-N_Distillation__arxiv",
+  "Baichuan_2_Open_Large-scale_Language_Models__openalex",
+  "Benchmarking_Hallucination_in_Large_Language_Models_Based_on_Unanswerable_Math_Word_Problem__aclanthology",
+  "Beyond_Correctness_Confidence-Aware_Reward_Modeling_for_Enhancing_Large_Language_Model_Reasoning__arxiv",
+  "Beyond_Reward_Hacking_Causal_Rewards_for_Large_Language_Model_Alignment__arxiv",
+  "Can_Large_Language_Models_Be_an_Alternative_to_Human_Evaluations__openalex",
+  "Can_Open_Large_Language_Models_Catch_Vulnerabilities__openalex",
+  "Causal_Reasoning_and_Large_Language_Models_Opening_a_New_Frontier_for_Causality__openalex",
+  "Chain_of_Hindsight_Aligns_Language_Models_with_Feedback__openalex",
+  "Challenges_and_Applications_of_Large_Language_Models__openalex",
+  "ChatGLM-RLHF_Practices_of_Aligning_Large_Language_Models_with_Human_Feedback__arxiv",
+  "ChatGLM-RLHF_Practices_of_Aligning_Large_Language_Models_with_Human_Feedback__openreview",
+  "CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning__arxiv",
+  "Contrastive_Preference_Learning_Learning_from_Human_Feedback_without_RL__arxiv",
+  "Critique-out-Loud_Reward_Models__arxiv",
+  "DISCO_Balances_the_Scales_Adaptive_Domain-_and_Difficulty-Aware_Reinforcement_Learning_on_Imbalanced_Data__arxiv",
+  "Debiasing_Reward_Models_by_Representation_Learning_with_Guarantees__arxiv",
+  "Dense_Reward_for_Free_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+  "Direct_Language_Model_Alignment_from_Online_AI_Feedback__arxiv",
+  "Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences__arxiv",
+  "Disentangling_Length_Bias_In_Preference_Learning_Via_Response-Conditioned_Modeling__arxiv",
+  "Does_RLHF_Scale_Exploring_the_Impacts_From_Data_Model_and_Method__arxiv",
+  "DogeRM_Equipping_Reward_Models_with_Domain_Knowledge_through_Model_Merging__arxiv",
+  "ENCORE_Entropy-guided_Reward_Composition_for_Multi-head_Safety_Reward_Models__arxiv",
+  "Efficient_Exploration_at_Scale__arxiv",
+  "Eliminating_Inductive_Bias_in_Reward_Models_with_Information-Theoretic_Guidance__arxiv",
+  "Enhancing_Reinforcement_Learning_with_Dense_Rewards_from_Language_Model_Critic__aclanthology",
+  "Enhancing_the_Traditional_Chinese_Medicine_Capabilities_of_Large_Language_Model_through_Reinforcement_Learnin__arxiv",
+  "Evolution_and_Prospects_of_Foundation_Models_From_Large_Language_Models_to_Large_Multimodal_Models__openalex",
+  "Exploring_Data_Scaling_Trends_and_Effects_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+  "Fast-Slow_Thinking_RM_Efficient_Integration_of_Scalar_and_Generative_Reward_Models__arxiv",
+  "From_Lists_to_Emojis_How_Format_Bias_Affects_Model_Alignment__arxiv",
+  "From_RLHF_to_Direct_Alignment_A_Theoretical_Unification_of_Preference_Learning_for_Large_Language_Models__arxiv",
+  "Generalizing_Reward_Modeling_for_Out-of-Distribution_Preference_Learning__arxiv",
+  "Generative_Reward_Models__arxiv",
+  "Gradient-Gated_DPO_Stabilizing_Preference_Optimization_in_Language_Models__arxiv",
+  "Gradient_Regularization_Prevents_Reward_Hacking_in_Reinforcement_Learning_from_Human_Feedback_and_Verifiable___arxiv",
+  "HRLAIF_Improvements_in_Helpfulness_and_Harmlessness_in_Open-domain_Reinforcement_Learning_From_AI_Feedback__arxiv",
+  "Hallucination_of_Multimodal_Large_Language_Models_A_Survey__openalex",
+  "Hard_Negative_Sample-Augmented_DPO_Post-Training_for_Small_Language_Models__arxiv",
+  "Harnessing_the_Power_of_Large_Language_Models_for_Natural_Language_to_First-Order_Logic_Translation__arxiv",
+  "Helpful_harmless_honest_Sociotechnical_limits_of_AI_alignment_and_safety_through_Reinforcement_Learning_from__nature",
+  "Human-in-the-Loop_Reinforcement_Learning_A_Survey_and_Position_on_Requirements_Challenges_and_Opportunitie__openalex",
+  "IPO_Your_Language_Model_is_Secretly_a_Preference_Classifier__arxiv",
+  "Igniting_Creative_Writing_in_Small_Language_Models_LLM-as-a-Judge_versus_Multi-Agent_Refined_Rewards__arxiv",
+  "Improving_Reinforcement_Learning_from_Human_Feedback_with_Efficient_Reward_Model_Ensemble__arxiv",
+  "Improving_Reinforcement_Learning_from_Human_Feedback_with_Efficient_Reward_Model_Ensemble__openalex",
+  "IterAlign_Iterative_Constitutional_Alignment_of_Large_Language_Models__aclanthology",
+  "Large_Language_Models_A_Survey__openalex",
+  "Large_Language_Models_are_biased_to_overestimate_profoundness__aclanthology",
+  "Large_Language_Models_for_Data_Annotation_and_Synthesis_A_Survey__openalex",
+  "Learning_to_summarize_user_information_for_personalized_reinforcement_learning_from_human_feedback__arxiv",
+  "MedAide_Leveraging_Large_Language_Models_for_On-Premise_Medical_Assistance_on_Edge_Devices__arxiv",
+  "Mitigating_Length_Bias_in_RLHF_through_a_Causal_Lens__arxiv",
+  "OPPO_Accelerating_PPO-based_RLHF_via_Pipeline_Overlap__arxiv",
+  "Offline_Regularised_Reinforcement_Learning_for_Large_Language_Models_Alignment__arxiv",
+  "Okapi_Instruction-tuned_Large_Language_Models_in_Multiple_Languages_with_Reinforcement_Learning_from_Human_Fe__arxiv",
+  "On_the_Algorithmic_Bias_of_Aligning_Large_Language_Models_with_RLHF_Preference_Collapse_and_Matching_Regulari__arxiv",
+  "Open_Problems_and_Fundamental_Limitations_of_Reinforcement_Learning_from_Human_Feedback__openalex",
+  "PanGu-Coder2_Boosting_Large_Language_Models_for_Code_with_Ranking_Feedback__openalex",
+  "Permutative_Preference_Alignment_from_Listwise_Ranking_of_Human_Judgments__arxiv",
+  "Policy_Gradient_Primal-Dual_Method_for_Safe_Reinforcement_Learning_from_Human_Feedback__arxiv",
+  "Post-hoc_Reward_Calibration_A_Case_Study_on_Length_Bias__arxiv",
+  "Principle-Driven_Self-Alignment_of_Language_Models_from_Scratch_with_Minimal_Human_Supervision__arxiv",
+  "Principled_Reinforcement_Learning_with_Human_Feedback_from_Pairwise_or_K_-wise_Comparisons__openalex",
+  "Privacy-Preserving_Reinforcement_Learning_from_Human_Feedback_via_Decoupled_Reward_Modeling__arxiv",
+  "Probabilistic_Uncertain_Reward_Model__arxiv",
+  "R-Align_Enhancing_Generative_Reward_Models_through_Rationale-Centric_Meta-Judging__arxiv",
+  "RL4F_Generating_Natural_Language_Feedback_with_Reinforcement_Learning_for_Repairing_Model_Outputs__aclanthology",
+  "RLHF_A_comprehensive_Survey_for_Cultural_Multimodal_and_Low_Latency_Alignment_Methods__arxiv",
+  "RLHF_Deciphered_A_Critical_Analysis_of_Reinforcement_Learning_from_Human_Feedback_for_LLMs__arxiv",
+  "RRHF_Rank_Responses_to_Align_Language_Models_with_Human_Feedback_without_tears__arxiv",
+  "RRHF_Rank_Responses_to_Align_Language_Models_with_Human_Feedback_without_tears__openalex",
+  "RS-DPO_A_Hybrid_Rejection_Sampling_and_Direct_Preference_Optimization_Method_for_Alignment_of_Large_Language___arxiv",
+  "ReMax_A_Simple_Effective_and_Efficient_Reinforcement_Learning_Method_for_Aligning_Large_Language_Models__arxiv",
+  "ReflectRM_Boosting_Generative_Reward_Models_via_Self-Reflection_within_a_Unified_Judgment_Framework__arxiv",
+  "Regularizing_Hidden_States_Enables_Learning_Generalizable_Reward_Model_for_LLMs__arxiv",
+  "Reinforcement_Learning_Enhanced_LLMs_A_Survey__arxiv",
+  "Reinforcement_Learning_from_Human_Feedback_A_Statistical_Perspective__arxiv",
+  "Reinforcement_Learning_from_Human_Feedback_with_Active_Queries__arxiv",
+  "Reinforcement_Learning_from_Human_Feedback_with_High-Confidence_Safety_Constraints__arxiv",
+  "Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey__openalex",
+  "Reusing_Embeddings_Reproducible_Reward_Model_Research_in_Large_Language_Model_Alignment_without_GPUs__arxiv",
+  "Reviving_The_Classics_Active_Reward_Modeling_in_Large_Language_Model_Alignment__arxiv",
+  "Reward_Model_Ensembles_Help_Mitigate_Overoptimization__arxiv",
+  "Reward_Shaping_to_Mitigate_Reward_Hacking_in_RLHF__arxiv",
+  "Robust_Reinforcement_Learning_from_Human_Feedback_for_Large_Language_Models_Fine-Tuning__arxiv",
+  "SERL_Self-Examining_Reinforcement_Learning_on_Open-Domain__arxiv",
+  "STA-RLHF_Stackelberg_Aligned_Reinforcement_Learning_with_Human_Feedback__openreview",
+  "Safe_RLHF_Safe_Reinforcement_Learning_from_Human_Feedback__arxiv",
+  "Scaling_Laws_for_Reward_Model_Overoptimization_in_Direct_Alignment_Algorithms__arxiv",
+  "SeRA_Self-Reviewing_and_Alignment_of_Large_Language_Models_using_Implicit_Reward_Margins__arxiv",
+  "Secrets_of_RLHF_in_Large_Language_Models_Part_II_Reward_Modeling__arxiv",
+  "Secrets_of_RLHF_in_Large_Language_Models_Part_I_PPO__openalex",
+  "Seeing_Eye_to_AI_Human_Alignment_via_Gaze-Based_Response_Rewards_for_Large_Language_Models__arxiv",
+  "Self-Evolved_Reward_Learning_for_LLMs__arxiv",
+  "Self-Exploring_Language_Models_Active_Preference_Elicitation_for_Online_Alignment__arxiv",
+  "Self-Generated_Critiques_Boost_Reward_Modeling_for_Language_Models__arxiv",
+  "Siren_s_Song_in_the_AI_Ocean_A_Survey_on_Hallucination_in_Large_Language_Models__openalex",
+  "SuperHF_Supervised_Iterative_Learning_from_Human_Feedback__arxiv",
+  "SuperHF_Supervised_Iterative_Learning_from_Human_Feedback__openalex",
+  "Symmetric_Reinforcement_Learning_Loss_for_Robust_Learning_on_Diverse_Tasks_and_Model_Scales__arxiv",
+  "Teaching_Large_Language_Models_to_Reason_with_Reinforcement_Learning__arxiv",
+  "The_Alignment_Ceiling_Objective_Mismatch_in_Reinforcement_Learning_from_Human_Feedback__arxiv",
+  "The_future_landscape_of_large_language_models_in_medicine__nature",
+  "Think-RM_Enabling_Long-Horizon_Reasoning_in_Generative_Reward_Models__arxiv",
+  "Towards_Faithful_and_Controllable_Personalization_via_Critique-Post-Edit_Reinforcement_Learning__arxiv",
+  "Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback__arxiv",
+  "Trustworthy_LLMs_a_Survey_and_Guideline_for_Evaluating_Large_Language_Models_Alignment__openalex",
+  "Uncertainty_Quantification_for_Large_Language_Model_Reward_Learning_under_Heterogeneous_Human_Feedback__arxiv",
+  "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__openalex",
+  "Verbosity_Bias_in_Preference_Labeling_by_Large_Language_Models__arxiv",
+  "When_large_language_models_meet_personalization_perspectives_of_challenges_and_opportunities__nature",
+  "Zeroth-Order_Optimization_Meets_Human_Feedback_Provable_Learning_via_Ranking_Oracles__openalex",
+  "Zeroth-Order_Policy_Gradient_for_Reinforcement_Learning_from_Human_Feedback_without_Reward_Inference__arxiv",
+  "Zeroth-Order_Policy_Gradient_for_Reinforcement_Learning_from_Human_Feedback_without_Reward_Inference__openalex"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 1,
+   "paper_id": "ARES_Alternating_Reinforcement_Learning_and_Supervised_Fine-Tuning_for_Enhanced_Multi-Modal_Chain-of-T__aclanthology",
+   "title": "ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback",
+   "doi": "10.48550/arXiv.2407.00087",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.252/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Comprehensive_Overview_of_Large_Language_Models__openalex",
+   "title": "A Comprehensive Overview of Large Language Models",
+   "doi": "10.48550/arxiv.2307.06435",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384389802",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_of_Large_Language_Models__nature",
+   "title": "A Survey of Large Language Models",
+   "doi": "10.1007/s11704-026-60308-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4362515116",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_on_Data_Synthesis_and_Augmentation_for_Large_Language_Models__openalex",
+   "title": "A Survey on Data Synthesis and Augmentation for Large Language Models",
+   "doi": "10.48550/arxiv.2410.12896",
+   "source": "openalex",
+   "url": "https://openalex.org/W4403578783",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_on_Knowledge_Distillation_of_Large_Language_Models__openalex",
+   "title": "A Survey on Knowledge Distillation of Large Language Models",
+   "doi": "10.48550/arxiv.2402.13116",
+   "source": "openalex",
+   "url": "https://openalex.org/W4392019445",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_on_Large_Language_Models_for_Code_Generation__openalex",
+   "title": "A Survey on Large Language Models for Code Generation",
+   "doi": "10.48550/arxiv.2406.00515",
+   "source": "openalex",
+   "url": "https://openalex.org/W4399357038",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_on_Multimodal_Large_Language_Models__openalex",
+   "title": "A Survey on Multimodal Large Language Models",
+   "doi": "10.48550/arxiv.2306.13549",
+   "source": "openalex",
+   "url": "https://openalex.org/W4382132560",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Aligning_Large_Language_Models_with_Human_A_Survey__openalex",
+   "title": "Aligning Large Language Models with Human: A Survey",
+   "doi": "10.48550/arxiv.2307.12966",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385262268",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Aligning_Large_Multimodal_Models_with_Factually_Augmented_RLHF__arxiv",
+   "title": "Aligning Large Multimodal Models with Factually Augmented RLHF",
+   "doi": "10.48550/arXiv.2309.14525",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/844bb298d49ef4a07b5d4929dfdfd170f6a1d5f5",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "AlpacaFarm_A_Simulation_Framework_for_Methods_that_Learn_from_Human_Feedback__openalex",
+   "title": "AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback",
+   "doi": "10.48550/arxiv.2305.14387",
+   "source": "openalex",
+   "url": "https://openalex.org/W4378468563",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Automatically_Correcting_Large_Language_Models_Surveying_the_landscape_of_diverse_self-correction_strategi__openalex",
+   "title": "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies",
+   "doi": "10.48550/arxiv.2308.03188",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385681611",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Baichuan_2_Open_Large-scale_Language_Models__openalex",
+   "title": "Baichuan 2: Open Large-scale Language Models",
+   "doi": "10.48550/arxiv.2309.10305",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386942538",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Benchmarking_Hallucination_in_Large_Language_Models_Based_on_Unanswerable_Math_Word_Problem__aclanthology",
+   "title": "Benchmarking Hallucination in Large Language Models Based on Unanswerable Math Word Problem",
+   "doi": "10.48550/arXiv.2403.03558",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.196/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Can_Large_Language_Models_Be_an_Alternative_to_Human_Evaluations__openalex",
+   "title": "Can Large Language Models Be an Alternative to Human Evaluations?",
+   "doi": "10.18653/v1/2023.acl-long.870",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385571232",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Can_Open_Large_Language_Models_Catch_Vulnerabilities__openalex",
+   "title": "Can Open Large Language Models Catch Vulnerabilities?",
+   "doi": "10.4230/oasics.icpec.2025.4",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406779522",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Causal_Reasoning_and_Large_Language_Models_Opening_a_New_Frontier_for_Causality__openalex",
+   "title": "Causal Reasoning and Large Language Models: Opening a New Frontier for Causality",
+   "doi": "10.48550/arxiv.2305.00050",
+   "source": "openalex",
+   "url": "https://openalex.org/W4367692219",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Chain_of_Hindsight_Aligns_Language_Models_with_Feedback__openalex",
+   "title": "Chain of Hindsight Aligns Language Models with Feedback",
+   "doi": "10.48550/arxiv.2302.02676",
+   "source": "openalex",
+   "url": "https://openalex.org/W4319453300",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Challenges_and_Applications_of_Large_Language_Models__openalex",
+   "title": "Challenges and Applications of Large Language Models",
+   "doi": "10.48550/arxiv.2307.10169",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384920109",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancing_Reinforcement_Learning_with_Dense_Rewards_from_Language_Model_Critic__aclanthology",
+   "title": "Enhancing Reinforcement Learning with Dense Rewards from Language Model Critic",
+   "doi": "10.18653/v1/2024.emnlp-main.515",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.515/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Evolution_and_Prospects_of_Foundation_Models_From_Large_Language_Models_to_Large_Multimodal_Models__openalex",
+   "title": "Evolution and Prospects of Foundation Models: From Large Language Models to Large Multimodal Models",
+   "doi": "10.32604/cmc.2024.052618",
+   "source": "openalex",
+   "url": "https://openalex.org/W4401615828",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Hallucination_of_Multimodal_Large_Language_Models_A_Survey__openalex",
+   "title": "Hallucination of Multimodal Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2404.18930",
+   "source": "openalex",
+   "url": "https://openalex.org/W4396821279",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Harnessing_the_Power_of_Large_Language_Models_for_Natural_Language_to_First-Order_Logic_Translation__arxiv",
+   "title": "Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation",
+   "doi": "10.48550/arXiv.2305.15541",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/e4e625f8e8ae5ee82e75de5ad6e07af57cca7f53",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Helpful_harmless_honest_Sociotechnical_limits_of_AI_alignment_and_safety_through_Reinforcement_Learning_from__nature",
+   "title": "Helpful, harmless, honest? Sociotechnical limits of AI alignment and safety through Reinforcement Learning from Human Feedback",
+   "doi": "10.1007/s10676-025-09837-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W4411039658",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Human-in-the-Loop_Reinforcement_Learning_A_Survey_and_Position_on_Requirements_Challenges_and_Opportunitie__openalex",
+   "title": "Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities",
+   "doi": "10.1613/jair.1.15348",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391399751",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "IterAlign_Iterative_Constitutional_Alignment_of_Large_Language_Models__aclanthology",
+   "title": "IterAlign: Iterative Constitutional Alignment of Large Language Models",
+   "doi": "10.48550/arXiv.2403.18341",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.78/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Large_Language_Models_are_biased_to_overestimate_profoundness__aclanthology",
+   "title": "Large Language Models are biased to overestimate profoundness",
+   "doi": "10.18653/v1/2023.emnlp-main.599",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/d0ffb09a00b67365efb9e217c3fd45d804733810",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Large_Language_Models_for_Data_Annotation_and_Synthesis_A_Survey__openalex",
+   "title": "Large Language Models for Data Annotation and Synthesis: A Survey",
+   "doi": "10.18653/v1/2024.emnlp-main.54",
+   "source": "openalex",
+   "url": "https://openalex.org/W4404783774",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "PanGu-Coder2_Boosting_Large_Language_Models_for_Code_with_Ranking_Feedback__openalex",
+   "title": "PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback",
+   "doi": "10.48550/arxiv.2307.14936",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385373622",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "RL4F_Generating_Natural_Language_Feedback_with_Reinforcement_Learning_for_Repairing_Model_Outputs__aclanthology",
+   "title": "RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs",
+   "doi": "10.48550/arXiv.2305.08844",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.acl-long.427/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Siren_s_Song_in_the_AI_Ocean_A_Survey_on_Hallucination_in_Large_Language_Models__openalex",
+   "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+   "doi": "10.48550/arxiv.2309.01219",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386501849",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "The_future_landscape_of_large_language_models_in_medicine__nature",
+   "title": "The future landscape of large language models in medicine",
+   "doi": "10.1038/s43856-023-00370-1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387500346",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Trustworthy_LLMs_a_Survey_and_Guideline_for_Evaluating_Large_Language_Models_Alignment__openalex",
+   "title": "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment",
+   "doi": "10.48550/arxiv.2308.05374",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385774833",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__openalex",
+   "title": "Unleashing the potential of prompt engineering for large language models",
+   "doi": "10.48550/arxiv.2310.14735",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387929411",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "When_large_language_models_meet_personalization_perspectives_of_challenges_and_opportunities__nature",
+   "title": "When large language models meet personalization: perspectives of challenges and opportunities",
+   "doi": "10.1007/s11280-024-01276-1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4400118952",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Zeroth-Order_Optimization_Meets_Human_Feedback_Provable_Learning_via_Ranking_Oracles__openalex",
+   "title": "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles",
+   "doi": "10.48550/arxiv.2303.03751",
+   "source": "openalex",
+   "url": "https://openalex.org/W4323650814",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "cs",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/cs/RLHF_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_cs/RLHF_02",
+ "seed_set_matches_run_id": true,
+ "target_total_papers": 250,
+ "actual_total_papers": 134,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}

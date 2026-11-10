@@ -1,0 +1,1192 @@
+{
+ "batch": "r10",
+ "run": "COF_03",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Highly_stable_-ketoenamine-based_covalent_organic_frameworks_COFs_synthesis_and_optoelectrical_applications__nature",
+   "title": "Highly stable β-ketoenamine-based covalent organic frameworks (COFs): synthesis and optoelectrical applications",
+   "doi": "10.1007/s12200-022-00032-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W4296352778"
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal-organic_frameworks_MOFs_and_covalent_organic_frameworks_COFs_-based_prototyping_of_integrated_sensin__openalex",
+   "title": "Metal-organic frameworks (MOFs) and covalent organic frameworks (COFs)-based prototyping of integrated sensing devices for robust analysis",
+   "doi": "10.1016/j.trac.2024.117678",
+   "source": "openalex",
+   "url": "https://openalex.org/W4393346370"
+  },
+  {
+   "round": 1,
+   "paper_id": "Facile_transformation_of_imine_covalent_organic_frameworks_into_ultrastable_crystalline_porous_aromatic_fram__nature",
+   "title": "Facile transformation of imine covalent organic frameworks into ultrastable crystalline porous aromatic frameworks",
+   "doi": "10.1038/s41467-018-05462-4",
+   "source": "openalex",
+   "url": "https://openalex.org/W2884964692"
+  },
+  {
+   "round": 1,
+   "paper_id": "Architectural_design_of_2D_covalent_organic_frameworks_COFs_for_pharmaceutical_pollutant_removal__nature",
+   "title": "Architectural design of 2D covalent organic frameworks (COFs) for pharmaceutical pollutant removal",
+   "doi": "10.1038/s41545-024-00315-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41545-024-00315-8"
+  },
+  {
+   "round": 1,
+   "paper_id": "Advanced_porous_covalent_organic_framework_COF_materials_for_the_capture_of_alizarin_dye_and_its_derivatives__nature",
+   "title": "Advanced porous covalent organic framework (COF) materials for the capture of alizarin dye and its derivatives from the aquatic environment",
+   "doi": "10.1007/s13201-024-02242-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s13201-024-02242-y"
+  },
+  {
+   "round": 1,
+   "paper_id": "Application_of_covalent_organic_frameworks_and_metal_organic_frameworks_nanomaterials_in_organic_inorganic_p__nature",
+   "title": "Application of covalent organic frameworks and metal–organic frameworks nanomaterials in organic/inorganic pollutants removal from solutions through sorption-catalysis strategies",
+   "doi": "10.1007/s44246-023-00041-9",
+   "source": "openalex",
+   "url": "https://openalex.org/W4319661285"
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_integration_of_polymers_and_porous_organic_frameworks__openalex",
+   "title": "Covalent integration of polymers and porous organic frameworks",
+   "doi": "10.3389/fchem.2024.1502401",
+   "source": "openalex",
+   "url": "https://openalex.org/W4405560907"
+  },
+  {
+   "round": 1,
+   "paper_id": "Viologen-linked_covalent_organic_frameworks_a_charged_and_redox-active_platform_for_functional_materials__openalex",
+   "title": "Viologen-linked covalent organic frameworks: a charged and redox-active platform for functional materials",
+   "doi": "10.1088/2752-5724/ae8fef",
+   "source": "openalex",
+   "url": "https://openalex.org/W7170326159"
+  },
+  {
+   "round": 1,
+   "paper_id": "Recent_progress_on_covalent_organic_frameworks_and_their_composites_as_electrode_materials_for_supercapacito__nature",
+   "title": "Recent progress on covalent organic frameworks and their composites as electrode materials for supercapacitors",
+   "doi": "10.1007/s42114-024-01177-x",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_Organic_Framework_COFs_in_Targeted_Drug_Delivery_and_Therapeutics_A_Critical_Review__openalex",
+   "title": "Covalent Organic Framework (COFs) in Targeted Drug Delivery and Therapeutics: A Critical Review",
+   "doi": "10.56425/cma.v5i1.130",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Microwave_Assisted_Synthesis_of_Covalent_Organic_Frameworks_A_Review__openalex",
+   "title": "Microwave‐Assisted Synthesis of Covalent Organic Frameworks: A Review",
+   "doi": "10.1002/cssc.202001865",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_immobilization_of_metal_organic_frameworks_onto_the_surface_of_nylon_a_new_approach_to_the_function__nature",
+   "title": "Covalent immobilization of metal–organic frameworks onto the surface of nylon—a new approach to the functionalization and coloration of textiles",
+   "doi": "10.1038/srep22796",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_organic_framework_COF_-enhanced_carbon_hollow_sphere_CS_a_novel_nano-porous_material_for_robust_epo__nature",
+   "title": "Covalent organic framework (COF)-enhanced carbon hollow sphere (CS): a novel nano-porous material for robust epoxy composite coating intelligent corrosion protection",
+   "doi": "10.1007/s42114-025-01408-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Two-dimensional_semiconducting_covalent_organic_frameworks_via_condensation_at_arylmethyl_carbon_atoms__nature",
+   "title": "Two-dimensional semiconducting covalent organic frameworks via condensation at arylmethyl carbon atoms",
+   "doi": "10.1038/s41467-019-10504-6",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Porous_Dithiine-Linked_Covalent_Organic_Framework_as_a_Dynamic_Platform_for_Covalent_Polysulfide_Anchoring__openalex",
+   "title": "Porous Dithiine-Linked Covalent Organic Framework as a Dynamic Platform for Covalent Polysulfide Anchoring in Lithium–Sulfur Battery Cathodes",
+   "doi": "10.1021/jacs.2c02346",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Toward_azo-linked_covalent_organic_frameworks_by_developing_linkage_chemistry_via_linker_exchange__nature",
+   "title": "Toward azo-linked covalent organic frameworks by developing linkage chemistry via linker exchange",
+   "doi": "10.1038/s41467-022-29814-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Organic_Covalent_Interaction_based_Frameworks_as_Emerging_Catalysts_for_Environment_and_Energy_Application__openalex",
+   "title": "Organic Covalent Interaction‐based Frameworks as Emerging Catalysts for Environment and Energy Applications: Current Scenario and Opportunities",
+   "doi": "10.1002/asia.202300196",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent-Organic_Frameworks_Composed_of_Rhenium_Bipyridine_and_Metal_Porphyrins_Designing_Heterobimetallic__openalex",
+   "title": "Covalent-Organic Frameworks Composed of Rhenium Bipyridine and Metal Porphyrins: Designing Heterobimetallic Frameworks with Two Distinct Metal Sites",
+   "doi": "10.1021/acsami.8b07795",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Hierarchies_of_Hofstadter_butterflies_in_2D_covalent_organic_frameworks__nature",
+   "title": "Hierarchies of Hofstadter butterflies in 2D covalent organic frameworks",
+   "doi": "10.1038/s41699-023-00378-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Ultramicroporous_covalent_organic_framework_membranes_with_fortified_hydrogen-bond_networks_for_high-perform__nature",
+   "title": "Ultramicroporous covalent organic framework membranes with fortified hydrogen-bond networks for high-performance desalination",
+   "doi": "10.1038/s41467-026-69779-1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Sequential_Pore_Wall_Modification_in_a_Covalent_Organic_Framework_for_Application_in_Lactic_Acid_Adsorptio__openalex",
+   "title": "Sequential Pore Wall Modification in a Covalent Organic Framework for Application in Lactic Acid Adsorption",
+   "doi": "10.1021/acs.chemmater.5b04388",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Imparting_multi-functionality_to_covalent_organic_framework_nanoparticles_by_the_dual-ligand_assistant_encap__nature",
+   "title": "Imparting multi-functionality to covalent organic framework nanoparticles by the dual-ligand assistant encapsulation strategy",
+   "doi": "10.1038/s41467-021-24838-7",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "PSYMOF_computational_workflow_enabling_systematic_post-synthesis_modification_of_metal-organic_frameworks__nature",
+   "title": "PSYMOF: computational workflow enabling systematic post-synthesis modification of metal-organic frameworks",
+   "doi": "10.1038/s41524-025-01888-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Giant_gateable_thermoelectric_conversion_by_tuning_the_ion_linkage_interactions_in_covalent_organic_framewor__nature",
+   "title": "Giant gateable thermoelectric conversion by tuning the ion linkage interactions in covalent organic framework membranes",
+   "doi": "10.1038/s41467-024-52487-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Reverse_filling_approach_to_mixed_matrix_covalent_organic_framework_membranes_for_gas_separation__nature",
+   "title": "Reverse filling approach to mixed matrix covalent organic framework membranes for gas separation",
+   "doi": "10.1038/s41467-025-56770-5",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Cu-based_metal_organic_frameworks_synthesis_biomedical_applications_and_beyond__nature",
+   "title": "Cu-based metal–organic frameworks: synthesis, biomedical applications, and beyond",
+   "doi": "10.1186/s11671-026-04499-5",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Post-synthetic_modification_of_Zr-based_metal_organic_framework_by_schiff_base_zinc_complex_for_catalytic_ap__nature",
+   "title": "Post-synthetic modification of Zr-based metal organic framework by schiff base zinc complex for catalytic applications in a click reaction",
+   "doi": "10.1038/s41598-024-76199-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal-organic_framework_functionalization_and_design_strategies_for_advanced_electrochemical_energy_storage___nature",
+   "title": "Metal-organic framework functionalization and design strategies for advanced electrochemical energy storage devices",
+   "doi": "10.1038/s42004-019-0184-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Stabilisation_strategies_for_useful_COFs__nature",
+   "title": "Stabilisation strategies for useful COFs",
+   "doi": "10.1557/s43579-026-01023-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal_cluster_confinement_in_MOFs_and_COFs_Advanced_synthesis_strategies_and_applications_in_photocatalysi__openalex",
+   "title": "Metal cluster confinement in MOFs and COFs: Advanced synthesis strategies and applications in photocatalysis",
+   "doi": "10.26599/pom.2026.9140122",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Porphyrin-Containing_MOFs_and_COFs_as_Heterogeneous_Photosensitizers_for_Singlet_Oxygen-Based_Antimicrobia__openalex",
+   "title": "Porphyrin-Containing MOFs and COFs as Heterogeneous Photosensitizers for Singlet Oxygen-Based Antimicrobial Nanodevices",
+   "doi": "10.1021/acsami.1c05234",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Natalia_Shustova_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+   "title": "Natalia Shustova answers questions about 15 years of research on covalent organic frameworks",
+   "doi": "10.1038/s41467-020-19299-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Yi_Liu_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+   "title": "Yi Liu answers questions about 15 years of research on covalent organic frameworks",
+   "doi": "10.1038/s41467-020-19301-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Xiaodong_Zou_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+   "title": "Xiaodong Zou answers questions about 15 years of research on covalent organic frameworks",
+   "doi": "10.1038/s41467-020-19300-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Donglin_Jiang_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+   "title": "Donglin Jiang answers questions about 15 years of research on covalent organic frameworks",
+   "doi": "10.1038/s41467-020-19302-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Perfluoroalkyl-modified_covalent_organic_frameworks_for_continuous_photocatalytic_hydrogen_peroxide_synthesi__nature",
+   "title": "Perfluoroalkyl-modified covalent organic frameworks for continuous photocatalytic hydrogen peroxide synthesis and extraction in a biphasic fluid system",
+   "doi": "10.1038/s41467-024-52405-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_organic_frameworks_modified_with_silver_nanoparticles_as_substrates_for_label-free_SERS_detection_o__nature",
+   "title": "Covalent organic frameworks modified with silver nanoparticles as substrates for label-free SERS detection of fungicides",
+   "doi": "10.1007/s11694-024-02368-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Why_covalent_organic_frameworks_grow_twisted_on_graphite__nature",
+   "title": "Why covalent organic frameworks grow twisted on graphite",
+   "doi": "10.1038/s41467-025-67598-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Redox-triggered_switching_in_three-dimensional_covalent_organic_frameworks__nature",
+   "title": "Redox-triggered switching in three-dimensional covalent organic frameworks",
+   "doi": "10.1038/s41467-020-18588-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Exploiting_sulfonated_covalent_organic_frameworks_to_fabricate_long-lasting_stability_and_chlorine-resistant__nature",
+   "title": "Exploiting sulfonated covalent organic frameworks to fabricate long-lasting stability and chlorine-resistant thin-film nanocomposite nanofiltration membrane",
+   "doi": "10.1038/s41545-024-00320-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Dimensional_evolution_of_charge_mobility_and_porosity_in_covalent_organic_frameworks__nature",
+   "title": "Dimensional evolution of charge mobility and porosity in covalent organic frameworks",
+   "doi": "10.1038/s41467-025-57436-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Post-synthetic_Ti_Exchanged_UiO-66_Metal-Organic_Frameworks_that_Deliver_Exceptional_Gas_Permeability_in_Mix__nature",
+   "title": "Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes",
+   "doi": "10.1038/srep07823",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Organic_Redox_Species_in_Aqueous_Flow_Batteries_Redox_Potentials_Chemical_Stability_and_Solubility__nature",
+   "title": "Organic Redox Species in Aqueous Flow Batteries: Redox Potentials, Chemical Stability and Solubility",
+   "doi": "10.1038/srep39101",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Water_cluster_in_hydrophobic_crystalline_porous_covalent_organic_frameworks__nature",
+   "title": "Water cluster in hydrophobic crystalline porous covalent organic frameworks",
+   "doi": "10.1038/s41467-021-27128-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Rational_design_of_crystalline_supermicroporous_covalent_organic_frameworks_with_triangular_topologies__nature",
+   "title": "Rational design of crystalline supermicroporous covalent organic frameworks with triangular topologies",
+   "doi": "10.1038/ncomms8786",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Three-dimensional_metal-intercalated_covalent_organic_frameworks_for_near-ambient_energy_storage__nature",
+   "title": "Three-dimensional metal-intercalated covalent organic frameworks for near-ambient energy storage",
+   "doi": "10.1038/srep01882",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Proposing_two-dimensional_covalent_organic_frameworks_material_for_the_capture_of_phenol_molecules_from_wast__nature",
+   "title": "Proposing two-dimensional covalent organic frameworks material for the capture of phenol molecules from wastewaters",
+   "doi": "10.1038/s41545-022-00173-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Nitrogen_heterocyclic_covalent_organic_frameworks_for_efficient_H2O2_photosynthesis_and_in_situ_water_treatm__nature",
+   "title": "Nitrogen heterocyclic covalent organic frameworks for efficient H2O2 photosynthesis and in situ water treatment",
+   "doi": "10.1038/s41467-025-62371-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Band_engineering_in_two-dimensional_porphyrin-_and_phthalocyanine-based_covalent_organic_frameworks_insight___nature",
+   "title": "Band engineering in two-dimensional porphyrin- and phthalocyanine-based covalent organic frameworks: insight from molecular design",
+   "doi": "10.1007/s44275-024-00007-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Sub-stoichiometric_2D_covalent_organic_frameworks_from_tri-_and_tetratopic_linkers__nature",
+   "title": "Sub-stoichiometric 2D covalent organic frameworks from tri- and tetratopic linkers",
+   "doi": "10.1038/s41467-019-10574-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "The_dynamics_of_stacking_in_layered_covalent_organic_frameworks__nature",
+   "title": "The dynamics of stacking in layered covalent organic frameworks",
+   "doi": "10.1007/s00706-025-03412-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Steric_effect_of_intermediates_induces_formation_of_three-dimensional_covalent_organic_frameworks__nature",
+   "title": "Steric effect of intermediates induces formation of three-dimensional covalent organic frameworks",
+   "doi": "10.1038/s41467-025-61373-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Bottom-up_synthesis_of_chiral_covalent_organic_frameworks_and_their_bound_capillaries_for_chiral_separation__nature",
+   "title": "Bottom-up synthesis of chiral covalent organic frameworks and their bound capillaries for chiral separation",
+   "doi": "10.1038/ncomms12104",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Towards_the_room-temperature_synthesis_of_covalent_organic_frameworks_a_mini-review__nature",
+   "title": "Towards the room-temperature synthesis of covalent organic frameworks: a mini-review",
+   "doi": "10.1007/s10853-020-05308-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Author_Correction_Bottom-up_synthesis_of_chiral_covalent_organic_frameworks_and_their_bound_capillaries_for___nature",
+   "title": "Author Correction: Bottom-up synthesis of chiral covalent organic frameworks and their bound capillaries for chiral separation",
+   "doi": "10.1038/s41467-019-08947-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Designed_synthesis_of_large-pore_crystalline_polyimide_covalent_organic_frameworks__nature",
+   "title": "Designed synthesis of large-pore crystalline polyimide covalent organic frameworks",
+   "doi": "10.1038/ncomms5503",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Designed_synthesis_of_stable_light-emitting_two-dimensional_sp2_carbon-conjugated_covalent_organic_framework__nature",
+   "title": "Designed synthesis of stable light-emitting two-dimensional sp2 carbon-conjugated covalent organic frameworks",
+   "doi": "10.1038/s41467-018-06719-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Designed_synthesis_of_double-stage_two-dimensional_covalent_organic_frameworks__nature",
+   "title": "Designed synthesis of double-stage two-dimensional covalent organic frameworks",
+   "doi": "10.1038/srep14650",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Biomimetic_synthesis_of_vesicular_covalent_organic_frameworks_by_gemini_surfactants_for_in-situ_enzyme_casca__nature",
+   "title": "Biomimetic synthesis of vesicular covalent organic frameworks by gemini surfactants for in-situ enzyme cascade immobilization",
+   "doi": "10.1038/s41467-025-60719-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Unlocking_stable_iodine_capture_in_2D_COFs_insights_from_DFT_combined_with_multiscale_descriptors_driven_mac__nature",
+   "title": "Unlocking stable iodine capture in 2D COFs: insights from DFT combined with multiscale−descriptors−driven machine learning",
+   "doi": "10.1038/s41524-026-02121-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Constructing_Donor_Acceptor-Linked_COFs_Electrolytes_to_Regulate_Electron_Density_and_Accelerate_the_Li_Migr__nature",
+   "title": "Constructing Donor–Acceptor-Linked COFs Electrolytes to Regulate Electron Density and Accelerate the Li+ Migration in Quasi-Solid-State Battery",
+   "doi": "10.1007/s40820-024-01509-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Green_synthesis_of_olefin-linked_covalent_organic_frameworks_for_hydrogen_fuel_cell_applications__nature",
+   "title": "Green synthesis of olefin-linked covalent organic frameworks for hydrogen fuel cell applications",
+   "doi": "10.1038/s41467-021-22288-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Fine-tuning_the_pore_environment_of_ultramicroporous_three-dimensional_covalent_organic_frameworks_for_effic__nature",
+   "title": "Fine-tuning the pore environment of ultramicroporous three-dimensional covalent organic frameworks for efficient one-step ethylene purification",
+   "doi": "10.1038/s41467-024-47377-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-47377-3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Pore_partition_in_two-dimensional_covalent_organic_frameworks__nature",
+   "title": "Pore partition in two-dimensional covalent organic frameworks",
+   "doi": "10.1038/s41467-023-39126-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-023-39126-9"
+  },
+  {
+   "round": 3,
+   "paper_id": "Pore_surface_engineering_in_covalent_organic_frameworks__nature",
+   "title": "Pore surface engineering in covalent organic frameworks",
+   "doi": "10.1038/ncomms1542",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/ncomms1542"
+  },
+  {
+   "round": 3,
+   "paper_id": "Engineering_the_pore_environment_of_antiparallel_stacked_covalent_organic_frameworks_for_capture_of_iodine_p__nature",
+   "title": "Engineering the pore environment of antiparallel stacked covalent organic frameworks for capture of iodine pollutants",
+   "doi": "10.1038/s41467-024-46942-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-46942-0"
+  },
+  {
+   "round": 3,
+   "paper_id": "Breaking_the_catalysis-quenching_dilemma_in_covalent_organic_frameworks_with_metal_single-atom_sites_for_enh__nature",
+   "title": "Breaking the catalysis-quenching dilemma in covalent organic frameworks with metal single-atom sites for enhanced electrochemiluminescence",
+   "doi": "10.1038/s41467-026-72727-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-026-72727-8"
+  },
+  {
+   "round": 3,
+   "paper_id": "Chemical_applicability_and_computation_of_K-Banhatti_indices_for_benzenoid_hydrocarbons_and_triazine-based_c__nature",
+   "title": "Chemical applicability and computation of K-Banhatti indices for benzenoid hydrocarbons and triazine-based covalent organic frameworks",
+   "doi": "10.1038/s41598-023-45061-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Ground-state_charge_transfer_in_single-molecule_junctions_covalent_organic_frameworks_for_boosting_photocata__nature",
+   "title": "Ground-state charge transfer in single-molecule junctions covalent organic frameworks for boosting photocatalytic hydrogen evolution",
+   "doi": "10.1038/s41467-025-57662-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Alternating-sequence_polymer_chain_facilitating_Li_transport_in_covalent_organic_frameworks__nature",
+   "title": "Alternating-sequence polymer chain facilitating Li+ transport in covalent organic frameworks",
+   "doi": "10.1038/s41467-026-70591-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Efficient_selective_removal_of_uremic_toxin_precursor_by_olefin-linked_covalent_organic_frameworks_for_nephr__nature",
+   "title": "Efficient selective removal of uremic toxin precursor by olefin-linked covalent organic frameworks for nephropathy treatment",
+   "doi": "10.1038/s41467-023-38427-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Engineering_chiral_porous_metal-organic_frameworks_for_enantioselective_adsorption_and_separation__nature",
+   "title": "Engineering chiral porous metal-organic frameworks for enantioselective adsorption and separation",
+   "doi": "10.1038/ncomms5406",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_progress_of_covalent_organic_frameworks_in_high_selective_separation_of_radionuclides__nature",
+   "title": "Recent progress of covalent organic frameworks in high selective separation of radionuclides",
+   "doi": "10.1007/s44246-024-00137-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Chemical_Reactions_at_Isolated_Single-Sites_Inside_Metal_Organic_Frameworks__nature",
+   "title": "Chemical Reactions at Isolated Single-Sites Inside Metal–Organic Frameworks",
+   "doi": "10.1007/s10562-018-2432-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Lanthanide_Metal-Organic_Frameworks_with_Six-Coordinated_Ln_III_Ions_and_Free_Functional_Organic_Sites_for_A__nature",
+   "title": "Lanthanide Metal-Organic Frameworks with Six-Coordinated Ln(III) Ions and Free Functional Organic Sites for Adsorptions and Extensive Catalytic Activities",
+   "doi": "10.1038/srep29728",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Bringing_metal-organic_frameworks_to_commercialization__nature",
+   "title": "Bringing metal-organic frameworks to commercialization",
+   "doi": "10.1038/s43246-024-00716-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Van_der_Waals_density_functional_study_of_hydrocarbon_adsorption_and_separation_in_metal_organic_frameworks___nature",
+   "title": "Van der Waals density functional study of hydrocarbon adsorption and separation in metal–organic frameworks without open metal sites",
+   "doi": "10.1557/s43578-021-00356-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Multi-modal_conditional_diffusion_model_using_signed_distance_functions_for_metal-organic_frameworks_generat__nature",
+   "title": "Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation",
+   "doi": "10.1038/s41467-024-55390-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_frameworks_A_dielectric_in_a_cage__nature",
+   "title": "Metal–organic frameworks: A dielectric in a cage",
+   "doi": "10.1038/asiamat.2010.182",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_characterization_and_adsorption_performance_of_naphthalene-based_covalent_organic_polymer_for_high__nature",
+   "title": "Synthesis, characterization, and adsorption performance of naphthalene-based covalent organic polymer for high-efficiency methylene blue removal",
+   "doi": "10.1038/s41598-024-80723-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Gas_adsorption_meets_deep_learning_voxelizing_the_potential_energy_surface_of_metal-organic_frameworks__nature",
+   "title": "Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks",
+   "doi": "10.1038/s41598-023-50309-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Made-to-order_metal-organic_frameworks_for_trace_carbon_dioxide_removal_and_air_capture__nature",
+   "title": "Made-to-order metal-organic frameworks for trace carbon dioxide removal and air capture",
+   "doi": "10.1038/ncomms5228",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Removal_of_pharmaceutical_pollutants_by_adsorption_onto_novel_metal_organic_frameworks__nature",
+   "title": "Removal of pharmaceutical pollutants by adsorption onto novel metal–organic frameworks",
+   "doi": "10.1007/s11356-025-37232-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Amide-Linked_Donor_Acceptor_Covalent_Organic_Polymer_Photocatalysts_for_Visible-Light-Driven_Water_Oxidation__nature",
+   "title": "Amide-Linked Donor–Acceptor Covalent Organic Polymer Photocatalysts for Visible-Light-Driven Water Oxidation Without Metal Cocatalysts",
+   "doi": "10.1007/s12209-026-00481-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Visible_light_photocatalytic_degradation_of_tamoxifen_using_covalent_organic_triazine_polymer__nature",
+   "title": "Visible light photocatalytic degradation of tamoxifen using covalent organic triazine polymer",
+   "doi": "10.1038/s41598-025-27281-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Immobilized_covalent_triazine_frameworks_films_as_effective_photocatalysts_for_hydrogen_evolution_reaction__nature",
+   "title": "Immobilized covalent triazine frameworks films as effective photocatalysts for hydrogen evolution reaction",
+   "doi": "10.1038/s41467-021-26817-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Platinum-modified_covalent_triazine_frameworks_hybridized_with_carbon_nanoparticles_as_methanol-tolerant_oxy__nature",
+   "title": "Platinum-modified covalent triazine frameworks hybridized with carbon nanoparticles as methanol-tolerant oxygen reduction electrocatalysts",
+   "doi": "10.1038/ncomms6040",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Visible_light_photocatalysts_for_synthesis_of_fine_organic_chemicals_on_supported_nanostructures__edu",
+   "title": "Visible light photocatalysts for synthesis of fine organic chemicals on supported nanostructures",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Pd_and_Pd_based_alloy_nanoparticles_as_visible_light_photocatalysts_for_coupling_reactions_under_ambient_condit__edu",
+   "title": "Pd and Pd based alloy nanoparticles as visible light photocatalysts for coupling reactions under ambient conditions",
+   "doi": "10.5204/thesis.eprints.113715",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Visible_light_photocatalytic_synthesis_of_fine_organic_chemicals_with_new_photocatalysts__edu",
+   "title": "Visible light photocatalytic synthesis of fine organic chemicals with new photocatalysts",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Visible_light_photocatalysis_with_supported_metal_nanoparticles_for_organic_synthesis__edu",
+   "title": "Visible light photocatalysis with supported metal nanoparticles for organic synthesis",
+   "doi": "10.5204/thesis.eprints.103567",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Noble_metal_photocatalysts_under_visible_light_and_UV_light_irradiation__edu",
+   "title": "Noble metal photocatalysts under visible light and UV light irradiation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Symposium_-_How_effective_are_brief_motivational_interviewing_interventions_Are_they_necessary_Do_they_require___edu",
+   "title": "Symposium - How effective are brief motivational interviewing interventions : Are they necessary?  Do they require enhancement? Can they be translated into routine clinical practice?",
+   "doi": "10.1111/j.1465-3362.2012.00514.x/pdf",
+   "source": "core",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "Advanced_porous_covalent_organic_framework_COF_materials_for_the_capture_of_alizarin_dye_and_its_derivatives__nature",
+  "Advances_of_Electrochemical_and_Electrochemiluminescent_Sensors_Based_on_Covalent_Organic_Frameworks__nature",
+  "Alternating-sequence_polymer_chain_facilitating_Li_transport_in_covalent_organic_frameworks__nature",
+  "Amide-Linked_Donor_Acceptor_Covalent_Organic_Polymer_Photocatalysts_for_Visible-Light-Driven_Water_Oxidation__nature",
+  "Application_of_covalent_organic_frameworks_and_metal_organic_frameworks_nanomaterials_in_organic_inorganic_p__nature",
+  "Approaches_and_challenges_in_the_synthesis_of_three-dimensional_covalent-organic_frameworks__nature",
+  "Architectural_design_of_2D_covalent_organic_frameworks_COFs_for_pharmaceutical_pollutant_removal__nature",
+  "Author_Correction_Bottom-up_synthesis_of_chiral_covalent_organic_frameworks_and_their_bound_capillaries_for___nature",
+  "Author_Correction_Charge_transfer_in_triphenylamine_tetrazine_covalent_organic_frameworks_for_solar-driven_h__nature",
+  "Band_engineering_in_two-dimensional_porphyrin-_and_phthalocyanine-based_covalent_organic_frameworks_insight___nature",
+  "Bioinspired_design_of_Na-ion_conduction_channels_in_covalent_organic_frameworks_for_quasi-solid-state_sodium__nature",
+  "Biomimetic_synthesis_of_vesicular_covalent_organic_frameworks_by_gemini_surfactants_for_in-situ_enzyme_casca__nature",
+  "Bottom-up_synthesis_of_chiral_covalent_organic_frameworks_and_their_bound_capillaries_for_chiral_separation__nature",
+  "Breaking_the_catalysis-quenching_dilemma_in_covalent_organic_frameworks_with_metal_single-atom_sites_for_enh__nature",
+  "Bringing_metal-organic_frameworks_to_commercialization__nature",
+  "Charge_transfer_in_triphenylamine_tetrazine_covalent_organic_frameworks_for_solar-driven_hydrogen_peroxide_p__nature",
+  "Chemical_Conversion_and_Locking_of_the_Imine_Linkage_Enhancing_the_Functionality_of_Covalent_Organic_Frame__openalex",
+  "Chemical_Reactions_at_Isolated_Single-Sites_Inside_Metal_Organic_Frameworks__nature",
+  "Chemical_applicability_and_computation_of_K-Banhatti_indices_for_benzenoid_hydrocarbons_and_triazine-based_c__nature",
+  "Computation-based_regulation_of_excitonic_effects_in_donor-acceptor_covalent_organic_frameworks_for_enhanced__nature",
+  "Confining_H3PO4_network_in_covalent_organic_frameworks_enables_proton_super_flow__nature",
+  "Constructing_Donor_Acceptor-Linked_COFs_Electrolytes_to_Regulate_Electron_Density_and_Accelerate_the_Li_Migr__nature",
+  "Coupling_Cu2O_clusters_and_imine-linked_COFs_on_microfiltration_membranes_for_fast_and_robust_water_steriliz__nature",
+  "Covalent-Organic_Frameworks_Composed_of_Rhenium_Bipyridine_and_Metal_Porphyrins_Designing_Heterobimetallic__openalex",
+  "Covalent_Organic_Framework_COFs_in_Targeted_Drug_Delivery_and_Therapeutics_A_Critical_Review__openalex",
+  "Covalent_Organic_Frameworks_for_Water_Treatment__openalex",
+  "Covalent_immobilization_of_metal_organic_frameworks_onto_the_surface_of_nylon_a_new_approach_to_the_function__nature",
+  "Covalent_integration_of_polymers_and_porous_organic_frameworks__openalex",
+  "Covalent_organic_framework_COF_-enhanced_carbon_hollow_sphere_CS_a_novel_nano-porous_material_for_robust_epo__nature",
+  "Covalent_organic_framework_photocatalysts_for_green_and_efficient_photochemical_transformations__nature",
+  "Covalent_organic_frameworks_modified_with_silver_nanoparticles_as_substrates_for_label-free_SERS_detection_o__nature",
+  "Cu-based_metal_organic_frameworks_synthesis_biomedical_applications_and_beyond__nature",
+  "Designed_synthesis_of_double-stage_two-dimensional_covalent_organic_frameworks__nature",
+  "Designed_synthesis_of_large-pore_crystalline_polyimide_covalent_organic_frameworks__nature",
+  "Designed_synthesis_of_stable_light-emitting_two-dimensional_sp2_carbon-conjugated_covalent_organic_framework__nature",
+  "Development_of_visible_light_photocatalysts_for_organic_fine_chemical_production__edu",
+  "Differences_and_Similarities_of_Photocatalysis_and_Electrocatalysis_in_Two-Dimensional_Nanomaterials_Strateg__nature",
+  "Dimensional_evolution_of_charge_mobility_and_porosity_in_covalent_organic_frameworks__nature",
+  "Donglin_Jiang_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+  "Efficient_selective_removal_of_uremic_toxin_precursor_by_olefin-linked_covalent_organic_frameworks_for_nephr__nature",
+  "Engineering_chiral_porous_metal-organic_frameworks_for_enantioselective_adsorption_and_separation__nature",
+  "Engineering_the_pore_environment_of_antiparallel_stacked_covalent_organic_frameworks_for_capture_of_iodine_p__nature",
+  "Enhancing_photocatalytic_hydrogen_peroxide_generation_by_tuning_hydrazone_linkage_density_in_covalent_organi__nature",
+  "Excavating_hidden_adsorption_sites_in_metal-organic_frameworks_using_rational_defect_engineering__nature",
+  "Exploiting_sulfonated_covalent_organic_frameworks_to_fabricate_long-lasting_stability_and_chlorine-resistant__nature",
+  "Facile_transformation_of_imine_covalent_organic_frameworks_into_ultrastable_crystalline_porous_aromatic_fram__nature",
+  "Fine-tuning_the_pore_environment_of_ultramicroporous_three-dimensional_covalent_organic_frameworks_for_effic__nature",
+  "Gas_adsorption_meets_deep_learning_voxelizing_the_potential_energy_surface_of_metal-organic_frameworks__nature",
+  "Giant_gateable_thermoelectric_conversion_by_tuning_the_ion_linkage_interactions_in_covalent_organic_framewor__nature",
+  "Green_synthesis_of_olefin-linked_covalent_organic_frameworks_for_hydrogen_fuel_cell_applications__nature",
+  "Ground-state_charge_transfer_in_single-molecule_junctions_covalent_organic_frameworks_for_boosting_photocata__nature",
+  "Heteroatom-embedded_Mellitic_Triimido_COFs_for_efficient_proton_conduction__nature",
+  "Hierarchies_of_Hofstadter_butterflies_in_2D_covalent_organic_frameworks__nature",
+  "High-Efficiency_Aqueous_Zinc-ion_Capacitors_Based_On_Mofs_cofs-derived_Nanomaterials_Challenges_and_Future_P__nature",
+  "Highly_stable_-ketoenamine-based_covalent_organic_frameworks_COFs_synthesis_and_optoelectrical_applications__nature",
+  "Homologous_heteropolyaromatic_covalent_organic_frameworks_for_enhancing_photocatalytic_hydrogen_peroxide_pro__nature",
+  "Immobilized_covalent_triazine_frameworks_films_as_effective_photocatalysts_for_hydrogen_evolution_reaction__nature",
+  "Imparting_multi-functionality_to_covalent_organic_framework_nanoparticles_by_the_dual-ligand_assistant_encap__nature",
+  "Intensified_synthesis_and_post-synthetic_modification_of_covalent_organic_frameworks_using_a_continuous_flow__nature",
+  "Lanthanide_Metal-Organic_Frameworks_with_Six-Coordinated_Ln_III_Ions_and_Free_Functional_Organic_Sites_for_A__nature",
+  "Made-to-order_metal-organic_frameworks_for_trace_carbon_dioxide_removal_and_air_capture__nature",
+  "Metal-organic_framework_functionalization_and_design_strategies_for_advanced_electrochemical_energy_storage___nature",
+  "Metal-organic_frameworks_MOFs_and_covalent_organic_frameworks_COFs_-based_prototyping_of_integrated_sensin__openalex",
+  "Metal_cluster_confinement_in_MOFs_and_COFs_Advanced_synthesis_strategies_and_applications_in_photocatalysi__openalex",
+  "Metal_organic_frameworks_A_dielectric_in_a_cage__nature",
+  "Microwave_Assisted_Synthesis_of_Covalent_Organic_Frameworks_A_Review__openalex",
+  "Molecular_Scale_Tuning_of_Covalent_Organic_Frameworks_for_Enhanced_Properties__openalex",
+  "Multi-modal_conditional_diffusion_model_using_signed_distance_functions_for_metal-organic_frameworks_generat__nature",
+  "Natalia_Shustova_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+  "Nitrogen_heterocyclic_covalent_organic_frameworks_for_efficient_H2O2_photosynthesis_and_in_situ_water_treatm__nature",
+  "Noble_metal_photocatalysts_under_visible_light_and_UV_light_irradiation__edu",
+  "Organic_Covalent_Interaction_based_Frameworks_as_Emerging_Catalysts_for_Environment_and_Energy_Application__openalex",
+  "Organic_Redox_Species_in_Aqueous_Flow_Batteries_Redox_Potentials_Chemical_Stability_and_Solubility__nature",
+  "PSYMOF_computational_workflow_enabling_systematic_post-synthesis_modification_of_metal-organic_frameworks__nature",
+  "Pd_and_Pd_based_alloy_nanoparticles_as_visible_light_photocatalysts_for_coupling_reactions_under_ambient_condit__edu",
+  "Perfluoroalkyl-modified_covalent_organic_frameworks_for_continuous_photocatalytic_hydrogen_peroxide_synthesi__nature",
+  "Platinum-modified_covalent_triazine_frameworks_hybridized_with_carbon_nanoparticles_as_methanol-tolerant_oxy__nature",
+  "Pore_partition_in_two-dimensional_covalent_organic_frameworks__nature",
+  "Pore_surface_engineering_in_covalent_organic_frameworks__nature",
+  "Porous_Dithiine-Linked_Covalent_Organic_Framework_as_a_Dynamic_Platform_for_Covalent_Polysulfide_Anchoring__openalex",
+  "Porphyrin-Containing_MOFs_and_COFs_as_Heterogeneous_Photosensitizers_for_Singlet_Oxygen-Based_Antimicrobia__openalex",
+  "Post-synthetic_Ti_Exchanged_UiO-66_Metal-Organic_Frameworks_that_Deliver_Exceptional_Gas_Permeability_in_Mix__nature",
+  "Post-synthetic_modification_of_UiO-type_metal_organic_framework_with_Cu2_ions_toward_fabrication_of_flexible__nature",
+  "Post-synthetic_modification_of_Zr-based_metal_organic_framework_by_schiff_base_zinc_complex_for_catalytic_ap__nature",
+  "Post-synthetic_modification_of_covalent_organic_frameworks_for_CO2_electroreduction__nature",
+  "Post-synthetic_pillaring_enhances_metal_organic_framework_capacitance__nature",
+  "Proposing_two-dimensional_covalent_organic_frameworks_material_for_the_capture_of_phenol_molecules_from_wast__nature",
+  "Rational_Design_of_Covalent_Organic_Frameworks_for_Oxygen_Electrocatalysis_Recent_Advances_and_Mechanistic_I__nature",
+  "Rational_design_of_crystalline_supermicroporous_covalent_organic_frameworks_with_triangular_topologies__nature",
+  "Recent_progress_of_covalent_organic_frameworks_in_high_selective_separation_of_radionuclides__nature",
+  "Recent_progress_on_covalent_organic_frameworks_and_their_composites_as_electrode_materials_for_supercapacito__nature",
+  "Redox-triggered_switching_in_three-dimensional_covalent_organic_frameworks__nature",
+  "Removal_of_pharmaceutical_pollutants_by_adsorption_onto_novel_metal_organic_frameworks__nature",
+  "Reverse_filling_approach_to_mixed_matrix_covalent_organic_framework_membranes_for_gas_separation__nature",
+  "Robust_links_in_photoactive_covalent_organic_frameworks_enable_effective_photocatalytic_reactions_under_hars__nature",
+  "Sequential_Pore_Wall_Modification_in_a_Covalent_Organic_Framework_for_Application_in_Lactic_Acid_Adsorptio__openalex",
+  "Single-Point_Linkage_Engineering_in_Conjugated_Phthalocyanine-Based_Covalent_Organic_Frameworks_for_Electroc__nature",
+  "Stabilisation_strategies_for_useful_COFs__nature",
+  "Steric_effect_of_intermediates_induces_formation_of_three-dimensional_covalent_organic_frameworks__nature",
+  "Structural_characterization_of_SnO_nanoparticles_synthesized_by_the_hydrothermal_and_microwave_routes__nature",
+  "Sub-stoichiometric_2D_covalent_organic_frameworks_from_tri-_and_tetratopic_linkers__nature",
+  "Symposium_-_How_effective_are_brief_motivational_interviewing_interventions_Are_they_necessary_Do_they_require___edu",
+  "Synthesis_characterization_and_adsorption_performance_of_naphthalene-based_covalent_organic_polymer_for_high__nature",
+  "The_dynamics_of_stacking_in_layered_covalent_organic_frameworks__nature",
+  "The_strategy_of_three-dimensional_Covalent_Organic_Frameworks_to_exclude_dye_contaminants_in_aqueous_solutio__nature",
+  "Three-dimensional_metal-intercalated_covalent_organic_frameworks_for_near-ambient_energy_storage__nature",
+  "Toward_azo-linked_covalent_organic_frameworks_by_developing_linkage_chemistry_via_linker_exchange__nature",
+  "Towards_the_room-temperature_synthesis_of_covalent_organic_frameworks_a_mini-review__nature",
+  "Two-dimensional_semiconducting_covalent_organic_frameworks_via_condensation_at_arylmethyl_carbon_atoms__nature",
+  "Ultramicroporous_covalent_organic_framework_membranes_with_fortified_hydrogen-bond_networks_for_high-perform__nature",
+  "Unlocking_stable_iodine_capture_in_2D_COFs_insights_from_DFT_combined_with_multiscale_descriptors_driven_mac__nature",
+  "Van_der_Waals_density_functional_study_of_hydrocarbon_adsorption_and_separation_in_metal_organic_frameworks___nature",
+  "Viologen-linked_covalent_organic_frameworks_a_charged_and_redox-active_platform_for_functional_materials__openalex",
+  "Visible_light_photocatalysis_with_supported_metal_nanoparticles_for_organic_synthesis__edu",
+  "Visible_light_photocatalysts_for_synthesis_of_fine_organic_chemicals_on_supported_nanostructures__edu",
+  "Visible_light_photocatalytic_degradation_of_tamoxifen_using_covalent_organic_triazine_polymer__nature",
+  "Visible_light_photocatalytic_synthesis_of_fine_organic_chemicals_with_new_photocatalysts__edu",
+  "Water_cluster_in_hydrophobic_crystalline_porous_covalent_organic_frameworks__nature",
+  "Why_covalent_organic_frameworks_grow_twisted_on_graphite__nature",
+  "Xiaodong_Zou_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature",
+  "Yi_Liu_answers_questions_about_15_years_of_research_on_covalent_organic_frameworks__nature"
+ ],
+ "run_config": {
+  "created": "2026-10-10T21:42:21",
+  "code": {
+   "sha256": "d6045b850f9b28811c271c8c58e24a9b4d34eae5ba51b86e3fc91c1c64b8d4e9",
+   "n_files": 115
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/COF_03",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "COF",
+   "last_tier": "Covalent Organic Frameworks (COFs)",
+   "target_run_id": "03",
+   "seed_dir": "<repo>/seeds/seed_chem/COF_03",
+   "output_root": "results/e2e/e2e_v3/r10/chem/COF_03",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 1,
+   "paper_id": "Advances_of_Electrochemical_and_Electrochemiluminescent_Sensors_Based_on_Covalent_Organic_Frameworks__nature",
+   "title": "Advances of Electrochemical and Electrochemiluminescent Sensors Based on Covalent Organic Frameworks",
+   "doi": "10.1007/s40820-023-01249-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389179163",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Approaches_and_challenges_in_the_synthesis_of_three-dimensional_covalent-organic_frameworks__nature",
+   "title": "Approaches and challenges in the synthesis of three-dimensional covalent-organic frameworks",
+   "doi": "10.1038/s42004-018-0098-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s42004-018-0098-8",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Author_Correction_Charge_transfer_in_triphenylamine_tetrazine_covalent_organic_frameworks_for_solar-driven_h__nature",
+   "title": "Author Correction: Charge transfer in triphenylamine–tetrazine covalent organic frameworks for solar-driven hydrogen peroxide production",
+   "doi": "10.1038/s41467-026-75081-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-026-75081-x",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Bioinspired_design_of_Na-ion_conduction_channels_in_covalent_organic_frameworks_for_quasi-solid-state_sodium__nature",
+   "title": "Bioinspired design of Na-ion conduction channels in covalent organic frameworks for quasi-solid-state sodium batteries",
+   "doi": "10.1038/s41467-023-38822-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-023-38822-w",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Charge_transfer_in_triphenylamine_tetrazine_covalent_organic_frameworks_for_solar-driven_hydrogen_peroxide_p__nature",
+   "title": "Charge transfer in triphenylamine–tetrazine covalent organic frameworks for solar-driven hydrogen peroxide production",
+   "doi": "10.1038/s41467-025-66679-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-025-66679-8",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Chemical_Conversion_and_Locking_of_the_Imine_Linkage_Enhancing_the_Functionality_of_Covalent_Organic_Frame__openalex",
+   "title": "Chemical Conversion and Locking of the Imine Linkage: Enhancing the Functionality of Covalent Organic Frameworks",
+   "doi": "10.1002/anie.202016667",
+   "source": "openalex",
+   "url": "https://openalex.org/W3123585397",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Computation-based_regulation_of_excitonic_effects_in_donor-acceptor_covalent_organic_frameworks_for_enhanced__nature",
+   "title": "Computation-based regulation of excitonic effects in donor-acceptor covalent organic frameworks for enhanced photocatalysis",
+   "doi": "10.1038/s41467-023-38884-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-023-38884-w",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Confining_H3PO4_network_in_covalent_organic_frameworks_enables_proton_super_flow__nature",
+   "title": "Confining H3PO4 network in covalent organic frameworks enables proton super flow",
+   "doi": "10.1038/s41467-020-15918-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-020-15918-1",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Coupling_Cu2O_clusters_and_imine-linked_COFs_on_microfiltration_membranes_for_fast_and_robust_water_steriliz__nature",
+   "title": "Coupling Cu2O clusters and imine-linked COFs on microfiltration membranes for fast and robust water sterilization",
+   "doi": "10.1038/s41467-025-56416-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-025-56416-6",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_Organic_Frameworks_for_Water_Treatment__openalex",
+   "title": "Covalent Organic Frameworks for Water Treatment",
+   "doi": "10.1002/admi.202001507",
+   "source": "openalex",
+   "url": "https://openalex.org/W3102694263",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Covalent_organic_framework_photocatalysts_for_green_and_efficient_photochemical_transformations__nature",
+   "title": "Covalent organic framework photocatalysts for green and efficient photochemical transformations",
+   "doi": "10.1038/s41467-025-61853-4",
+   "source": "openalex",
+   "url": "https://openalex.org/W4412403928",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Development_of_visible_light_photocatalysts_for_organic_fine_chemical_production__edu",
+   "title": "Development of visible light photocatalysts for organic fine chemical production",
+   "doi": "10.5204/thesis.eprints.96049",
+   "source": "core",
+   "url": null,
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Differences_and_Similarities_of_Photocatalysis_and_Electrocatalysis_in_Two-Dimensional_Nanomaterials_Strateg__nature",
+   "title": "Differences and Similarities of Photocatalysis and Electrocatalysis in Two-Dimensional Nanomaterials: Strategies, Traps, Applications and Challenges",
+   "doi": "10.1007/s40820-021-00681-9",
+   "source": "openalex",
+   "url": "https://openalex.org/W3181726798",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancing_photocatalytic_hydrogen_peroxide_generation_by_tuning_hydrazone_linkage_density_in_covalent_organi__nature",
+   "title": "Enhancing photocatalytic hydrogen peroxide generation by tuning hydrazone linkage density in covalent organic frameworks",
+   "doi": "10.1038/s41467-025-55894-y",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406155869",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Excavating_hidden_adsorption_sites_in_metal-organic_frameworks_using_rational_defect_engineering__nature",
+   "title": "Excavating hidden adsorption sites in metal-organic frameworks using rational defect engineering",
+   "doi": "10.1038/s41467-017-01478-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-017-01478-4",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Heteroatom-embedded_Mellitic_Triimido_COFs_for_efficient_proton_conduction__nature",
+   "title": "Heteroatom-embedded Mellitic Triimido COFs for efficient proton conduction",
+   "doi": "10.1038/s41598-025-90291-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-025-90291-x",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "High-Efficiency_Aqueous_Zinc-ion_Capacitors_Based_On_Mofs_cofs-derived_Nanomaterials_Challenges_and_Future_P__nature",
+   "title": "High-Efficiency Aqueous Zinc-ion Capacitors Based On Mofs/cofs-derived Nanomaterials: Challenges and Future Prospects",
+   "doi": "10.1007/s12678-025-00997-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s12678-025-00997-9",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Homologous_heteropolyaromatic_covalent_organic_frameworks_for_enhancing_photocatalytic_hydrogen_peroxide_pro__nature",
+   "title": "Homologous heteropolyaromatic covalent organic frameworks for enhancing photocatalytic hydrogen peroxide production and aerobic oxidation",
+   "doi": "10.1038/s41467-025-62937-x",
+   "source": "openalex",
+   "url": "https://openalex.org/W4413269976",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Intensified_synthesis_and_post-synthetic_modification_of_covalent_organic_frameworks_using_a_continuous_flow__nature",
+   "title": "Intensified synthesis and post-synthetic modification of covalent organic frameworks using a continuous flow of microdroplets technique",
+   "doi": "10.1038/am.2017.209",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/am.2017.209",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_Scale_Tuning_of_Covalent_Organic_Frameworks_for_Enhanced_Properties__openalex",
+   "title": "Molecular Scale Tuning of Covalent Organic Frameworks for Enhanced Properties",
+   "doi": "10.2172/2589586",
+   "source": "openalex",
+   "url": "https://openalex.org/W4414560485",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Post-synthetic_modification_of_UiO-type_metal_organic_framework_with_Cu2_ions_toward_fabrication_of_flexible__nature",
+   "title": "Post-synthetic modification of UiO-type metal–organic framework with Cu2+ ions toward fabrication of flexible supercapacitor electrode",
+   "doi": "10.1038/s41598-026-56471-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-026-56471-z",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Post-synthetic_modification_of_covalent_organic_frameworks_for_CO2_electroreduction__nature",
+   "title": "Post-synthetic modification of covalent organic frameworks for CO2 electroreduction",
+   "doi": "10.1038/s41467-023-39544-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-023-39544-9",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Post-synthetic_pillaring_enhances_metal_organic_framework_capacitance__nature",
+   "title": "Post-synthetic pillaring enhances metal–organic framework capacitance",
+   "doi": "10.1038/s42004-022-00648-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s42004-022-00648-w",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Rational_Design_of_Covalent_Organic_Frameworks_for_Oxygen_Electrocatalysis_Recent_Advances_and_Mechanistic_I__nature",
+   "title": "Rational Design of Covalent Organic Frameworks for Oxygen Electrocatalysis: Recent Advances and Mechanistic Insights",
+   "doi": "10.1007/s40820-026-02281-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s40820-026-02281-x",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Robust_links_in_photoactive_covalent_organic_frameworks_enable_effective_photocatalytic_reactions_under_hars__nature",
+   "title": "Robust links in photoactive covalent organic frameworks enable effective photocatalytic reactions under harsh conditions",
+   "doi": "10.1038/s41467-024-45457-y",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391716912",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Single-Point_Linkage_Engineering_in_Conjugated_Phthalocyanine-Based_Covalent_Organic_Frameworks_for_Electroc__nature",
+   "title": "Single-Point Linkage Engineering in Conjugated Phthalocyanine-Based Covalent Organic Frameworks for Electrochemical CO2 Reduction",
+   "doi": "10.1007/s40820-025-01754-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s40820-025-01754-9",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Structural_characterization_of_SnO_nanoparticles_synthesized_by_the_hydrothermal_and_microwave_routes__nature",
+   "title": "Structural characterization of SnO nanoparticles synthesized by the hydrothermal and microwave routes",
+   "doi": "10.1038/s41598-020-66043-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-020-66043-4",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_strategy_of_three-dimensional_Covalent_Organic_Frameworks_to_exclude_dye_contaminants_in_aqueous_solutio__nature",
+   "title": "The strategy of three-dimensional Covalent Organic Frameworks to exclude dye contaminants in aqueous solutions",
+   "doi": "10.1038/s41545-024-00311-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41545-024-00311-y",
+   "metadata_found": true
+  }
+ ]
+}

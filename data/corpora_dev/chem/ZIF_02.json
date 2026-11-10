@@ -1,0 +1,1463 @@
+{
+ "batch": "dev",
+ "run": "ZIF_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_imidazolate_frameworks_derived_carbon_with_rational_porous_structure_mediated_by_polyvinylpyrrolido__nature",
+   "title": "Zeolitic imidazolate frameworks derived carbon with rational porous structure mediated by polyvinylpyrrolidone applied as electrode materials for supercapacitors",
+   "doi": "10.1007/s10854-023-09994-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10854-023-09994-4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_Imidazolate_Frameworks_ZIF-8_-Induced_Porous_-Fe2O3_SnO2_ZnO_Heterostructures_as_Remarkable_Gas-Sen__nature",
+   "title": "Zeolitic Imidazolate Frameworks (ZIF-8)-Induced Porous α-Fe2O3/SnO2/ZnO Heterostructures as Remarkable Gas-Sensing Materials for Acetone Detection",
+   "doi": "10.1007/s11664-021-08886-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11664-021-08886-9"
+  },
+  {
+   "round": 1,
+   "paper_id": "Co3O4_NiO_C_composites_derived_from_zeolitic_imidazolate_frameworks_ZIFs_as_high-performance_anode_materials__nature",
+   "title": "Co3O4/NiO/C composites derived from zeolitic imidazolate frameworks (ZIFs) as high-performance anode materials for Li-ion batteries",
+   "doi": "10.1007/s10008-020-04595-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10008-020-04595-1"
+  },
+  {
+   "round": 1,
+   "paper_id": "DEVELOPMENT_OF_ZEOLITIC_IMIDAZOLATE_FRAMEWORKS_FOR_ENHANCING_POST-COMBUSTION_CO2_CAPTURE__ac",
+   "title": "DEVELOPMENT OF ZEOLITIC IMIDAZOLATE FRAMEWORKS FOR ENHANCING POST-COMBUSTION CO2 CAPTURE",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/395034184.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_review_on_zeolitic_imidazolate_frameworks_use_for_crude_oil_spills_cleanup__ac",
+   "title": "A review on zeolitic imidazolate frameworks use for crude oil spills cleanup",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/229382738.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Developing_Microwave-Assisted_Synthesis_for_hybrid_Zeolitic-Imidazolate_Frameworks_Deriving_from_ZIF-8_for_Tunab__ac",
+   "title": "Developing Microwave-Assisted Synthesis for hybrid Zeolitic-Imidazolate Frameworks Deriving from ZIF-8 for Tunable Gas Separations",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/231873932.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Hybrid_Nanocomposites_of_rice_husk_derived_graphene-like_material_incorporated_zeolitic_imidazolate_frameworks-8__ac",
+   "title": "Hybrid Nanocomposites of rice husk derived graphene-like material incorporated zeolitic imidazolate frameworks-8 for hydrogen storage",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/574071306.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Electrospun_Cellulose_Air_Filter_Coated_with_Zeolitic_Imidazolate_Frameworks_ZIFs_for_Efficient_Particulate___nature",
+   "title": "Electrospun Cellulose Air Filter Coated with Zeolitic Imidazolate Frameworks (ZIFs) for Efficient Particulate Matter Removal: Effect of Coated ZIFs on Filtration Performance",
+   "doi": "10.1007/s12221-022-4403-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s12221-022-4403-x"
+  },
+  {
+   "round": 1,
+   "paper_id": "Rapid_room-temperature_synthesis_of_hierarchical_porous_zeolitic_imidazolate_frameworks_with_high_space-time__nature",
+   "title": "Rapid room-temperature synthesis of hierarchical porous zeolitic imidazolate frameworks with high space-time yield",
+   "doi": "10.1007/s40843-017-9136-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s40843-017-9136-y"
+  },
+  {
+   "round": 1,
+   "paper_id": "Fc_COOH_2_zeolitic_imidazolate_frameworks-8_three-dimensional_macroporous_carbon_for_ascorbic_acid_sensing__nature",
+   "title": "Fc(COOH)2@ zeolitic imidazolate frameworks-8/three-dimensional macroporous carbon for ascorbic acid sensing",
+   "doi": "10.1007/s11581-017-2065-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11581-017-2065-2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Nitrogen-doped_porous_carbon_derived_from_bimetallic_zeolitic_imidazolate_frameworks_for_electrochemical_Li___nature",
+   "title": "Nitrogen-doped porous carbon derived from bimetallic zeolitic imidazolate frameworks for electrochemical Li+/Na+ storage",
+   "doi": "10.1007/s10008-021-05100-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10008-021-05100-y"
+  },
+  {
+   "round": 1,
+   "paper_id": "Dual_zeolitic_imidazolate_frameworks_derived_cobalt-_and_nitrogen-doped_carbon_nanotube-grafted_flower-_and___nature",
+   "title": "Dual zeolitic imidazolate frameworks derived cobalt- and nitrogen-doped carbon nanotube-grafted flower- and leaf-like hierarchical porous carbon electrocatalysts for oxygen reduction",
+   "doi": "10.1007/s11581-022-04449-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11581-022-04449-y"
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthesis_routes_of_zeolitic_imidazolate_framework-8_for_CO2_capture_A_review__ac",
+   "title": "Synthesis routes of zeolitic imidazolate framework-8 for CO2 capture: A review",
+   "doi": "10.3934/matersci.2025009",
+   "source": "core",
+   "url": "https://core.ac.uk/download/659483896.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Thin_film_nanocomposite_membranes_based_on_renewable_polymer_Pebax_and_zeolitic_imidazolate_frameworks_for_CO2_C__ac",
+   "title": "Thin film nanocomposite membranes based on renewable polymer Pebax® and zeolitic imidazolate frameworks for CO2/CH4 separation",
+   "doi": "10.1016/j.psep.2024.10.053",
+   "source": "core",
+   "url": "https://core.ac.uk/download/624406732.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Stability_Transport_and_Modification_of_Zeolitic_Imidazolate_Framework-8_Membranes_for_Light_Hydrocarbon_Separat__ac",
+   "title": "Stability, Transport and Modification of Zeolitic Imidazolate Framework-8  Membranes for Light Hydrocarbon Separations",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/154281774.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Crystalline_Amorphous_and_Liquid_Metal-Organic_Frameworks_at_Non-Ambient_Conditions__ac",
+   "title": "Crystalline, Amorphous, and Liquid Metal-Organic Frameworks at Non-Ambient Conditions",
+   "doi": "10.17863/cam.44846",
+   "source": "core",
+   "url": "https://core.ac.uk/download/231904738.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Unconventional_synthesis_and_properties_of_zeolitic_imidazolate_frameworks_and_2D_magnetic_MOFs__ac",
+   "title": "Unconventional synthesis and properties of zeolitic imidazolate frameworks and 2D magnetic MOFs",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/389475096.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Developing_Synthesis_Techniques_for_Zeolitic-Imidazolate_Framework_Membranes_for_High_Resolution_Propylene_Propa__ac",
+   "title": "Developing Synthesis Techniques for Zeolitic-Imidazolate Framework Membranes for High Resolution Propylene/Propane Separation",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/79652257.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Preparation_of_Zeolitic_Imidazolate_Framework-8_ZIF-8_Membrane_on_Porous_Polymeric_Support_via_Contra-Diffusion___ac",
+   "title": "Preparation of Zeolitic Imidazolate Framework-8 (ZIF-8) Membrane on Porous Polymeric Support via Contra-Diffusion Method",
+   "doi": "10.25781/kaust-2r07o",
+   "source": "core",
+   "url": "https://core.ac.uk/download/132730911.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Bioinspired_materials_and_membranes_for_energy-efficient_liquid_separation__ac",
+   "title": "Bioinspired materials and membranes for energy-efficient liquid separation",
+   "doi": "10.7488/era/1797",
+   "source": "core",
+   "url": "https://core.ac.uk/download/491156949.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Intrinsic_Photodynamic_Study_on_Photocatalytic_Materials__ac",
+   "title": "Intrinsic Photodynamic Study on Photocatalytic Materials",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/516098846.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Mechanochemical_Synthesis_of_Fluorine-Containing_Co-Doped_Zeolitic_Imidazolate_Frameworks_for_Producing_Electroc__ac",
+   "title": "Mechanochemical Synthesis of Fluorine-Containing Co-Doped Zeolitic Imidazolate Frameworks for Producing Electrocatalysts",
+   "doi": "10.3389/fchem.2022.840758",
+   "source": "core",
+   "url": "https://core.ac.uk/download/527933099.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "High-Throughput_Synthesis_of_Metal-Organic_Frameworks_Through_Mixed_Ligand_Co-assembly_and_Topological_Design__ac",
+   "title": "High-Throughput Synthesis of Metal-Organic Frameworks Through Mixed Ligand Co-assembly and Topological Design",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/79654767.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Photodynamic_and_Structural_Analyses_of_Advanced_Materials_for_Solar_Fuel_Conversion__ac",
+   "title": "The Photodynamic and Structural Analyses of Advanced Materials for Solar Fuel Conversion",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/213087226.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Zeolitic_Imidazolate_Framework_Topology_on_the_Purification_of_Hydrogen_from_Coke_Oven_Gas__ac",
+   "title": "Effect of Zeolitic Imidazolate Framework Topology on the Purification of Hydrogen from Coke Oven Gas",
+   "doi": "10.1021/acssuschemeng.2c07006",
+   "source": "core",
+   "url": "https://core.ac.uk/download/577076891.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_Sieving_Properties_of_Nanoporous_Mixed-Linker_ZIF-62_Associated_Structural_Changes_upon_Gas_Adsorption__ac",
+   "title": "Molecular Sieving Properties of Nanoporous Mixed-Linker ZIF-62: Associated Structural Changes upon Gas Adsorption Application",
+   "doi": "10.1021/acsanm.1c00010",
+   "source": "core",
+   "url": "https://core.ac.uk/download/419534124.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_new_zeolitic_hydroxymethylimidazolate_material_and_its_use_in_mixed_matrix_membranes_based_on_6FDA-DAM_for_gas__ac",
+   "title": "A new zeolitic hydroxymethylimidazolate material and its use in mixed matrix membranes based on 6FDA-DAM for gas separation",
+   "doi": "10.1016/j.memsci.2017.09.009",
+   "source": "core",
+   "url": "https://core.ac.uk/download/132348135.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_zeolitic_imidazolate_frameworks_derived_carbon_nanotubes_thin_film_in_solar_vapor_generatio__nature",
+   "title": "Investigation of zeolitic imidazolate frameworks–derived carbon nanotubes thin film in solar vapor generation",
+   "doi": "10.1007/s10934-021-01060-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10934-021-01060-w"
+  },
+  {
+   "round": 1,
+   "paper_id": "Colossal_cages_in_zeolitic_imidazolate_frameworks_as_selective_carbon_dioxide_reservoirs__nature",
+   "title": "Colossal cages in zeolitic imidazolate frameworks as selective carbon dioxide reservoirs",
+   "doi": "10.1038/nature06900",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/nature06900"
+  },
+  {
+   "round": 1,
+   "paper_id": "Engineering_of_plumbagin-loaded_zeolitic_imidazolate_frameworks_for_antibiofilm_and_infected_wound_healing__nature",
+   "title": "Engineering of plumbagin-loaded zeolitic imidazolate frameworks for antibiofilm and infected wound healing",
+   "doi": "10.1007/s10853-025-11302-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10853-025-11302-w"
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_Imidazolate_Frameworks-Derived_Activated_Carbon_As_Electrode_Material_for_Lithium-Sulfur_Batteries___nature",
+   "title": "Zeolitic Imidazolate Frameworks-Derived Activated Carbon As Electrode Material for Lithium-Sulfur Batteries and Lithium-Ion Batteries",
+   "doi": "10.1007/s11664-020-08378-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11664-020-08378-2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_imidazolate_frameworks_polyacrylonitile_composites_for_oil_sorption_and_antibacterial_applications__nature",
+   "title": "Zeolitic imidazolate frameworks/polyacrylonitile composites for oil sorption and antibacterial applications",
+   "doi": "10.1007/s13204-021-01745-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s13204-021-01745-3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_Imidazolate_Frameworks_Synthesis_Functionalization_and_Catalytic_Adsorption_Applications__nature",
+   "title": "Zeolitic Imidazolate Frameworks: Synthesis, Functionalization, and Catalytic/Adsorption Applications",
+   "doi": "10.1007/s10563-014-9169-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10563-014-9169-8"
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+   "title": "Effect of Solvent Assisted Linker Exchange (SALE) and De Novo Synthetic Routes on CO2 Uptake and Fixation by Mixed-Linker Zeolitic Imidazolate Frameworks",
+   "doi": "10.1007/s10904-023-02653-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10904-023-02653-5"
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthesis_and_Characterization_of_Films_and_Membranes_of_Metal-Organic_Framework_MOF_for_Gas_Separation_Applicat__ac",
+   "title": "Synthesis and Characterization of Films and Membranes of Metal-Organic Framework (MOF) for Gas Separation Applications",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/13642901.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Thin-film_electrode_based_on_zeolitic_imidazolate_frameworks_ZIF-8_and_ZIF-67_with_ultra-stable_performance___nature",
+   "title": "Thin-film electrode based on zeolitic imidazolate frameworks (ZIF-8 and ZIF-67) with ultra-stable performance as a lithium-ion battery anode",
+   "doi": "10.1007/s10853-016-0660-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10853-016-0660-7"
+  },
+  {
+   "round": 1,
+   "paper_id": "High_Pressure-Based_Synthesis_of_Nanoporous_Metal_Organic_Framework_ZIF-93_Giving_Rise_to_a_Phase_for_Proton_Con__ac",
+   "title": "High Pressure-Based Synthesis of Nanoporous Metal–Organic Framework ZIF-93 Giving Rise to a Phase for Proton Conduction",
+   "doi": "10.1021/acsanm.5c03130",
+   "source": "core",
+   "url": "https://core.ac.uk/download/685461447.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction",
+   "doi": "10.1038/s41467-024-53385-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-53385-0"
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthesis_of_zeolitic_imidazolate_framework-8_and_gold_nanoparticles_in_a_sustained_out-of-equilibrium_state__nature",
+   "title": "Synthesis of zeolitic imidazolate framework-8 and gold nanoparticles in a sustained out-of-equilibrium state",
+   "doi": "10.1038/s41598-021-03942-0",
+   "source": "core",
+   "url": "https://core.ac.uk/download/643816373.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Polymorph_Selection_of_Zeolitic_Imidazolate_Frameworks_via_Kinetic_and_Thermodynamic_Control__ac",
+   "title": "Polymorph Selection of Zeolitic Imidazolate Frameworks via Kinetic and Thermodynamic Control",
+   "doi": "10.1021/acs.cgd.2c00265",
+   "source": "core",
+   "url": "https://core.ac.uk/download/544311716.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Particle_size_effect_on_the_catalytic_properties_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Particle size effect on the catalytic properties of zeolitic imidazolate frameworks",
+   "doi": "10.1007/s11172-022-3458-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11172-022-3458-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Glass_formation_and_meltability_of_metal-organic_frameworks__ac",
+   "title": "Glass formation and meltability of metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/524924502.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_molecularly_imprinting_polymers_reduced_graphene_oxide_and_zeolitic_imidazolate_frameworks_modified__nature",
+   "title": "Magnetic molecularly imprinting polymers, reduced graphene oxide, and zeolitic imidazolate frameworks modified electrochemical sensor for the selective and sensitive detection of catechin",
+   "doi": "10.1007/s00604-021-04724-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s00604-021-04724-1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Poly_lactic_acid_Nanofibrous_Scaffolds_Containing_Aspirin-loaded_Zeolitic_Imidazolate_Frameworks_Morphology___nature",
+   "title": "Poly(lactic acid) Nanofibrous Scaffolds Containing Aspirin-loaded Zeolitic Imidazolate Frameworks: Morphology, Drug Release, Hemocompatibility and Shape Memory Studies",
+   "doi": "10.1007/s12221-022-4163-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s12221-022-4163-7"
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_imidazolate_frameworks_ZIFs_and_their_derivatives_synthesis_and_energy_related_applications__ac",
+   "title": "Zeolitic imidazolate frameworks (ZIFs) and their derivatives: synthesis and energy related applications",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal_Organic_Framework_Materials_for_Electrochemical_Supercapacitors__nature",
+   "title": "Metal–Organic Framework Materials for Electrochemical Supercapacitors",
+   "doi": "10.1007/s40820-022-00910-9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Fe-_N-Embedded_Hierarchically_Porous_Carbon_Architectures_Derived_from_FeTe-Trapped_Zeolitic_Imidazolate_Framewo__ac",
+   "title": "Fe-, N-Embedded Hierarchically Porous Carbon Architectures Derived from FeTe-Trapped Zeolitic Imidazolate Frameworks as Efficient Oxygen Reduction Electrocatalysts",
+   "doi": "10.1021/acssuschemeng.9b05567",
+   "source": "core",
+   "url": "https://core.ac.uk/download/610718050.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigation_of_zeolitic_imidazolate_frameworks_using_13C_and_15N_solid-state_NMR_spectroscopy__ac",
+   "title": "Investigation of zeolitic imidazolate frameworks using 13C and 15N solid-state NMR spectroscopy",
+   "doi": "10.1016/j.ssnmr.2017.09.001",
+   "source": "core",
+   "url": "https://core.ac.uk/download/96709392.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Tuning_the_Swing_Effect_by_Chemical_Functionalization_of_Zeolitic_Imidazolate_Frameworks__ac",
+   "title": "Tuning the Swing Effect by Chemical Functionalization of Zeolitic Imidazolate Frameworks",
+   "doi": "10.1021/jacs.7b10897",
+   "source": "core",
+   "url": "https://core.ac.uk/download/322480480.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Effect_of_guest_uptake_and_high_pressure_on_Zn-_and_Zr-_metal-organic_frameworks__ac",
+   "title": "Effect of guest uptake and high pressure on Zn- and Zr- metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/429715400.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Current_Trends_in_Metal_Organic_and_Covalent_Organic_Framework_Membrane_Materials__ac",
+   "title": "Current Trends in Metal–Organic and Covalent Organic Framework Membrane Materials",
+   "doi": "10.5445/ir/1000130806",
+   "source": "core",
+   "url": "https://core.ac.uk/download/395742703.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Vibrational_dynamics_dictate_heat_transport_in_metal-organic_frameworks_with_gas_adsorbates__ac",
+   "title": "Vibrational dynamics dictate heat transport in metal-organic frameworks with gas adsorbates",
+   "doi": "10.1016/j.ijheatmasstransfer.2024.126015",
+   "source": "core",
+   "url": "https://core.ac.uk/download/619600355.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Experimental_and_molecular_simulation_studies_of_CO2_adsorption_on_zeolitic_imidazolate_frameworks_ZIF-8_and__nature",
+   "title": "Experimental and molecular simulation studies of CO2 adsorption on zeolitic imidazolate frameworks: ZIF-8 and amine-modified ZIF-8",
+   "doi": "10.1007/s10450-012-9407-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10450-012-9407-1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Potassium_and_zeolitic_structure_modified_ultra-microporous_adsorbent_materials_from_a_renewable_feedstock_with___ac",
+   "title": "Potassium and zeolitic structure modified ultra-microporous adsorbent materials from a renewable feedstock with favourable surface chemistry for CO2 capture",
+   "doi": "10.1021/acsami.7b06665",
+   "source": "core",
+   "url": "https://core.ac.uk/download/84147550.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Zeolitic_imidazolate_frameworks_blended_polysulfone_hollow_fiber_membranes_for_natural_gas_purification__ac",
+   "title": "Zeolitic imidazolate frameworks blended polysulfone hollow fiber membranes for natural gas purification",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/328816320.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigation_of_the_potential_catalytic_activities_of_several_metal_organic_framework_MOF_materials__ac",
+   "title": "Investigation of the potential catalytic activities of several metal organic framework (MOF) materials",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/232274409.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Enzyme_Immobilisation_Using_Porous_Frameworks__ac",
+   "title": "Enzyme Immobilisation Using Porous Frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/482256191.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Effect_of_pressure_on_metal-organic_frameworks_MOFs__ac",
+   "title": "Effect of pressure on metal-organic frameworks (MOFs)",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/429729842.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Application_of_statistical_physics_formalism_for_interpreting_the_CO2_and_N2_adsorption_on_zeolitic_imidazol__nature",
+   "title": "Application of statistical physics formalism for interpreting the CO2 and N2 adsorption on zeolitic imidazolate frameworks at high pressures",
+   "doi": "10.1007/s00339-026-09660-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s00339-026-09660-6"
+  },
+  {
+   "round": 2,
+   "paper_id": "Nanocomposites_of_zeolitic_imidazolate_frameworks_on_graphene_oxide_for_pseudocapacitor_applications__nature",
+   "title": "Nanocomposites of zeolitic imidazolate frameworks on graphene oxide for pseudocapacitor applications",
+   "doi": "10.1007/s10800-016-0921-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10800-016-0921-9"
+  },
+  {
+   "round": 2,
+   "paper_id": "Polymer_molecular_sieve_membranes__ac",
+   "title": "Polymer molecular sieve membranes",
+   "doi": "10.17863/cam.27635",
+   "source": "core",
+   "url": "https://core.ac.uk/download/417284564.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Nanoporous_Materials_for_Carbon_Dioxide_Separation_and_Storage__ac",
+   "title": "Nanoporous Materials for Carbon Dioxide Separation and Storage",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/9069526.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Elucidating_the_Role_of_Physiochemical_Properties_on_Gas_Transport_in_Ionic_Liquids_and_Porous_Liquids_for_Carbo__ac",
+   "title": "Elucidating the Role of Physiochemical Properties on Gas Transport in Ionic Liquids and Porous Liquids for Carbon Dioxide Separations",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/288290905.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Continuous_structure_modification_of_metal-organic_framework_glasses_via_halide_salts__nature",
+   "title": "Continuous structure modification of metal-organic framework glasses via halide salts",
+   "doi": "10.1038/s41467-025-62143-9",
+   "source": "core",
+   "url": "https://core.ac.uk/download/667179501.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Engineering_Functional_Porous_Materials_for_Gas_Adsorption_and_Heterogeneous_Catalysis__ac",
+   "title": "Engineering Functional Porous Materials for Gas Adsorption and Heterogeneous Catalysis",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/87261541.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Perspectives_on_the_Influence_of_Crystal_Size_and_Morphology_on_the_Properties_of_Porous_Framework_Materials__ac",
+   "title": "Perspectives on the Influence of Crystal Size and Morphology on the Properties of Porous Framework Materials",
+   "doi": "10.3389/fchem.2021.772059",
+   "source": "core",
+   "url": "https://core.ac.uk/download/491172719.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Influencing_Metal-organic_Framework_Catalysis_through_Nanoscale_Structuralisation__ac",
+   "title": "Influencing Metal-organic Framework Catalysis through Nanoscale Structuralisation",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/482262040.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Potential_Applications_of_Nanoporous_Materials_for_the_Adsorption_Separation_and_Catalytic_Conversion_of_Car__ac",
+   "title": "The Potential Applications of Nanoporous Materials for the Adsorption, Separation, and Catalytic Conversion of Carbon Dioxide",
+   "doi": "10.1002/aenm.201301873",
+   "source": "core",
+   "url": "https://core.ac.uk/download/29091005.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "CTAB-caped_Cu_nanoparticles_doped_on_zeolitic_imidazolate_framework-ZIF-67_as_bifunctional_catalysts_for_oxy__nature",
+   "title": "CTAB-caped Cu nanoparticles doped on zeolitic imidazolate framework-ZIF-67 as bifunctional catalysts for oxygen-reduction and evolution reactions in alkaline media",
+   "doi": "10.1007/s10934-021-01076-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10934-021-01076-2"
+  },
+  {
+   "round": 2,
+   "paper_id": "Mesoporous_materials_for_clean_energy_technologies__openalex",
+   "title": "Mesoporous materials for clean energy technologies",
+   "doi": "10.1039/c3cs60435g",
+   "source": "openalex",
+   "url": "https://openalex.org/W2153821553"
+  },
+  {
+   "round": 2,
+   "paper_id": "Novel_promising_antibacterial_agents_and_carbon_dioxide_capture_and_valorization_materials_based_on_pyrazolate_C__ac",
+   "title": "Novel promising antibacterial agents and carbon dioxide capture and valorization materials based on pyrazolate Coordination Polymers and Metal-Organic Frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/614101490.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Synthesis_of_Metal-Organic_Frameworks_containing_Heterocyclic_Linkers_for_application_in_CO2_storage_utilization__ac",
+   "title": "Synthesis of Metal-Organic Frameworks containing Heterocyclic Linkers for application in CO2 storage/utilization and Luminescent Sensing",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/614101247.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Molecular_Modelling_of_Stimuli_Responsive_Gate_Effects_in_Flexible_Metal_Organic_Frameworks__ac",
+   "title": "Molecular Modelling of Stimuli Responsive Gate Effects in Flexible Metal Organic Frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/196652998.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Luminescent_Metal_organic_frameworks_for_sensing_of_aqueous_heavy_metal_ions__ac",
+   "title": "Luminescent Metal organic frameworks for sensing of aqueous heavy metal ions",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/646503510.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Mechanochemistry_of_metal-organic_frameworks_under_compression__ac",
+   "title": "Mechanochemistry of metal-organic frameworks under compression",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/158324078.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Structure_Property_Relationships_in_Nanoporous_Materials_for_Hydrogen_Storage__ac",
+   "title": "Structure Property Relationships in Nanoporous Materials for Hydrogen Storage",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/161920396.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Connecting_theory_and_simulation_with_experiment_for_the_study_of_diffusion_in_nanoporous_solids__ac",
+   "title": "Connecting theory and simulation with experiment for the study of diffusion in nanoporous solids",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/426877041.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Application_of_metal_organic_frameworks__ac",
+   "title": "Application of metal − organic frameworks",
+   "doi": "10.1002/pi.5315",
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/84497380.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Porous_Materials_for_the_Capture_and_Recycling_of_Phosphates_from_Wastewater__ac",
+   "title": "Porous Materials for the Capture and Recycling of Phosphates from Wastewater",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/591440346.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Development_and_characterization_of_a_colloidal_fluorescent_ZIF_derivative_acting_as_a_bio-label_for_immunoassay__ac",
+   "title": "Development and characterization of a colloidal fluorescent ZIF derivative acting as a bio-label for immunoassays",
+   "doi": "10.18452/23504",
+   "source": "core",
+   "url": "https://core.ac.uk/download/479348404.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterisation_of_porous_materials_for_the_adsorption_of_volatile_organic_compounds__ac",
+   "title": "Characterisation of porous materials for the adsorption of volatile organic compounds",
+   "doi": "10.25560/97618",
+   "source": "core",
+   "url": "https://core.ac.uk/download/521093103.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Energy_efficient_strategy_for_designing_metal_organic_frameworks_based_bifunctional_electrocatalysts_and_high_pe__ac",
+   "title": "Energy efficient strategy for designing metal–organic frameworks based bifunctional electrocatalysts and high performing rechargeable zinc-air batteries",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/478608628.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Exploration_of_the_photocatalytic_activity_of_various_zeolitic_imidazolate_frameworks_ZIF-8_ZIF-9_ZIF-67_and__nature",
+   "title": "Exploration of the photocatalytic activity of various zeolitic imidazolate frameworks (ZIF-8, ZIF-9, ZIF-67, and Co-ZIF-L) on organic dye crystal violet",
+   "doi": "10.1007/s10854-025-15829-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10854-025-15829-1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+   "title": "Correction to: Dual-acting cellulose nanocomposites filled with carbon nanotubes and zeolitic imidazolate framework-67 (ZIF-67)–derived polyhedral porous Co3O4 for symmetric supercapacitors",
+   "doi": "10.1007/s42114-021-00328-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s42114-021-00328-8"
+  },
+  {
+   "round": 3,
+   "paper_id": "ZnO_embedded_in_nitrogen-doped_carbon_hybrid_derived_from_zeolitic-imidazolate_frameworks_via_mechanochemist__nature",
+   "title": "ZnO embedded in nitrogen-doped carbon hybrid derived from zeolitic-imidazolate frameworks via mechanochemistry technique as anode material for sodium-ion batteries",
+   "doi": "10.1007/s10854-023-09957-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10854-023-09957-9"
+  },
+  {
+   "round": 3,
+   "paper_id": "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Solvent-free bottom-up patterning of zeolitic imidazolate frameworks",
+   "doi": "10.1038/s41467-022-28050-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-022-28050-z"
+  },
+  {
+   "round": 3,
+   "paper_id": "Controlling_the_morphology_of_metal_organic_frameworks_and_porous_carbon_materials_metal_oxides_as_primary_archi__ac",
+   "title": "Controlling the morphology of metal–organic frameworks and porous carbon materials: metal oxides as primary architecture-directing agents",
+   "doi": "10.1039/c9cs00871c",
+   "source": "core",
+   "url": "https://core.ac.uk/download/305111881.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Ab_initio_and_force_field_investigations_of_physical_hydrogen_adsorption_in_Zeolitic_Imidazole_Frameworks__ac",
+   "title": "Ab initio and force field investigations of physical hydrogen adsorption in Zeolitic Imidazole Frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/444044707.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Templating_the_Assembly_of_Metal-Organic_Frameworks_on_Cellulose_for_Multifunctional_Materials__ac",
+   "title": "Templating the Assembly of Metal-Organic Frameworks on Cellulose for Multifunctional Materials",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/660473301.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Developing_electrocatalysts_precious_and_non-precious_for_PEM_fuel_cells_applying_metal_organic_frameworks__ac",
+   "title": "Developing electrocatalysts (precious and non-precious) for PEM fuel cells applying metal organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/442661432.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Production_and_characterization_of_mixed_matrix_membranes_based_on_metal-organic_frameworks__ac",
+   "title": "Production and characterization of mixed matrix membranes based on metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/534960567.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Inorganic_Carbon_Nanomaterial_Composites_for_Chemical_Sensing__ac",
+   "title": "Inorganic—Carbon Nanomaterial Composites for Chemical Sensing",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/185272761.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "From_design_to_application_the_synthesis_of_metal-organic_frameworks_MOFS_with_an_environmentally_benign_solvent__ac",
+   "title": "From design to application: the synthesis of metal-organic frameworks (MOFS) with an environmentally benign solvent for applications in environmental protection",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/211574668.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+   "title": "Immobilization of Xylanase into Zeolitic Imidazolate Framework-67 (ZIF-67) and Manganese-Doped ZIF-67 (Mn/ZIF-67): A Comparison Study",
+   "doi": "10.1007/s11244-023-01898-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11244-023-01898-1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Adsorption_of_propane_and_propylene_in_zeolitic_imidazolate_framework_ZIF-8_pore_periodic_SCC-DFTB_method__nature",
+   "title": "Adsorption of propane and propylene in zeolitic imidazolate framework ZIF-8 pore: periodic SCC-DFTB method",
+   "doi": "10.1007/s10450-018-9978-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10450-018-9978-6"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Review_on_Metal_Organic_Framework-Derived_Porous_Carbon-Based_Novel_Microwave_Absorption_Materials__nature",
+   "title": "A Review on Metal–Organic Framework-Derived Porous Carbon-Based Novel Microwave Absorption Materials",
+   "doi": "10.1007/s40820-020-00582-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W3118780424"
+  },
+  {
+   "round": 3,
+   "paper_id": "High-throughput_computational_screening_of_nanoporous_materials_in_targeted_applications__openalex",
+   "title": "High-throughput computational screening of nanoporous materials in targeted applications",
+   "doi": "10.1039/d2dd00018k",
+   "source": "openalex",
+   "url": "https://openalex.org/W4221150791"
+  },
+  {
+   "round": 3,
+   "paper_id": "Screening_developing_and_testing_metal-organic_frameworks_for_industrially_relevant_CO_N2_separation__ac",
+   "title": "Screening, developing and testing metal-organic frameworks for industrially relevant CO/N2 separation",
+   "doi": "10.25560/79748",
+   "source": "core",
+   "url": "https://core.ac.uk/download/326245351.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Controlled_defects_in_metal-organic_frameworks_for_enhanced_adsorption_and_catalytic_properties__ac",
+   "title": "Controlled defects in  metal-organic frameworks for enhanced adsorption and catalytic properties",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/650437790.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Interior_decoration_of_metal-organic_frameworks_through_a_thermolabile_protecting_group_strategy_a_thesis_presen__ac",
+   "title": "Interior decoration of metal-organic frameworks through a thermolabile protecting group strategy : a thesis presented in partial fulfilment of the requirements of the degree of Doctor of Philosophy in Chemistry at Massey University, Manawatū, New Zealand",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/387558953.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Exploring_the_Electrode-Electrolyte_Interface_of_Electrically_Conductive_Layered_Metal-Organic_Frameworks_with_N__ac",
+   "title": "Exploring the Electrode-Electrolyte Interface of Electrically Conductive Layered Metal-Organic Frameworks with Nuclear Magnetic Resonance",
+   "doi": "10.17863/cam.121306",
+   "source": "core",
+   "url": "https://core.ac.uk/download/668203124.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Forced_intrusion_of_water_and_aqueous_solutions_in_microporous_materials_from_fundamental_thermodynamics_t__openalex",
+   "title": "Forced intrusion of water and aqueous solutions in microporous materials: from fundamental thermodynamics to energy storage devices",
+   "doi": "10.1039/c7cs00478h",
+   "source": "openalex",
+   "url": "https://openalex.org/W2765164742"
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_Frameworks_as_Drug_Delivery_System_for_Cancer_Therapy__ac",
+   "title": "Metal-organic Frameworks as Drug Delivery System for Cancer Therapy",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/542370368.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Iron_doped_zeolitic_imidazolate_framework_Fe-ZIF-8_synthesis_and_photocatalytic_degradation_of_RDB_dye_in_Fe__nature",
+   "title": "Iron doped zeolitic imidazolate framework (Fe-ZIF-8): synthesis and photocatalytic degradation of RDB dye in Fe-ZIF-8",
+   "doi": "10.1007/s10934-017-0498-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10934-017-0498-7"
+  },
+  {
+   "round": 3,
+   "paper_id": "Hyaluronic_Acid-Coated_Zeolitic_Imidazolate_Framework_ZIF-67_for_the_Targeted_and_pH-Responsive_Drug_Deliver__nature",
+   "title": "Hyaluronic Acid-Coated Zeolitic Imidazolate Framework (ZIF-67) for the Targeted and pH-Responsive Drug Delivery System",
+   "doi": "10.1007/s10904-025-04120-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10904-025-04120-9"
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_of_Zeolitic_Imidazolate_Framework-8_Using_Glycerol_Carbonate__ac",
+   "title": "Synthesis of Zeolitic Imidazolate Framework-8 Using Glycerol Carbonate",
+   "doi": "10.1021/acssuschemeng.3c02876",
+   "source": "core",
+   "url": "https://core.ac.uk/download/587082426.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Electrochemical_detection_of_4-chlorophenol_on_phthalocyanine-metal_organic_framework_sensors__ac",
+   "title": "Electrochemical detection of 4-chlorophenol on phthalocyanine-metal organic framework sensors",
+   "doi": "10.25403/upresearchdata.20000135",
+   "source": "core",
+   "url": "https://core.ac.uk/download/613869614.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_materials_for_harmful_anionic_species_removal_from_aqueous_solution_investigation_characterization__ac",
+   "title": "Metal-organic materials for harmful anionic species removal from aqueous solution: investigation, characterization and application",
+   "doi": "10.25560/60163",
+   "source": "core",
+   "url": "https://core.ac.uk/download/159070874.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Controllable_synthesis_of_B_N_co-doped_C_from_metal-organic_frameworks_with_tunable_catalytic_performance__edu",
+   "title": "Controllable synthesis of B,N co-doped C from metal-organic frameworks with tunable catalytic performance",
+   "doi": null,
+   "source": "core",
+   "url": "https://opus.lib.uts.edu.au/bitstream/10453/173472/1/thesis.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Design_of_Transition_Metal-based_Nanomaterials_for_Electrochemical_Energy_Conversion_and_Storage__ac",
+   "title": "Design of Transition Metal-based Nanomaterials for Electrochemical Energy Conversion and Storage",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/483413600.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Functionalized_metal-organic_frameworks_as_selective_metal_adsorbents__ac",
+   "title": "Functionalized metal-organic frameworks as selective metal adsorbents",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/84044366.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Porous_Carbon_Based_Solid_Adsorbents_for_Carbon_Dioxide_Capture__ac",
+   "title": "Porous Carbon Based Solid Adsorbents for Carbon Dioxide Capture",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/29410649.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Functional_materials_to_enable_durable_and_high_loading_lithium-sulfur_batteries__ac",
+   "title": "Functional materials to enable durable and high loading lithium-sulfur batteries",
+   "doi": "10.14264/551ba39",
+   "source": "core",
+   "url": "https://core.ac.uk/download/334435713.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "HETEROATOM-DOPED_NANOPOROUS_CARBONS_SYNTHESIS_CHARACTERIZATION_AND_APPLICATION_TO_GAS_STORAGE_AND_SEPARATION__ac",
+   "title": "HETEROATOM-DOPED NANOPOROUS CARBONS: SYNTHESIS, CHARACTERIZATION AND APPLICATION TO GAS STORAGE AND SEPARATION",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/51293231.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Porous_nanosystems_for_biological_applications__ac",
+   "title": "Porous nanosystems for biological applications",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/395735777.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-Organic_Framework_MOF_-Based_Materials_Aerosol_Synthesis_and_Photocatalytic_Applications__ac",
+   "title": "Metal-Organic Framework (MOF)-Based Materials: Aerosol Synthesis and Photocatalytic Applications",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/215486471.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Co_Ni_Al-LTH_Layered_Triple_Hydroxides_with_Zeolitic_Imidazolate_Frameworks_ZIF-8_as_High_Efficient_Removal___nature",
+   "title": "Co/Ni/Al-LTH Layered Triple Hydroxides with Zeolitic Imidazolate Frameworks (ZIF-8) as High Efficient Removal of Diazinon from Aqueous Solution",
+   "doi": "10.1007/s10904-022-02469-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10904-022-02469-9"
+  },
+  {
+   "round": 3,
+   "paper_id": "Graphene_oxide_and_metal_organic_frameworks_hybrids_synthesis_characterization_and_assessment_in_membrane_applic__ac",
+   "title": "Graphene oxide and metal organic frameworks hybrids : synthesis, characterization and assessment in membrane application",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/245881354.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_importance_of_Laccase_immobilisation_in_Biocatalysis_towards_biomass_pretreatment__ac",
+   "title": "The importance of Laccase immobilisation in Biocatalysis: towards biomass pretreatment",
+   "doi": null,
+   "source": "core",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "A_Review_on_Metal_Organic_Framework-Derived_Porous_Carbon-Based_Novel_Microwave_Absorption_Materials__nature",
+  "A_review_on_zeolitic_imidazolate_frameworks_use_for_crude_oil_spills_cleanup__ac",
+  "Ab_initio_and_force_field_investigations_of_physical_hydrogen_adsorption_in_Zeolitic_Imidazole_Frameworks__ac",
+  "Amorphisation_Mechanisms_of_Metal-Organic_Frameworks_under_High_Pressures_and_Temperatures__ac",
+  "Application_of_metal_organic_frameworks__ac",
+  "Application_of_statistical_physics_formalism_for_interpreting_the_CO2_and_N2_adsorption_on_zeolitic_imidazol__nature",
+  "Best_Practices_for_the_Synthesis_Activation_and_Characterization_of_Metal_Organic_Frameworks__openalex",
+  "Beyond_post-synthesis_modification_evolution_of_metal_organic_frameworks_via_building_block_replacement__openalex",
+  "Bioinspired_materials_and_membranes_for_energy-efficient_liquid_separation__ac",
+  "CTAB-caped_Cu_nanoparticles_doped_on_zeolitic_imidazolate_framework-ZIF-67_as_bifunctional_catalysts_for_oxy__nature",
+  "Carbon_materials_for_ion-intercalation_involved_rechargeable_battery_technologies__openalex",
+  "Characterisation_of_porous_materials_for_the_adsorption_of_volatile_organic_compounds__ac",
+  "Charge_Storage_in_Organic_Electrodes_for_Energy_Electrochemical_Applications__ac",
+  "Co_Ni_Al-LTH_Layered_Triple_Hydroxides_with_Zeolitic_Imidazolate_Frameworks_ZIF-8_as_High_Efficient_Removal___nature",
+  "Colossal_cages_in_zeolitic_imidazolate_frameworks_as_selective_carbon_dioxide_reservoirs__nature",
+  "Confining_isolated_atoms_and_clusters_in_crystalline_porous_materials_for_catalysis__nature",
+  "Connecting_theory_and_simulation_with_experiment_for_the_study_of_diffusion_in_nanoporous_solids__ac",
+  "Continuous_structure_modification_of_metal-organic_framework_glasses_via_halide_salts__nature",
+  "Controllable_synthesis_of_B_N_co-doped_C_from_metal-organic_frameworks_with_tunable_catalytic_performance__edu",
+  "Controlled_defects_in_metal-organic_frameworks_for_enhanced_adsorption_and_catalytic_properties__ac",
+  "Controlling_the_morphology_of_metal_organic_frameworks_and_porous_carbon_materials_metal_oxides_as_primary_archi__ac",
+  "Crystalline_Amorphous_and_Liquid_Metal-Organic_Frameworks_at_Non-Ambient_Conditions__ac",
+  "Current_Trends_in_Metal_Organic_and_Covalent_Organic_Framework_Membrane_Materials__ac",
+  "Design_of_Transition_Metal-based_Nanomaterials_for_Electrochemical_Energy_Conversion_and_Storage__ac",
+  "Developing_Microwave-Assisted_Synthesis_for_hybrid_Zeolitic-Imidazolate_Frameworks_Deriving_from_ZIF-8_for_Tunab__ac",
+  "Developing_electrocatalysts_precious_and_non-precious_for_PEM_fuel_cells_applying_metal_organic_frameworks__ac",
+  "Development_and_characterization_of_a_colloidal_fluorescent_ZIF_derivative_acting_as_a_bio-label_for_immunoassay__ac",
+  "Different_view_of_solvent_effect_on_the_synthesis_methods_of_zeolitic_imidazolate_framework-8_to_tuning_th__openalex",
+  "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+  "Effect_of_Zeolitic_Imidazolate_Framework_Topology_on_the_Purification_of_Hydrogen_from_Coke_Oven_Gas__ac",
+  "Effect_of_pressure_on_metal-organic_frameworks_MOFs__ac",
+  "Electrochemical_detection_of_4-chlorophenol_on_phthalocyanine-metal_organic_framework_sensors__ac",
+  "Electrospun_Cellulose_Air_Filter_Coated_with_Zeolitic_Imidazolate_Frameworks_ZIFs_for_Efficient_Particulate___nature",
+  "Elucidating_the_Role_of_Physiochemical_Properties_on_Gas_Transport_in_Ionic_Liquids_and_Porous_Liquids_for_Carbo__ac",
+  "Energy_efficient_strategy_for_designing_metal_organic_frameworks_based_bifunctional_electrocatalysts_and_high_pe__ac",
+  "Engineering_Functional_Porous_Materials_for_Gas_Adsorption_and_Heterogeneous_Catalysis__ac",
+  "Enzyme_Immobilisation_Using_Porous_Frameworks__ac",
+  "Exploration_of_the_photocatalytic_activity_of_various_zeolitic_imidazolate_frameworks_ZIF-8_ZIF-9_ZIF-67_and__nature",
+  "Exploring_the_Electrode-Electrolyte_Interface_of_Electrically_Conductive_Layered_Metal-Organic_Frameworks_with_N__ac",
+  "Fc_COOH_2_zeolitic_imidazolate_frameworks-8_three-dimensional_macroporous_carbon_for_ascorbic_acid_sensing__nature",
+  "Fe-_N-Embedded_Hierarchically_Porous_Carbon_Architectures_Derived_from_FeTe-Trapped_Zeolitic_Imidazolate_Framewo__ac",
+  "Flexible_metal_organic_frameworks__openalex",
+  "Forced_intrusion_of_water_and_aqueous_solutions_in_microporous_materials_from_fundamental_thermodynamics_t__openalex",
+  "Four-dimensional_metal-organic_frameworks__nature",
+  "From_design_to_application_the_synthesis_of_metal-organic_frameworks_MOFS_with_an_environmentally_benign_solvent__ac",
+  "Gas_Sensors_Based_on_Chemi-Resistive_Hybrid_Functional_Nanomaterials__nature",
+  "Gas_sensing_using_porous_materials_for_automotive_applications__openalex",
+  "Glass_formation_and_meltability_of_metal-organic_frameworks__ac",
+  "Graphene_oxide_and_metal_organic_frameworks_hybrids_synthesis_characterization_and_assessment_in_membrane_applic__ac",
+  "HETEROATOM-DOPED_NANOPOROUS_CARBONS_SYNTHESIS_CHARACTERIZATION_AND_APPLICATION_TO_GAS_STORAGE_AND_SEPARATION__ac",
+  "High-Throughput_Synthesis_of_Metal-Organic_Frameworks_Through_Mixed_Ligand_Co-assembly_and_Topological_Design__ac",
+  "High-throughput_computational_screening_of_nanoporous_materials_in_targeted_applications__openalex",
+  "High_Pressure-Based_Synthesis_of_Nanoporous_Metal_Organic_Framework_ZIF-93_Giving_Rise_to_a_Phase_for_Proton_Con__ac",
+  "High_lithium_anodic_performance_of_highly_nitrogen-doped_porous_carbon_prepared_from_a_metal-organic_framewo__nature",
+  "Hyaluronic_Acid-Coated_Zeolitic_Imidazolate_Framework_ZIF-67_for_the_Targeted_and_pH-Responsive_Drug_Deliver__nature",
+  "Hybrid_Metal_Covalent_Organic_Frameworks_for_Solar_Fuel_Conversion__ac",
+  "Identification_of_catalytic_sites_in_cobalt-nitrogen-carbon_materials_for_the_oxygen_reduction_reaction__nature",
+  "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+  "Influencing_Metal-organic_Framework_Catalysis_through_Nanoscale_Structuralisation__ac",
+  "Inorganic_Carbon_Nanomaterial_Composites_for_Chemical_Sensing__ac",
+  "Intrinsic_Photodynamic_Study_on_Photocatalytic_Materials__ac",
+  "Investigation_of_the_potential_catalytic_activities_of_several_metal_organic_framework_MOF_materials__ac",
+  "Investigation_of_zeolitic_imidazolate_frameworks_derived_carbon_nanotubes_thin_film_in_solar_vapor_generatio__nature",
+  "Investigation_of_zeolitic_imidazolate_frameworks_using_13C_and_15N_solid-state_NMR_spectroscopy__ac",
+  "Iron_doped_zeolitic_imidazolate_framework_Fe-ZIF-8_synthesis_and_photocatalytic_degradation_of_RDB_dye_in_Fe__nature",
+  "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+  "Localized_cell_stimulation_by_nitric_oxide_using_a_photoactive_porous_coordination_polymer_platform__nature",
+  "Luminescent_Metal_organic_frameworks_for_sensing_of_aqueous_heavy_metal_ions__ac",
+  "Luminescent_metal_organic_frameworks__openalex",
+  "MOF-Polymer_Hybrid_Materials_From_Simple_Composites_to_Tailored_Architectures__openalex",
+  "Magnetic_molecularly_imprinting_polymers_reduced_graphene_oxide_and_zeolitic_imidazolate_frameworks_modified__nature",
+  "Mechanical_Properties_in_Metal_Organic_Frameworks_Emerging_Opportunities_and_Challenges_for_Device_Functio__openalex",
+  "Mechanochemistry_of_metal-organic_frameworks_under_compression__ac",
+  "Mesoporous_materials_for_clean_energy_technologies__openalex",
+  "Metal-Organic_Framework_MOF_-Based_Materials_Aerosol_Synthesis_and_Photocatalytic_Applications__ac",
+  "Metal-Organic_Frameworks_and_their_composites_for_water_remediation__ac",
+  "Metal-organic_Frameworks_as_Drug_Delivery_System_for_Cancer_Therapy__ac",
+  "Metal-organic_framework-based_triboelectric_nanogenerators__ac",
+  "Metal-organic_materials_for_harmful_anionic_species_removal_from_aqueous_solution_investigation_characterization__ac",
+  "Metal_Organic_Framework_Materials_for_Electrochemical_Supercapacitors__nature",
+  "Metal_organic_and_covalent_organic_frameworks_as_single-site_catalysts__openalex",
+  "Metal_organic_framework_based_electrode_materials_for_lithium-ion_batteries_a_review__openalex",
+  "Metal_organic_frameworks_as_precursors_for_the_manufacture_of_advanced_catalytic_materials__openalex",
+  "Mixed-metal_metal_organic_frameworks__openalex",
+  "Molecular_Modelling_of_Stimuli_Responsive_Gate_Effects_in_Flexible_Metal_Organic_Frameworks__ac",
+  "Molecular_Sieving_Properties_of_Nanoporous_Mixed-Linker_ZIF-62_Associated_Structural_Changes_upon_Gas_Adsorption__ac",
+  "Nanoporous_Materials_for_Carbon_Dioxide_Separation_and_Storage__ac",
+  "Nitrogen-doped_porous_carbon_derived_from_bimetallic_zeolitic_imidazolate_frameworks_for_electrochemical_Li___nature",
+  "Particle_size_effect_on_the_catalytic_properties_of_zeolitic_imidazolate_frameworks__nature",
+  "Perspectives_on_the_Influence_of_Crystal_Size_and_Morphology_on_the_Properties_of_Porous_Framework_Materials__ac",
+  "Perspectives_regarding_metal_mineral-incorporating_materials_for_water_purification_with_special_focus_on___openalex",
+  "Poly_lactic_acid_Nanofibrous_Scaffolds_Containing_Aspirin-loaded_Zeolitic_Imidazolate_Frameworks_Morphology___nature",
+  "Polymer_molecular_sieve_membranes__ac",
+  "Polymorph_Selection_of_Zeolitic_Imidazolate_Frameworks_via_Kinetic_and_Thermodynamic_Control__ac",
+  "Porous_Carbon_Based_Solid_Adsorbents_for_Carbon_Dioxide_Capture__ac",
+  "Porous_Materials_for_the_Capture_and_Recycling_of_Phosphates_from_Wastewater__ac",
+  "Potassium_and_zeolitic_structure_modified_ultra-microporous_adsorbent_materials_from_a_renewable_feedstock_with___ac",
+  "Precise_control_over_gas-transporting_channels_in_zeolitic_imidazolate_framework_glasses__nature",
+  "Preparation_of_Zeolitic_Imidazolate_Framework-8_ZIF-8_Membrane_on_Porous_Polymeric_Support_via_Contra-Diffusion___ac",
+  "Production_and_characterization_of_mixed_matrix_membranes_based_on_metal-organic_frameworks__ac",
+  "Rapid_room-temperature_synthesis_of_hierarchical_porous_zeolitic_imidazolate_frameworks_with_high_space-time__nature",
+  "Recent_advances_in_stimuli-responsive_framework_materials_understanding_their_response_and_searching_for_m__openalex",
+  "Recent_progress_in_materials_development_for_CO_sub_2_sub_conversion_issues_and_challenges__openalex",
+  "Screening_developing_and_testing_metal-organic_frameworks_for_industrially_relevant_CO_N2_separation__ac",
+  "Self-catalysed_aerobic_oxidization_of_organic_linker_in_porous_crystal_for_on-demand_regulation_of_sorption___nature",
+  "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+  "Stability_Transport_and_Modification_of_Zeolitic_Imidazolate_Framework-8_Membranes_for_Light_Hydrocarbon_Separat__ac",
+  "Structural_and_dynamic_studies_of_substrate_binding_in_porous_metal_organic_frameworks__openalex",
+  "Supported_metal_clusters_and_nanoparticles_for_CO_hydrogenation_to_value-added_hydrocarbons.__ac",
+  "Synthesis_and_Characterization_of_Films_and_Membranes_of_Metal-Organic_Framework_MOF_for_Gas_Separation_Applicat__ac",
+  "Synthesis_of_Metal-Organic_Frameworks_containing_Heterocyclic_Linkers_for_application_in_CO2_storage_utilization__ac",
+  "Synthesis_of_Zeolitic_Imidazolate_Framework-8_Using_Glycerol_Carbonate__ac",
+  "Synthesis_of_zeolitic_imidazolate_framework-8_and_gold_nanoparticles_in_a_sustained_out-of-equilibrium_state__nature",
+  "Synthesis_routes_of_zeolitic_imidazolate_framework-8_for_CO2_capture_A_review__ac",
+  "Templating_the_Assembly_of_Metal-Organic_Frameworks_on_Cellulose_for_Multifunctional_Materials__ac",
+  "The_Photodynamic_and_Structural_Analyses_of_Advanced_Materials_for_Solar_Fuel_Conversion__ac",
+  "The_Potential_Applications_of_Nanoporous_Materials_for_the_Adsorption_Separation_and_Catalytic_Conversion_of_Car__ac",
+  "The_chromatographic_characterisation_of_porous_materials_for_heterogeneous_process_efficiency__ac",
+  "The_development_of_the_novel_electrode_materials_for_electrochemical_energy_storage_applications__ac",
+  "The_importance_of_Laccase_immobilisation_in_Biocatalysis_towards_biomass_pretreatment__ac",
+  "Thermo_mechanical_performance_and_novel_applications_of_nanocomposites_incorporating_metal_organic_frameworks__ac",
+  "Thin-film_electrode_based_on_zeolitic_imidazolate_frameworks_ZIF-8_and_ZIF-67_with_ultra-stable_performance___nature",
+  "Thin_film_nanocomposite_membranes_based_on_renewable_polymer_Pebax_and_zeolitic_imidazolate_frameworks_for_CO2_C__ac",
+  "Towards_sustainable_ultrafast_molecular-separation_membranes_From_conventional_polymers_to_emerging_materi__openalex",
+  "Tuning_the_Swing_Effect_by_Chemical_Functionalization_of_Zeolitic_Imidazolate_Frameworks__ac",
+  "Vibrational_dynamics_dictate_heat_transport_in_metal-organic_frameworks_with_gas_adsorbates__ac",
+  "Water-based_routes_for_synthesis_of_metal-organic_frameworks_A_review__nature",
+  "What_Are_the_Best_Materials_To_Separate_a_Xenon_Krypton_Mixture__openalex",
+  "Zeolite-like_metal_organic_frameworks_ZMOFs_design_synthesis_and_properties__openalex",
+  "Zeolitic_Imidazolate_Frameworks-Derived_Activated_Carbon_As_Electrode_Material_for_Lithium-Sulfur_Batteries___nature",
+  "Zeolitic_Imidazolate_Frameworks_Synthesis_Functionalization_and_Catalytic_Adsorption_Applications__nature",
+  "Zeolitic_imidazolate_frameworks_ZIFs_and_their_derivatives_synthesis_and_energy_related_applications__ac",
+  "Zeolitic_imidazolate_frameworks_derived_carbon_with_rational_porous_structure_mediated_by_polyvinylpyrrolido__nature",
+  "Zeolitic_imidazolate_frameworks_polyacrylonitile_composites_for_oil_sorption_and_antibacterial_applications__nature",
+  "ZnO_embedded_in_nitrogen-doped_carbon_hybrid_derived_from_zeolitic-imidazolate_frameworks_via_mechanochemist__nature"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 3,
+   "paper_id": "Amorphisation_Mechanisms_of_Metal-Organic_Frameworks_under_High_Pressures_and_Temperatures__ac",
+   "title": "Amorphisation Mechanisms of Metal-Organic Frameworks under High Pressures and Temperatures",
+   "doi": "10.17863/cam.116551",
+   "source": "core",
+   "url": "https://core.ac.uk/download/646846066.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Best_Practices_for_the_Synthesis_Activation_and_Characterization_of_Metal_Organic_Frameworks__openalex",
+   "title": "Best Practices for the Synthesis, Activation, and Characterization of Metal–Organic Frameworks",
+   "doi": "10.1021/acs.chemmater.6b02626",
+   "source": "openalex",
+   "url": "https://openalex.org/W2522564267",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Beyond_post-synthesis_modification_evolution_of_metal_organic_frameworks_via_building_block_replacement__openalex",
+   "title": "Beyond post-synthesis modification: evolution of metal–organic frameworks via building block replacement",
+   "doi": "10.1039/c4cs00067f",
+   "source": "openalex",
+   "url": "https://openalex.org/W2105761150",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Carbon_materials_for_ion-intercalation_involved_rechargeable_battery_technologies__openalex",
+   "title": "Carbon materials for ion-intercalation involved rechargeable battery technologies",
+   "doi": "10.1039/d0cs00187b",
+   "source": "openalex",
+   "url": "https://openalex.org/W3117960570",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Charge_Storage_in_Organic_Electrodes_for_Energy_Electrochemical_Applications__ac",
+   "title": "Charge Storage in Organic Electrodes for Energy & Electrochemical Applications",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/79649803.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Confining_isolated_atoms_and_clusters_in_crystalline_porous_materials_for_catalysis__nature",
+   "title": "Confining isolated atoms and clusters in crystalline porous materials for catalysis",
+   "doi": "10.1038/s41578-020-00250-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W3094212385",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Different_view_of_solvent_effect_on_the_synthesis_methods_of_zeolitic_imidazolate_framework-8_to_tuning_th__openalex",
+   "title": "Different view of solvent effect on the synthesis methods of zeolitic imidazolate framework-8 to tuning the crystal structure and properties",
+   "doi": "10.1039/d1ra02856a",
+   "source": "openalex",
+   "url": "https://openalex.org/W3168753069",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Flexible_metal_organic_frameworks__openalex",
+   "title": "Flexible metal–organic frameworks",
+   "doi": "10.1039/c4cs00101j",
+   "source": "openalex",
+   "url": "https://openalex.org/W2105631122",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Four-dimensional_metal-organic_frameworks__nature",
+   "title": "Four-dimensional metal-organic frameworks",
+   "doi": "10.1038/s41467-020-16527-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W2976088130",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Gas_Sensors_Based_on_Chemi-Resistive_Hybrid_Functional_Nanomaterials__nature",
+   "title": "Gas Sensors Based on Chemi-Resistive Hybrid Functional Nanomaterials",
+   "doi": "10.1007/s40820-020-0407-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W3011774628",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Gas_sensing_using_porous_materials_for_automotive_applications__openalex",
+   "title": "Gas sensing using porous materials for automotive applications",
+   "doi": "10.1039/c5cs00040h",
+   "source": "openalex",
+   "url": "https://openalex.org/W1947786635",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "High_lithium_anodic_performance_of_highly_nitrogen-doped_porous_carbon_prepared_from_a_metal-organic_framewo__nature",
+   "title": "High lithium anodic performance of highly nitrogen-doped porous carbon prepared from a metal-organic framework",
+   "doi": "10.1038/ncomms6261",
+   "source": "openalex",
+   "url": "https://openalex.org/W2032570058",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Hybrid_Metal_Covalent_Organic_Frameworks_for_Solar_Fuel_Conversion__ac",
+   "title": "Hybrid Metal/Covalent Organic Frameworks for Solar Fuel Conversion",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/287921504.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Identification_of_catalytic_sites_in_cobalt-nitrogen-carbon_materials_for_the_oxygen_reduction_reaction__nature",
+   "title": "Identification of catalytic sites in cobalt-nitrogen-carbon materials for the oxygen reduction reaction",
+   "doi": "10.1038/s41467-017-01100-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W2762985090",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Localized_cell_stimulation_by_nitric_oxide_using_a_photoactive_porous_coordination_polymer_platform__nature",
+   "title": "Localized cell stimulation by nitric oxide using a photoactive porous coordination polymer platform",
+   "doi": "10.1038/ncomms3684",
+   "source": "openalex",
+   "url": "https://openalex.org/W2138082386",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Luminescent_metal_organic_frameworks__openalex",
+   "title": "Luminescent metal–organic frameworks",
+   "doi": "10.1039/b802352m",
+   "source": "openalex",
+   "url": "https://openalex.org/W2098292174",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "MOF-Polymer_Hybrid_Materials_From_Simple_Composites_to_Tailored_Architectures__openalex",
+   "title": "MOF-Polymer Hybrid Materials: From Simple Composites to Tailored Architectures",
+   "doi": "10.1021/acs.chemrev.9b00575",
+   "source": "openalex",
+   "url": "https://openalex.org/W2998095377",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Mechanical_Properties_in_Metal_Organic_Frameworks_Emerging_Opportunities_and_Challenges_for_Device_Functio__openalex",
+   "title": "Mechanical Properties in Metal–Organic Frameworks: Emerging Opportunities and Challenges for Device Functionality and Technological Applications",
+   "doi": "10.1002/adma.201704124",
+   "source": "openalex",
+   "url": "https://openalex.org/W2770576365",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-Organic_Frameworks_and_their_composites_for_water_remediation__ac",
+   "title": "Metal-Organic Frameworks and their composites for water remediation",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/558775363.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_framework-based_triboelectric_nanogenerators__ac",
+   "title": "Metal-organic framework-based triboelectric nanogenerators",
+   "doi": "10.5287/ora-gpbjyn4r7",
+   "source": "core",
+   "url": "https://core.ac.uk/download/686048427.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal_organic_and_covalent_organic_frameworks_as_single-site_catalysts__openalex",
+   "title": "Metal–organic and covalent organic frameworks as single-site catalysts",
+   "doi": "10.1039/c7cs00033b",
+   "source": "openalex",
+   "url": "https://openalex.org/W2603410158",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_framework_based_electrode_materials_for_lithium-ion_batteries_a_review__openalex",
+   "title": "Metal–organic framework based electrode materials for lithium-ion batteries: a review",
+   "doi": "10.1039/d1ra05073g",
+   "source": "openalex",
+   "url": "https://openalex.org/W3197418434",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal_organic_frameworks_as_precursors_for_the_manufacture_of_advanced_catalytic_materials__openalex",
+   "title": "Metal organic frameworks as precursors for the manufacture of advanced catalytic materials",
+   "doi": "10.1039/c7qm00007c",
+   "source": "openalex",
+   "url": "https://openalex.org/W2591143090",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Mixed-metal_metal_organic_frameworks__openalex",
+   "title": "Mixed-metal metal–organic frameworks",
+   "doi": "10.1039/c8cs00337h",
+   "source": "openalex",
+   "url": "https://openalex.org/W2938467275",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Perspectives_regarding_metal_mineral-incorporating_materials_for_water_purification_with_special_focus_on___openalex",
+   "title": "Perspectives regarding metal/mineral-incorporating materials for water purification: with special focus on Cr(<scp>vi</scp>) removal",
+   "doi": "10.1039/d0ma00153h",
+   "source": "openalex",
+   "url": "https://openalex.org/W3033176093",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Precise_control_over_gas-transporting_channels_in_zeolitic_imidazolate_framework_glasses__nature",
+   "title": "Precise control over gas-transporting channels in zeolitic imidazolate framework glasses",
+   "doi": "10.1038/s41563-023-01738-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390004910",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_advances_in_stimuli-responsive_framework_materials_understanding_their_response_and_searching_for_m__openalex",
+   "title": "Recent advances in stimuli-responsive framework materials: understanding their response and searching for materials with targeted behavior",
+   "doi": "10.26434/chemrxiv-2025-gdx77-v3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4409064550",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Recent_progress_in_materials_development_for_CO_sub_2_sub_conversion_issues_and_challenges__openalex",
+   "title": "Recent progress in materials development for CO<sub>2</sub>conversion: issues and challenges",
+   "doi": "10.1039/d1ma00107h",
+   "source": "openalex",
+   "url": "https://openalex.org/W3136843227",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Self-catalysed_aerobic_oxidization_of_organic_linker_in_porous_crystal_for_on-demand_regulation_of_sorption___nature",
+   "title": "Self-catalysed aerobic oxidization of organic linker in porous crystal for on-demand regulation of sorption behaviours",
+   "doi": "10.1038/ncomms7350",
+   "source": "openalex",
+   "url": "https://openalex.org/W2055859735",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Structural_and_dynamic_studies_of_substrate_binding_in_porous_metal_organic_frameworks__openalex",
+   "title": "Structural and dynamic studies of substrate binding in porous metal–organic frameworks",
+   "doi": "10.1039/c6cs00603e",
+   "source": "openalex",
+   "url": "https://openalex.org/W2558046062",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Supported_metal_clusters_and_nanoparticles_for_CO_hydrogenation_to_value-added_hydrocarbons.__ac",
+   "title": "Supported metal clusters and nanoparticles for CO₂ hydrogenation to value-added hydrocarbons.",
+   "doi": "10.26021/15193",
+   "source": "core",
+   "url": "https://core.ac.uk/download/640026799.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_chromatographic_characterisation_of_porous_materials_for_heterogeneous_process_efficiency__ac",
+   "title": "The chromatographic characterisation of porous materials for heterogeneous process efficiency",
+   "doi": "10.25560/103928",
+   "source": "core",
+   "url": "https://core.ac.uk/download/565841681.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "The_development_of_the_novel_electrode_materials_for_electrochemical_energy_storage_applications__ac",
+   "title": "The development of the novel electrode materials for electrochemical energy storage applications",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/224958055.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Thermo_mechanical_performance_and_novel_applications_of_nanocomposites_incorporating_metal_organic_frameworks__ac",
+   "title": "Thermo‑mechanical performance and novel applications of nanocomposites incorporating metal‑organic frameworks",
+   "doi": "10.1016/j.memsci.2015.09.066",
+   "source": "core",
+   "url": "https://core.ac.uk/download/346485323.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Towards_sustainable_ultrafast_molecular-separation_membranes_From_conventional_polymers_to_emerging_materi__openalex",
+   "title": "Towards sustainable ultrafast molecular-separation membranes: From conventional polymers to emerging materials",
+   "doi": "10.1016/j.pmatsci.2017.10.006",
+   "source": "openalex",
+   "url": "https://openalex.org/W2765399972",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Water-based_routes_for_synthesis_of_metal-organic_frameworks_A_review__nature",
+   "title": "Water-based routes for synthesis of metal-organic frameworks: A review",
+   "doi": "10.1007/s40843-019-1264-x",
+   "source": "openalex",
+   "url": "https://openalex.org/W3015915129",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "What_Are_the_Best_Materials_To_Separate_a_Xenon_Krypton_Mixture__openalex",
+   "title": "What Are the Best Materials To Separate a Xenon/Krypton Mixture?",
+   "doi": "10.1021/acs.chemmater.5b01475",
+   "source": "openalex",
+   "url": "https://openalex.org/W1810766688",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Zeolite-like_metal_organic_frameworks_ZMOFs_design_synthesis_and_properties__openalex",
+   "title": "Zeolite-like metal–organic frameworks (ZMOFs): design, synthesis, and properties",
+   "doi": "10.1039/c4cs00230j",
+   "source": "openalex",
+   "url": "https://openalex.org/W2112692467",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "chem",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/chem/ZIF_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_chem/ZIF_01",
+ "seed_set_matches_run_id": false,
+ "target_total_papers": 250,
+ "actual_total_papers": 120,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}

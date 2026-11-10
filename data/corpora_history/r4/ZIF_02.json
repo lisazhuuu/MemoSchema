@@ -1,0 +1,847 @@
+{
+ "batch": "r4",
+ "run": "ZIF_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction",
+   "doi": "10.1038/s41467-024-53385-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-53385-0"
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+   "title": "Effect of Solvent Assisted Linker Exchange (SALE) and De Novo Synthetic Routes on CO2 Uptake and Fixation by Mixed-Linker Zeolitic Imidazolate Frameworks",
+   "doi": "10.1007/s10904-023-02653-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10904-023-02653-5"
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+   "title": "Magnetic Nanoparticles Encapsulated Zeolitic Imidazolate Frameworks: A New Delivery System for Crocin",
+   "doi": "10.1007/s10876-023-02526-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10876-023-02526-4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Solvent-free bottom-up patterning of zeolitic imidazolate frameworks",
+   "doi": "10.1038/s41467-022-28050-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-022-28050-z"
+  },
+  {
+   "round": 1,
+   "paper_id": "Vapor-deposited_zeolitic_imidazolate_frameworks_as_gap-filling_ultra-low-k_dielectrics__nature",
+   "title": "Vapor-deposited zeolitic imidazolate frameworks as gap-filling ultra-low-k dielectrics",
+   "doi": "10.1038/s41467-019-11703-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+   "title": "Manganese-Zeolitic Imidazolate Frameworks-90 with High Blood Circulation Stability for MRI-Guided Tumor Therapy",
+   "doi": "10.1007/s40820-019-0292-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Ferulic_Acid-Loaded_Zeolitic_Imidazolate_Frameworks-8_Nanoparticles_ZIF-8_Exhibited_Anticancer_Activity_by_t__nature",
+   "title": "Ferulic Acid-Loaded Zeolitic Imidazolate Frameworks-8 Nanoparticles (ZIF-8) Exhibited Anticancer Activity by the Increase of Apoptotic Proteins in Ishikawa and HEC1B cells",
+   "doi": "10.1007/s44411-025-00317-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Construction_of_hierarchically_porous_metal_organic_frameworks_through_linker_labilization__nature",
+   "title": "Construction of hierarchically porous metal–organic frameworks through linker labilization",
+   "doi": "10.1038/ncomms15356",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Graphene_oxide_zeolitic_imidazolate_framework-67_transition_metal_composite_with_exposed_active_sites_for_hi__nature",
+   "title": "Graphene oxide/ zeolitic imidazolate framework-67–transition metal composite with exposed active sites for high-performance supercapacitors",
+   "doi": "10.1007/s10971-026-07187-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Sustainable_preparation_of_zeolitic_imidazolate_framework_cellulose_TiO2_nanopolymer_from_Sesame_wastes_for___nature",
+   "title": "Sustainable preparation of zeolitic imidazolate framework/cellulose/TiO2 nanopolymer from Sesame wastes for photocatalytic degradation of ciprofloxacin",
+   "doi": "10.1007/s13201-026-02835-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+   "title": "Improvement of optical and structural properties of ZIF-8 by producing multifunctional Zn/Co bimetallic ZIFs for wastewater treatment from copper ions and dye",
+   "doi": "10.1038/s41598-024-66276-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+   "title": "Imaging the node-linker coordination in the bulk and local structures of metal-organic frameworks",
+   "doi": "10.1038/s41467-020-16531-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Spatial_distribution_modulation_of_mixed_building_blocks_in_metal-organic_frameworks__nature",
+   "title": "Spatial distribution modulation of mixed building blocks in metal-organic frameworks",
+   "doi": "10.1038/s41467-022-28679-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+   "title": "Missing-linker metal-organic frameworks for oxygen evolution reaction",
+   "doi": "10.1038/s41467-019-13051-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Multivariate_analysis_of_disorder_in_metal_organic_frameworks__nature",
+   "title": "Multivariate analysis of disorder in metal–organic frameworks",
+   "doi": "10.1038/s41467-022-29849-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Expansion_of_phycobilisome_linker_gene_families_in_mesophilic_red_algae__nature",
+   "title": "Expansion of phycobilisome linker gene families in mesophilic red algae",
+   "doi": "10.1038/s41467-019-12779-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Bulk_Ring-Opening_Polymerization_of_-Caprolactone_by_Zeolitic_Imidazolate_Framework__nature",
+   "title": "Correction to: Bulk Ring-Opening Polymerization of ε-Caprolactone by Zeolitic Imidazolate Framework",
+   "doi": "10.1007/s10562-019-02863-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10562-019-02863-y"
+  },
+  {
+   "round": 2,
+   "paper_id": "Zeolitic_imidazolate_framework-8_nanoparticle_a_promising_adsorbent_for_effective_fluoride_removal_from_aque__nature",
+   "title": "Zeolitic imidazolate framework-8 nanoparticle: a promising adsorbent for effective fluoride removal from aqueous solution",
+   "doi": "10.1007/s13201-019-1030-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s13201-019-1030-9"
+  },
+  {
+   "round": 2,
+   "paper_id": "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+   "title": "Revolutionizing acridine synthesis: novel core-shell magnetic nanoparticles and Co-Zn zeolitic imidazolate framework with 1-aza-18-crown-6-ether-Ni catalysts",
+   "doi": "10.1038/s41598-024-75591-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-024-75591-y"
+  },
+  {
+   "round": 2,
+   "paper_id": "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+   "title": "Influence of the 2-methylimidazole/zinc nitrate hexahydrate molar ratio on the synthesis of zeolitic imidazolate framework-8 crystals at room temperature",
+   "doi": "10.1038/s41598-018-28015-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Linker_call_graph_with_full_Dotty_support__epfl",
+   "title": "Linker call graph with full Dotty support",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Mixed-linker_strategy_for_suppressing_structural_flexibility_of_metal-organic_framework_membranes_for_gas_se__nature",
+   "title": "Mixed-linker strategy for suppressing structural flexibility of metal-organic framework membranes for gas separation",
+   "doi": "10.1038/s42004-023-00917-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Active_inclusion_bodies_of_acid_phosphatase_PhoC_aggregation_induced_by_GFP_fusion_and_activities_modulated___nature",
+   "title": "Active inclusion bodies of acid phosphatase PhoC: aggregation induced by GFP fusion and activities modulated by linker flexibility",
+   "doi": "10.1186/1475-2859-12-25",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "hERG_S4-S5_linker_acts_as_a_voltage-dependent_ligand_that_binds_to_the_activation_gate_and_locks_it_in_a_clo__nature",
+   "title": "hERG S4-S5 linker acts as a voltage-dependent ligand that binds to the activation gate and locks it in a closed state",
+   "doi": "10.1038/s41598-017-00155-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Linker_length_and_composition_influence_the_flexibility_of_Oct_1_DNA_binding__nature",
+   "title": "Linker length and composition influence the flexibility of Oct‐1 DNA binding",
+   "doi": "10.1093/emboj/16.8.2043",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "What_Makes_a_Good_Theory_and_How_Do_We_Make_a_Theory_Good__nature",
+   "title": "What Makes a Good Theory, and How Do We Make a Theory Good?",
+   "doi": "10.1007/s42113-023-00193-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Finite_confinement_potentials_core_and_shell_size_effects_on_excitonic_and_electron-atom_properties_in_cylin__nature",
+   "title": "Finite confinement potentials, core and shell size effects on excitonic and electron-atom properties in cylindrical core/shell/shell quantum dots",
+   "doi": "10.1038/s41598-022-19118-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Evaluating_multivariate_volatility_forecasts_how_effective_are_statistical_and_economic_loss_functions__edu",
+   "title": "Evaluating multivariate volatility forecasts : how effective are statistical and economic loss functions?",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+   "title": "Immobilization of Xylanase into Zeolitic Imidazolate Framework-67 (ZIF-67) and Manganese-Doped ZIF-67 (Mn/ZIF-67): A Comparison Study",
+   "doi": "10.1007/s11244-023-01898-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11244-023-01898-1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Laccase_immobilization_in_zeolitic_imidazolate_metal-organic_frameworks_for_water_micropollutant_removal_v__openalex",
+   "title": "Laccase immobilization in zeolitic imidazolate metal-organic frameworks for water micropollutant removal via biocatalysis and adsorption",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+   "title": "Cobalt/Copper Doped Bimetallic Zeolitic Imidazolate Frameworks as Peroxymonosulfate Activators for the Removal of Veterinary Antibiotics: Response Surface Modeling and Optimization of Reaction Parameters",
+   "doi": "10.1007/s13369-025-10392-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Acid_Gas_Stability_of_Zeolitic_Imidazolate_Frameworks_Generalized_Kinetic_and_Thermodynamic_Characteristic__openalex",
+   "title": "Acid Gas Stability of Zeolitic Imidazolate Frameworks: Generalized Kinetic and Thermodynamic Characteristics",
+   "doi": "10.1021/acs.chemmater.8b01394",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Water_Decontamination_using_Zeolitic_Imidazolate_Framework_Bentonite_ZIF-67_BNT_Nanocomposite__openalex",
+   "title": "Water Decontamination using Zeolitic Imidazolate Framework @ Bentonite (ZIF-67@BNT) Nanocomposite",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Composite_materials_based_on_metal-organic_frameworks_loaded_with_effective_therapeutic_components_for_pro__openalex",
+   "title": "Composite materials based on metal-organic frameworks loaded with effective therapeutic components for promoting wound healing",
+   "doi": "10.3389/fmats.2025.1713264",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Zeolitic_Imidazolate_Framework_8_ZIF-8_modified_titanium_alloy_for_controlled_release_of_drugs_for_osteoporo__nature",
+   "title": "Zeolitic Imidazolate Framework‑8 (ZIF-8) modified titanium alloy for controlled release of drugs for osteoporosis",
+   "doi": "10.1038/s41598-022-13187-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "tude_de_l_adsorption_de_l_oxyde_nitreux_sur_le_Zeolitic_Imidazolate_Framework-8_ZIF-8_mod_lisation_mol_cul__openalex",
+   "title": "Étude de l’adsorption de l’oxyde nitreux sur le Zeolitic Imidazolate Framework-8 (ZIF-8) : modélisation moléculaire et chimie computationnelle",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Covalent_integration_of_polymers_and_porous_organic_frameworks__openalex",
+   "title": "Covalent integration of polymers and porous organic frameworks",
+   "doi": "10.3389/fchem.2024.1502401",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_and_Characterization_of_Porous_Polymers_and_Metal-Organic_Frameworks_Polymer_Composites_for_Carb__openalex",
+   "title": "Synthesis and Characterization of Porous Polymers and Metal-Organic Frameworks/Polymer Composites for Carbon Capture",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Incorporation_of_Homochirality_into_a_Zeolitic_Imidazolate_Framework_Membrane_for_Efficient_Chiral_Separat__openalex",
+   "title": "Incorporation of Homochirality into a Zeolitic Imidazolate Framework Membrane for Efficient Chiral Separation",
+   "doi": "10.1002/anie.201810925",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Copper_nanoparticles_encapsulated_in_zeolitic_imidazolate_framework-8_as_a_stable_and_selective_CO2_hydrogen__nature",
+   "title": "Copper nanoparticles encapsulated in zeolitic imidazolate framework-8 as a stable and selective CO2 hydrogenation catalyst",
+   "doi": "10.1038/s41467-024-46388-4",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "A_3D-Printed_Zeolitic_Imidazolate_Framework-8_Monolith_For_Flue-_and_Biogas_Separations_by_Adsorption_Infl__openalex",
+   "title": "A 3D-Printed Zeolitic Imidazolate Framework-8 Monolith For Flue- and Biogas Separations by Adsorption: Influence of Flow Distribution and Process Parameters",
+   "doi": "10.3389/fceng.2020.589686",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Algorithmic_iterative_reticular_synthesis_of_zeolitic_imidazolate_framework_crystals__nature",
+   "title": "Algorithmic iterative reticular synthesis of zeolitic imidazolate framework crystals",
+   "doi": "10.1038/s44160-025-00939-9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Emerging_metal_organic_framework-based_materials_for_photocatalytic_and_electrocatalytic_NH3_synthesis_Des__openalex",
+   "title": "Emerging metal−organic framework-based materials for photocatalytic and electrocatalytic NH3 synthesis: Design principles, structure-activity correlation, and mechanistic insights",
+   "doi": "10.1016/j.ccr.2025.216543",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_frameworks_for_on-demand_drug_release_and_precision_drug_delivery__nature",
+   "title": "Metal‒organic frameworks for on-demand drug release and precision drug delivery",
+   "doi": "10.1186/s44280-025-00098-8",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_Organic_Frameworks_as_Emerging_Carriers_for_Drug_Delivery_A_Review__openalex",
+   "title": "Metal Organic Frameworks as Emerging Carriers for Drug Delivery: A Review",
+   "doi": "10.56975/ijrti.v11i4.212235",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_Advances_in_Multifunctional_Reticular_Framework_Nanoparticles_A_Paradigm_Shift_in_Materials_Science_R__nature",
+   "title": "Recent Advances in Multifunctional Reticular Framework Nanoparticles: A Paradigm Shift in Materials Science Road to a Structured Future",
+   "doi": "10.1007/s40820-023-01180-9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_frameworks_for_efficient_drug_adsorption_and_delivery__openalex",
+   "title": "Metal-organic frameworks for efficient drug adsorption and delivery",
+   "doi": "10.58332/scirad2023v2i2a03",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Chemical_Reactions_at_Isolated_Single-Sites_Inside_Metal_Organic_Frameworks__nature",
+   "title": "Chemical Reactions at Isolated Single-Sites Inside Metal–Organic Frameworks",
+   "doi": "10.1007/s10562-018-2432-2",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_framework-based_nanomaterials_as_opto-electrochemical_sensors_for_the_detection_of_antibioti__openalex",
+   "title": "Metal-organic framework-based nanomaterials as opto-electrochemical sensors for the detection of antibiotics and hormones: A review",
+   "doi": "10.3762/bjnano.14.52",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-Organic_Frameworks_based_on_Newly_Designed_Polycarboxyaryl_Linkers_Versatile_Cooperative_Non-Covalen__openalex",
+   "title": "Metal-Organic Frameworks based on Newly Designed Polycarboxyaryl Linkers: Versatile Cooperative Non-Covalent Interactions and Applications on Small Hydrocarbon Separation and Carbon Capture",
+   "doi": "10.12794/metadc2332598",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Green_Synthesis_of_Functionalized_Sodalite_Zifs_Through_Mechanochemistry_and_Their_Performance_in_Co2_Capt__openalex",
+   "title": "Green Synthesis of Functionalized Sodalite Zifs Through Mechanochemistry and Their Performance in Co2 Capture",
+   "doi": "10.2139/ssrn.4980591",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Integration_of_Metal-Organic_Frameworks_with_Electrospun_Fibers_for_Heavy_Metal_Removal_and_Carbon_Dioxide__openalex",
+   "title": "Integration of Metal-Organic Frameworks with Electrospun Fibers for Heavy Metal Removal and Carbon Dioxide Capture",
+   "doi": "10.11575/prism/51039",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Current_trends_in_the_synthesis_characterization_and_application_of_metal-organic_frameworks__openalex",
+   "title": "Current trends in the synthesis, characterization and application of metal-organic frameworks",
+   "doi": "10.1039/d2re00365a",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_Trends_in_the_Application_of_Metal-Organic_Frameworks__openalex",
+   "title": "Recent Trends in the Application of Metal-Organic Frameworks",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-Organic_Frameworks_MOFs_and_Future_Applications__openalex",
+   "title": "Metal-Organic Frameworks (MOFs) and Future Applications",
+   "doi": "10.18596/jotcsa.1926285",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Revolutionizing_Energy_Storage_Exploring_Processing_Approaches_and_Electrochemical_Performance_of_Metal-Or__openalex",
+   "title": "Revolutionizing Energy Storage: Exploring Processing Approaches and Electrochemical Performance of Metal-Organic Frameworks (MOFs) and Their Hybrids",
+   "doi": "10.33961/jecst.2023.00619",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Catalytic_Applications_of_Metal-Organic_Frameworks__openalex",
+   "title": "Catalytic Applications of Metal-Organic Frameworks",
+   "doi": "10.5772/61865",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-Organic_Frameworks_Synthesis_Adsorption_and_Catalytic_Applications__openalex",
+   "title": "Metal-Organic Frameworks: Synthesis, Adsorption, and Catalytic Applications",
+   "doi": "10.59075/jces.v1i1.630",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Luminescent_metal_organic_frameworks__openalex",
+   "title": "Luminescent metal–organic frameworks",
+   "doi": "10.1039/b802352m",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_frameworks_MOFs_and_covalent_organic_frameworks_COFs_-based_prototyping_of_integrated_sensin__openalex",
+   "title": "Metal-organic frameworks (MOFs) and covalent organic frameworks (COFs)-based prototyping of integrated sensing devices for robust analysis",
+   "doi": "10.1016/j.trac.2024.117678",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Downsizing_metal_organic_frameworks_by_bottom-up_and_top-down_methods__nature",
+   "title": "Downsizing metal–organic frameworks by bottom-up and top-down methods",
+   "doi": "10.1038/s41427-020-00240-5",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Mechanochemical_Fullerene_Nanoencapsulation_in_Amino_Functionalized_ZIF_12_for_Visible_Light_Disinfection___openalex",
+   "title": "Mechanochemical Fullerene Nanoencapsulation in Amino‐Functionalized ZIF‐12 for Visible‐Light Disinfection of Waterborne Viruses and Bacteria",
+   "doi": "10.1002/smll.202512881",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_Organic_Framework_Nanocarriers_for_Drug_Delivery_in_Biomedical_Applications__nature",
+   "title": "Metal–Organic Framework Nanocarriers for Drug Delivery in Biomedical Applications",
+   "doi": "10.1007/s40820-020-00423-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-Organic-Framework_MOF_-Based_Membranes_from_Preparation_to_Separation_Application__openalex",
+   "title": "Metal-Organic-Framework (MOF)-Based Membranes: from Preparation to Separation Application",
+   "doi": "10.37247/pachem3ed.3.24.9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_potential_application_of_metal_organic_framework_for_environmental_pollution_and_sensing__nature",
+   "title": "Recent potential application of metal organic framework for environmental pollution and sensing",
+   "doi": "10.1007/s44371-026-00720-7",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Tailoring_ZIF-8_surface_chemistry_via_amine_modification_for_efficient_p-Cresol_adsorption__nature",
+   "title": "Tailoring ZIF-8 surface chemistry via amine modification for efficient p-Cresol adsorption",
+   "doi": "10.1007/s10934-026-01923-0",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Multifunctional_MWCNT_NiWO_ZIF-8_Nanocomposite_Structural_Characterization_Antibacterial_Activity_Cytocomp__openalex",
+   "title": "Multifunctional MWCNT/NiWO₄/ZIF-8 Nanocomposite: Structural Characterization, Antibacterial Activity, Cytocompatibility and Cytokine-Modulating Response",
+   "doi": "10.21203/rs.3.rs-10916372/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Hydrolyzed_MOF_based_Mo_h-ZIF-8_ZnS_composite_for_enhanced_photodegradation_of_dye_pollutants_using_a_combin__nature",
+   "title": "Hydrolyzed MOF based Mo@h-ZIF-8/ZnS composite for enhanced photodegradation of dye pollutants using a combined experimental and RSM approach",
+   "doi": "10.1038/s41598-025-16201-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "3DPrinted_metalorganic_framework_filler_polymer_composites_for_methane_recovery__openalex",
+   "title": "3DPrinted metalorganic framework filler/polymer composites for methane recovery",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Polymer_metal-organic_framework_junctions_in_polyamide_membrane_via_in-situ_amine_etching_for_stable_CO_2___openalex",
+   "title": "Polymer/metal-organic framework junctions in polyamide membrane via in-situ amine etching for stable CO 2 /N 2 selectivity at elevated pressures",
+   "doi": "10.26599/nr.2026.94908903",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "MOF_gel_network_crosslinked_mixed_matrix_membranes_with_engineered_interface_for_high-efficiency_Helium_reco__nature",
+   "title": "MOF gel network crosslinked mixed matrix membranes with engineered interface for high-efficiency Helium recovery",
+   "doi": "10.1038/s41467-026-72867-x",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_framework_MOF_based_electrocatalytic_hydrogen_production__openalex",
+   "title": "Metal organic framework (MOF) based electrocatalytic hydrogen production",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "ok_katmanl_kolorimetrik_sens_r_film_kullanarak_g_da_tazeli_ini_izleme__openalex",
+   "title": "Çok katmanlı kolorimetrik sensör film kullanarak gıda tazeliğini izleme",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Post-consumer_recycling_of_PA66-GF_Composites_from_Electrical_Waste_Performance_Retention_through_Accelera__openalex",
+   "title": "Post-consumer recycling of PA66-GF Composites from Electrical Waste: Performance Retention through Accelerated Aging Models",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Trace_phase_formation_crystallization_kinetics_and_crystallographic_evolution_of_a_lithium_disilicate_glass___nature",
+   "title": "Trace phase formation, crystallization kinetics and crystallographic evolution of a lithium disilicate glass probed by synchrotron XRD technique",
+   "doi": "10.1038/srep09159",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Treatment_of_Synthetic_Wastewater_by_ZIF-8_ZIF-67_and_Aluminum_Nanocomposites__openalex",
+   "title": "Treatment of Synthetic Wastewater by ZIF-8, ZIF-67, and Aluminum Nanocomposites",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_Organic_Framework_Based_Mixed_Matrix_Membranes_for_Carbon_Dioxide_Separation_Recent_Advances_and_Fut__openalex",
+   "title": "Metal Organic Framework — Based Mixed Matrix Membranes for Carbon Dioxide Separation: Recent Advances and Future Directions",
+   "doi": "10.3389/fchem.2020.00534",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Mixed_Metal_MOFs_Unique_Opportunities_in_Metal_Organic_Framework_MOF_Functionality_and_Design__openalex",
+   "title": "Mixed‐Metal MOFs: Unique Opportunities in Metal–Organic Framework (MOF) Functionality and Design",
+   "doi": "10.1002/anie.201902229",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Development_of_rGO_ZIF-67-integrated_poly-ether-block-amid_membranes_for_high-performance_CO2_separation__nature",
+   "title": "Development of rGO/ZIF-67-integrated poly-ether-block-amid membranes for high-performance CO2 separation",
+   "doi": "10.1038/s41598-026-68358-0",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Single-Iron_Site_Catalysts_with_Self-Assembled_Dual-size_Architecture_and_Hierarchical_Porosity_for_Proton__openalex",
+   "title": "Single-Iron Site Catalysts with Self-Assembled Dual-size Architecture and Hierarchical Porosity for Proton-Exchange Membrane Fuel Cells",
+   "doi": "10.1016/j.apcatb.2020.119400",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Development_of_hierarchical_UiO-66_ZIF-8_ZIF-67_hybrid_composites_for_enhanced_CO_adsorption_at_varying_te__openalex",
+   "title": "Development of hierarchical UiO-66/ZIF-8/ZIF-67 hybrid composites for enhanced CO₂ adsorption at varying temperatures and pressures",
+   "doi": "10.1016/j.jcou.2026.103516",
+   "source": "openalex",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "3DPrinted_metalorganic_framework_filler_polymer_composites_for_methane_recovery__openalex",
+  "A_3D-Printed_Zeolitic_Imidazolate_Framework-8_Monolith_For_Flue-_and_Biogas_Separations_by_Adsorption_Infl__openalex",
+  "Acid_Gas_Stability_of_Zeolitic_Imidazolate_Frameworks_Generalized_Kinetic_and_Thermodynamic_Characteristic__openalex",
+  "Active_inclusion_bodies_of_acid_phosphatase_PhoC_aggregation_induced_by_GFP_fusion_and_activities_modulated___nature",
+  "Adsorption_selectivity_of_CO2_over_CH4_N2_and_H2_in_melamine_resorcinol_formaldehyde_xerogels__nature",
+  "Algorithmic_iterative_reticular_synthesis_of_zeolitic_imidazolate_framework_crystals__nature",
+  "Catalytic_Applications_of_Metal-Organic_Frameworks__openalex",
+  "Chemical_Reactions_at_Isolated_Single-Sites_Inside_Metal_Organic_Frameworks__nature",
+  "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+  "Composite_materials_based_on_metal-organic_frameworks_loaded_with_effective_therapeutic_components_for_pro__openalex",
+  "Copper_nanoparticles_encapsulated_in_zeolitic_imidazolate_framework-8_as_a_stable_and_selective_CO2_hydrogen__nature",
+  "Correction_to_Bulk_Ring-Opening_Polymerization_of_-Caprolactone_by_Zeolitic_Imidazolate_Framework__nature",
+  "Covalent_integration_of_polymers_and_porous_organic_frameworks__openalex",
+  "Current_trends_in_the_synthesis_characterization_and_application_of_metal-organic_frameworks__openalex",
+  "Detection_and_quantification_of_water-based_aerosols_using_active_open-path_FTIR__nature",
+  "Development_of_hierarchical_UiO-66_ZIF-8_ZIF-67_hybrid_composites_for_enhanced_CO_adsorption_at_varying_te__openalex",
+  "Development_of_rGO_ZIF-67-integrated_poly-ether-block-amid_membranes_for_high-performance_CO2_separation__nature",
+  "Downsizing_metal_organic_frameworks_by_bottom-up_and_top-down_methods__nature",
+  "Emerging_metal_organic_framework-based_materials_for_photocatalytic_and_electrocatalytic_NH3_synthesis_Des__openalex",
+  "Equilibrium_and_advanced_kinetic_studies_of_CO2_CH4_and_N2_adsorption_on_ZSM-5__nature",
+  "Evaluating_multivariate_volatility_forecasts_how_effective_are_statistical_and_economic_loss_functions__edu",
+  "Finite_confinement_potentials_core_and_shell_size_effects_on_excitonic_and_electron-atom_properties_in_cylin__nature",
+  "Green_Synthesis_of_Functionalized_Sodalite_Zifs_Through_Mechanochemistry_and_Their_Performance_in_Co2_Capt__openalex",
+  "Hydrolyzed_MOF_based_Mo_h-ZIF-8_ZnS_composite_for_enhanced_photodegradation_of_dye_pollutants_using_a_combin__nature",
+  "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+  "Incorporation_of_Homochirality_into_a_Zeolitic_Imidazolate_Framework_Membrane_for_Efficient_Chiral_Separat__openalex",
+  "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+  "Integration_of_Metal-Organic_Frameworks_with_Electrospun_Fibers_for_Heavy_Metal_Removal_and_Carbon_Dioxide__openalex",
+  "Laccase_immobilization_in_zeolitic_imidazolate_metal-organic_frameworks_for_water_micropollutant_removal_v__openalex",
+  "Linker_call_graph_with_full_Dotty_support__epfl",
+  "Linker_length_and_composition_influence_the_flexibility_of_Oct_1_DNA_binding__nature",
+  "Luminescent_metal_organic_frameworks__openalex",
+  "MOF_gel_network_crosslinked_mixed_matrix_membranes_with_engineered_interface_for_high-efficiency_Helium_reco__nature",
+  "Measurements_and_calculations_of_the_equilibrium_adsorption_amounts_of_CO2_N2_CO_N2_and_CO2_CO_mixed_gases_o__nature",
+  "Mechanochemical_Fullerene_Nanoencapsulation_in_Amino_Functionalized_ZIF_12_for_Visible_Light_Disinfection___openalex",
+  "Metal-Organic-Framework_MOF_-Based_Membranes_from_Preparation_to_Separation_Application__openalex",
+  "Metal-Organic_Frameworks_MOFs_and_Future_Applications__openalex",
+  "Metal-Organic_Frameworks_Synthesis_Adsorption_and_Catalytic_Applications__openalex",
+  "Metal-Organic_Frameworks_based_on_Newly_Designed_Polycarboxyaryl_Linkers_Versatile_Cooperative_Non-Covalen__openalex",
+  "Metal-organic_framework-based_nanomaterials_as_opto-electrochemical_sensors_for_the_detection_of_antibioti__openalex",
+  "Metal-organic_frameworks_MOFs_and_covalent_organic_frameworks_COFs_-based_prototyping_of_integrated_sensin__openalex",
+  "Metal-organic_frameworks_for_efficient_drug_adsorption_and_delivery__openalex",
+  "Metal_Organic_Framework_Based_Mixed_Matrix_Membranes_for_Carbon_Dioxide_Separation_Recent_Advances_and_Fut__openalex",
+  "Metal_Organic_Framework_Nanocarriers_for_Drug_Delivery_in_Biomedical_Applications__nature",
+  "Metal_Organic_Frameworks_as_Emerging_Carriers_for_Drug_Delivery_A_Review__openalex",
+  "Metal_organic_framework_MOF_based_electrocatalytic_hydrogen_production__openalex",
+  "Metal_organic_frameworks_for_on-demand_drug_release_and_precision_drug_delivery__nature",
+  "Mixed-linker_strategy_for_suppressing_structural_flexibility_of_metal-organic_framework_membranes_for_gas_se__nature",
+  "Mixed_Metal_MOFs_Unique_Opportunities_in_Metal_Organic_Framework_MOF_Functionality_and_Design__openalex",
+  "Multifunctional_MWCNT_NiWO_ZIF-8_Nanocomposite_Structural_Characterization_Antibacterial_Activity_Cytocomp__openalex",
+  "Polymer_metal-organic_framework_junctions_in_polyamide_membrane_via_in-situ_amine_etching_for_stable_CO_2___openalex",
+  "Post-consumer_recycling_of_PA66-GF_Composites_from_Electrical_Waste_Performance_Retention_through_Accelera__openalex",
+  "Recent_Advances_in_Multifunctional_Reticular_Framework_Nanoparticles_A_Paradigm_Shift_in_Materials_Science_R__nature",
+  "Recent_Trends_in_the_Application_of_Metal-Organic_Frameworks__openalex",
+  "Recent_potential_application_of_metal_organic_framework_for_environmental_pollution_and_sensing__nature",
+  "Revolutionizing_Energy_Storage_Exploring_Processing_Approaches_and_Electrochemical_Performance_of_Metal-Or__openalex",
+  "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+  "Single-Iron_Site_Catalysts_with_Self-Assembled_Dual-size_Architecture_and_Hierarchical_Porosity_for_Proton__openalex",
+  "Synthesis_and_Characterization_of_Porous_Polymers_and_Metal-Organic_Frameworks_Polymer_Composites_for_Carb__openalex",
+  "Tailoring_ZIF-8_surface_chemistry_via_amine_modification_for_efficient_p-Cresol_adsorption__nature",
+  "Thermal_behavior_and_decomposition_of_kaolinite-potassium_acetate_intercalation_composite__edu",
+  "Trace_phase_formation_crystallization_kinetics_and_crystallographic_evolution_of_a_lithium_disilicate_glass___nature",
+  "Treatment_of_Synthetic_Wastewater_by_ZIF-8_ZIF-67_and_Aluminum_Nanocomposites__openalex",
+  "Water_Decontamination_using_Zeolitic_Imidazolate_Framework_Bentonite_ZIF-67_BNT_Nanocomposite__openalex",
+  "What_Makes_a_Good_Theory_and_How_Do_We_Make_a_Theory_Good__nature",
+  "Zeolitic_Imidazolate_Framework_8_ZIF-8_modified_titanium_alloy_for_controlled_release_of_drugs_for_osteoporo__nature",
+  "Zeolitic_imidazolate_framework-8_nanoparticle_a_promising_adsorbent_for_effective_fluoride_removal_from_aque__nature",
+  "hERG_S4-S5_linker_acts_as_a_voltage-dependent_ligand_that_binds_to_the_activation_gate_and_locks_it_in_a_clo__nature",
+  "ok_katmanl_kolorimetrik_sens_r_film_kullanarak_g_da_tazeli_ini_izleme__openalex",
+  "tude_de_l_adsorption_de_l_oxyde_nitreux_sur_le_Zeolitic_Imidazolate_Framework-8_ZIF-8_mod_lisation_mol_cul__openalex"
+ ],
+ "run_config": {
+  "created": "2026-10-05T09:41:55",
+  "code": {
+   "sha256": "9828f7aec047c712a88fc49a4a8fb9a2e9d310665c2983fa948ddbb615cb8d37",
+   "n_files": 75
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_02",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "ZIF",
+   "last_tier": "Zeolitic imidazolate frameworks (ZIFs)",
+   "target_run_id": "02",
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_02",
+   "output_root": "results/e2e/e2e_v3/r4/chem/ZIF_02",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 3,
+   "paper_id": "Adsorption_selectivity_of_CO2_over_CH4_N2_and_H2_in_melamine_resorcinol_formaldehyde_xerogels__nature",
+   "title": "Adsorption selectivity of CO2 over CH4, N2 and H2 in melamine–resorcinol–formaldehyde xerogels",
+   "doi": "10.1007/s10450-020-00203-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10450-020-00203-w",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Detection_and_quantification_of_water-based_aerosols_using_active_open-path_FTIR__nature",
+   "title": "Detection and quantification of water-based aerosols using active open-path FTIR",
+   "doi": "10.1038/srep25110",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/srep25110",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Equilibrium_and_advanced_kinetic_studies_of_CO2_CH4_and_N2_adsorption_on_ZSM-5__nature",
+   "title": "Equilibrium and advanced kinetic studies of CO2, CH4, and N2 adsorption on ZSM-5",
+   "doi": "10.1007/s10450-025-00670-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10450-025-00670-z",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Measurements_and_calculations_of_the_equilibrium_adsorption_amounts_of_CO2_N2_CO_N2_and_CO2_CO_mixed_gases_o__nature",
+   "title": "Measurements and calculations of the equilibrium adsorption amounts of CO2–N2, CO–N2, and CO2–CO mixed gases on 13X zeolite",
+   "doi": "10.1007/s42452-020-2298-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s42452-020-2298-y",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Thermal_behavior_and_decomposition_of_kaolinite-potassium_acetate_intercalation_composite__edu",
+   "title": "Thermal behavior and decomposition of kaolinite-potassium acetate intercalation composite",
+   "doi": "10.1016/j.tca.2010.02.014",
+   "source": "core",
+   "url": null,
+   "metadata_found": true
+  }
+ ],
+ "role": "cross-run history for the reuse replay (memexp38 REUSEC) and the r10 live run; not an evaluation corpus"
+}

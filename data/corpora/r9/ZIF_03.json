@@ -1,0 +1,645 @@
+{
+ "batch": "r9",
+ "run": "ZIF_03",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Computational_Assessment_of_Zeolitic-Imidazolate_Frameworks_ZIFs_for_Adsorption_and_Diffusion_Based_Separa__openalex",
+   "title": "Computational Assessment of Zeolitic-Imidazolate Frameworks (ZIFs) for Adsorption and Diffusion Based Separation of Noble Gas Mixtures",
+   "doi": "10.17798/bitlisfen.527828",
+   "source": "openalex",
+   "url": "https://openalex.org/W2977814136"
+  },
+  {
+   "round": 1,
+   "paper_id": "Advancements_in_Zeolitic_Imidazolate_Frameworks_ZIFs_for_Antibacterial_Therapy_Recent_Innovations_and_Futu__openalex",
+   "title": "Advancements in Zeolitic Imidazolate Frameworks (ZIFs) for Antibacterial Therapy: Recent Innovations and Future Prospects",
+   "doi": "10.11113/jomalisc.v2.51",
+   "source": "openalex",
+   "url": "https://openalex.org/W4405903888"
+  },
+  {
+   "round": 1,
+   "paper_id": "Ferulic_Acid-Loaded_Zeolitic_Imidazolate_Frameworks-8_Nanoparticles_ZIF-8_Exhibited_Anticancer_Activity_by_t__nature",
+   "title": "Ferulic Acid-Loaded Zeolitic Imidazolate Frameworks-8 Nanoparticles (ZIF-8) Exhibited Anticancer Activity by the Increase of Apoptotic Proteins in Ishikawa and HEC1B cells",
+   "doi": "10.1007/s44411-025-00317-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44411-025-00317-z"
+  },
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+   "title": "Effect of Solvent Assisted Linker Exchange (SALE) and De Novo Synthetic Routes on CO2 Uptake and Fixation by Mixed-Linker Zeolitic Imidazolate Frameworks",
+   "doi": "10.1007/s10904-023-02653-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10904-023-02653-5"
+  },
+  {
+   "round": 1,
+   "paper_id": "Laccase_immobilization_in_zeolitic_imidazolate_metal-organic_frameworks_for_water_micropollutant_removal_v__openalex",
+   "title": "Laccase immobilization in zeolitic imidazolate metal-organic frameworks for water micropollutant removal via biocatalysis and adsorption",
+   "doi": null,
+   "source": "openalex",
+   "url": "https://openalex.org/W7204738985"
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Modifying_Zeolitic_Imidazolate_Frameworks_for_the_Separation_of_CO2_in_Gas_Mixtures__openalex",
+   "title": "Modifying Zeolitic Imidazolate Frameworks for the Separation of CO2 in Gas Mixtures",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+   "title": "Magnetic Nanoparticles Encapsulated Zeolitic Imidazolate Frameworks: A New Delivery System for Crocin",
+   "doi": "10.1007/s10876-023-02526-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Removal_of_Heavy_Metals_From_Aqueous_Streams_Using_Zeolitic_Imidazolate_Framework_Based_Material__openalex",
+   "title": "Removal of Heavy Metals From Aqueous Streams Using Zeolitic Imidazolate Framework Based Material",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Recent_Progress_on_Core-Shell_Zeolitic_Imidazole_Frameworks_A_Review_of_Synthesis_and_Applications__openalex",
+   "title": "Recent Progress on Core-Shell Zeolitic Imidazole Frameworks: A Review of Synthesis and Applications",
+   "doi": "10.1080/02603594.2024.2378129",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Integrated_Cleanroom_Process_for_the_Vapor-Phase_Deposition_of_Large-Area_Zeolitic_Imidazolate_Framework_T__openalex",
+   "title": "Integrated Cleanroom Process for the Vapor-Phase Deposition of Large-Area Zeolitic Imidazolate Framework Thin Films",
+   "doi": "10.1021/acs.chemmater.9b03435",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_addition_of_two-dimensional_ZIF-L_nanoflakes_on_the_properties_of_polyethersulfone_ultrafiltrati__openalex",
+   "title": "Effect of addition of two-dimensional ZIF-L nanoflakes on the properties of polyethersulfone ultrafiltration membrane",
+   "doi": "10.1016/j.memsci.2014.02.026",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancement_CO2_separation_performance_of_three-component_pebax-1657-based_mixed_matrix_membranes_containing__nature",
+   "title": "Enhancement CO2 separation performance of three-component pebax-1657-based mixed matrix membranes containing ZIF-67/amine functionalized CNT dual nanofillers",
+   "doi": "10.1038/s41598-025-28777-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal-organic_framework_UiO-66_membranes__nature",
+   "title": "Metal-organic framework UiO-66 membranes",
+   "doi": "10.1007/s11705-019-1857-5",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolite_membranes_a_review_and_comparison_with_MOFs__openalex",
+   "title": "Zeolite membranes – a review and comparison with MOFs",
+   "doi": "10.1039/c5cs00292c",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Innovative_Ceramic_Membranes_for_Sweeping_Gas_Membrane_Distillation_Membrane_Characterization_and_Process___openalex",
+   "title": "Innovative Ceramic Membranes for Sweeping Gas Membrane Distillation: Membrane Characterization and Process Development",
+   "doi": "10.48676/unibo/amsdottorato/9284",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction",
+   "doi": "10.1038/s41467-024-53385-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Vapor-deposited_zeolitic_imidazolate_frameworks_as_gap-filling_ultra-low-k_dielectrics__nature",
+   "title": "Vapor-deposited zeolitic imidazolate frameworks as gap-filling ultra-low-k dielectrics",
+   "doi": "10.1038/s41467-019-11703-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Correction_to_Bulk_Ring-Opening_Polymerization_of_-Caprolactone_by_Zeolitic_Imidazolate_Framework__nature",
+   "title": "Correction to: Bulk Ring-Opening Polymerization of ε-Caprolactone by Zeolitic Imidazolate Framework",
+   "doi": "10.1007/s10562-019-02863-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Fabrication_of_binary_metal_organic_frameworks_of_Ni_Mn_ZIFs_Cox_Zn1_xO_decorated_on_CF_CuO_nanowire_for_hig__nature",
+   "title": "Fabrication of binary metal–organic frameworks of Ni–Mn@ZIFs(Cox·Zn1−xO) decorated on CF/CuO nanowire for high-performance electrochemical pseudocapacitors",
+   "doi": "10.1038/s41598-024-64307-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+   "title": "Revolutionizing acridine synthesis: novel core-shell magnetic nanoparticles and Co-Zn zeolitic imidazolate framework with 1-aza-18-crown-6-ether-Ni catalysts",
+   "doi": "10.1038/s41598-024-75591-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-024-75591-y"
+  },
+  {
+   "round": 2,
+   "paper_id": "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+   "title": "Influence of the 2-methylimidazole/zinc nitrate hexahydrate molar ratio on the synthesis of zeolitic imidazolate framework-8 crystals at room temperature",
+   "doi": "10.1038/s41598-018-28015-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-018-28015-7"
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+   "title": "Correction to: Dual-acting cellulose nanocomposites filled with carbon nanotubes and zeolitic imidazolate framework-67 (ZIF-67)–derived polyhedral porous Co3O4 for symmetric supercapacitors",
+   "doi": "10.1007/s42114-021-00328-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+   "title": "Manganese-Zeolitic Imidazolate Frameworks-90 with High Blood Circulation Stability for MRI-Guided Tumor Therapy",
+   "doi": "10.1007/s40820-019-0292-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Ultra-sensitive_glyphosate_detection_in_soil_and_wastewater_using_Zn-zeolitic_imidazolate_framework-67_montm__nature",
+   "title": "Ultra-sensitive glyphosate detection in soil and wastewater using Zn-zeolitic imidazolate framework-67/montmorillonite nanocomposite electrochemical sensor",
+   "doi": "10.1007/s00604-026-07880-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Sustainable_preparation_of_zeolitic_imidazolate_framework_cellulose_TiO2_nanopolymer_from_Sesame_wastes_for___nature",
+   "title": "Sustainable preparation of zeolitic imidazolate framework/cellulose/TiO2 nanopolymer from Sesame wastes for photocatalytic degradation of ciprofloxacin",
+   "doi": "10.1007/s13201-026-02835-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Zeolitic_imidazolium_framework_ZIF-8_and_their_derivative-based_material_for_antibacterial_study_a_comprehen__nature",
+   "title": "Zeolitic imidazolium framework (ZIF-8) and their derivative-based material for antibacterial study: a comprehensive review",
+   "doi": "10.1007/s43939-025-00229-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Green_synthesis_of_BaSO4_SiO2_core_shell_and_BaSO4_ZIF-8_nanocomposite_and_assessment_of_their_cytotoxicity___nature",
+   "title": "Green synthesis of BaSO4@SiO2 core–shell and BaSO4@ZIF-8 nanocomposite and assessment of their cytotoxicity effects and photocatalytic performance",
+   "doi": "10.1038/s41598-025-96532-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Polymer_Capsules_with_Tunable_Shell_Thickness_Synthesized_via_Janus-to-core_shell_Transition_of_Biphasic_Dro__nature",
+   "title": "Polymer Capsules with Tunable Shell Thickness Synthesized via Janus-to-core shell Transition of Biphasic Droplets Produced in a Microfluidic Flow-Focusing Device",
+   "doi": "10.1038/s41598-020-61641-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Influence_of_the_Shell_Thickness_and_Ratio_Between_Core_Elements_on_Photostability_of_the_CdTe_CdS_Core_Shel__nature",
+   "title": "Influence of the Shell Thickness and Ratio Between Core Elements on Photostability of the CdTe/CdS Core/Shell Quantum Dots Embedded in a Polymer Matrix",
+   "doi": "10.1186/s11671-016-1428-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Influence_of_SiO2_shell_thickness_on_power_conversion_efficiency_in_plasmonic_polymer_solar_cells_with_Au_na__nature",
+   "title": "Influence of SiO2 shell thickness on power conversion efficiency in plasmonic polymer solar cells with Au nanorod@SiO2 core-shell structures",
+   "doi": "10.1038/srep25036",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Broadband_absorption_and_enhanced_photothermal_conversion_property_of_octopod-like_Ag_Ag2S_core_shell_struct__nature",
+   "title": "Broadband absorption and enhanced photothermal conversion property of octopod-like Ag@Ag2S core@shell structures with gradually varying shell thickness",
+   "doi": "10.1038/s41598-017-18220-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Solvent-free bottom-up patterning of zeolitic imidazolate frameworks",
+   "doi": "10.1038/s41467-022-28050-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-022-28050-z"
+  },
+  {
+   "round": 3,
+   "paper_id": "Integrated_XRD_SEM_EDS_characterization_of_Al_O_nano-enhanced_engine_oil_and_its_influence_on_surface_preser__nature",
+   "title": "Integrated XRD–SEM–EDS characterization of Al₂O₃ nano-enhanced engine oil and its influence on surface preservation of diesel engine cylinder liners",
+   "doi": "10.1038/s41598-026-54568-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Hot-injection_Synthesis_of_Pt-Ni_Rhombic_Dodecahedral_Nanoframes_for_Oxygen_Reduction_Reaction_Electrocataly__nature",
+   "title": "Hot-injection Synthesis of Pt-Ni Rhombic Dodecahedral Nanoframes for Oxygen Reduction Reaction Electrocatalysis",
+   "doi": "10.1007/s10562-025-05197-0",
+   "source": "crossref",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "Advancements_in_Zeolitic_Imidazolate_Frameworks_ZIFs_for_Antibacterial_Therapy_Recent_Innovations_and_Futu__openalex",
+  "Broadband_absorption_and_enhanced_photothermal_conversion_property_of_octopod-like_Ag_Ag2S_core_shell_struct__nature",
+  "Computational_Assessment_of_Zeolitic-Imidazolate_Frameworks_ZIFs_for_Adsorption_and_Diffusion_Based_Separa__openalex",
+  "Correction_to_Bulk_Ring-Opening_Polymerization_of_-Caprolactone_by_Zeolitic_Imidazolate_Framework__nature",
+  "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+  "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+  "Current_Trends_in_Metal_Organic_and_Covalent_Organic_Framework_Membrane_Materials__openalex",
+  "Design_and_synthesis_of_ZIF-8_and_zinc-imidazole_nanofilms__openalex",
+  "Early_stage_structural_development_of_prototypical_zeolitic_imidazolate_framework_ZIF_in_solution__openalex",
+  "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+  "Effect_of_addition_of_two-dimensional_ZIF-L_nanoflakes_on_the_properties_of_polyethersulfone_ultrafiltrati__openalex",
+  "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+  "Enhancement_CO2_separation_performance_of_three-component_pebax-1657-based_mixed_matrix_membranes_containing__nature",
+  "Fabrication_of_binary_metal_organic_frameworks_of_Ni_Mn_ZIFs_Cox_Zn1_xO_decorated_on_CF_CuO_nanowire_for_hig__nature",
+  "Ferulic_Acid-Loaded_Zeolitic_Imidazolate_Frameworks-8_Nanoparticles_ZIF-8_Exhibited_Anticancer_Activity_by_t__nature",
+  "Grain_size_control_of_ZIF-8_membranes_by_seeding-free_aqueous_synthesis_and_their_performances_in_propylen__openalex",
+  "Green_synthesis_of_BaSO4_SiO2_core_shell_and_BaSO4_ZIF-8_nanocomposite_and_assessment_of_their_cytotoxicity___nature",
+  "High-Quality_Metal_Organic_Framework_ZIF-8_Membrane_Supported_on_Electrodeposited_ZnO_2-methylimidazole_Nano__nature",
+  "High-flux_and_anti-fouling_membrane_distillation_membrane_with_VOC_capture_ability_enabled_by_ZIF-8__nature",
+  "Hot-injection_Synthesis_of_Pt-Ni_Rhombic_Dodecahedral_Nanoframes_for_Oxygen_Reduction_Reaction_Electrocataly__nature",
+  "Hydrogenation_of_pyrolysis_gasoline_by_novel_Ni-doped_MOF_derived_catalysts_from_ZIF-8_and_ZIF-67__nature",
+  "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+  "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+  "In_vitro_antitumor_efficacy_of_hyaluronic_acid_coating_for_curcumin-loaded_zeolitic_imidazole_frameworks-8_Z__nature",
+  "Influence_of_SiO2_shell_thickness_on_power_conversion_efficiency_in_plasmonic_polymer_solar_cells_with_Au_na__nature",
+  "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+  "Influence_of_the_Shell_Thickness_and_Ratio_Between_Core_Elements_on_Photostability_of_the_CdTe_CdS_Core_Shel__nature",
+  "Innovative_Ceramic_Membranes_for_Sweeping_Gas_Membrane_Distillation_Membrane_Characterization_and_Process___openalex",
+  "Integrated_Cleanroom_Process_for_the_Vapor-Phase_Deposition_of_Large-Area_Zeolitic_Imidazolate_Framework_T__openalex",
+  "Integrated_XRD_SEM_EDS_characterization_of_Al_O_nano-enhanced_engine_oil_and_its_influence_on_surface_preser__nature",
+  "Interfacial_strain_and_shell_thickness_effect_on_core_squeeze_stretch_in_core_shell_quantum_dots__nature",
+  "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+  "Laccase_immobilization_in_zeolitic_imidazolate_metal-organic_frameworks_for_water_micropollutant_removal_v__openalex",
+  "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+  "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+  "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+  "Metal-organic_framework_UiO-66_membranes__nature",
+  "Modifying_Zeolitic_Imidazolate_Frameworks_for_the_Separation_of_CO2_in_Gas_Mixtures__openalex",
+  "Numerical_investigation_on_low_dimensional_materials_for_gas_adsorption_and_separation__edu",
+  "Polymer_Capsules_with_Tunable_Shell_Thickness_Synthesized_via_Janus-to-core_shell_Transition_of_Biphasic_Dro__nature",
+  "Precise_control_over_gas-transporting_channels_in_zeolitic_imidazolate_framework_glasses__nature",
+  "Recent_Progress_on_Core-Shell_Zeolitic_Imidazole_Frameworks_A_Review_of_Synthesis_and_Applications__openalex",
+  "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+  "Removal_of_Heavy_Metals_From_Aqueous_Streams_Using_Zeolitic_Imidazolate_Framework_Based_Material__openalex",
+  "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+  "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+  "Sub-micron_Polymer_Zeolitic_Imidazolate_Framework_Layered_Hybrids_via_Controlled_Chemical_Transformation_o__openalex",
+  "Sustainable_preparation_of_zeolitic_imidazolate_framework_cellulose_TiO2_nanopolymer_from_Sesame_wastes_for___nature",
+  "Thermal_transport_mechanisms_in_ZIFs__nature",
+  "Treatment_of_Synthetic_Wastewater_by_ZIF-8_ZIF-67_and_Aluminum_Nanocomposites__openalex",
+  "Ultra-sensitive_glyphosate_detection_in_soil_and_wastewater_using_Zn-zeolitic_imidazolate_framework-67_montm__nature",
+  "Unit-cell-thick_zeolitic_imidazolate_framework_films_for_membrane_application__nature",
+  "Vapor-deposited_zeolitic_imidazolate_frameworks_as_gap-filling_ultra-low-k_dielectrics__nature",
+  "Water_Decontamination_using_Zeolitic_Imidazolate_Framework_Bentonite_ZIF-67_BNT_Nanocomposite__openalex",
+  "Zeolite_membranes_a_review_and_comparison_with_MOFs__openalex",
+  "Zeolitic_Imidazolate_Framework_8_ZIF-8_modified_titanium_alloy_for_controlled_release_of_drugs_for_osteoporo__nature",
+  "Zeolitic_imidazolate_framework-8_a_versatile_nanoplatform_for_tissue_regeneration__openalex",
+  "Zeolitic_imidazolium_framework_ZIF-8_and_their_derivative-based_material_for_antibacterial_study_a_comprehen__nature",
+  "tude_de_l_adsorption_de_l_oxyde_nitreux_sur_le_Zeolitic_Imidazolate_Framework-8_ZIF-8_mod_lisation_mol_cul__openalex"
+ ],
+ "run_config": {
+  "created": "2026-10-08T18:42:01",
+  "code": {
+   "sha256": "8225a2e563d0992145b5dfbef3dbdf1982c370c001bf00fcea6c198fab4833be",
+   "n_files": 107
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_03",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "ZIF",
+   "last_tier": "Zeolitic imidazolate frameworks (ZIFs)",
+   "target_run_id": "03",
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_03",
+   "output_root": "results/e2e/e2e_v3/r9/chem/ZIF_03",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 1,
+   "paper_id": "Current_Trends_in_Metal_Organic_and_Covalent_Organic_Framework_Membrane_Materials__openalex",
+   "title": "Current Trends in Metal–Organic and Covalent Organic Framework Membrane Materials",
+   "doi": "10.1002/anie.202015790",
+   "source": "openalex",
+   "url": "https://openalex.org/W3113139414",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Design_and_synthesis_of_ZIF-8_and_zinc-imidazole_nanofilms__openalex",
+   "title": "Design and synthesis of ZIF-8 and zinc-imidazole nanofilms",
+   "doi": "10.3990/1.220847903",
+   "source": "openalex",
+   "url": "https://openalex.org/W2914192040",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Early_stage_structural_development_of_prototypical_zeolitic_imidazolate_framework_ZIF_in_solution__openalex",
+   "title": "Early stage structural development of prototypical zeolitic imidazolate framework (ZIF) in solution",
+   "doi": "10.1039/c7nr07949d",
+   "source": "openalex",
+   "url": "https://openalex.org/W2787352521",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+   "title": "Enhanced peroxymonosulfate activation for tetracycline removal using magnesium–aluminum layered double hydroxide/zeolitic imidazolate framework-8 nanocomposite",
+   "doi": "10.1038/s41598-026-49645-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-026-49645-2",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Grain_size_control_of_ZIF-8_membranes_by_seeding-free_aqueous_synthesis_and_their_performances_in_propylen__openalex",
+   "title": "Grain size control of ZIF-8 membranes by seeding-free aqueous synthesis and their performances in propylene/propane separation",
+   "doi": "10.1016/j.memsci.2017.09.037",
+   "source": "openalex",
+   "url": "https://openalex.org/W2755900611",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "High-Quality_Metal_Organic_Framework_ZIF-8_Membrane_Supported_on_Electrodeposited_ZnO_2-methylimidazole_Nano__nature",
+   "title": "High-Quality Metal–Organic Framework ZIF-8 Membrane Supported on Electrodeposited ZnO/2-methylimidazole Nanocomposite: Efficient Adsorbent for the Enrichment of Acidic Drugs",
+   "doi": "10.1038/srep39778",
+   "source": "openalex",
+   "url": "https://openalex.org/W2570190076",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "High-flux_and_anti-fouling_membrane_distillation_membrane_with_VOC_capture_ability_enabled_by_ZIF-8__nature",
+   "title": "High-flux and anti-fouling membrane distillation membrane with VOC capture ability enabled by ZIF-8",
+   "doi": "10.1038/s41467-025-63267-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W4413772119",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Hydrogenation_of_pyrolysis_gasoline_by_novel_Ni-doped_MOF_derived_catalysts_from_ZIF-8_and_ZIF-67__nature",
+   "title": "Hydrogenation of pyrolysis gasoline by novel Ni-doped MOF derived catalysts from ZIF-8 and ZIF-67",
+   "doi": "10.1038/s41598-022-24071-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-022-24071-2",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+   "title": "Immobilization of Xylanase into Zeolitic Imidazolate Framework-67 (ZIF-67) and Manganese-Doped ZIF-67 (Mn/ZIF-67): A Comparison Study",
+   "doi": "10.1007/s11244-023-01898-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11244-023-01898-1",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+   "title": "Improvement of optical and structural properties of ZIF-8 by producing multifunctional Zn/Co bimetallic ZIFs for wastewater treatment from copper ions and dye",
+   "doi": "10.1038/s41598-024-66276-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-024-66276-7",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "In_vitro_antitumor_efficacy_of_hyaluronic_acid_coating_for_curcumin-loaded_zeolitic_imidazole_frameworks-8_Z__nature",
+   "title": "In vitro antitumor efficacy of hyaluronic acid coating for curcumin-loaded zeolitic imidazole frameworks-8 (ZIF-8) versus that of uncoated curcumin-loaded ZIF-8 nanocomposites",
+   "doi": "10.1038/s41598-026-48707-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-026-48707-9",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Interfacial_strain_and_shell_thickness_effect_on_core_squeeze_stretch_in_core_shell_quantum_dots__nature",
+   "title": "Interfacial strain and shell thickness effect on core squeeze/stretch in core/shell quantum dots",
+   "doi": "10.1007/s42452-020-2540-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s42452-020-2540-7",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Numerical_investigation_on_low_dimensional_materials_for_gas_adsorption_and_separation__edu",
+   "title": "Numerical investigation on low dimensional materials for gas adsorption and separation",
+   "doi": "10.5204/thesis.eprints.106920",
+   "source": "core",
+   "url": null,
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Precise_control_over_gas-transporting_channels_in_zeolitic_imidazolate_framework_glasses__nature",
+   "title": "Precise control over gas-transporting channels in zeolitic imidazolate framework glasses",
+   "doi": "10.1038/s41563-023-01738-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390004910",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+   "title": "Reduced electron/hole recombination in Z-scheme nanostructure of zeolitic imidazolate framework-11/graphitic carbon nitride as photocatalyst under visible light",
+   "doi": "10.1038/s41598-023-49315-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-023-49315-7",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Sub-micron_Polymer_Zeolitic_Imidazolate_Framework_Layered_Hybrids_via_Controlled_Chemical_Transformation_o__openalex",
+   "title": "Sub-micron Polymer–Zeolitic Imidazolate Framework Layered Hybrids via Controlled Chemical Transformation of Naked ZnO Nanocrystal Films",
+   "doi": "10.1021/acs.chemmater.5b03219",
+   "source": "openalex",
+   "url": "https://openalex.org/W2337773961",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Thermal_transport_mechanisms_in_ZIFs__nature",
+   "title": "Thermal transport mechanisms in ZIFs",
+   "doi": "10.1038/s41467-025-66510-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-025-66510-4",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Treatment_of_Synthetic_Wastewater_by_ZIF-8_ZIF-67_and_Aluminum_Nanocomposites__openalex",
+   "title": "Treatment of Synthetic Wastewater by ZIF-8, ZIF-67, and Aluminum Nanocomposites",
+   "doi": null,
+   "source": "openalex",
+   "url": "https://openalex.org/W7167184501",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Unit-cell-thick_zeolitic_imidazolate_framework_films_for_membrane_application__nature",
+   "title": "Unit-cell-thick zeolitic imidazolate framework films for membrane application",
+   "doi": "10.1038/s41563-023-01669-z",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386923995",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Water_Decontamination_using_Zeolitic_Imidazolate_Framework_Bentonite_ZIF-67_BNT_Nanocomposite__openalex",
+   "title": "Water Decontamination using Zeolitic Imidazolate Framework @ Bentonite (ZIF-67@BNT) Nanocomposite",
+   "doi": null,
+   "source": "openalex",
+   "url": "https://openalex.org/W7167155308",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_Imidazolate_Framework_8_ZIF-8_modified_titanium_alloy_for_controlled_release_of_drugs_for_osteoporo__nature",
+   "title": "Zeolitic Imidazolate Framework‑8 (ZIF-8) modified titanium alloy for controlled release of drugs for osteoporosis",
+   "doi": "10.1038/s41598-022-13187-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-022-13187-0",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_imidazolate_framework-8_a_versatile_nanoplatform_for_tissue_regeneration__openalex",
+   "title": "Zeolitic imidazolate framework-8: a versatile nanoplatform for tissue regeneration",
+   "doi": "10.3389/fbioe.2024.1386534",
+   "source": "openalex",
+   "url": "https://openalex.org/W4394618517",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "tude_de_l_adsorption_de_l_oxyde_nitreux_sur_le_Zeolitic_Imidazolate_Framework-8_ZIF-8_mod_lisation_mol_cul__openalex",
+   "title": "Étude de l’adsorption de l’oxyde nitreux sur le Zeolitic Imidazolate Framework-8 (ZIF-8) : modélisation moléculaire et chimie computationnelle",
+   "doi": null,
+   "source": "openalex",
+   "url": "https://openalex.org/W7197325174",
+   "metadata_found": true
+  }
+ ]
+}

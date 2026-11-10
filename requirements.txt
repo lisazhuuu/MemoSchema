@@ -1,0 +1,10 @@
+openai>=1.30,<3
+numpy>=1.24,<3
+scipy>=1.10,<2
+requests>=2.31,<3
+arxiv>=2.1,<3
+PyMuPDF>=1.23,<2
+pypdf>=4,<7
+python-dotenv>=1.0,<2
+tiktoken>=0.7,<1
+PyYAML>=6,<7               # declared by the AutoSchema upstream (optional config.yaml)

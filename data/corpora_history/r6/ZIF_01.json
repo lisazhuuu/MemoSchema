@@ -1,0 +1,330 @@
+{
+ "batch": "r6",
+ "run": "ZIF_01",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Ferulic_Acid-Loaded_Zeolitic_Imidazolate_Frameworks-8_Nanoparticles_ZIF-8_Exhibited_Anticancer_Activity_by_t__nature",
+   "title": "Ferulic Acid-Loaded Zeolitic Imidazolate Frameworks-8 Nanoparticles (ZIF-8) Exhibited Anticancer Activity by the Increase of Apoptotic Proteins in Ishikawa and HEC1B cells",
+   "doi": "10.1007/s44411-025-00317-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44411-025-00317-z"
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+   "title": "Magnetic Nanoparticles Encapsulated Zeolitic Imidazolate Frameworks: A New Delivery System for Crocin",
+   "doi": "10.1007/s10876-023-02526-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction",
+   "doi": "10.1038/s41467-024-53385-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Vapor-deposited_zeolitic_imidazolate_frameworks_as_gap-filling_ultra-low-k_dielectrics__nature",
+   "title": "Vapor-deposited zeolitic imidazolate frameworks as gap-filling ultra-low-k dielectrics",
+   "doi": "10.1038/s41467-019-11703-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+   "title": "Effect of Solvent Assisted Linker Exchange (SALE) and De Novo Synthetic Routes on CO2 Uptake and Fixation by Mixed-Linker Zeolitic Imidazolate Frameworks",
+   "doi": "10.1007/s10904-023-02653-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+   "title": "Manganese-Zeolitic Imidazolate Frameworks-90 with High Blood Circulation Stability for MRI-Guided Tumor Therapy",
+   "doi": "10.1007/s40820-019-0292-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "In_vitro_antitumor_efficacy_of_hyaluronic_acid_coating_for_curcumin-loaded_zeolitic_imidazole_frameworks-8_Z__nature",
+   "title": "In vitro antitumor efficacy of hyaluronic acid coating for curcumin-loaded zeolitic imidazole frameworks-8 (ZIF-8) versus that of uncoated curcumin-loaded ZIF-8 nanocomposites",
+   "doi": "10.1038/s41598-026-48707-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+   "title": "Revolutionizing acridine synthesis: novel core-shell magnetic nanoparticles and Co-Zn zeolitic imidazolate framework with 1-aza-18-crown-6-ether-Ni catalysts",
+   "doi": "10.1038/s41598-024-75591-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+   "title": "Influence of the 2-methylimidazole/zinc nitrate hexahydrate molar ratio on the synthesis of zeolitic imidazolate framework-8 crystals at room temperature",
+   "doi": "10.1038/s41598-018-28015-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_imidazolate_framework-8_nanoparticle_a_promising_adsorbent_for_effective_fluoride_removal_from_aque__nature",
+   "title": "Zeolitic imidazolate framework-8 nanoparticle: a promising adsorbent for effective fluoride removal from aqueous solution",
+   "doi": "10.1007/s13201-019-1030-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+   "title": "Reduced electron/hole recombination in Z-scheme nanostructure of zeolitic imidazolate framework-11/graphitic carbon nitride as photocatalyst under visible light",
+   "doi": "10.1038/s41598-023-49315-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Numerical_investigation_on_low_dimensional_materials_for_gas_adsorption_and_separation__edu",
+   "title": "Numerical investigation on low dimensional materials for gas adsorption and separation",
+   "doi": "10.5204/thesis.eprints.106920",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+   "title": "Improvement of optical and structural properties of ZIF-8 by producing multifunctional Zn/Co bimetallic ZIFs for wastewater treatment from copper ions and dye",
+   "doi": "10.1038/s41598-024-66276-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancement_CO2_separation_performance_of_three-component_pebax-1657-based_mixed_matrix_membranes_containing__nature",
+   "title": "Enhancement CO2 separation performance of three-component pebax-1657-based mixed matrix membranes containing ZIF-67/amine functionalized CNT dual nanofillers",
+   "doi": "10.1038/s41598-025-28777-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Discovering_metal-organic_framework_polymer_mixed-matrix_membranes_via_machine_learning_for_CO2_separation__nature",
+   "title": "Discovering metal-organic framework/polymer mixed-matrix membranes via machine learning for CO2 separation",
+   "doi": "10.1038/s43246-026-01207-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+   "title": "Correction to: Dual-acting cellulose nanocomposites filled with carbon nanotubes and zeolitic imidazolate framework-67 (ZIF-67)–derived polyhedral porous Co3O4 for symmetric supercapacitors",
+   "doi": "10.1007/s42114-021-00328-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s42114-021-00328-8"
+  },
+  {
+   "round": 2,
+   "paper_id": "Computational_characterization_of_halogen_vapor_attachment_diffusion_and_desorption_processes_in_zeolitic_im__nature",
+   "title": "Computational characterization of halogen vapor attachment, diffusion and desorption processes in zeolitic imidazolate framework-8",
+   "doi": "10.1038/s41598-020-59871-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Synthesis_and_optimization_nanocomposite_catalyst_based_on_silver_Zeolite_imidazolite_frameworks_67_Ag_ZIF-6__nature",
+   "title": "Synthesis and optimization nanocomposite catalyst based on silver@Zeolite imidazolite frameworks − 67 (Ag@ZIF-67) and catalytic application for ethyl benzene vapor removal in air matrices",
+   "doi": "10.1038/s41598-025-26391-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Zeolitic_imidazolium_framework_ZIF-8_and_their_derivative-based_material_for_antibacterial_study_a_comprehen__nature",
+   "title": "Zeolitic imidazolium framework (ZIF-8) and their derivative-based material for antibacterial study: a comprehensive review",
+   "doi": "10.1007/s43939-025-00229-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Ordering_of_Ge_islands_on_Si_001_substrates_patterned_by_nanoindentation__edu",
+   "title": "Ordering of Ge islands on Si(001) substrates patterned by nanoindentation",
+   "doi": "10.1016/j.tsf.2011.01.390",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Gradient_area-selective_deposition_for_seamless_gap-filling_in_3D_nanostructures_through_surface_chemical_re__nature",
+   "title": "Gradient area-selective deposition for seamless gap-filling in 3D nanostructures through surface chemical reactivity control",
+   "doi": "10.1038/s41467-022-35428-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Publisher_Correction_Gradient_area-selective_deposition_for_seamless_gap-filling_in_3D_nanostructures_throug__nature",
+   "title": "Publisher Correction: Gradient area-selective deposition for seamless gap-filling in 3D nanostructures through surface chemical reactivity control",
+   "doi": "10.1038/s41467-023-35883-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Graphene_Selective_patterned_growth__nature",
+   "title": "Graphene: Selective patterned growth",
+   "doi": "10.1038/asiamat.2008.133",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Physical_and_Electrical_Performance_of_Vapor_Solid_Grown_ZnO_Straight_Nanowires__nature",
+   "title": "Physical and Electrical Performance of Vapor–Solid Grown ZnO Straight Nanowires",
+   "doi": "10.1007/s11671-008-9218-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Tensilely_Strained_Ge_Films_on_Si_Substrates_Created_by_Physical_Vapor_Deposition_of_Solid_Sources__nature",
+   "title": "Tensilely Strained Ge Films on Si Substrates Created by Physical Vapor Deposition of Solid Sources",
+   "doi": "10.1038/s41598-018-35224-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Cross-sectional_imaging_of_common_and_unusual_complications_after_endoscopic_retrograde_cholangiopancreatogr__nature",
+   "title": "Cross-sectional imaging of common and unusual complications after endoscopic retrograde cholangiopancreatography",
+   "doi": "10.1007/s13244-015-0393-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterization_of_catalytic_chemical_vapor-deposited_SiCN_thin_film_coatings__nature",
+   "title": "Characterization of catalytic chemical vapor-deposited SiCN thin film coatings",
+   "doi": "10.1186/2228-5326-2-4",
+   "source": "crossref",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "Characterization_of_catalytic_chemical_vapor-deposited_SiCN_thin_film_coatings__nature",
+  "Computational_characterization_of_halogen_vapor_attachment_diffusion_and_desorption_processes_in_zeolitic_im__nature",
+  "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+  "Cross-sectional_imaging_of_common_and_unusual_complications_after_endoscopic_retrograde_cholangiopancreatogr__nature",
+  "Gradient_area-selective_deposition_for_seamless_gap-filling_in_3D_nanostructures_through_surface_chemical_re__nature",
+  "Graphene_Selective_patterned_growth__nature",
+  "Hydrogenation_of_pyrolysis_gasoline_by_novel_Ni-doped_MOF_derived_catalysts_from_ZIF-8_and_ZIF-67__nature",
+  "Ordering_of_Ge_islands_on_Si_001_substrates_patterned_by_nanoindentation__edu",
+  "Physical_and_Electrical_Performance_of_Vapor_Solid_Grown_ZnO_Straight_Nanowires__nature",
+  "Publisher_Correction_Gradient_area-selective_deposition_for_seamless_gap-filling_in_3D_nanostructures_throug__nature",
+  "Synthesis_and_optimization_nanocomposite_catalyst_based_on_silver_Zeolite_imidazolite_frameworks_67_Ag_ZIF-6__nature",
+  "Tensilely_Strained_Ge_Films_on_Si_Substrates_Created_by_Physical_Vapor_Deposition_of_Solid_Sources__nature",
+  "Zeolitic_imidazolium_framework_ZIF-8_and_their_derivative-based_material_for_antibacterial_study_a_comprehen__nature"
+ ],
+ "run_config": {
+  "created": "2026-10-06T16:46:31",
+  "code": {
+   "sha256": "cff15d7054d519673e9ea2a1b9f523858676942fcbd4dd68632ddc255a7fedef",
+   "n_files": 84
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_01",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "ZIF",
+   "last_tier": "Zeolitic imidazolate frameworks (ZIFs)",
+   "target_run_id": "01",
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_01",
+   "output_root": "results/e2e/e2e_v3/r6/chem/ZIF_01",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 2,
+   "paper_id": "Hydrogenation_of_pyrolysis_gasoline_by_novel_Ni-doped_MOF_derived_catalysts_from_ZIF-8_and_ZIF-67__nature",
+   "title": "Hydrogenation of pyrolysis gasoline by novel Ni-doped MOF derived catalysts from ZIF-8 and ZIF-67",
+   "doi": "10.1038/s41598-022-24071-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-022-24071-2",
+   "metadata_found": true
+  }
+ ],
+ "role": "cross-run history for the reuse replay (memexp38 REUSEC) and the r10 live run; not an evaluation corpus"
+}

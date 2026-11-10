@@ -1,0 +1,700 @@
+{
+ "batch": "r8",
+ "run": "MOF_03",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Crystalline_porous_materials_from_zeolites_to_metal-organic_frameworks_MOFs__nature",
+   "title": "Crystalline porous materials: from zeolites to metal-organic frameworks (MOFs)",
+   "doi": "10.1007/s11705-020-1921-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11705-020-1921-1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Proton_conduction_in_metal-organic_frameworks_new_possibilities_in_fuel_cell_technology__bibliotekanauki",
+   "title": "Proton conduction in metal-organic frameworks : new possibilities in fuel cell technology",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Proton_conductivity_studies_in_metal-organic_frameworks__ac",
+   "title": "Proton conductivity studies in metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/42507338.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Proton_conductivity_studies_in_metal-organic_frameworks__ac",
+   "title": "Proton conductivity studies in metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/42507338.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Proton_conductivity_studies_in_metal-organic_frameworks__ac",
+   "title": "Proton conductivity studies in metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/42507338.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "ABC_Spotlight_on_metal-organic_frameworks_MOFs__nature",
+   "title": "ABC Spotlight on metal-organic frameworks (MOFs)",
+   "doi": "10.1007/s00216-016-9971-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s00216-016-9971-4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Preface_Special_topic_on_Metal-organic_frameworks_MOFs__nature",
+   "title": "Preface: Special topic on Metal-organic frameworks (MOFs)",
+   "doi": "10.1007/s11426-016-5603-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11426-016-5603-2"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_computational_study_of_metal_organic_frameworks_MOFs_as_potential_nanostructures_to_combat_SARS-CoV-2__nature",
+   "title": "A computational study of metal–organic frameworks (MOFs) as potential nanostructures to combat SARS-CoV-2",
+   "doi": "10.1038/s41598-022-19845-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-022-19845-7"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_systematic_review_on_life_cycle_assessment_LCA_of_metal-organic_frameworks_MOFs_and_MXenes__nature",
+   "title": "A systematic review on life cycle assessment (LCA) of metal-organic frameworks (MOFs) and MXenes",
+   "doi": "10.1007/s44371-026-00495-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44371-026-00495-x"
+  },
+  {
+   "round": 1,
+   "paper_id": "Engineered_Metal-Organic_Frameworks_MOFs_-electrospun_nanofibers_for_wound_healing_a_review__nature",
+   "title": "Engineered Metal-Organic Frameworks (MOFs)-electrospun nanofibers for wound healing: a review",
+   "doi": "10.1186/s13036-026-00650-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1186/s13036-026-00650-z"
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthesis_of_metal_organic_frameworks_MOFs_MIL-100_Fe_functionalized_with_thioglycolic_acid_and_ethylenediam__nature",
+   "title": "Synthesis of metal–organic frameworks (MOFs) MIL-100(Fe) functionalized with thioglycolic acid and ethylenediamine for removal of eosin B dye from aqueous solution",
+   "doi": "10.1007/s42452-021-04163-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s42452-021-04163-w"
+  },
+  {
+   "round": 1,
+   "paper_id": "Experimental_and_theoretical_studies_of_the_efficiency_of_metal_organic_frameworks_MOFs_in_preventing_alumin__nature",
+   "title": "Experimental and theoretical studies of the efficiency of metal–organic frameworks (MOFs) in preventing aluminum corrosion in hydrochloric acid solution",
+   "doi": "10.1186/s13065-024-01121-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1186/s13065-024-01121-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Much_ado_about_MOFs_metal-organic-frameworks_as_quantum_materials__nature",
+   "title": "Much ado about MOFs: metal-organic-frameworks as quantum materials",
+   "doi": "10.1038/s41535-026-00860-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Fenton-like_Cerium_Metal_Organic_Frameworks_Ce-MOFs_for_Catalytic_Oxidation_of_Olefins_Alcohol_and_Dyes_Degr__nature",
+   "title": "Fenton-like Cerium Metal–Organic Frameworks (Ce-MOFs) for Catalytic Oxidation of Olefins, Alcohol, and Dyes Degradation",
+   "doi": "10.1007/s10876-022-02402-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Correction_Zirconium-based_metal-organic_frameworks_MOFs_for_advanced_nanofiltration_applications_a_minirevi__nature",
+   "title": "Correction: Zirconium-based metal-organic frameworks (MOFs) for advanced nanofiltration applications: a minireview",
+   "doi": "10.1007/s41204-026-00520-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Recent_and_Prospects_of_Synthesis_and_Application_of_Metal-Organic_Frameworks_MOFs_in_Water_Treatment_A_Revi__nature",
+   "title": "Recent and Prospects of Synthesis and Application of Metal-Organic Frameworks (MOFs) in Water Treatment: A Review",
+   "doi": "10.1007/s10904-024-03063-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Rising_profile_on_the_use_of_metal_organic_frameworks_MOFs_for_the_removal_of_heavy_metals_from_the_environm__nature",
+   "title": "Rising profile on the use of metal–organic frameworks (MOFs) for the removal of heavy metals from the environment: an overview",
+   "doi": "10.1007/s13201-018-0818-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Advances_in_metal-organic_frameworks_MOFs_for_nanotheranostics_from_targeted_drug_delivery_to_multimodal_ima__nature",
+   "title": "Advances in metal-organic frameworks (MOFs) for nanotheranostics: from targeted drug delivery to multimodal imaging",
+   "doi": "10.1007/s00604-026-08352-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Treatment_with_metal_organic_frameworks_MOFs_elicits_secondary_metabolite_accumulation_in_Aquilaria_crassna___nature",
+   "title": "Treatment with metal–organic frameworks (MOFs) elicits secondary metabolite accumulation in Aquilaria crassna (agarwood) callus culture",
+   "doi": "10.1007/s44372-025-00188-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Evaluation_of_Moringa_oleifera_extract_and_metal-organic_frameworks_MOFs_as_therapeutic_agents_against_chron__nature",
+   "title": "Evaluation of Moringa oleifera extract and metal-organic frameworks (MOFs) as therapeutic agents against chronic Toxoplasma gondii infection in mice",
+   "doi": "10.1038/s41598-026-64672-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Tuning_the_balance_between_dispersion_and_entropy_to_design_temperature-responsive_flexible_metal-organic_fr__nature",
+   "title": "Tuning the balance between dispersion and entropy to design temperature-responsive flexible metal-organic frameworks",
+   "doi": "10.1038/s41467-018-07298-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Precision-Engineered_Construction_of_Proton-Conducting_Metal_Organic_Frameworks__nature",
+   "title": "Precision-Engineered Construction of Proton-Conducting Metal–Organic Frameworks",
+   "doi": "10.1007/s40820-024-01558-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "MOF_the_beaten_track_unusual_structures_and_uncommon_applications_of_metal_organic_frameworks__nature",
+   "title": "MOF the beaten track: unusual structures and uncommon applications of metal–organic frameworks",
+   "doi": "10.1186/s13065-017-0330-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_Mechanism_Behind_the_Capture_of_Fluorinated_Gases_by_Metal_Organic_Frameworks__nature",
+   "title": "Molecular Mechanism Behind the Capture of Fluorinated Gases by Metal–Organic Frameworks",
+   "doi": "10.1007/s40820-024-01584-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "An_Efficient_Synthesis_Strategy_for_Metal-Organic_Frameworks_Dry-Gel_Synthesis_of_MOF-74_Framework_with_High__nature",
+   "title": "An Efficient Synthesis Strategy for Metal-Organic Frameworks: Dry-Gel Synthesis of MOF-74 Framework with High Yield and Improved Performance",
+   "doi": "10.1038/srep28050",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "An_acid-tolerant_metal-organic_framework_for_industrial_CO2_electrolysis_using_a_proton_exchange_membrane__nature",
+   "title": "An acid-tolerant metal-organic framework for industrial CO2 electrolysis using a proton exchange membrane",
+   "doi": "10.1038/s41467-024-51475-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Search_for_a_Grotthuss_mechanism_through_the_observation_of_proton_transfer__nature",
+   "title": "Search for a Grotthuss mechanism through the observation of proton transfer",
+   "doi": "10.1038/s42004-023-00878-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "High-throughput_screening_and_mechanistic_insights_into_solid_acid_proton_conductors__nature",
+   "title": "High-throughput screening and mechanistic insights into solid acid proton conductors",
+   "doi": "10.1038/s43246-026-01338-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Proton_conductivity_studies_in_metal-organic_frameworks__ac",
+   "title": "Proton conductivity studies in metal-organic frameworks",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/33575068.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Porous_molybdenum_carbide_nano-octahedrons_synthesized_via_confined_carburization_in_metal-organic_framework__nature",
+   "title": "Porous molybdenum carbide nano-octahedrons synthesized via confined carburization in metal-organic frameworks for efficient hydrogen production",
+   "doi": "10.1038/ncomms7512",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Development_of_Mixed_metal_Metal-organic_polyhedra_networks_colloids_and_MOFs_and_their_Pharmacokinetic_appl__nature",
+   "title": "Development of Mixed metal Metal-organic polyhedra networks, colloids, and MOFs and their Pharmacokinetic applications",
+   "doi": "10.1038/s41598-017-00733-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Pitfalls_in_the_location_of_guest_molecules_in_metal-organic_frameworks__nature",
+   "title": "Pitfalls in the location of guest molecules in metal-organic frameworks",
+   "doi": "10.1038/s41467-022-32890-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Foldable_interpenetrated_metal-organic_frameworks_carbon_nanotubes_thin_film_for_lithium_sulfur_batteries__nature",
+   "title": "Foldable interpenetrated metal-organic frameworks/carbon nanotubes thin film for lithium–sulfur batteries",
+   "doi": "10.1038/ncomms14628",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Sixteen_isostructural_phosphonate_metal-organic_frameworks_with_controlled_Lewis_acidity_and_chemical_stabil__nature",
+   "title": "Sixteen isostructural phosphonate metal-organic frameworks with controlled Lewis acidity and chemical stability for asymmetric catalysis",
+   "doi": "10.1038/s41467-017-02335-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Bringing_metal-organic_frameworks_to_commercialization__nature",
+   "title": "Bringing metal-organic frameworks to commercialization",
+   "doi": "10.1038/s43246-024-00716-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Confining_H3PO4_network_in_covalent_organic_frameworks_enables_proton_super_flow__nature",
+   "title": "Confining H3PO4 network in covalent organic frameworks enables proton super flow",
+   "doi": "10.1038/s41467-020-15918-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Vitrification-enabled_enhancement_of_proton_conductivity_in_hydrogen-bonded_organic_frameworks__nature",
+   "title": "Vitrification-enabled enhancement of proton conductivity in hydrogen-bonded organic frameworks",
+   "doi": "10.1038/s41467-024-48158-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Discovering_metal-organic_framework_polymer_mixed-matrix_membranes_via_machine_learning_for_CO2_separation__nature",
+   "title": "Discovering metal-organic framework/polymer mixed-matrix membranes via machine learning for CO2 separation",
+   "doi": "10.1038/s43246-026-01207-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Histopathological_and_biochemical_profiling_of_Carfilzomib-loaded_Fe_Co_MOFs__nature",
+   "title": "Histopathological and biochemical profiling of Carfilzomib-loaded Fe–Co MOFs",
+   "doi": "10.1186/s11671-025-04334-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Preparation_and_characterization_of_active_chitosan_based_films_containing_oregano_essential_oils_loaded_Cu___nature",
+   "title": "Preparation and characterization of active chitosan based films containing oregano essential oils loaded Cu/MOFs",
+   "doi": "10.1007/s44187-026-00928-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Conductive_MOFs_with_Photophysical_Properties_Applications_and_Thin-Film_Fabrication__nature",
+   "title": "Conductive MOFs with Photophysical Properties: Applications and Thin-Film Fabrication",
+   "doi": "10.1007/s40820-020-00470-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Probing_QCD_confinement_with_spin_spin_correlation_in_proton_proton_collisions__nature",
+   "title": "Probing QCD confinement with spin–spin correlation in proton–proton collisions",
+   "doi": "10.1007/s41365-026-01907-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Probing_QGP_droplets_with_charmonium_in_high-multiplicity_proton_proton_collisions__nature",
+   "title": "Probing QGP droplets with charmonium in high-multiplicity proton–proton collisions",
+   "doi": "10.1140/epjc/s10052-024-13599-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Podcast_Probing_the_proton_research_misconduct_and_making_sense_of_mystery_genes__nature",
+   "title": "Podcast: Probing the proton, research misconduct, and making sense of mystery genes",
+   "doi": "10.1038/d41586-018-05172-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "1000-fold_enhancement_in_proton_conductivity_of_a_MOF_using_post-synthetically_anchored_proton_transporters__nature",
+   "title": "1000-fold enhancement in proton conductivity of a MOF using post-synthetically anchored proton transporters",
+   "doi": "10.1038/srep32489",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Review_of_proton_conductors_for_hydrogen_separation__nature",
+   "title": "Review of proton conductors for hydrogen separation",
+   "doi": "10.1007/s11581-006-0016-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Crystal_orientation-dependent_fatigue_characteristics_in_micrometer-sized_single-crystal_silicon__nature",
+   "title": "Crystal orientation-dependent fatigue characteristics in micrometer-sized single-crystal silicon",
+   "doi": "10.1038/micronano.2016.27",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Recent_developments_of_nano-enhanced_composite_membranes_designed_for_water_wastewater_purification_a_review__nature",
+   "title": "Recent developments of nano-enhanced composite membranes designed for water/wastewater purification—a review",
+   "doi": "10.1007/s42114-024-00923-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "On_off_conduction_photoswitching_in_modelled_spiropyran-based_metal-organic_frameworks__nature",
+   "title": "On–off conduction photoswitching in modelled spiropyran-based metal-organic frameworks",
+   "doi": "10.1038/s42004-023-01072-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s42004-023-01072-4"
+  },
+  {
+   "round": 3,
+   "paper_id": "Excavating_hidden_adsorption_sites_in_metal-organic_frameworks_using_rational_defect_engineering__nature",
+   "title": "Excavating hidden adsorption sites in metal-organic frameworks using rational defect engineering",
+   "doi": "10.1038/s41467-017-01478-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+   "title": "Imaging the node-linker coordination in the bulk and local structures of metal-organic frameworks",
+   "doi": "10.1038/s41467-020-16531-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Chemical_Reactions_at_Isolated_Single-Sites_Inside_Metal_Organic_Frameworks__nature",
+   "title": "Chemical Reactions at Isolated Single-Sites Inside Metal–Organic Frameworks",
+   "doi": "10.1007/s10562-018-2432-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Microplastics_removal_from_aqueous_environment_by_metal_organic_frameworks__nature",
+   "title": "Microplastics removal from aqueous environment by metal organic frameworks",
+   "doi": "10.1186/s13065-023-01032-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Publisher_Correction_Charge-transfer_interface_of_insulating_metal-organic_frameworks_with_metallic_conducti__nature",
+   "title": "Publisher Correction: Charge-transfer interface of insulating metal-organic frameworks with metallic conduction",
+   "doi": "10.1038/s41467-023-35887-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_frameworks_as_fluorescent_and_colorimetric_sensors_for_antibiotic_tracing__nature",
+   "title": "Metal–organic frameworks as fluorescent and colorimetric sensors for antibiotic tracing",
+   "doi": "10.1007/s44371-025-00282-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+   "title": "Missing-linker metal-organic frameworks for oxygen evolution reaction",
+   "doi": "10.1038/s41467-019-13051-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Lanthanide_Metal-Organic_Frameworks_with_Six-Coordinated_Ln_III_Ions_and_Free_Functional_Organic_Sites_for_A__nature",
+   "title": "Lanthanide Metal-Organic Frameworks with Six-Coordinated Ln(III) Ions and Free Functional Organic Sites for Adsorptions and Extensive Catalytic Activities",
+   "doi": "10.1038/srep29728",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_advances_and_future_perspectives_of_metal-organic_frameworks_as_efficient_electrocatalysts_for_CO2_re__nature",
+   "title": "Recent advances and future perspectives of metal-organic frameworks as efficient electrocatalysts for CO2 reduction",
+   "doi": "10.1007/s40843-024-3165-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Uncapping_energy_transfer_pathways_in_metal-organic_frameworks_through_heterogeneous_structures__nature",
+   "title": "Uncapping energy transfer pathways in metal-organic frameworks through heterogeneous structures",
+   "doi": "10.1038/s41467-025-62809-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Structural_and_mechanistic_insights_into_the_selective_adsorption_by_Metal_Organic_Frameworks__nature",
+   "title": "Structural and mechanistic insights into the selective adsorption by Metal–Organic Frameworks",
+   "doi": "10.1007/s44371-024-00039-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "A_robust_zirconium_amino_acid_metal-organic_framework_for_proton_conduction__nature",
+   "title": "A robust zirconium amino acid metal-organic framework for proton conduction",
+   "doi": "10.1038/s41467-018-07414-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_and_Li_conduction_study_of_solid_ionic_liquids_derived_from_Zwitterion_modified_metal-organic_fram__nature",
+   "title": "Synthesis and Li+ conduction study of solid ionic liquids derived from Zwitterion modified metal-organic framework (MOF)",
+   "doi": "10.1186/s13065-026-01753-w",
+   "source": "crossref",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "1000-fold_enhancement_in_proton_conductivity_of_a_MOF_using_post-synthetically_anchored_proton_transporters__nature",
+  "ABC_Spotlight_on_metal-organic_frameworks_MOFs__nature",
+  "A_computational_study_of_metal_organic_frameworks_MOFs_as_potential_nanostructures_to_combat_SARS-CoV-2__nature",
+  "A_robust_zirconium_amino_acid_metal-organic_framework_for_proton_conduction__nature",
+  "A_systematic_review_on_life_cycle_assessment_LCA_of_metal-organic_frameworks_MOFs_and_MXenes__nature",
+  "Advances_in_metal-organic_frameworks_MOFs_for_nanotheranostics_from_targeted_drug_delivery_to_multimodal_ima__nature",
+  "An_Efficient_Synthesis_Strategy_for_Metal-Organic_Frameworks_Dry-Gel_Synthesis_of_MOF-74_Framework_with_High__nature",
+  "An_acid-tolerant_metal-organic_framework_for_industrial_CO2_electrolysis_using_a_proton_exchange_membrane__nature",
+  "Author_Correction_An_acid-tolerant_metal-organic_framework_for_industrial_CO2_electrolysis_using_a_proton_ex__nature",
+  "Bringing_metal-organic_frameworks_to_commercialization__nature",
+  "Chemical_Reactions_at_Isolated_Single-Sites_Inside_Metal_Organic_Frameworks__nature",
+  "Conductive_MOFs_with_Photophysical_Properties_Applications_and_Thin-Film_Fabrication__nature",
+  "Confining_H3PO4_network_in_covalent_organic_frameworks_enables_proton_super_flow__nature",
+  "Correction_Zirconium-based_metal-organic_frameworks_MOFs_for_advanced_nanofiltration_applications_a_minirevi__nature",
+  "Crystal_orientation-dependent_fatigue_characteristics_in_micrometer-sized_single-crystal_silicon__nature",
+  "Crystalline_porous_materials_from_zeolites_to_metal-organic_frameworks_MOFs__nature",
+  "Development_of_Mixed_metal_Metal-organic_polyhedra_networks_colloids_and_MOFs_and_their_Pharmacokinetic_appl__nature",
+  "Development_of_composite_electrolyte_membranes_with_functional_polymer_nanofiber_frameworks__nature",
+  "Discovering_metal-organic_framework_polymer_mixed-matrix_membranes_via_machine_learning_for_CO2_separation__nature",
+  "Engineered_Metal-Organic_Frameworks_MOFs_-electrospun_nanofibers_for_wound_healing_a_review__nature",
+  "Evaluation_of_Moringa_oleifera_extract_and_metal-organic_frameworks_MOFs_as_therapeutic_agents_against_chron__nature",
+  "Excavating_hidden_adsorption_sites_in_metal-organic_frameworks_using_rational_defect_engineering__nature",
+  "Experimental_and_theoretical_studies_of_the_efficiency_of_metal_organic_frameworks_MOFs_in_preventing_alumin__nature",
+  "Experimental_neutron_scattering_evidence_for_proton_polaron_in_hydrated_metal_oxide_proton_conductors__nature",
+  "Fenton-like_Cerium_Metal_Organic_Frameworks_Ce-MOFs_for_Catalytic_Oxidation_of_Olefins_Alcohol_and_Dyes_Degr__nature",
+  "Foldable_interpenetrated_metal-organic_frameworks_carbon_nanotubes_thin_film_for_lithium_sulfur_batteries__nature",
+  "High-throughput_screening_and_mechanistic_insights_into_solid_acid_proton_conductors__nature",
+  "Histopathological_and_biochemical_profiling_of_Carfilzomib-loaded_Fe_Co_MOFs__nature",
+  "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+  "Lanthanide_Metal-Organic_Frameworks_with_Six-Coordinated_Ln_III_Ions_and_Free_Functional_Organic_Sites_for_A__nature",
+  "MOF_the_beaten_track_unusual_structures_and_uncommon_applications_of_metal_organic_frameworks__nature",
+  "Metal_organic_frameworks_as_fluorescent_and_colorimetric_sensors_for_antibiotic_tracing__nature",
+  "Microplastics_removal_from_aqueous_environment_by_metal_organic_frameworks__nature",
+  "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+  "Molecular_Mechanism_Behind_the_Capture_of_Fluorinated_Gases_by_Metal_Organic_Frameworks__nature",
+  "Much_ado_about_MOFs_metal-organic-frameworks_as_quantum_materials__nature",
+  "On_off_conduction_photoswitching_in_modelled_spiropyran-based_metal-organic_frameworks__nature",
+  "Oriented_MOF-polymer_Composite_Nanofiber_Membranes_for_High_Proton_Conductivity_at_High_Temperature_and_Anhy__nature",
+  "Pitfalls_in_the_location_of_guest_molecules_in_metal-organic_frameworks__nature",
+  "Podcast_Probing_the_proton_research_misconduct_and_making_sense_of_mystery_genes__nature",
+  "Porous_molybdenum_carbide_nano-octahedrons_synthesized_via_confined_carburization_in_metal-organic_framework__nature",
+  "Precision-Engineered_Construction_of_Proton-Conducting_Metal_Organic_Frameworks__nature",
+  "Preface_Special_topic_on_Metal-organic_frameworks_MOFs__nature",
+  "Preparation_and_characterization_of_active_chitosan_based_films_containing_oregano_essential_oils_loaded_Cu___nature",
+  "Probing_QCD_confinement_with_spin_spin_correlation_in_proton_proton_collisions__nature",
+  "Probing_QGP_droplets_with_charmonium_in_high-multiplicity_proton_proton_collisions__nature",
+  "Proton_conduction_in_metal-organic_frameworks_new_possibilities_in_fuel_cell_technology__bibliotekanauki",
+  "Proton_conductivity_studies_in_metal-organic_frameworks__ac",
+  "Publisher_Correction_Charge-transfer_interface_of_insulating_metal-organic_frameworks_with_metallic_conducti__nature",
+  "RETRACTED_ARTICLE_Chemical_electrochemical_and_surface_studies_of_new_metal_organic_frameworks_MOF_as_corros__nature",
+  "Recent_advances_and_future_perspectives_of_metal-organic_frameworks_as_efficient_electrocatalysts_for_CO2_re__nature",
+  "Recent_and_Prospects_of_Synthesis_and_Application_of_Metal-Organic_Frameworks_MOFs_in_Water_Treatment_A_Revi__nature",
+  "Recent_developments_of_nano-enhanced_composite_membranes_designed_for_water_wastewater_purification_a_review__nature",
+  "Retraction_Note_Chemical_electrochemical_and_surface_studies_of_new_metal_organic_frameworks_MOF_as_corrosio__nature",
+  "Review_of_proton_conductors_for_hydrogen_separation__nature",
+  "Rising_profile_on_the_use_of_metal_organic_frameworks_MOFs_for_the_removal_of_heavy_metals_from_the_environm__nature",
+  "Search_for_a_Grotthuss_mechanism_through_the_observation_of_proton_transfer__nature",
+  "Sixteen_isostructural_phosphonate_metal-organic_frameworks_with_controlled_Lewis_acidity_and_chemical_stabil__nature",
+  "Structural_and_mechanistic_insights_into_the_selective_adsorption_by_Metal_Organic_Frameworks__nature",
+  "Sulfonic_acid-functionalized_chitosan_metal_organic_framework_composite_for_efficient_and_rapid_conversion_o__nature",
+  "Synthesis_and_Li_conduction_study_of_solid_ionic_liquids_derived_from_Zwitterion_modified_metal-organic_fram__nature",
+  "Synthesis_of_metal_organic_frameworks_MOFs_MIL-100_Fe_functionalized_with_thioglycolic_acid_and_ethylenediam__nature",
+  "Treatment_with_metal_organic_frameworks_MOFs_elicits_secondary_metabolite_accumulation_in_Aquilaria_crassna___nature",
+  "Tuning_the_balance_between_dispersion_and_entropy_to_design_temperature-responsive_flexible_metal-organic_fr__nature",
+  "Uncapping_energy_transfer_pathways_in_metal-organic_frameworks_through_heterogeneous_structures__nature",
+  "Vitrification-enabled_enhancement_of_proton_conductivity_in_hydrogen-bonded_organic_frameworks__nature"
+ ],
+ "run_config": {
+  "created": "2026-10-08T14:54:33",
+  "code": {
+   "sha256": "880f9fd27ac5a3b37297394a2b64bbb0d5b886a051bb2b25ef1beeff56d527c7",
+   "n_files": 106
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/MOF_03",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "MOF",
+   "last_tier": "Metal-organic frameworks (MOFs)",
+   "target_run_id": "03",
+   "seed_dir": "<repo>/seeds/seed_chem/MOF_03",
+   "output_root": "results/e2e/e2e_v3/r8/chem/MOF_03",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 1,
+   "paper_id": "Author_Correction_An_acid-tolerant_metal-organic_framework_for_industrial_CO2_electrolysis_using_a_proton_ex__nature",
+   "title": "Author Correction: An acid-tolerant metal-organic framework for industrial CO2 electrolysis using a proton exchange membrane",
+   "doi": "10.1038/s41467-024-52882-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-52882-6",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Development_of_composite_electrolyte_membranes_with_functional_polymer_nanofiber_frameworks__nature",
+   "title": "Development of composite electrolyte membranes with functional polymer nanofiber frameworks",
+   "doi": "10.1038/s41428-024-01007-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41428-024-01007-3",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Experimental_neutron_scattering_evidence_for_proton_polaron_in_hydrated_metal_oxide_proton_conductors__nature",
+   "title": "Experimental neutron scattering evidence for proton polaron in hydrated metal oxide proton conductors",
+   "doi": "10.1038/ncomms15830",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/ncomms15830",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Oriented_MOF-polymer_Composite_Nanofiber_Membranes_for_High_Proton_Conductivity_at_High_Temperature_and_Anhy__nature",
+   "title": "Oriented MOF-polymer Composite Nanofiber Membranes for High Proton Conductivity at High Temperature and Anhydrous Condition",
+   "doi": "10.1038/srep04334",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/srep04334",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "RETRACTED_ARTICLE_Chemical_electrochemical_and_surface_studies_of_new_metal_organic_frameworks_MOF_as_corros__nature",
+   "title": "RETRACTED ARTICLE: Chemical, electrochemical and surface studies of new metal–organic frameworks (MOF) as corrosion inhibitors for carbon steel in sulfuric acid environment",
+   "doi": "10.1038/s41598-021-99700-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-021-99700-3",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Retraction_Note_Chemical_electrochemical_and_surface_studies_of_new_metal_organic_frameworks_MOF_as_corrosio__nature",
+   "title": "Retraction Note: Chemical, electrochemical and surface studies of new metal–organic frameworks (MOF) as corrosion inhibitors for carbon steel in sulfuric acid environment",
+   "doi": "10.1038/s41598-022-21190-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-022-21190-8",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Sulfonic_acid-functionalized_chitosan_metal_organic_framework_composite_for_efficient_and_rapid_conversion_o__nature",
+   "title": "Sulfonic acid-functionalized chitosan–metal–organic framework composite for efficient and rapid conversion of fructose to 5-hydroxymethylfurfural",
+   "doi": "10.1038/s41598-024-56592-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-024-56592-3",
+   "metadata_found": true
+  }
+ ]
+}

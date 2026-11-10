@@ -1,0 +1,534 @@
+{
+ "batch": "r6",
+ "run": "ZIF_03",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Ferulic_Acid-Loaded_Zeolitic_Imidazolate_Frameworks-8_Nanoparticles_ZIF-8_Exhibited_Anticancer_Activity_by_t__nature",
+   "title": "Ferulic Acid-Loaded Zeolitic Imidazolate Frameworks-8 Nanoparticles (ZIF-8) Exhibited Anticancer Activity by the Increase of Apoptotic Proteins in Ishikawa and HEC1B cells",
+   "doi": "10.1007/s44411-025-00317-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44411-025-00317-z"
+  },
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction",
+   "doi": "10.1038/s41467-024-53385-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-53385-0"
+  },
+  {
+   "round": 1,
+   "paper_id": "Vapor-deposited_zeolitic_imidazolate_frameworks_as_gap-filling_ultra-low-k_dielectrics__nature",
+   "title": "Vapor-deposited zeolitic imidazolate frameworks as gap-filling ultra-low-k dielectrics",
+   "doi": "10.1038/s41467-019-11703-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-019-11703-x"
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Immobilization_of_Xylanase_into_Zeolitic_Imidazolate_Framework-67_ZIF-67_and_Manganese-Doped_ZIF-67_Mn_ZIF-6__nature",
+   "title": "Immobilization of Xylanase into Zeolitic Imidazolate Framework-67 (ZIF-67) and Manganese-Doped ZIF-67 (Mn/ZIF-67): A Comparison Study",
+   "doi": "10.1007/s11244-023-01898-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11244-023-01898-1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+   "title": "Magnetic Nanoparticles Encapsulated Zeolitic Imidazolate Frameworks: A New Delivery System for Crocin",
+   "doi": "10.1007/s10876-023-02526-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+   "title": "Influence of the 2-methylimidazole/zinc nitrate hexahydrate molar ratio on the synthesis of zeolitic imidazolate framework-8 crystals at room temperature",
+   "doi": "10.1038/s41598-018-28015-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Fabrication_and_characterization_of_zeolitic_imidazolate_framework-embedded_cellulose_acetate_membranes_for___nature",
+   "title": "Fabrication and characterization of zeolitic imidazolate framework-embedded cellulose acetate membranes for osmotically driven membrane process",
+   "doi": "10.1038/s41598-019-42235-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+   "title": "Improvement of optical and structural properties of ZIF-8 by producing multifunctional Zn/Co bimetallic ZIFs for wastewater treatment from copper ions and dye",
+   "doi": "10.1038/s41598-024-66276-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Mesoporous_Silica_Gel_Based_Mixed_Matrix_Membranes_for_Improving_Mass_Transfer_in_Forward_Osmosis_Effect_of___nature",
+   "title": "Mesoporous Silica Gel–Based Mixed Matrix Membranes for Improving Mass Transfer in Forward Osmosis: Effect of Pore Size of Filler",
+   "doi": "10.1038/srep16808",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/srep16808"
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+   "title": "Correction to: Dual-acting cellulose nanocomposites filled with carbon nanotubes and zeolitic imidazolate framework-67 (ZIF-67)–derived polyhedral porous Co3O4 for symmetric supercapacitors",
+   "doi": "10.1007/s42114-021-00328-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Cellulose_acetate_cellulose_acetate_propionate_and_cellulose_acetate_butyrate_membranes_for_wa__nature",
+   "title": "Correction to: Cellulose acetate, cellulose acetate propionate and cellulose acetate butyrate membranes for water desalination applications",
+   "doi": "10.1007/s10570-020-03529-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Advanced_fabrication_and_characterization_of_thin-film_composite_polyamide_membranes_for_superior_performanc__nature",
+   "title": "Advanced fabrication and characterization of thin-film composite polyamide membranes for superior performance in reverse osmosis desalination",
+   "doi": "10.1038/s41598-025-97871-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Molecularly_tunable_thin-film_nanocomposite_membranes_with_enhanced_molecular_sieving_for_organic_solvent_fo__nature",
+   "title": "Molecularly tunable thin-film nanocomposite membranes with enhanced molecular sieving for organic solvent forward osmosis",
+   "doi": "10.1038/s41467-020-15070-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Publisher_Correction_Biogenic_silver_nanoparticles-modified_forward_osmosis_membranes_with_mitigated_interna__nature",
+   "title": "Publisher Correction: Biogenic silver nanoparticles-modified forward osmosis membranes with mitigated internal concentration polarization and enhanced antibacterial properties",
+   "doi": "10.1038/s41545-022-00199-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Enhancing_the_performance_and_antifouling_properties_of_reverse_osmosis_membranes_by_graphene_quantum_dots_f__nature",
+   "title": "Enhancing the performance and antifouling properties of reverse osmosis membranes by graphene quantum dots for water desalination",
+   "doi": "10.1007/s13201-025-02410-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterisation_and_comparison_of_bacterial_communities_on_reverse_osmosis_membranes_of_a_full-scale_desali__nature",
+   "title": "Characterisation and comparison of bacterial communities on reverse osmosis membranes of a full-scale desalination plant by bacterial 16S rRNA gene metabarcoding",
+   "doi": "10.1038/s41522-017-0021-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "An_investigation_of_desalination_by_nanofiltration_reverse_osmosis_and_integrated_hybrid_NF_RO_membranes_emp__nature",
+   "title": "An investigation of desalination by nanofiltration, reverse osmosis and integrated (hybrid NF/RO) membranes employed in brackish water treatment",
+   "doi": "10.1186/s40201-017-0279-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Author_Correction_Superior_forward_osmosis_cellulosic_membrane_for_water_desalination_and_brine_concentratio__nature",
+   "title": "Author Correction: Superior forward osmosis cellulosic membrane for water desalination and brine concentration",
+   "doi": "10.1038/s41598-025-11479-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "In_situ_synthesis_of_ZIF-67_as_sacrificial_template_within_the_sublayer_of_forward_osmosis_membrane_to_minim__nature",
+   "title": "In situ synthesis of ZIF-67 as sacrificial template within the sublayer of forward osmosis membrane to minimize internal concentration polarization",
+   "doi": "10.1038/s41598-026-49580-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Membrane_fouling_induced_by_AHL-mediated_soluble_microbial_product_SMP_formation_by_fouling-causing_bacteria__nature",
+   "title": "Membrane fouling induced by AHL-mediated soluble microbial product (SMP) formation by fouling-causing bacteria co-cultured with fouling-enhancing bacteria",
+   "doi": "10.1038/s41598-017-09023-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "A_triple_fouling_layers_perspective_on_evaluation_of_membrane_fouling_under_different_scenarios_of_membrane___nature",
+   "title": "A triple fouling layers perspective on evaluation of membrane fouling under different scenarios of membrane bioreactor operation",
+   "doi": "10.1186/2052-336x-12-91",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Fouling_Analysis_and_the_Recovery_of_Phytosterols_from_Orange_Juice_Using_Regenerated_Cellulose_Ultrafiltrat__nature",
+   "title": "Fouling Analysis and the Recovery of Phytosterols from Orange Juice Using Regenerated Cellulose Ultrafiltration Membranes",
+   "doi": "10.1007/s11947-020-02541-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Advanced_bio_fouling_resistant_surface_modification_of_PTFE_hollow-fiber_membranes_for_water_treatment__nature",
+   "title": "Advanced (bio)fouling resistant surface modification of PTFE hollow-fiber membranes for water treatment",
+   "doi": "10.1038/s41598-023-38764-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_Engineered_holey_GO-EDA-PEI_nanocomposite_membranes_with_tailored_surface_charge_for_simultaneous__nature",
+   "title": "Correction: Engineered holey GO-EDA-PEI nanocomposite membranes with tailored surface charge for simultaneous high-flux water permeability and enhanced cation/heavy metal removal",
+   "doi": "10.1007/s10853-026-13621-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Separating_Oil-Water_Nanoemulsions_using_Flux-Enhanced_Hierarchical_Membranes__nature",
+   "title": "Separating Oil-Water Nanoemulsions using Flux-Enhanced Hierarchical Membranes",
+   "doi": "10.1038/srep05504",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Magnetic_nanoparticles_boosting_the_osmotic_efficiency_of_a_polymeric_FO_draw_agent_Effect_of_polymer_conformat__edu",
+   "title": "Magnetic nanoparticles boosting the osmotic efficiency of a polymeric FO draw agent: Effect of polymer conformation",
+   "doi": "10.1016/j.desal.2015.07.010",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Graphene_oxide_zeolitic_imidazolate_framework-67_transition_metal_composite_with_exposed_active_sites_for_hi__nature",
+   "title": "Graphene oxide/ zeolitic imidazolate framework-67–transition metal composite with exposed active sites for high-performance supercapacitors",
+   "doi": "10.1007/s10971-026-07187-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10971-026-07187-z"
+  },
+  {
+   "round": 3,
+   "paper_id": "Zeolitic_imidazolate_framework-8_nanoparticle_a_promising_adsorbent_for_effective_fluoride_removal_from_aque__nature",
+   "title": "Zeolitic imidazolate framework-8 nanoparticle: a promising adsorbent for effective fluoride removal from aqueous solution",
+   "doi": "10.1007/s13201-019-1030-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s13201-019-1030-9"
+  },
+  {
+   "round": 3,
+   "paper_id": "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+   "title": "Manganese-Zeolitic Imidazolate Frameworks-90 with High Blood Circulation Stability for MRI-Guided Tumor Therapy",
+   "doi": "10.1007/s40820-019-0292-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Solvent-free bottom-up patterning of zeolitic imidazolate frameworks",
+   "doi": "10.1038/s41467-022-28050-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+   "title": "Cobalt/Copper Doped Bimetallic Zeolitic Imidazolate Frameworks as Peroxymonosulfate Activators for the Removal of Veterinary Antibiotics: Response Surface Modeling and Optimization of Reaction Parameters",
+   "doi": "10.1007/s13369-025-10392-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Ultra-sensitive_glyphosate_detection_in_soil_and_wastewater_using_Zn-zeolitic_imidazolate_framework-67_montm__nature",
+   "title": "Ultra-sensitive glyphosate detection in soil and wastewater using Zn-zeolitic imidazolate framework-67/montmorillonite nanocomposite electrochemical sensor",
+   "doi": "10.1007/s00604-026-07880-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+   "title": "Enhanced peroxymonosulfate activation for tetracycline removal using magnesium–aluminum layered double hydroxide/zeolitic imidazolate framework-8 nanocomposite",
+   "doi": "10.1038/s41598-026-49645-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Well-defined_porous_membranes_for_robust_omniphobic_surfaces_via_microfluidic_emulsion_templating__nature",
+   "title": "Well-defined porous membranes for robust omniphobic surfaces via microfluidic emulsion templating",
+   "doi": "10.1038/ncomms15823",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Removal_of_lipopolysaccharide_from_protein_solution_using_nanostructured_porous_supports_bearing_lipid_membr__nature",
+   "title": "Removal of lipopolysaccharide from protein solution using nanostructured porous supports bearing lipid membranes",
+   "doi": "10.1186/1556-276x-8-460",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_and_optimization_nanocomposite_catalyst_based_on_silver_Zeolite_imidazolite_frameworks_67_Ag_ZIF-6__nature",
+   "title": "Synthesis and optimization nanocomposite catalyst based on silver@Zeolite imidazolite frameworks − 67 (Ag@ZIF-67) and catalytic application for ethyl benzene vapor removal in air matrices",
+   "doi": "10.1038/s41598-025-26391-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Forward_osmosis_FO_-reverse_osmosis_RO_hybrid_process_incorporated_with_hollow_fiber_FO__nature",
+   "title": "Forward osmosis (FO)-reverse osmosis (RO) hybrid process incorporated with hollow fiber FO",
+   "doi": "10.1038/s41545-021-00143-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Biogenic_silver_nanoparticles-modified_forward_osmosis_membranes_with_mitigated_internal_concentration_polar__nature",
+   "title": "Biogenic silver nanoparticles-modified forward osmosis membranes with mitigated internal concentration polarization and enhanced antibacterial properties",
+   "doi": "10.1038/s41545-022-00190-1",
+   "source": "crossref",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "A_triple_fouling_layers_perspective_on_evaluation_of_membrane_fouling_under_different_scenarios_of_membrane___nature",
+  "Advanced_bio_fouling_resistant_surface_modification_of_PTFE_hollow-fiber_membranes_for_water_treatment__nature",
+  "Advanced_fabrication_and_characterization_of_thin-film_composite_polyamide_membranes_for_superior_performanc__nature",
+  "An_investigation_of_desalination_by_nanofiltration_reverse_osmosis_and_integrated_hybrid_NF_RO_membranes_emp__nature",
+  "Author_Correction_Superior_forward_osmosis_cellulosic_membrane_for_water_desalination_and_brine_concentratio__nature",
+  "Biogenic_silver_nanoparticles-modified_forward_osmosis_membranes_with_mitigated_internal_concentration_polar__nature",
+  "Breakthrough_osmosis_and_unusually_high_power_densities_in_Pressure-Retarded_Osmosis_in_non-ideally_semi-per__nature",
+  "Cellulose_acetate_polyvinylidene_fluoride_based_mixed_matrix_membranes_impregnated_with_UiO-66_nano-MOF_for___nature",
+  "Characterisation_and_comparison_of_bacterial_communities_on_reverse_osmosis_membranes_of_a_full-scale_desali__nature",
+  "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+  "Correction_Engineered_holey_GO-EDA-PEI_nanocomposite_membranes_with_tailored_surface_charge_for_simultaneous__nature",
+  "Correction_to_Cellulose_acetate_cellulose_acetate_propionate_and_cellulose_acetate_butyrate_membranes_for_wa__nature",
+  "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+  "Effect_of_titanium_oxide_reduced_graphene_TiO2_rGO_addition_onto_water_flux_and_reverse_salt_diffusion_thin-__nature",
+  "Effect_of_vertically_aligned_carbon_nanotube_density_on_the_water_flux_and_salt_rejection_in_desalination_me__nature",
+  "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+  "Enhancement_CO2_separation_performance_of_three-component_pebax-1657-based_mixed_matrix_membranes_containing__nature",
+  "Enhancing_the_performance_and_antifouling_properties_of_reverse_osmosis_membranes_by_graphene_quantum_dots_f__nature",
+  "Forward_osmosis_FO_-reverse_osmosis_RO_hybrid_process_incorporated_with_hollow_fiber_FO__nature",
+  "Forward_osmosis_desalination_via_laminar_graphene_oxide-based_membranes_A_comprehensive_review_of_principles__nature",
+  "Fouling_Analysis_and_the_Recovery_of_Phytosterols_from_Orange_Juice_Using_Regenerated_Cellulose_Ultrafiltrat__nature",
+  "Graphene_oxide_zeolitic_imidazolate_framework-67_transition_metal_composite_with_exposed_active_sites_for_hi__nature",
+  "High-flux_and_anti-fouling_membrane_distillation_membrane_with_VOC_capture_ability_enabled_by_ZIF-8__nature",
+  "In_situ_synthesis_of_ZIF-67_as_sacrificial_template_within_the_sublayer_of_forward_osmosis_membrane_to_minim__nature",
+  "MCO_Membranes_Enhanced_Selectivity_in_High-Flux_Class__nature",
+  "Magnetic_nanoparticles_boosting_the_osmotic_efficiency_of_a_polymeric_FO_draw_agent_Effect_of_polymer_conformat__edu",
+  "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+  "Membrane_fouling_induced_by_AHL-mediated_soluble_microbial_product_SMP_formation_by_fouling-causing_bacteria__nature",
+  "Mesoporous_Silica_Gel_Based_Mixed_Matrix_Membranes_for_Improving_Mass_Transfer_in_Forward_Osmosis_Effect_of___nature",
+  "Modelling_simulation_and_optimisation_of_seawater_reverse_osmosis_pressure-retarded_osmosis_SWRO_PRO_hybrid___nature",
+  "Modification_of_blend_reverse_osmosis_membranes_using_ZrO2_for_desalination_process_purposes__nature",
+  "Molecularly_tunable_thin-film_nanocomposite_membranes_with_enhanced_molecular_sieving_for_organic_solvent_fo__nature",
+  "Publisher_Correction_Biogenic_silver_nanoparticles-modified_forward_osmosis_membranes_with_mitigated_interna__nature",
+  "Removal_of_lipopolysaccharide_from_protein_solution_using_nanostructured_porous_supports_bearing_lipid_membr__nature",
+  "Separating_Oil-Water_Nanoemulsions_using_Flux-Enhanced_Hierarchical_Membranes__nature",
+  "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+  "Synthesis_and_optimization_nanocomposite_catalyst_based_on_silver_Zeolite_imidazolite_frameworks_67_Ag_ZIF-6__nature",
+  "Ultra-sensitive_glyphosate_detection_in_soil_and_wastewater_using_Zn-zeolitic_imidazolate_framework-67_montm__nature",
+  "Well-defined_porous_membranes_for_robust_omniphobic_surfaces_via_microfluidic_emulsion_templating__nature",
+  "Zeolitic_imidazolate_framework-8_nanoparticle_a_promising_adsorbent_for_effective_fluoride_removal_from_aque__nature"
+ ],
+ "run_config": {
+  "created": "2026-10-06T08:33:12",
+  "code": {
+   "sha256": "90b65fc6343a1e66a7900b7ec947a5c868cd898b7a550c126e1a66a53796d3ae",
+   "n_files": 82
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_03",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "ZIF",
+   "last_tier": "Zeolitic imidazolate frameworks (ZIFs)",
+   "target_run_id": "03",
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_03",
+   "output_root": "results/e2e/e2e_v3/r6/chem/ZIF_03",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 2,
+   "paper_id": "Breakthrough_osmosis_and_unusually_high_power_densities_in_Pressure-Retarded_Osmosis_in_non-ideally_semi-per__nature",
+   "title": "“Breakthrough” osmosis and unusually high power densities in Pressure-Retarded Osmosis in non-ideally semi-permeable supported membranes",
+   "doi": "10.1038/srep45168",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/srep45168",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Cellulose_acetate_polyvinylidene_fluoride_based_mixed_matrix_membranes_impregnated_with_UiO-66_nano-MOF_for___nature",
+   "title": "Cellulose acetate/polyvinylidene fluoride based mixed matrix membranes impregnated with UiO-66 nano-MOF for reverse osmosis desalination",
+   "doi": "10.1007/s10570-022-04889-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10570-022-04889-9",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Effect_of_titanium_oxide_reduced_graphene_TiO2_rGO_addition_onto_water_flux_and_reverse_salt_diffusion_thin-__nature",
+   "title": "Effect of titanium oxide/reduced graphene (TiO2/rGO) addition onto water flux and reverse salt diffusion thin-film nanocomposite forward osmosis membranes",
+   "doi": "10.1007/s11356-024-32500-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11356-024-32500-0",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Effect_of_vertically_aligned_carbon_nanotube_density_on_the_water_flux_and_salt_rejection_in_desalination_me__nature",
+   "title": "Effect of vertically aligned carbon nanotube density on the water flux and salt rejection in desalination membranes",
+   "doi": "10.1186/s40064-016-2783-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1186/s40064-016-2783-3",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Enhancement_CO2_separation_performance_of_three-component_pebax-1657-based_mixed_matrix_membranes_containing__nature",
+   "title": "Enhancement CO2 separation performance of three-component pebax-1657-based mixed matrix membranes containing ZIF-67/amine functionalized CNT dual nanofillers",
+   "doi": "10.1038/s41598-025-28777-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-025-28777-x",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Forward_osmosis_desalination_via_laminar_graphene_oxide-based_membranes_A_comprehensive_review_of_principles__nature",
+   "title": "Forward osmosis desalination via laminar graphene oxide-based membranes: A comprehensive review of principles, current state-of-the-art, challenges, and perspectives",
+   "doi": "10.1557/s43578-024-01492-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1557/s43578-024-01492-5",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "High-flux_and_anti-fouling_membrane_distillation_membrane_with_VOC_capture_ability_enabled_by_ZIF-8__nature",
+   "title": "High-flux and anti-fouling membrane distillation membrane with VOC capture ability enabled by ZIF-8",
+   "doi": "10.1038/s41467-025-63267-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-025-63267-8",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "MCO_Membranes_Enhanced_Selectivity_in_High-Flux_Class__nature",
+   "title": "MCO Membranes: Enhanced Selectivity in High-Flux Class",
+   "doi": "10.1038/srep18448",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/srep18448",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Modelling_simulation_and_optimisation_of_seawater_reverse_osmosis_pressure-retarded_osmosis_SWRO_PRO_hybrid___nature",
+   "title": "Modelling, simulation and optimisation of seawater reverse osmosis – pressure-retarded osmosis (SWRO–PRO) hybrid units for seawater desalination",
+   "doi": "10.1007/s10665-025-10473-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10665-025-10473-4",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Modification_of_blend_reverse_osmosis_membranes_using_ZrO2_for_desalination_process_purposes__nature",
+   "title": "Modification of blend reverse osmosis membranes using ZrO2 for desalination process purposes",
+   "doi": "10.1007/s13201-024-02329-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s13201-024-02329-6",
+   "metadata_found": true
+  }
+ ],
+ "role": "cross-run history for the reuse replay (memexp38 REUSEC) and the r10 live run; not an evaluation corpus"
+}

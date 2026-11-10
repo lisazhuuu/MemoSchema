@@ -1,0 +1,1104 @@
+{
+ "batch": "r5",
+ "run": "MOF_01",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Crystalline_porous_materials_from_zeolites_to_metal-organic_frameworks_MOFs__nature",
+   "title": "Crystalline porous materials: from zeolites to metal-organic frameworks (MOFs)",
+   "doi": "10.1007/s11705-020-1921-1",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11705-020-1921-1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Porous_isoreticular_non-metal_organic_frameworks__nature",
+   "title": "Porous isoreticular non-metal organic frameworks",
+   "doi": "10.1038/s41586-024-07353-9",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "ABC_Spotlight_on_metal-organic_frameworks_MOFs__nature",
+   "title": "ABC Spotlight on metal-organic frameworks (MOFs)",
+   "doi": "10.1007/s00216-016-9971-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s00216-016-9971-4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Preface_Special_topic_on_Metal-organic_frameworks_MOFs__nature",
+   "title": "Preface: Special topic on Metal-organic frameworks (MOFs)",
+   "doi": "10.1007/s11426-016-5603-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11426-016-5603-2"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_computational_study_of_metal_organic_frameworks_MOFs_as_potential_nanostructures_to_combat_SARS-CoV-2__nature",
+   "title": "A computational study of metal–organic frameworks (MOFs) as potential nanostructures to combat SARS-CoV-2",
+   "doi": "10.1038/s41598-022-19845-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-022-19845-7"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_systematic_review_on_life_cycle_assessment_LCA_of_metal-organic_frameworks_MOFs_and_MXenes__nature",
+   "title": "A systematic review on life cycle assessment (LCA) of metal-organic frameworks (MOFs) and MXenes",
+   "doi": "10.1007/s44371-026-00495-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44371-026-00495-x"
+  },
+  {
+   "round": 1,
+   "paper_id": "Porous_molybdenum_carbide_nano-octahedrons_synthesized_via_confined_carburization_in_metal-organic_framework__nature",
+   "title": "Porous molybdenum carbide nano-octahedrons synthesized via confined carburization in metal-organic frameworks for efficient hydrogen production",
+   "doi": "10.1038/ncomms7512",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/ncomms7512"
+  },
+  {
+   "round": 1,
+   "paper_id": "Rising_profile_on_the_use_of_metal_organic_frameworks_MOFs_for_the_removal_of_heavy_metals_from_the_environm__nature",
+   "title": "Rising profile on the use of metal–organic frameworks (MOFs) for the removal of heavy metals from the environment: an overview",
+   "doi": "10.1007/s13201-018-0818-3",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s13201-018-0818-3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Engineered_Metal-Organic_Frameworks_MOFs_-electrospun_nanofibers_for_wound_healing_a_review__nature",
+   "title": "Engineered Metal-Organic Frameworks (MOFs)-electrospun nanofibers for wound healing: a review",
+   "doi": "10.1186/s13036-026-00650-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Fenton-like_Cerium_Metal_Organic_Frameworks_Ce-MOFs_for_Catalytic_Oxidation_of_Olefins_Alcohol_and_Dyes_Degr__nature",
+   "title": "Fenton-like Cerium Metal–Organic Frameworks (Ce-MOFs) for Catalytic Oxidation of Olefins, Alcohol, and Dyes Degradation",
+   "doi": "10.1007/s10876-022-02402-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Porous_isoreticular_non-metal_organic_frameworks__nature",
+   "title": "Porous isoreticular non-metal organic frameworks",
+   "doi": "10.1038/s41586-024-07353-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Machine_learning_approaches_for_predicting_arsenic_adsorption_from_water_using_porous_metal_organic_framewor__nature",
+   "title": "Machine learning approaches for predicting arsenic adsorption from water using porous metal–organic frameworks",
+   "doi": "10.1038/s41598-022-20762-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Electrodeposition_of_porous_metal-organic_frameworks_for_efficient_charge_storage__nature",
+   "title": "Electrodeposition of porous metal-organic frameworks for efficient charge storage",
+   "doi": "10.1038/s42004-024-01260-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Fluorine-functionalized_metal_organic_frameworks_and_porous_coordination_polymers__nature",
+   "title": "Fluorine-functionalized metal–organic frameworks and porous coordination polymers",
+   "doi": "10.1038/am.2017.165",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Nano-Porous_Composites_of_Activated_Carbon_Metal_Organic_Frameworks_Fe-BDC_AC_for_Rapid_Removal_of_Cr_VI_Syn__nature",
+   "title": "Nano-Porous Composites of Activated Carbon–Metal Organic Frameworks (Fe-BDC@AC) for Rapid Removal of Cr (VI): Synthesis, Adsorption, Mechanism, and Kinetics Studies",
+   "doi": "10.1007/s10904-022-02237-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthesis_of_metal_organic_frameworks_MOFs_MIL-100_Fe_functionalized_with_thioglycolic_acid_and_ethylenediam__nature",
+   "title": "Synthesis of metal–organic frameworks (MOFs) MIL-100(Fe) functionalized with thioglycolic acid and ethylenediamine for removal of eosin B dye from aqueous solution",
+   "doi": "10.1007/s42452-021-04163-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Application_of_covalent_organic_frameworks_and_metal_organic_frameworks_nanomaterials_in_organic_inorganic_p__nature",
+   "title": "Application of covalent organic frameworks and metal–organic frameworks nanomaterials in organic/inorganic pollutants removal from solutions through sorption-catalysis strategies",
+   "doi": "10.1007/s44246-023-00041-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Inverse_design_of_metal-organic_frameworks_using_deep_dreaming_approaches__nature",
+   "title": "Inverse design of metal-organic frameworks using deep dreaming approaches",
+   "doi": "10.1038/s41467-025-59952-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Machine_learning_improves_metal_organic_frameworks_design_and_discovery__nature",
+   "title": "Machine learning improves metal–organic frameworks design and discovery",
+   "doi": "10.1557/s43577-022-00427-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Tuning_porosity_in_macroscopic_monolithic_metal-organic_frameworks_for_exceptional_natural_gas_storage__nature",
+   "title": "Tuning porosity in macroscopic monolithic metal-organic frameworks for exceptional natural gas storage",
+   "doi": "10.1038/s41467-019-10185-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "MOF_the_beaten_track_unusual_structures_and_uncommon_applications_of_metal_organic_frameworks__nature",
+   "title": "MOF the beaten track: unusual structures and uncommon applications of metal–organic frameworks",
+   "doi": "10.1186/s13065-017-0330-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Bringing_metal-organic_frameworks_to_commercialization__nature",
+   "title": "Bringing metal-organic frameworks to commercialization",
+   "doi": "10.1038/s43246-024-00716-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Exceptional_hydrogen_storage_achieved_by_screening_nearly_half_a_million_metal-organic_frameworks__nature",
+   "title": "Exceptional hydrogen storage achieved by screening nearly half a million metal-organic frameworks",
+   "doi": "10.1038/s41467-019-09365-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Inverse_design_of_metal_organic_frameworks_for_C2H4_C2H6_separation__nature",
+   "title": "Inverse design of metal–organic frameworks for C2H4/C2H6 separation",
+   "doi": "10.1038/s41524-022-00946-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Photoisomerization-mediated_tunable_pore_size_in_metal_organic_frameworks_for_U_VI_V_V_selective_separation__nature",
+   "title": "Photoisomerization-mediated tunable pore size in metal organic frameworks for U(VI)/V(V) selective separation",
+   "doi": "10.1038/s41467-025-57638-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Isoreticular_moir_metal-organic_frameworks_with_quasiperiodicity__nature",
+   "title": "Isoreticular moiré metal-organic frameworks with quasiperiodicity",
+   "doi": "10.1038/s41467-025-62247-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Correction_to_Structural_similarity_synthesis_and_adsorption_properties_of_aluminum-based_metal-organic_fram__nature",
+   "title": "Correction to: Structural similarity, synthesis, and adsorption properties of aluminum-based metal-organic frameworks",
+   "doi": "10.1007/s10450-021-00303-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Van_der_Waals_density_functional_study_of_hydrocarbon_adsorption_and_separation_in_metal_organic_frameworks___nature",
+   "title": "Van der Waals density functional study of hydrocarbon adsorption and separation in metal–organic frameworks without open metal sites",
+   "doi": "10.1557/s43578-021-00356-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal_organic_frameworks_A_dielectric_in_a_cage__nature",
+   "title": "Metal–organic frameworks: A dielectric in a cage",
+   "doi": "10.1038/asiamat.2010.182",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal_organic_frameworks_for_the_future__nature",
+   "title": "Metal–organic frameworks for the future",
+   "doi": "10.1038/s41565-025-02095-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "A_market_for_metal_organic_frameworks__nature",
+   "title": "A market for metal–organic frameworks",
+   "doi": "10.1038/s41563-025-02147-4",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Microplastics_removal_from_aqueous_environment_by_metal_organic_frameworks__nature",
+   "title": "Microplastics removal from aqueous environment by metal organic frameworks",
+   "doi": "10.1186/s13065-023-01032-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Reply_to_Pitfalls_in_the_location_of_guest_molecules_in_metal-organic_frameworks__nature",
+   "title": "Reply to: Pitfalls in the location of guest molecules in metal-organic frameworks",
+   "doi": "10.1038/s41467-022-32891-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Tunable_Two-color_Luminescence_and_Host_guest_Energy_Transfer_of_Fluorescent_Chromophores_Encapsulated_in_Me__nature",
+   "title": "Tunable Two-color Luminescence and Host–guest Energy Transfer of Fluorescent Chromophores Encapsulated in Metal-Organic Frameworks",
+   "doi": "10.1038/srep04337",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Metal-organic_frameworks_with_linear_and_branched_polyol_backbones_for_dye_removal__nature",
+   "title": "Metal-organic frameworks with linear and branched polyol backbones for dye removal",
+   "doi": "10.1038/s41598-026-37325-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Correction_MOFGalaxyNet_a_social_network_analysis_for_predicting_guest_accessibility_in_metal_organic_framew__nature",
+   "title": "Correction: MOFGalaxyNet: a social network analysis for predicting guest accessibility in metal–organic frameworks utilizing graph convolutional networks",
+   "doi": "10.1186/s13321-023-00774-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Microbial_reduction_of_metal-organic_frameworks_enables_synergistic_chromium_removal__nature",
+   "title": "Microbial reduction of metal-organic frameworks enables synergistic chromium removal",
+   "doi": "10.1038/s41467-019-13219-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Precise_size-matching_between_guest_polyoxometalates_and_host_metal-organic_frameworks_enables_enhanced_phot__nature",
+   "title": "Precise size-matching between guest polyoxometalates and host metal-organic frameworks enables enhanced photocatalytic water oxidation",
+   "doi": "10.1038/s42004-025-01838-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthesis_of_magnetic_metal-organic_framework_MOF_for_efficient_removal_of_organic_dyes_from_water__nature",
+   "title": "Synthesis of magnetic metal-organic framework (MOF) for efficient removal of organic dyes from water",
+   "doi": "10.1038/srep11849",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Much_ado_about_MOFs_metal-organic-frameworks_as_quantum_materials__nature",
+   "title": "Much ado about MOFs: metal-organic-frameworks as quantum materials",
+   "doi": "10.1038/s41535-026-00860-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_Zirconium-based_metal-organic_frameworks_MOFs_for_advanced_nanofiltration_applications_a_minirevi__nature",
+   "title": "Correction: Zirconium-based metal-organic frameworks (MOFs) for advanced nanofiltration applications: a minireview",
+   "doi": "10.1007/s41204-026-00520-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Recent_and_Prospects_of_Synthesis_and_Application_of_Metal-Organic_Frameworks_MOFs_in_Water_Treatment_A_Revi__nature",
+   "title": "Recent and Prospects of Synthesis and Application of Metal-Organic Frameworks (MOFs) in Water Treatment: A Review",
+   "doi": "10.1007/s10904-024-03063-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Experimental_and_theoretical_studies_of_the_efficiency_of_metal_organic_frameworks_MOFs_in_preventing_alumin__nature",
+   "title": "Experimental and theoretical studies of the efficiency of metal–organic frameworks (MOFs) in preventing aluminum corrosion in hydrochloric acid solution",
+   "doi": "10.1186/s13065-024-01121-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Advances_in_metal-organic_frameworks_MOFs_for_nanotheranostics_from_targeted_drug_delivery_to_multimodal_ima__nature",
+   "title": "Advances in metal-organic frameworks (MOFs) for nanotheranostics: from targeted drug delivery to multimodal imaging",
+   "doi": "10.1007/s00604-026-08352-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Evaluation_of_Moringa_oleifera_extract_and_metal-organic_frameworks_MOFs_as_therapeutic_agents_against_chron__nature",
+   "title": "Evaluation of Moringa oleifera extract and metal-organic frameworks (MOFs) as therapeutic agents against chronic Toxoplasma gondii infection in mice",
+   "doi": "10.1038/s41598-026-64672-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Modeling_of_CO2_adsorption_capacity_by_porous_metal_organic_frameworks_using_advanced_decision_tree-based_mo__nature",
+   "title": "Modeling of CO2 adsorption capacity by porous metal organic frameworks using advanced decision tree-based models",
+   "doi": "10.1038/s41598-021-04168-w",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Photochemical_Hydrogen_Production_with_Metal_Organic_Frameworks__nature",
+   "title": "Photochemical Hydrogen Production with Metal–Organic Frameworks",
+   "doi": "10.1007/s11244-016-0690-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "White-box_methodologies_for_achieving_robust_correlations_in_hydrogen_storage_with_metal-organic_frameworks__nature",
+   "title": "White-box methodologies for achieving robust correlations in hydrogen storage with metal-organic frameworks",
+   "doi": "10.1038/s41598-025-87495-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "High-throughput_screening_of_hypothetical_metal-organic_frameworks_for_thermal_conductivity__nature",
+   "title": "High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity",
+   "doi": "10.1038/s41524-022-00961-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Three-dimensional_metal-intercalated_covalent_organic_frameworks_for_near-ambient_energy_storage__nature",
+   "title": "Three-dimensional metal-intercalated covalent organic frameworks for near-ambient energy storage",
+   "doi": "10.1038/srep01882",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Enabling_long-distance_hydrogen_spillover_in_nonreducible_metal-organic_frameworks_for_catalytic_reaction__nature",
+   "title": "Enabling long-distance hydrogen spillover in nonreducible metal-organic frameworks for catalytic reaction",
+   "doi": "10.1038/s41467-024-50706-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Accelerating_the_prediction_of_CO2_capture_at_low_partial_pressures_in_metal-organic_frameworks_using_new_ma__nature",
+   "title": "Accelerating the prediction of CO2 capture at low partial pressures in metal-organic frameworks using new machine learning descriptors",
+   "doi": "10.1038/s42004-023-01009-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Recent_advances_and_future_perspectives_of_metal-organic_frameworks_as_efficient_electrocatalysts_for_CO2_re__nature",
+   "title": "Recent advances and future perspectives of metal-organic frameworks as efficient electrocatalysts for CO2 reduction",
+   "doi": "10.1007/s40843-024-3165-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_The_effect_of_atomic_point_charges_on_adsorption_isotherms_of_CO2_and_water_in_metal_organic_f__nature",
+   "title": "Correction to: The effect of atomic point charges on adsorption isotherms of CO2 and water in metal organic frameworks",
+   "doi": "10.1007/s10450-021-00301-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "CRAFTED_An_exploratory_database_of_simulated_adsorption_isotherms_of_metal-organic_frameworks__nature",
+   "title": "CRAFTED: An exploratory database of simulated adsorption isotherms of metal-organic frameworks",
+   "doi": "10.1038/s41597-023-02116-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "The_effect_of_atomic_point_charges_on_adsorption_isotherms_of_CO2_and_water_in_metal_organic_frameworks__nature",
+   "title": "The effect of atomic point charges on adsorption isotherms of CO2 and water in metal organic frameworks",
+   "doi": "10.1007/s10450-019-00187-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Machine_Learning_Potential_for_Modelling_H2_Adsorption_Diffusion_in_MOF_with_Open_Metal_Sites__arxiv",
+   "title": "Machine Learning Potential for Modelling H2 Adsorption/Diffusion in MOF with Open Metal Sites",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "The_usable_capacity_of_porous_materials_for_hydrogen_storage__nature",
+   "title": "The usable capacity of porous materials for hydrogen storage",
+   "doi": "10.1007/s00339-016-9864-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Mesoporous_carbon_originated_from_non-permanent_porous_MOFs_for_gas_storage_and_CO2_CH4_separation__nature",
+   "title": "Mesoporous carbon originated from non-permanent porous MOFs for gas storage and CO2/CH4 separation",
+   "doi": "10.1038/srep05711",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigation_the_effect_of_exchange_solvents_on_the_adsorption_performances_of_Ce-MOFs_towards_organic_dyes__nature",
+   "title": "Investigation the effect of exchange solvents on the adsorption performances of Ce-MOFs towards organic dyes",
+   "doi": "10.1038/s41598-025-90313-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Simple_equations_rival_ML_in_predicting_hydrogen_storage_in_MOFs__nature",
+   "title": "Simple equations rival ML in predicting hydrogen storage in MOFs",
+   "doi": "10.1557/s43577-026-01130-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Accelerating_discovery_of_MOFs_for_hydrogen_storage_via_machine_learning_in_energy_related_applications__nature",
+   "title": "Accelerating discovery of MOFs for hydrogen storage via machine learning in energy related applications",
+   "doi": "10.1038/s41598-026-44340-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "The_efficacy_and_effectiveness_of_drugs_for_diabetes_how_do_clinical_trials_and_the_real_world_compare__nature",
+   "title": "The efficacy and effectiveness of drugs for diabetes: how do clinical trials and the real world compare?",
+   "doi": "10.1007/s00125-014-3263-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "How_do_radiographers_compare_to_radiologists_when_double_reading_screening_mammograms__nature",
+   "title": "How do radiographers compare to radiologists when double reading screening mammograms",
+   "doi": "10.1186/bcr212",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Quantification_of_hydrogen_bond_energy_based_on_equations_using_spectroscopic_structural_QTAIM-based_and_NBO__nature",
+   "title": "Quantification of hydrogen bond energy based on equations using spectroscopic, structural, QTAIM-based, and NBO-based descriptors which calibrated by the molecular tailoring approach",
+   "doi": "10.1007/s00894-023-05811-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Intercalated_metal_organic_frameworks_with_high_electronic_conductivity_as_negative_electrode_materials_for___nature",
+   "title": "Intercalated metal–organic frameworks with high electronic conductivity as negative electrode materials for hybrid capacitors",
+   "doi": "10.1038/s42004-018-0064-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s42004-018-0064-5"
+  },
+  {
+   "round": 3,
+   "paper_id": "Self-assembly_formation_of_hollow_Ni-Fe-O_nanocage_architectures_by_metal-organic_frameworks_with_high-perfo__nature",
+   "title": "Self-assembly formation of hollow Ni-Fe-O nanocage architectures by metal-organic frameworks with high-performance lithium storage",
+   "doi": "10.1038/srep13310",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Reversible_formation_of_coordination_bonds_in_Sn-based_metal-organic_frameworks_for_high-performance_lithium__nature",
+   "title": "Reversible formation of coordination bonds in Sn-based metal-organic frameworks for high-performance lithium storage",
+   "doi": "10.1038/s41467-021-23335-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Next-generation_metal_organic_frameworks_for_CO2_capture_CH4_utilization_and_H2_integration_toward_a_circula__nature",
+   "title": "Next-generation metal–organic frameworks for CO2 capture, CH4 utilization, and H2 integration: toward a circular and clean energy future",
+   "doi": "10.1007/s44246-026-00268-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Fluorous_Metal-Organic_Frameworks_with_Enhanced_Stability_and_High_H2_CO2_Storage_Capacities__nature",
+   "title": "Fluorous Metal-Organic Frameworks with Enhanced Stability and High H2/CO2 Storage Capacities",
+   "doi": "10.1038/srep03312",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+   "title": "Imaging the node-linker coordination in the bulk and local structures of metal-organic frameworks",
+   "doi": "10.1038/s41467-020-16531-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_frameworks_as_fluorescent_and_colorimetric_sensors_for_antibiotic_tracing__nature",
+   "title": "Metal–organic frameworks as fluorescent and colorimetric sensors for antibiotic tracing",
+   "doi": "10.1007/s44371-025-00282-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+   "title": "Missing-linker metal-organic frameworks for oxygen evolution reaction",
+   "doi": "10.1038/s41467-019-13051-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "High-Efficiency_Aqueous_Zinc-ion_Capacitors_Based_On_Mofs_cofs-derived_Nanomaterials_Challenges_and_Future_P__nature",
+   "title": "High-Efficiency Aqueous Zinc-ion Capacitors Based On Mofs/cofs-derived Nanomaterials: Challenges and Future Prospects",
+   "doi": "10.1007/s12678-025-00997-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_advances_on_metal-organic_frameworks_MOFs_and_their_applications_in_energy_conversion_devices_Compr__openalex",
+   "title": "Recent advances on metal-organic frameworks (MOFs) and their applications in energy conversion devices: Comprehensive review",
+   "doi": "10.1016/j.energy.2024.131127",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal_organic_frameworks_for_wastewater_treatment_renewable_energy_and_circular_economy_contributions__nature",
+   "title": "Metal organic frameworks for wastewater treatment, renewable energy and circular economy contributions",
+   "doi": "10.1038/s41545-024-00408-4",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Fundamental_Perspectives_on_the_Electrochemical_Water_Applications_of_Metal_Organic_Frameworks__nature",
+   "title": "Fundamental Perspectives on the Electrochemical Water Applications of Metal–Organic Frameworks",
+   "doi": "10.1007/s40820-023-01124-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advancements_in_Inkjet_Printing_of_Metal-_and_Covalent-Organic_Frameworks_Process_Design_and_Ink_Optimizat__openalex",
+   "title": "Advancements in Inkjet Printing of Metal- and Covalent-Organic Frameworks: Process Design and Ink Optimization",
+   "doi": "10.1021/acsami.4c15957",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Structural_codes_of_organic_electrode_materials_for_rechargeable_multivalent_metal_batteries__openalex",
+   "title": "Structural codes of organic electrode materials for rechargeable multivalent metal batteries",
+   "doi": "10.1039/d4cs01072h",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_metal_organic_framework-based_hydrogel_materials_preparation_properties_and_applications__openalex",
+   "title": "Advances in metal–organic framework-based hydrogel materials: preparation, properties and applications",
+   "doi": "10.1039/d2ta08841j",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Fluorinated_Covalent_Organic_Frameworks_A_Novel_Pathway_to_Enhance_Hydrogen_Sorption_and_Control_Isosteric__openalex",
+   "title": "Fluorinated Covalent Organic Frameworks: A Novel Pathway to Enhance Hydrogen Sorption and Control Isosteric Heats of Adsorption; HyMARC Seed Project Final Report",
+   "doi": "10.2172/1735636",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Dynamic_two-dimensional_covalent_organic_frameworks__nature",
+   "title": "Dynamic two-dimensional covalent organic frameworks",
+   "doi": "10.1038/s41557-024-01527-8",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Electrokinetics_of_organic-inorganic_composite_materials_for_electrocatalysis_and_energy_storage__nature",
+   "title": "Electrokinetics of organic-inorganic composite materials for electrocatalysis and energy storage",
+   "doi": "10.1007/s40843-025-3994-9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Tailoring_the_features_of_covalent_organic_frameworks__openalex",
+   "title": "Tailoring the features of covalent organic frameworks",
+   "doi": "10.5282/edoc.24428",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Creating_electrochemical_accessibility_in_covalent_organic_frameworks_for_uranium_extraction_via_electrodepo__nature",
+   "title": "Creating electrochemical accessibility in covalent organic frameworks for uranium extraction via electrodeposition",
+   "doi": "10.1038/s41467-025-62501-7",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_metal_organic_framework-based_electrocatalysts_for_electrooxidation_reactions__nature",
+   "title": "Advances in metal–organic framework-based electrocatalysts for electrooxidation reactions",
+   "doi": "10.1007/s44422-025-00006-6",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_potential_application_of_metal_organic_framework_for_environmental_pollution_and_sensing__nature",
+   "title": "Recent potential application of metal organic framework for environmental pollution and sensing",
+   "doi": "10.1007/s44371-026-00720-7",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Dynamic_covalent_organic_frameworks__openalex",
+   "title": "Dynamic covalent organic frameworks",
+   "doi": "10.1039/d5sc06974b",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Multifunctionality_of_vacancy-induced_boron_nitride_monolayers_for_metal-ion_battery_and_hydrogen-storage___openalex",
+   "title": "Multifunctionality of vacancy-induced boron nitride monolayers for metal-ion battery and hydrogen-storage applications",
+   "doi": "10.1016/j.apsusc.2024.162025",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Innovations_in_hydrogen_storage_materials_Synthesis_applications_and_prospects__openalex",
+   "title": "Innovations in hydrogen storage materials: Synthesis, applications, and prospects",
+   "doi": "10.1016/j.est.2024.112376",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "From_Fundamental_Understanding_To_Predicting_New_Nanomaterials_For_High_Capacity_Hydrogen_Methane_Storage___openalex",
+   "title": "From Fundamental Understanding To Predicting New Nanomaterials For High Capacity Hydrogen/Methane Storage and Carbon Capture",
+   "doi": "10.2172/1171662",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Covalent_Organic_Framework_COFs_in_Targeted_Drug_Delivery_and_Therapeutics_A_Critical_Review__openalex",
+   "title": "Covalent Organic Framework (COFs) in Targeted Drug Delivery and Therapeutics: A Critical Review",
+   "doi": "10.56425/cma.v5i1.130",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Design_Concept_of_Metal_Sulfide_Photocatalyst_for_Efficient_Photocatalytic_Hydrogen_Evolution__nature",
+   "title": "Design Concept of Metal Sulfide Photocatalyst for Efficient Photocatalytic Hydrogen Evolution",
+   "doi": "10.1007/s40820-026-02111-0",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Review_of_d-band_electron_modulation_in_transition_metals_for_water_electrolysis__nature",
+   "title": "Review of d-band electron modulation in transition metals for water electrolysis",
+   "doi": "10.1007/s44373-025-00073-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Review_of_Multifunctional_Separators_Stabilizing_the_Cathode_and_the_Anode_for_Alkali_Li_Na_and_K_Metal_Su__openalex",
+   "title": "Review of Multifunctional Separators: Stabilizing the Cathode and the Anode for Alkali (Li, Na, and K) Metal–Sulfur and Selenium Batteries",
+   "doi": "10.1021/acs.chemrev.1c00838",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Programming_ionic_covalent_organic_framework_solid-state_electrolytes_for_rechargeable_batteries_From_2D_t__openalex",
+   "title": "Programming ionic covalent organic framework solid-state electrolytes for rechargeable batteries: From 2D to 3D",
+   "doi": "10.26599/nr.2026.94908567",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advancements_in_employing_two-dimensional_nanomaterials_for_enhancing_skin_wound_healing_a_review_of_current__nature",
+   "title": "Advancements in employing two-dimensional nanomaterials for enhancing skin wound healing: a review of current practice",
+   "doi": "10.1186/s12951-024-02803-y",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Mechanochemically_Engineered_Functional_Materials_Advancing_Photocatalysis_for_Sustainable_Fuels__openalex",
+   "title": "Mechanochemically Engineered Functional Materials: Advancing Photocatalysis for Sustainable Fuels",
+   "doi": "10.1002/adfm.202506860",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_nanomaterials_for_energy_and_sensing_applications_from_fundamentals_to_device__nature",
+   "title": "Advances in nanomaterials for energy and sensing applications: from fundamentals to device",
+   "doi": "10.1007/s44291-026-00165-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Innovative_COF_MXene_composites_for_high_performance_energy_applications__nature",
+   "title": "Innovative COF@MXene composites for high performance energy applications",
+   "doi": "10.1007/s43979-024-00110-x",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "MOF-based_nanocomposites_in_polymer_matrix_progress_and_prospects__nature",
+   "title": "MOF-based nanocomposites in polymer matrix: progress and prospects",
+   "doi": "10.1007/s42114-025-01435-6",
+   "source": "openalex",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "ABC_Spotlight_on_metal-organic_frameworks_MOFs__nature",
+  "A_computational_study_of_metal_organic_frameworks_MOFs_as_potential_nanostructures_to_combat_SARS-CoV-2__nature",
+  "A_market_for_metal_organic_frameworks__nature",
+  "A_systematic_review_on_life_cycle_assessment_LCA_of_metal-organic_frameworks_MOFs_and_MXenes__nature",
+  "Accelerating_discovery_of_MOFs_for_hydrogen_storage_via_machine_learning_in_energy_related_applications__nature",
+  "Accelerating_the_prediction_of_CO2_capture_at_low_partial_pressures_in_metal-organic_frameworks_using_new_ma__nature",
+  "Advanced_metal_organic_framework_materials_for_efficient_CO2_CH4_separation_using_pressure_swing_adsorption___nature",
+  "Advancements_in_Inkjet_Printing_of_Metal-_and_Covalent-Organic_Frameworks_Process_Design_and_Ink_Optimizat__openalex",
+  "Advancements_in_employing_two-dimensional_nanomaterials_for_enhancing_skin_wound_healing_a_review_of_current__nature",
+  "Advances_in_metal-organic_frameworks_MOFs_for_nanotheranostics_from_targeted_drug_delivery_to_multimodal_ima__nature",
+  "Advances_in_metal_organic_framework-based_electrocatalysts_for_electrooxidation_reactions__nature",
+  "Advances_in_metal_organic_framework-based_hydrogel_materials_preparation_properties_and_applications__openalex",
+  "Advances_in_nanomaterials_for_energy_and_sensing_applications_from_fundamentals_to_device__nature",
+  "Application_of_covalent_organic_frameworks_and_metal_organic_frameworks_nanomaterials_in_organic_inorganic_p__nature",
+  "Architectural_design_of_2D_covalent_organic_frameworks_COFs_for_pharmaceutical_pollutant_removal__nature",
+  "Bringing_metal-organic_frameworks_to_commercialization__nature",
+  "CRAFTED_An_exploratory_database_of_simulated_adsorption_isotherms_of_metal-organic_frameworks__nature",
+  "Correction_MOFGalaxyNet_a_social_network_analysis_for_predicting_guest_accessibility_in_metal_organic_framew__nature",
+  "Correction_Zirconium-based_metal-organic_frameworks_MOFs_for_advanced_nanofiltration_applications_a_minirevi__nature",
+  "Correction_to_Recent_advances_in_the_design_of_metal_organic_frameworks_for_methane_storage_and_delivery__nature",
+  "Correction_to_Structural_similarity_synthesis_and_adsorption_properties_of_aluminum-based_metal-organic_fram__nature",
+  "Correction_to_The_effect_of_atomic_point_charges_on_adsorption_isotherms_of_CO2_and_water_in_metal_organic_f__nature",
+  "Covalent_Organic_Framework_COFs_in_Targeted_Drug_Delivery_and_Therapeutics_A_Critical_Review__openalex",
+  "Creating_electrochemical_accessibility_in_covalent_organic_frameworks_for_uranium_extraction_via_electrodepo__nature",
+  "Crystalline_porous_materials_from_zeolites_to_metal-organic_frameworks_MOFs__nature",
+  "Design_Concept_of_Metal_Sulfide_Photocatalyst_for_Efficient_Photocatalytic_Hydrogen_Evolution__nature",
+  "Dynamic_bond-driven_encapsulation_of_enzymes_in_metal_organic_frameworks_beyond_pore_size_constraints__nature",
+  "Dynamic_covalent_organic_frameworks__openalex",
+  "Dynamic_two-dimensional_covalent_organic_frameworks__nature",
+  "Electrodeposition_of_porous_metal-organic_frameworks_for_efficient_charge_storage__nature",
+  "Electrokinetics_of_organic-inorganic_composite_materials_for_electrocatalysis_and_energy_storage__nature",
+  "Enabling_long-distance_hydrogen_spillover_in_nonreducible_metal-organic_frameworks_for_catalytic_reaction__nature",
+  "Engineered_Metal-Organic_Frameworks_MOFs_-electrospun_nanofibers_for_wound_healing_a_review__nature",
+  "Evaluation_of_Moringa_oleifera_extract_and_metal-organic_frameworks_MOFs_as_therapeutic_agents_against_chron__nature",
+  "Excavating_hidden_adsorption_sites_in_metal-organic_frameworks_using_rational_defect_engineering__nature",
+  "Exceptional_hydrogen_storage_achieved_by_screening_nearly_half_a_million_metal-organic_frameworks__nature",
+  "Experimental_and_theoretical_studies_of_the_efficiency_of_metal_organic_frameworks_MOFs_in_preventing_alumin__nature",
+  "Fenton-like_Cerium_Metal_Organic_Frameworks_Ce-MOFs_for_Catalytic_Oxidation_of_Olefins_Alcohol_and_Dyes_Degr__nature",
+  "Fine_pore_engineering_in_a_series_of_isoreticular_metal-organic_frameworks_for_efficient_C2H2_CO2_separation__nature",
+  "Fluorinated_Covalent_Organic_Frameworks_A_Novel_Pathway_to_Enhance_Hydrogen_Sorption_and_Control_Isosteric__openalex",
+  "Fluorine-functionalized_metal_organic_frameworks_and_porous_coordination_polymers__nature",
+  "Fluorous_Metal-Organic_Frameworks_with_Enhanced_Stability_and_High_H2_CO2_Storage_Capacities__nature",
+  "From_Fundamental_Understanding_To_Predicting_New_Nanomaterials_For_High_Capacity_Hydrogen_Methane_Storage___openalex",
+  "Fundamental_Perspectives_on_the_Electrochemical_Water_Applications_of_Metal_Organic_Frameworks__nature",
+  "Heterogeneous_intercalated_metal-organic_framework_active_materials_for_fast-charging_non-aqueous_Li-ion_cap__nature",
+  "High-Efficiency_Aqueous_Zinc-ion_Capacitors_Based_On_Mofs_cofs-derived_Nanomaterials_Challenges_and_Future_P__nature",
+  "High-throughput_screening_of_hypothetical_metal-organic_frameworks_for_thermal_conductivity__nature",
+  "How_do_radiographers_compare_to_radiologists_when_double_reading_screening_mammograms__nature",
+  "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+  "Impact_of_pressure_equalization_direction_on_product_purity_in_Pressure_Swing_Adsorption_PSA_process__nature",
+  "Innovations_in_hydrogen_storage_materials_Synthesis_applications_and_prospects__openalex",
+  "Innovative_COF_MXene_composites_for_high_performance_energy_applications__nature",
+  "Intercalated_metal_organic_frameworks_with_high_electronic_conductivity_as_negative_electrode_materials_for___nature",
+  "Inverse_design_of_metal-organic_frameworks_using_deep_dreaming_approaches__nature",
+  "Inverse_design_of_metal_organic_frameworks_for_C2H4_C2H6_separation__nature",
+  "Investigation_the_effect_of_exchange_solvents_on_the_adsorption_performances_of_Ce-MOFs_towards_organic_dyes__nature",
+  "Isoreticular_moir_metal-organic_frameworks_with_quasiperiodicity__nature",
+  "MOF-based_nanocomposites_in_polymer_matrix_progress_and_prospects__nature",
+  "MOF_the_beaten_track_unusual_structures_and_uncommon_applications_of_metal_organic_frameworks__nature",
+  "Machine_Learning_Potential_for_Modelling_H2_Adsorption_Diffusion_in_MOF_with_Open_Metal_Sites__arxiv",
+  "Machine_learning_approaches_for_predicting_arsenic_adsorption_from_water_using_porous_metal_organic_framewor__nature",
+  "Machine_learning_improves_metal_organic_frameworks_design_and_discovery__nature",
+  "Mechanochemically_Engineered_Functional_Materials_Advancing_Photocatalysis_for_Sustainable_Fuels__openalex",
+  "Mesoporous_carbon_originated_from_non-permanent_porous_MOFs_for_gas_storage_and_CO2_CH4_separation__nature",
+  "Metal-organic_frameworks_with_linear_and_branched_polyol_backbones_for_dye_removal__nature",
+  "Metal_organic_frameworks_A_dielectric_in_a_cage__nature",
+  "Metal_organic_frameworks_as_fluorescent_and_colorimetric_sensors_for_antibiotic_tracing__nature",
+  "Metal_organic_frameworks_for_the_future__nature",
+  "Metal_organic_frameworks_for_wastewater_treatment_renewable_energy_and_circular_economy_contributions__nature",
+  "Microbial_reduction_of_metal-organic_frameworks_enables_synergistic_chromium_removal__nature",
+  "Microplastics_removal_from_aqueous_environment_by_metal_organic_frameworks__nature",
+  "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+  "Modeling_of_CO2_adsorption_capacity_by_porous_metal_organic_frameworks_using_advanced_decision_tree-based_mo__nature",
+  "Much_ado_about_MOFs_metal-organic-frameworks_as_quantum_materials__nature",
+  "Multifunctionality_of_vacancy-induced_boron_nitride_monolayers_for_metal-ion_battery_and_hydrogen-storage___openalex",
+  "Nano-Porous_Composites_of_Activated_Carbon_Metal_Organic_Frameworks_Fe-BDC_AC_for_Rapid_Removal_of_Cr_VI_Syn__nature",
+  "Next-generation_metal_organic_frameworks_for_CO2_capture_CH4_utilization_and_H2_integration_toward_a_circula__nature",
+  "Oxygen_separation_from_air_by_the_combined_temperature_swing_and_pressure_swing_processes_using_oxygen_stora__nature",
+  "Photochemical_Hydrogen_Production_with_Metal_Organic_Frameworks__nature",
+  "Photoisomerization-mediated_tunable_pore_size_in_metal_organic_frameworks_for_U_VI_V_V_selective_separation__nature",
+  "Pitfalls_in_the_location_of_guest_molecules_in_metal-organic_frameworks__nature",
+  "Porous_isoreticular_non-metal_organic_frameworks__nature",
+  "Porous_molybdenum_carbide_nano-octahedrons_synthesized_via_confined_carburization_in_metal-organic_framework__nature",
+  "Precise_size-matching_between_guest_polyoxometalates_and_host_metal-organic_frameworks_enables_enhanced_phot__nature",
+  "Preface_Special_topic_on_Metal-organic_frameworks_MOFs__nature",
+  "Programming_ionic_covalent_organic_framework_solid-state_electrolytes_for_rechargeable_batteries_From_2D_t__openalex",
+  "Quantification_of_hydrogen_bond_energy_based_on_equations_using_spectroscopic_structural_QTAIM-based_and_NBO__nature",
+  "Recent_advances_and_future_perspectives_of_metal-organic_frameworks_as_efficient_electrocatalysts_for_CO2_re__nature",
+  "Recent_advances_on_metal-organic_frameworks_MOFs_and_their_applications_in_energy_conversion_devices_Compr__openalex",
+  "Recent_and_Prospects_of_Synthesis_and_Application_of_Metal-Organic_Frameworks_MOFs_in_Water_Treatment_A_Revi__nature",
+  "Recent_potential_application_of_metal_organic_framework_for_environmental_pollution_and_sensing__nature",
+  "Reply_to_Pitfalls_in_the_location_of_guest_molecules_in_metal-organic_frameworks__nature",
+  "Reversible_formation_of_coordination_bonds_in_Sn-based_metal-organic_frameworks_for_high-performance_lithium__nature",
+  "Review_of_Multifunctional_Separators_Stabilizing_the_Cathode_and_the_Anode_for_Alkali_Li_Na_and_K_Metal_Su__openalex",
+  "Review_of_d-band_electron_modulation_in_transition_metals_for_water_electrolysis__nature",
+  "Rising_profile_on_the_use_of_metal_organic_frameworks_MOFs_for_the_removal_of_heavy_metals_from_the_environm__nature",
+  "Selective_anion_exchange_with_nanogated_isoreticular_positive_metal-organic_frameworks__nature",
+  "Self-assembly_formation_of_hollow_Ni-Fe-O_nanocage_architectures_by_metal-organic_frameworks_with_high-perfo__nature",
+  "Simple_equations_rival_ML_in_predicting_hydrogen_storage_in_MOFs__nature",
+  "Spatial_distribution_modulation_of_mixed_building_blocks_in_metal-organic_frameworks__nature",
+  "Structural_codes_of_organic_electrode_materials_for_rechargeable_multivalent_metal_batteries__openalex",
+  "Synthesis_of_magnetic_metal-organic_framework_MOF_for_efficient_removal_of_organic_dyes_from_water__nature",
+  "Synthesis_of_metal_organic_frameworks_MOFs_MIL-100_Fe_functionalized_with_thioglycolic_acid_and_ethylenediam__nature",
+  "Tailoring_the_features_of_covalent_organic_frameworks__openalex",
+  "The_effect_of_atomic_point_charges_on_adsorption_isotherms_of_CO2_and_water_in_metal_organic_frameworks__nature",
+  "The_efficacy_and_effectiveness_of_drugs_for_diabetes_how_do_clinical_trials_and_the_real_world_compare__nature",
+  "The_usable_capacity_of_porous_materials_for_hydrogen_storage__nature",
+  "Three-dimensional_metal-intercalated_covalent_organic_frameworks_for_near-ambient_energy_storage__nature",
+  "Tunable_Two-color_Luminescence_and_Host_guest_Energy_Transfer_of_Fluorescent_Chromophores_Encapsulated_in_Me__nature",
+  "Tuning_porosity_in_macroscopic_monolithic_metal-organic_frameworks_for_exceptional_natural_gas_storage__nature",
+  "Van_der_Waals_density_functional_study_of_hydrocarbon_adsorption_and_separation_in_metal_organic_frameworks___nature",
+  "White-box_methodologies_for_achieving_robust_correlations_in_hydrogen_storage_with_metal-organic_frameworks__nature"
+ ],
+ "run_config": {
+  "created": "2026-10-06T08:33:13",
+  "code": {
+   "sha256": "90b65fc6343a1e66a7900b7ec947a5c868cd898b7a550c126e1a66a53796d3ae",
+   "n_files": 82
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/MOF_01",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "MOF",
+   "last_tier": "Metal-organic frameworks (MOFs)",
+   "target_run_id": "01",
+   "seed_dir": "<repo>/seeds/seed_chem/MOF_01",
+   "output_root": "results/e2e/e2e_v3/r5/chem/MOF_01",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 2,
+   "paper_id": "Advanced_metal_organic_framework_materials_for_efficient_CO2_CH4_separation_using_pressure_swing_adsorption___nature",
+   "title": "Advanced metal–organic framework materials for efficient CO2/CH4 separation using pressure swing adsorption – numerical study",
+   "doi": "10.1007/s10450-026-00672-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10450-026-00672-5",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Architectural_design_of_2D_covalent_organic_frameworks_COFs_for_pharmaceutical_pollutant_removal__nature",
+   "title": "Architectural design of 2D covalent organic frameworks (COFs) for pharmaceutical pollutant removal",
+   "doi": "10.1038/s41545-024-00315-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41545-024-00315-8",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Correction_to_Recent_advances_in_the_design_of_metal_organic_frameworks_for_methane_storage_and_delivery__nature",
+   "title": "Correction to: Recent advances in the design of metal–organic frameworks for methane storage and delivery",
+   "doi": "10.1007/s10934-022-01210-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10934-022-01210-8",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Dynamic_bond-driven_encapsulation_of_enzymes_in_metal_organic_frameworks_beyond_pore_size_constraints__nature",
+   "title": "Dynamic bond-driven encapsulation of enzymes in metal–organic frameworks beyond pore size constraints",
+   "doi": "10.1038/s41467-026-70249-x",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-026-70249-x",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Excavating_hidden_adsorption_sites_in_metal-organic_frameworks_using_rational_defect_engineering__nature",
+   "title": "Excavating hidden adsorption sites in metal-organic frameworks using rational defect engineering",
+   "doi": "10.1038/s41467-017-01478-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-017-01478-4",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Fine_pore_engineering_in_a_series_of_isoreticular_metal-organic_frameworks_for_efficient_C2H2_CO2_separation__nature",
+   "title": "Fine pore engineering in a series of isoreticular metal-organic frameworks for efficient C2H2/CO2 separation",
+   "doi": "10.1038/s41467-021-27929-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-021-27929-7",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Heterogeneous_intercalated_metal-organic_framework_active_materials_for_fast-charging_non-aqueous_Li-ion_cap__nature",
+   "title": "Heterogeneous intercalated metal-organic framework active materials for fast-charging non-aqueous Li-ion capacitors",
+   "doi": "10.1038/s41467-023-37120-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-023-37120-9",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Impact_of_pressure_equalization_direction_on_product_purity_in_Pressure_Swing_Adsorption_PSA_process__nature",
+   "title": "Impact of pressure equalization direction on product purity in Pressure Swing Adsorption (PSA) process",
+   "doi": "10.1007/s10450-026-00702-2",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10450-026-00702-2",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Oxygen_separation_from_air_by_the_combined_temperature_swing_and_pressure_swing_processes_using_oxygen_stora__nature",
+   "title": "Oxygen separation from air by the combined temperature swing and pressure swing processes using oxygen storage materials Y1−x(Tb/Ce)xMnO3+δ",
+   "doi": "10.1007/s10853-020-05158-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10853-020-05158-5",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Pitfalls_in_the_location_of_guest_molecules_in_metal-organic_frameworks__nature",
+   "title": "Pitfalls in the location of guest molecules in metal-organic frameworks",
+   "doi": "10.1038/s41467-022-32890-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-022-32890-0",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Selective_anion_exchange_with_nanogated_isoreticular_positive_metal-organic_frameworks__nature",
+   "title": "Selective anion exchange with nanogated isoreticular positive metal-organic frameworks",
+   "doi": "10.1038/ncomms3344",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/ncomms3344",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Spatial_distribution_modulation_of_mixed_building_blocks_in_metal-organic_frameworks__nature",
+   "title": "Spatial distribution modulation of mixed building blocks in metal-organic frameworks",
+   "doi": "10.1038/s41467-022-28679-w",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-022-28679-w",
+   "metadata_found": true
+  }
+ ],
+ "role": "cross-run history for the reuse replay (memexp38 REUSEC) and the r10 live run; not an evaluation corpus"
+}

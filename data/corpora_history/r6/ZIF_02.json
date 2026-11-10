@@ -1,0 +1,489 @@
+{
+ "batch": "r6",
+ "run": "ZIF_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+   "title": "Magnetic Nanoparticles Encapsulated Zeolitic Imidazolate Frameworks: A New Delivery System for Crocin",
+   "doi": "10.1007/s10876-023-02526-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10876-023-02526-4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+   "title": "Effect of Solvent Assisted Linker Exchange (SALE) and De Novo Synthetic Routes on CO2 Uptake and Fixation by Mixed-Linker Zeolitic Imidazolate Frameworks",
+   "doi": "10.1007/s10904-023-02653-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10904-023-02653-5"
+  },
+  {
+   "round": 1,
+   "paper_id": "Sustainable_preparation_of_zeolitic_imidazolate_framework_cellulose_TiO2_nanopolymer_from_Sesame_wastes_for___nature",
+   "title": "Sustainable preparation of zeolitic imidazolate framework/cellulose/TiO2 nanopolymer from Sesame wastes for photocatalytic degradation of ciprofloxacin",
+   "doi": "10.1007/s13201-026-02835-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "In_vitro_antitumor_efficacy_of_hyaluronic_acid_coating_for_curcumin-loaded_zeolitic_imidazole_frameworks-8_Z__nature",
+   "title": "In vitro antitumor efficacy of hyaluronic acid coating for curcumin-loaded zeolitic imidazole frameworks-8 (ZIF-8) versus that of uncoated curcumin-loaded ZIF-8 nanocomposites",
+   "doi": "10.1038/s41598-026-48707-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Modular_synthetic_lipopeptide_vaccine__nature",
+   "title": "Modular synthetic lipopeptide vaccine",
+   "doi": "10.1038/scibx.2011.324",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_saponins__nature",
+   "title": "Synthetic saponins",
+   "doi": "10.1038/scibx.2010.173",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_homogenous_erythropoietin_EPO__nature",
+   "title": "Synthetic, homogenous erythropoietin (EPO)",
+   "doi": "10.1038/scibx.2014.67",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_platform_for_tetracycline_analogs__nature",
+   "title": "Synthetic platform for tetracycline analogs",
+   "doi": "10.1038/scibx.2011.234",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_influenza_seeds__nature",
+   "title": "Synthetic influenza seeds",
+   "doi": "10.1038/scibx.2013.509",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_attenuated_virus_engineering_SAVE__nature",
+   "title": "Synthetic attenuated virus engineering (SAVE)",
+   "doi": "10.1038/scibx.2008.588",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_matrix-based_cancer_vaccine_delivery__nature",
+   "title": "Synthetic matrix-based cancer vaccine delivery",
+   "doi": "10.1038/scibx.2009.1780",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_dual-action_vaccines__nature",
+   "title": "Synthetic dual-action vaccines",
+   "doi": "10.1038/scibx.2008.817",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_universal_reversal_agent_for_heparin_anticoagulants__nature",
+   "title": "Synthetic, universal reversal agent for heparin anticoagulants",
+   "doi": "10.1038/scibx.2014.1332",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Paper-based_diagnostics_using_synthetic_gene_networks__nature",
+   "title": "Paper-based diagnostics using synthetic gene networks",
+   "doi": "10.1038/scibx.2014.1327",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_phosphatidylinositol_mannoside_PIM_glycans_as_vaccine_adjuvants__nature",
+   "title": "Synthetic phosphatidylinositol mannoside (PIM) glycans as vaccine adjuvants",
+   "doi": "10.1038/scibx.2009.36",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Identification_of_synthetic_peptides_supporting_pluripotent_cell_growth__nature",
+   "title": "Identification of synthetic peptides supporting pluripotent cell growth",
+   "doi": "10.1038/scibx.2010.130",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_-galactosylceramide_-GalCer_-based_vaccine_adjuvant__nature",
+   "title": "Synthetic, α-galactosylceramide (α-GalCer)-based vaccine adjuvant",
+   "doi": "10.1038/scibx.2010.841",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Atom-by-Atom_Synthesis_of_Multiatom-Supported_Catalytic_Clusters_by_Liquid-Phase_Atomic_Layer_Deposition__epfl",
+   "title": "Atom-by-Atom Synthesis of Multiatom-Supported Catalytic Clusters by Liquid-Phase Atomic Layer Deposition",
+   "doi": "10.1021/acssuschemeng.1c07056",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+   "title": "Cobalt/Copper Doped Bimetallic Zeolitic Imidazolate Frameworks as Peroxymonosulfate Activators for the Removal of Veterinary Antibiotics: Response Surface Modeling and Optimization of Reaction Parameters",
+   "doi": "10.1007/s13369-025-10392-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Solvent-free bottom-up patterning of zeolitic imidazolate frameworks",
+   "doi": "10.1038/s41467-022-28050-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+   "title": "Reduced electron/hole recombination in Z-scheme nanostructure of zeolitic imidazolate framework-11/graphitic carbon nitride as photocatalyst under visible light",
+   "doi": "10.1038/s41598-023-49315-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+   "title": "Enhanced peroxymonosulfate activation for tetracycline removal using magnesium–aluminum layered double hydroxide/zeolitic imidazolate framework-8 nanocomposite",
+   "doi": "10.1038/s41598-026-49645-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Construction_of_hierarchically_porous_metal_organic_frameworks_through_linker_labilization__nature",
+   "title": "Construction of hierarchically porous metal–organic frameworks through linker labilization",
+   "doi": "10.1038/ncomms15356",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+   "title": "Influence of the 2-methylimidazole/zinc nitrate hexahydrate molar ratio on the synthesis of zeolitic imidazolate framework-8 crystals at room temperature",
+   "doi": "10.1038/s41598-018-28015-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Designing_of_robust_and_sensitive_assay_via_encapsulation_of_highly_emissive_and_stable_blue_copper_nanoclus__nature",
+   "title": "Designing of robust and sensitive assay via encapsulation of highly emissive and stable blue copper nanocluster into zeolitic imidazole framework (ZIF-8) with quantitative detection of tetracycline",
+   "doi": "10.1186/s40543-022-00333-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Remote_substituent_effects_on_catalytic_activity_of_metal-organic_frameworks_a_linker_orbital_energy_model__nature",
+   "title": "Remote substituent effects on catalytic activity of metal-organic frameworks: a linker orbital energy model",
+   "doi": "10.1038/s41524-023-01008-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+   "title": "Missing-linker metal-organic frameworks for oxygen evolution reaction",
+   "doi": "10.1038/s41467-019-13051-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Human_activity-induced_vibration_in_slender_structural_systems__edu",
+   "title": "Human activity-induced vibration in slender structural systems",
+   "doi": "10.2749/101686612x13291382991164",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Linker_call_graph_with_full_Dotty_support__epfl",
+   "title": "Linker call graph with full Dotty support",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Mixed-linker_strategy_for_suppressing_structural_flexibility_of_metal-organic_framework_membranes_for_gas_se__nature",
+   "title": "Mixed-linker strategy for suppressing structural flexibility of metal-organic framework membranes for gas separation",
+   "doi": "10.1038/s42004-023-00917-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Active_inclusion_bodies_of_acid_phosphatase_PhoC_aggregation_induced_by_GFP_fusion_and_activities_modulated___nature",
+   "title": "Active inclusion bodies of acid phosphatase PhoC: aggregation induced by GFP fusion and activities modulated by linker flexibility",
+   "doi": "10.1186/1475-2859-12-25",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Linker_length_and_composition_influence_the_flexibility_of_Oct_1_DNA_binding__nature",
+   "title": "Linker length and composition influence the flexibility of Oct‐1 DNA binding",
+   "doi": "10.1093/emboj/16.8.2043",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Lanthanide_Coordination_Polymers_of_Tricarboxylic_Acid_Functionalized_1_2_3-triazole_based_Lin__nature",
+   "title": "Correction to: Lanthanide Coordination Polymers of Tricarboxylic Acid Functionalized 1,2,3-triazole based Linker (Ln trz CPs) for Electrochemical Detection of Dopamine and Epinephrine",
+   "doi": "10.1007/s12678-026-01057-6",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Lanthanide_Coordination_Polymers_of_Tricarboxylic_Acid_Functionalized_1_2_3-triazole_based_Linker_Ln_trz_CPs__nature",
+   "title": "Lanthanide Coordination Polymers of Tricarboxylic Acid Functionalized 1,2,3-triazole based Linker (Ln trz CPs) for Electrochemical Detection of Dopamine and Epinephrine",
+   "doi": "10.1007/s12678-026-01044-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+   "title": "Correction to: Dual-acting cellulose nanocomposites filled with carbon nanotubes and zeolitic imidazolate framework-67 (ZIF-67)–derived polyhedral porous Co3O4 for symmetric supercapacitors",
+   "doi": "10.1007/s42114-021-00328-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s42114-021-00328-8"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+   "title": "Investigation of synthesis methods of ZIF-8 membranes for CO2/CH4 separation",
+   "doi": null,
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Visualization_of_gaseous_iodine_adsorption_on_single_zeolitic_imidazolate_framework-90_particles__nature",
+   "title": "Visualization of gaseous iodine adsorption on single zeolitic imidazolate framework-90 particles",
+   "doi": "10.1038/s41467-021-24830-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Zeolitic_imidazolium_framework_ZIF-8_and_their_derivative-based_material_for_antibacterial_study_a_comprehen__nature",
+   "title": "Zeolitic imidazolium framework (ZIF-8) and their derivative-based material for antibacterial study: a comprehensive review",
+   "doi": "10.1007/s43939-025-00229-3",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_and_optimization_nanocomposite_catalyst_based_on_silver_Zeolite_imidazolite_frameworks_67_Ag_ZIF-6__nature",
+   "title": "Synthesis and optimization nanocomposite catalyst based on silver@Zeolite imidazolite frameworks − 67 (Ag@ZIF-67) and catalytic application for ethyl benzene vapor removal in air matrices",
+   "doi": "10.1038/s41598-025-26391-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_of_GQD_ZIF-8_nano_hybrids_and_its_application_as_a_lead_optical_sensor__ac",
+   "title": "Synthesis of GQD@ZIF-8 nano hybrids and its application as a lead optical sensor",
+   "doi": "10.22075/chem.2019.18395.1690",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Hydrogenation_of_pyrolysis_gasoline_by_novel_Ni-doped_MOF_derived_catalysts_from_ZIF-8_and_ZIF-67__nature",
+   "title": "Hydrogenation of pyrolysis gasoline by novel Ni-doped MOF derived catalysts from ZIF-8 and ZIF-67",
+   "doi": "10.1038/s41598-022-24071-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Nanostructured_hybrid_ZnO_thin_films_for_energy_conversion__nature",
+   "title": "Nanostructured hybrid ZnO thin films for energy conversion",
+   "doi": "10.1186/1556-276x-6-384",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigation_of_the_effects_of_coating_numbers_of_thin_films_and_metal_contact_type_on_physical_properties___nature",
+   "title": "Investigation of the effects of coating numbers of thin films and metal contact type on physical properties of undoped ZnO, Fe-doped ZnO, and Fe–B co-doped ZnO thin films",
+   "doi": "10.1007/s10854-024-12817-9",
+   "source": "crossref",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "Active_inclusion_bodies_of_acid_phosphatase_PhoC_aggregation_induced_by_GFP_fusion_and_activities_modulated___nature",
+  "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+  "Construction_of_hierarchically_porous_metal_organic_frameworks_through_linker_labilization__nature",
+  "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+  "Correction_to_Lanthanide_Coordination_Polymers_of_Tricarboxylic_Acid_Functionalized_1_2_3-triazole_based_Lin__nature",
+  "Designing_of_robust_and_sensitive_assay_via_encapsulation_of_highly_emissive_and_stable_blue_copper_nanoclus__nature",
+  "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+  "Human_activity-induced_vibration_in_slender_structural_systems__edu",
+  "Hydrogenation_of_pyrolysis_gasoline_by_novel_Ni-doped_MOF_derived_catalysts_from_ZIF-8_and_ZIF-67__nature",
+  "Identification_of_replication-dependent_and_replication-independent_linker_histone_complexes_Tpr_specificall__nature",
+  "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+  "Influence_of_the_2-methylimidazole_zinc_nitrate_hexahydrate_molar_ratio_on_the_synthesis_of_zeolitic_imidazo__nature",
+  "Investigation_of_synthesis_methods_of_ZIF-8_membranes_for_CO2_CH4_separation__ac",
+  "Investigation_of_the_effects_of_coating_numbers_of_thin_films_and_metal_contact_type_on_physical_properties___nature",
+  "Lanthanide_Coordination_Polymers_of_Tricarboxylic_Acid_Functionalized_1_2_3-triazole_based_Linker_Ln_trz_CPs__nature",
+  "Linker_call_graph_with_full_Dotty_support__epfl",
+  "Linker_length_and_composition_influence_the_flexibility_of_Oct_1_DNA_binding__nature",
+  "Missing-linker_metal-organic_frameworks_for_oxygen_evolution_reaction__nature",
+  "Mixed-linker_strategy_for_suppressing_structural_flexibility_of_metal-organic_framework_membranes_for_gas_se__nature",
+  "Nanostructured_hybrid_ZnO_thin_films_for_energy_conversion__nature",
+  "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+  "Remote_substituent_effects_on_catalytic_activity_of_metal-organic_frameworks_a_linker_orbital_energy_model__nature",
+  "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+  "Synthesis_and_optimization_nanocomposite_catalyst_based_on_silver_Zeolite_imidazolite_frameworks_67_Ag_ZIF-6__nature",
+  "Synthesis_of_GQD_ZIF-8_nano_hybrids_and_its_application_as_a_lead_optical_sensor__ac",
+  "Visualization_of_gaseous_iodine_adsorption_on_single_zeolitic_imidazolate_framework-90_particles__nature",
+  "Zeolitic_imidazolium_framework_ZIF-8_and_their_derivative-based_material_for_antibacterial_study_a_comprehen__nature"
+ ],
+ "run_config": {
+  "created": "2026-10-06T08:33:12",
+  "code": {
+   "sha256": "90b65fc6343a1e66a7900b7ec947a5c868cd898b7a550c126e1a66a53796d3ae",
+   "n_files": 82
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_02",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "ZIF",
+   "last_tier": "Zeolitic imidazolate frameworks (ZIFs)",
+   "target_run_id": "02",
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_02",
+   "output_root": "results/e2e/e2e_v3/r6/chem/ZIF_02",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 2,
+   "paper_id": "Identification_of_replication-dependent_and_replication-independent_linker_histone_complexes_Tpr_specificall__nature",
+   "title": "Identification of replication-dependent and replication-independent linker histone complexes: Tpr specifically promotes replication-dependent linker histone stability",
+   "doi": "10.1186/s12858-016-0074-9",
+   "source": "crossref",
+   "url": "https://doi.org/10.1186/s12858-016-0074-9",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Imaging_the_node-linker_coordination_in_the_bulk_and_local_structures_of_metal-organic_frameworks__nature",
+   "title": "Imaging the node-linker coordination in the bulk and local structures of metal-organic frameworks",
+   "doi": "10.1038/s41467-020-16531-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-020-16531-y",
+   "metadata_found": true
+  }
+ ],
+ "role": "cross-run history for the reuse replay (memexp38 REUSEC) and the r10 live run; not an evaluation corpus"
+}

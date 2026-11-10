@@ -1,0 +1,1465 @@
+{
+ "batch": "dev",
+ "run": "tau_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "The_wake-_and_sleep-modulating_neurons_of_the_lateral_hypothalamic_area_demonstrate_a_differential_pattern___biorxiv",
+   "title": "The wake- and sleep-modulating neurons of the lateral hypothalamic area demonstrate a differential pattern of degeneration in Alzheimers disease",
+   "doi": "10.1101/2024.03.06.583765",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.03.06.583765"
+  },
+  {
+   "round": 1,
+   "paper_id": "Alterations_in_Causal_Functional_Brain_Networks_in_Alzheimer_s_Disease_A_resting-state_fMRI_study__biorxiv",
+   "title": "Alterations in Causal Functional Brain Networks in Alzheimer's Disease: A resting-state fMRI study",
+   "doi": "10.1101/2024.05.12.593795",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.12.593795"
+  },
+  {
+   "round": 1,
+   "paper_id": "Tau_and_neuroinflammation_in_Alzheimer_s_disease_interplay_mechanisms_and_clinical_translation__nature",
+   "title": "Tau and neuroinflammation in Alzheimer’s disease: interplay mechanisms and clinical translation",
+   "doi": "10.1186/s12974-023-02853-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384296800"
+  },
+  {
+   "round": 1,
+   "paper_id": "Updates_on_mouse_models_of_Alzheimer_s_disease__nature",
+   "title": "Updates on mouse models of Alzheimer’s disease",
+   "doi": "10.1186/s13024-024-00712-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4392656549"
+  },
+  {
+   "round": 1,
+   "paper_id": "Biophysical_studies_of_protein_misfolding_and_aggregation_in_in_vivo_models_of_Alzheimer_s_and_Parkinson_s_disea__ac",
+   "title": "Biophysical studies of protein misfolding and aggregation in in vivo models of Alzheimer's and Parkinson's diseases.",
+   "doi": "10.17863/cam.51886",
+   "source": "core",
+   "url": "https://core.ac.uk/download/322485756.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Bidirectional_Relationship_between_the_Circadian_Clock_and_Alzheimer_s_disease__ac",
+   "title": "The Bidirectional Relationship between the Circadian Clock and Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/542490558.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Propagation_of_Tau_pathology_in_Alzheimer_disease__ac",
+   "title": "Propagation of Tau pathology in Alzheimer disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/618186158.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Apolipoprotein_E_and_propagation_of_pathological_tau_in_Alzheimer_s_Disease__ac",
+   "title": "Apolipoprotein E and  propagation of pathological tau  in Alzheimer’s Disease",
+   "doi": "10.7488/era/1657",
+   "source": "core",
+   "url": "https://core.ac.uk/download/491156758.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Cellular_fates_and_secretion_ofAlzheimer_s_disease-related_proteins_APP_and_tau__ac",
+   "title": "Cellular fates and secretion ofAlzheimer’s disease-related proteins APP and tau",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/335969354.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Association_of_Genes_Related_to_Amyloid-_and_Tau_Clearance_with_Alzheimer_s_Disease_Markers__ac",
+   "title": "Association of Genes Related to Amyloid-β and Tau Clearance with Alzheimer's Disease Markers",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/587001678.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Amyloid-_Pathway_in_Alzheimer_s_Disease__nature",
+   "title": "The Amyloid-β Pathway in Alzheimer’s Disease",
+   "doi": "10.1038/s41380-021-01249-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W3198052269"
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_and_cellular_mechanisms_underlying_the_pathogenesis_of_Alzheimer_s_disease__nature",
+   "title": "Molecular and cellular mechanisms underlying the pathogenesis of Alzheimer’s disease",
+   "doi": "10.1186/s13024-020-00391-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W3042981350"
+  },
+  {
+   "round": 1,
+   "paper_id": "Practical_considerations_for_choosing_a_mouse_model_of_Alzheimer_s_disease__nature",
+   "title": "Practical considerations for choosing a mouse model of Alzheimer’s disease",
+   "doi": "10.1186/s13024-017-0231-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W2779463443"
+  },
+  {
+   "round": 1,
+   "paper_id": "PART_is_part_of_Alzheimer_disease__nature",
+   "title": "PART is part of Alzheimer disease",
+   "doi": "10.1007/s00401-015-1390-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W2032221178"
+  },
+  {
+   "round": 1,
+   "paper_id": "Monoaminergic_Neuropathology_in_Alzheimer_s_disease__ac",
+   "title": "Monoaminergic Neuropathology in Alzheimer's disease",
+   "doi": "10.1016/j.pneurobio.2016.04.001",
+   "source": "core",
+   "url": "https://core.ac.uk/download/80686098.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Soluble_pre-fibrillar_tau_and_-amyloid_species_emerge_in_early_human_Alzheimer_s_disease_and_track_disease_p__nature",
+   "title": "Soluble pre-fibrillar tau and β-amyloid species emerge in early human Alzheimer’s disease and track disease progression and cognitive decline",
+   "doi": "10.1007/s00401-016-1632-3",
+   "source": "core",
+   "url": "https://core.ac.uk/download/77614582.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Presubiculum_principal_cells_are_preserved_from_degeneration_in_knock-in_APP_TAU_mouse_models_of_Alzheimer_s_dis__ac",
+   "title": "Presubiculum principal cells are preserved from degeneration in knock-in APP/TAU mouse models of Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/519719941.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Age-_and_amyloid-_-dependent_initiation_of_neurofibrillary_tau_tangles_an_improved_mouse_model_of_Alzheimer_s_di__ac",
+   "title": "Age- and amyloid-β-dependent initiation of neurofibrillary tau tangles: an improved mouse model of Alzheimer’s disease without mutations in MAPT",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/631287367.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_physiological_roles_of_tau_and_A_implications_for_Alzheimer_s_disease_pathology_and_therapeutics__nature",
+   "title": "The physiological roles of tau and Aβ: implications for Alzheimer’s disease pathology and therapeutics",
+   "doi": "10.1007/s00401-020-02196-w",
+   "source": "core",
+   "url": "https://core.ac.uk/download/334414945.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Amyloid_-based_therapy_for_Alzheimer_s_disease_challenges_successes_and_future__nature",
+   "title": "Amyloid β-based therapy for Alzheimer’s disease: challenges, successes and future",
+   "doi": "10.1038/s41392-023-01484-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W4382601497"
+  },
+  {
+   "round": 1,
+   "paper_id": "New_Insights_Into_the_Pathogenesis_of_Alzheimer_s_Disease__openalex",
+   "title": "New Insights Into the Pathogenesis of Alzheimer's Disease",
+   "doi": "10.3389/fneur.2019.01312",
+   "source": "openalex",
+   "url": "https://openalex.org/W2998922852"
+  },
+  {
+   "round": 1,
+   "paper_id": "APP_mouse_models_for_Alzheimer_s_disease_preclinical_studies__ac",
+   "title": "APP mouse models for Alzheimer's disease preclinical studies",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/111031311.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Synergy_between_amyloid-_and_tau_in_Alzheimer_s_disease__ac",
+   "title": "Synergy between amyloid-β and tau in Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/336581961.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "CIS-Regulatory_Elements_Relevance_for_Alzheimer_u27s_Disease__ac",
+   "title": "CIS-Regulatory Elements: Relevance for Alzheimer\\u27s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/640969786.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Tau_bridging_the_gap_between_Alzheimer_s_and_Parkinson_s_diseases__ac",
+   "title": "Tau, bridging the gap between Alzheimer's and Parkinson's diseases",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/528178523.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Neurofibrillary_tangles_in_Alzheimer_s_disease_elucidation_of_the_molecular_mechanism_by_immunohistochemis__openalex",
+   "title": "Neurofibrillary tangles in Alzheimer′s disease: elucidation of the molecular mechanism by immunohistochemistry and tau protein phospho-proteomics",
+   "doi": "10.4103/1673-5374.193234",
+   "source": "openalex",
+   "url": "https://openalex.org/W2528806486"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_neuropathological_diagnosis_of_Alzheimer_s_disease__nature",
+   "title": "The neuropathological diagnosis of Alzheimer’s disease",
+   "doi": "10.1186/s13024-019-0333-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W2965717703"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bidirectional_relationship_between_sleep_and_Alzheimer_s_disease_role_of_amyloid_tau_and_other_factors__nature",
+   "title": "Bidirectional relationship between sleep and Alzheimer’s disease: role of amyloid, tau, and other factors",
+   "doi": "10.1038/s41386-019-0478-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W2966973684"
+  },
+  {
+   "round": 2,
+   "paper_id": "Proteomic_landscape_of_Alzheimer_s_Disease_novel_insights_into_pathogenesis_and_biomarker_discovery__nature",
+   "title": "Proteomic landscape of Alzheimer’s Disease: novel insights into pathogenesis and biomarker discovery",
+   "doi": "10.1186/s13024-021-00474-z",
+   "source": "openalex",
+   "url": "https://openalex.org/W3190031729"
+  },
+  {
+   "round": 2,
+   "paper_id": "Global_quantitative_analysis_of_the_human_brain_proteome_and_phosphoproteome_in_Alzheimer_s_disease__nature",
+   "title": "Global quantitative analysis of the human brain proteome and phosphoproteome in Alzheimer’s disease",
+   "doi": "10.1038/s41597-020-00650-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W3088072832"
+  },
+  {
+   "round": 2,
+   "paper_id": "Genetic_forms_of_tauopathies_inherited_causes_and_implications_of_Alzheimer_s_disease-like_TAU_pathology_in___nature",
+   "title": "Genetic forms of tauopathies: inherited causes and implications of Alzheimer’s disease-like TAU pathology in primary and secondary tauopathies",
+   "doi": "10.1007/s00415-024-12314-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4393342327"
+  },
+  {
+   "round": 2,
+   "paper_id": "Proteostatic_modulation_in_brain_aging_without_associated_Alzheimer_s_disease-and_age-related_neuropathological___ac",
+   "title": "Proteostatic modulation in brain aging without associated Alzheimer's disease-and age-related neuropathological changes",
+   "doi": "10.18632/aging.204698",
+   "source": "core",
+   "url": "https://core.ac.uk/download/591790011.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Deep_Multilayer_Brain_Proteomics_Identifies_Molecular_Networks_in_Alzheimer_u27s_Disease_Progression__ac",
+   "title": "Deep Multilayer Brain Proteomics Identifies Molecular Networks in Alzheimer\\u27s Disease Progression",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/524633438.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "CSF_proteomic_signatures_in_Alzheimer_s_disease_across_amyloid_and_tau_biomarker_subgroups__ac",
+   "title": "CSF proteomic signatures in Alzheimer's disease across amyloid and tau biomarker subgroups",
+   "doi": "10.26481/dis.20240920ad",
+   "source": "core",
+   "url": "https://core.ac.uk/download/620807902.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterizing_the_involvement_of_NMDA_receptors_in_Alzheimer_s_disease__ac",
+   "title": "Characterizing the involvement of NMDA receptors in Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/669701149.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Altered_succinylation_of_mitochondrial_proteins_APP_and_tau_in_Alzheimer_s_disease__nature",
+   "title": "Altered succinylation of mitochondrial proteins, APP and tau in Alzheimer’s disease",
+   "doi": "10.1038/s41467-021-27572-2",
+   "source": "core",
+   "url": "https://core.ac.uk/download/595813312.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Blood_based_biomarkers_for_the_identification_of_Alzheimer_s_disease_using_proteomics_approaches__edu",
+   "title": "Blood based biomarkers for the identification of Alzheimer’s disease using proteomics approaches",
+   "doi": "10.26190/unsworks/24110",
+   "source": "core",
+   "url": "https://unsworks.unsw.edu.au/bitstreams/52c878bc-a90e-4307-aad0-5f0eb1dc5859/download"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_probabilistic_model_of_Alzheimer_disease_the_amyloid_hypothesis_revised__nature",
+   "title": "The probabilistic model of Alzheimer disease: the amyloid hypothesis revised",
+   "doi": "10.1038/s41583-021-00533-w",
+   "source": "openalex",
+   "url": "https://openalex.org/W3215063364"
+  },
+  {
+   "round": 2,
+   "paper_id": "Environmental_pollutants_as_risk_factors_for_neurodegenerative_disorders_Alzheimer_and_Parkinson_diseases__openalex",
+   "title": "Environmental pollutants as risk factors for neurodegenerative disorders: Alzheimer and Parkinson diseases",
+   "doi": "10.3389/fncel.2015.00124",
+   "source": "openalex",
+   "url": "https://openalex.org/W2034578928"
+  },
+  {
+   "round": 2,
+   "paper_id": "Modeling_Alzheimer_s_disease_with_human_induced_pluripotent_stem_iPS_cells__ac",
+   "title": "Modeling Alzheimer's disease with human induced pluripotent stem (iPS) cells",
+   "doi": "10.1016/j.mcn.2015.11.010",
+   "source": "core",
+   "url": "https://core.ac.uk/download/141473179.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Stem_cell_models_of_Alzheimer_s_disease_progress_and_challenges.__nature",
+   "title": "Stem cell models of Alzheimer's disease: progress and challenges.",
+   "doi": "10.1186/s13195-017-0268-4",
+   "source": "core",
+   "url": "https://core.ac.uk/download/111014861.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_human_tau_seeded_neuronal_cell_model_recapitulates_molecular_responses_associated_with_Alzheimer_s_disease__nature",
+   "title": "A human tau seeded neuronal cell model recapitulates molecular responses associated with Alzheimer's disease",
+   "doi": "10.1038/s41598-022-06411-4",
+   "source": "core",
+   "url": "https://core.ac.uk/download/519719327.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Genetics_of_Alzheimer_S_Disease__ac",
+   "title": "Genetics of Alzheimer´S Disease",
+   "doi": "10.5772/58286",
+   "source": "core",
+   "url": "https://core.ac.uk/download/322423553.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Looking_at_Alzheimer_s_disease_pathogenesis_from_the_nuclear_side__ac",
+   "title": "Looking at Alzheimer’s disease pathogenesis from the nuclear side",
+   "doi": "10.3390/biom11091261",
+   "source": "core",
+   "url": "https://core.ac.uk/download/491509628.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Viral_Induced_Oxidative_and_Inflammatory_Response_in_Alzheimer_s_Disease_Pathogenesis_with_Identification_of_Pot__ac",
+   "title": "Viral Induced Oxidative and Inflammatory Response in Alzheimer's Disease  Pathogenesis with Identification of Potential Drug Candidates: A Systematic Review  using Systems Biology Approach",
+   "doi": "10.2174/1570159x16666180419124508",
+   "source": "core",
+   "url": "https://core.ac.uk/download/480103646.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_synaptic_and_neurobiological_role_of_apolipoprotein_E4_in_models_of_Alzheimer_s_disease__ac",
+   "title": "The synaptic and neurobiological role of apolipoprotein E4 in models of Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/490793604.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigating_Cell-type_Specific_Neuropathology_in_knock-in_APP_and_tau_Mouse_Models_of_Alzheimer_s_Disease_Corr__ac",
+   "title": "Investigating Cell-type Specific Neuropathology in knock-in APP and tau Mouse Models of Alzheimer’s Disease Correlated with Cognitive Deficits and Anxiety",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/637015321.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Brain-derived_neurotrophic_factor_in_Alzheimer_s_disease_and_its_pharmaceutical_potential__nature",
+   "title": "Brain-derived neurotrophic factor in Alzheimer’s disease and its pharmaceutical potential",
+   "doi": "10.1186/s40035-022-00279-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4210324338"
+  },
+  {
+   "round": 2,
+   "paper_id": "Microbiome_alterations_and_Alzheimer_s_Disease_modeling_strategies_with_transgenic_mice.__ac",
+   "title": "Microbiome alterations and Alzheimer's Disease: modeling strategies with transgenic mice.",
+   "doi": "10.3390/biomedicines11071846.",
+   "source": "core",
+   "url": "https://core.ac.uk/download/599472028.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Advances_in_genetic_and_molecular_understanding_of_Alzheimer_u27s_disease__ac",
+   "title": "Advances in genetic and molecular understanding of Alzheimer\\u27s disease",
+   "doi": "10.3390/genes12081247",
+   "source": "core",
+   "url": "https://core.ac.uk/download/480388838.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Microglia_in_aging_and_Alzheimer_s_disease_A_comparative_species_review__ac",
+   "title": "Microglia in aging and Alzheimer’s disease: A comparative species review",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/554815350.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Rodent_Modeling_of_Alzheimer_s_Disease_in_Down_Syndrome_In_vivo_and_ex_vivo_Approaches__ac",
+   "title": "Rodent Modeling of Alzheimer's Disease in Down Syndrome: In vivo and ex vivo Approaches",
+   "doi": "10.3389/fnins.2022.909669",
+   "source": "core",
+   "url": "https://core.ac.uk/download/524973407.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Zebrafish_equivalent_of_Alzheimer_s_disease-associated_PRESENILIN_Isoform_PS2V_regulates_inflammatory_and_ot__ac",
+   "title": "The Zebrafish equivalent of Alzheimer's disease-associated PRESENILIN Isoform PS2V regulates inflammatory and other responses to hypoxic stress",
+   "doi": "10.3233/jad-150678",
+   "source": "core",
+   "url": "https://core.ac.uk/download/79093820.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "In_vivo_pharmacological_evaluation_of_a_novel_dual-target_inhibitor_and_methylprednisolone_as_Alzheimer_s_diseas__ac",
+   "title": "In vivo pharmacological evaluation of a novel dual-target inhibitor and methylprednisolone as Alzheimer’s disease treatments",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/564442316.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Exploring_Alzheimer_s_disease_and_Down_syndrome_neuro-immune_pathways_using_preclinical_models_and_human_post-mo__ac",
+   "title": "Exploring Alzheimer's disease and Down syndrome neuro-immune pathways using preclinical models and human post-mortem brain tissue",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/617963548.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigating_Associations_between_Electrophysiological_and_Pathological_Changes_in_the_TgF344-AD_Rat_Model_for___ac",
+   "title": "Investigating Associations between Electrophysiological and Pathological Changes in the TgF344-AD Rat Model for Alzheimer's Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/578250531.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "In_vivo_pharmacological_evaluation_of_a_novel_dual-target_inhibitor_and_methylprednisolone_as_Alzheimer_s_diseas__ac",
+   "title": "In vivo pharmacological evaluation of a novel dual-target inhibitor and methylprednisolone as Alzheimer’s disease treatments",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/564442316.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_systematic_review_for_the_development_of_Alzheimer_s_disease_in_in_vitro_models_a_focus_on_different_inducing___ac",
+   "title": "A systematic review for the development of Alzheimer’s disease in in vitro models: a focus on different inducing agents",
+   "doi": "10.3389/fnagi.2023.1296919",
+   "source": "core",
+   "url": "https://core.ac.uk/download/596290096.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Polyphenols_and_miRNA_interplay_a_novel_approach_to_combat_apoptosis_and_inflammation_in_Alzheimer_s_disease__ac",
+   "title": "Polyphenols and miRNA interplay: a novel approach to combat apoptosis and inflammation in Alzheimer’s disease",
+   "doi": "10.3389/fnagi.2025.1571563",
+   "source": "core",
+   "url": "https://core.ac.uk/download/656645800.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "TREM2_dependent_and_independent_functions_of_microglia_in_Alzheimer_u27s_disease__nature",
+   "title": "TREM2 dependent and independent functions of microglia in Alzheimer\\u27s disease",
+   "doi": "10.1186/s13024-022-00588-y",
+   "source": "core",
+   "url": "https://core.ac.uk/download/591667231.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Mass_spectrometry_analysis_of_tau_and_amyloid-beta_in_iPSC-derived_models_of_Alzheimer_s_disease_and_dementia__ac",
+   "title": "Mass spectrometry analysis of tau and amyloid-beta in iPSC-derived models of Alzheimer's disease and dementia",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/384445738.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_genetic_cause_of_Alzheimer_disease_mechanistic_insights_from_Down_syndrome__nature",
+   "title": "A genetic cause of Alzheimer disease: mechanistic insights from Down syndrome",
+   "doi": "10.1038/nrn3983",
+   "source": "core",
+   "url": "https://core.ac.uk/download/42133875.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterisation_of_Tau_splicing_factors_in_Alzheimer_s_disease__ac",
+   "title": "Characterisation of Tau splicing factors in Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/586997203.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Transgenic_Mouse_Models_of_Alzheimer_s_Disease_An_Integrative_Analysis__ac",
+   "title": "Transgenic Mouse Models of Alzheimer’s Disease: An Integrative Analysis",
+   "doi": "10.3390/ijms23105404",
+   "source": "core",
+   "url": "https://core.ac.uk/download/533907304.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Human_stem_cell_transplantation_models_of_Alzheimer_s_disease__ac",
+   "title": "Human stem cell transplantation models of Alzheimer’s disease",
+   "doi": "10.3389/fnagi.2024.1354164",
+   "source": "core",
+   "url": "https://core.ac.uk/download/604370017.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Non-mutated_human_tau_stimulates_Alzheimer_s_disease-relevant_neurodegeneration_in_a_microglia-dependent_manner__nih",
+   "title": "Non-mutated human tau stimulates Alzheimer's disease-relevant neurodegeneration in a microglia-dependent manner.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Outer_membrane_vesicles_of_Porphyromonas_gingivalis_trigger_NLRP3_inflammasome_and_induce_neuroinflammation_tau__nih",
+   "title": "Outer membrane vesicles of Porphyromonas gingivalis trigger NLRP3 inflammasome and induce neuroinflammation, tau phosphorylation, and memory dysfunction in mice.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Combining_connectivity_related_pathologies_and_genetic_factors_to_explain_tau_accumulation_in_Alzheimer_s_diseas__ac",
+   "title": "Combining connectivity, related pathologies, and genetic factors to explain tau accumulation in Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/621119437.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_developing_novel_therapeutic_strategies_for_Alzheimer_s_disease__nature",
+   "title": "Advances in developing novel therapeutic strategies for Alzheimer’s disease",
+   "doi": "10.1186/s13024-018-0299-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W2905504149"
+  },
+  {
+   "round": 3,
+   "paper_id": "APOE2_protective_mechanism_and_therapeutic_implications_for_Alzheimer_s_disease__nature",
+   "title": "APOE2: protective mechanism and therapeutic implications for Alzheimer’s disease",
+   "doi": "10.1186/s13024-020-00413-4",
+   "source": "openalex",
+   "url": "https://openalex.org/W3096808785"
+  },
+  {
+   "round": 3,
+   "paper_id": "Biomarkers_for_the_Early_Detection_and_Progression_of_Alzheimer_s_Disease__nature",
+   "title": "Biomarkers for the Early Detection and Progression of Alzheimer's Disease",
+   "doi": "10.1007/s13311-016-0481-z",
+   "source": "openalex",
+   "url": "https://openalex.org/W2529983878"
+  },
+  {
+   "round": 3,
+   "paper_id": "Using_the_Alzheimer_s_Disease_Neuroimaging_Initiative_to_improve_early_detection_diagnosis_and_treatment_o__openalex",
+   "title": "Using the Alzheimer's Disease Neuroimaging Initiative to improve early detection, diagnosis, and treatment of Alzheimer's disease",
+   "doi": "10.1002/alz.12422",
+   "source": "openalex",
+   "url": "https://openalex.org/W3201798407"
+  },
+  {
+   "round": 3,
+   "paper_id": "Combined_Connectomics_MAPT_Gene_Expression_and_Amyloid_Deposition_to_Explain_Regional_Tau_Deposition_in_Alzheime__ac",
+   "title": "Combined Connectomics, MAPT Gene Expression, and Amyloid Deposition to Explain Regional Tau Deposition in Alzheimer Disease",
+   "doi": "10.1002/ana.26818",
+   "source": "core",
+   "url": "https://core.ac.uk/download/597543643.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Multimodal_MRI_of_grey_matter_white_matter_and_functional_connectivity_in_cognitively_healthy_mutation_carri__nature",
+   "title": "Multimodal MRI of grey matter, white matter, and functional connectivity in cognitively healthy mutation carriers at risk for frontotemporal dementia and Alzheimer's disease",
+   "doi": "10.1186/s12883-019-1567-0",
+   "source": "core",
+   "url": "https://core.ac.uk/download/286390631.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Machine_Learning_for_Alzheimer_s_Disease_and_Related_Dementias__ac",
+   "title": "Machine Learning for Alzheimer’s Disease and Related Dementias",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/586147471.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Integrative_Analysis_to_Investigate_Complex_Interaction_in_Alzheimer_s_Disease__ac",
+   "title": "Integrative Analysis to Investigate Complex Interaction in Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/233231999.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Tau_pathology_microglia_activation_and_network_dysfunction_in_Alzheimer_s_disease__ac",
+   "title": "Tau pathology, microglia activation, and network dysfunction in Alzheimer’s disease",
+   "doi": "10.17863/cam.54845",
+   "source": "core",
+   "url": "https://core.ac.uk/download/326520663.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Modelling_progression_and_heterogeneity_in_Alzheimer_s_disease__ac",
+   "title": "Modelling progression and heterogeneity in Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/110997047.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Machine_Learning_for_Alzheimer_s_Disease_and_Related_Dementias__nature",
+   "title": "Machine Learning for Alzheimer’s Disease and Related Dementias",
+   "doi": "10.1007/978-1-0716-3195-9_25.",
+   "source": "core",
+   "url": "https://core.ac.uk/download/578727607.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Assessing_the_Role_of_Past_Depression_in_Individuals_with_and_Without_Alzheimer_s_Disease_using_Cerebrospinal_Fl__ac",
+   "title": "Assessing the Role of Past Depression in Individuals with and Without Alzheimer’s Disease using Cerebrospinal Fluid and Neuroimaging Biomarkers",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/661654441.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Blood_and_cerebrospinal_fluid_biomarkers_for_Alzheimer_s_disease_from_clinical_to_preclinical_cohorts__ac",
+   "title": "Blood and cerebrospinal fluid biomarkers for Alzheimer’s disease: from clinical to preclinical cohorts",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/323195097.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_Glymphatic_Function_In_Alzheimer_s_Disease_Pathology__ac",
+   "title": "Investigating Glymphatic Function In Alzheimer’s Disease Pathology",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/323195465.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "APOE_in_the_bullseye_of_neurodegenerative_diseases_impact_of_the_APOE_genotype_in_Alzheimer_s_disease_pathol__nature",
+   "title": "APOE in the bullseye of neurodegenerative diseases: impact of the APOE genotype in Alzheimer’s disease pathology and brain diseases",
+   "doi": "10.1186/s13024-022-00566-4",
+   "source": "openalex",
+   "url": "https://openalex.org/W4296949354"
+  },
+  {
+   "round": 3,
+   "paper_id": "Application_of_Metabolomics_in_Alzheimer_s_Disease__openalex",
+   "title": "Application of Metabolomics in Alzheimer’s Disease",
+   "doi": "10.3389/fneur.2017.00719",
+   "source": "openalex",
+   "url": "https://openalex.org/W2783358291"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cerebrospinal_fluid_proteomics_in_patients_with_Alzheimer_s_disease_reveals_five_molecular_subtypes_with_dis__nature",
+   "title": "Cerebrospinal fluid proteomics in patients with Alzheimer’s disease reveals five molecular subtypes with distinct genetic risk profiles",
+   "doi": "10.1038/s43587-023-00550-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390706250"
+  },
+  {
+   "round": 3,
+   "paper_id": "Early-Onset_Alzheimer_s_Disease_What_Is_Missing_in_Research__nature",
+   "title": "Early-Onset Alzheimer’s Disease: What Is Missing in Research?",
+   "doi": "10.1007/s11910-020-01090-y",
+   "source": "openalex",
+   "url": "https://openalex.org/W3124752519"
+  },
+  {
+   "round": 3,
+   "paper_id": "Meta-Analysis_of_the_Alzheimer_u27s_Disease_Human_Brain_Transcriptome_and_Functional_Dissection_in_Mouse_Models.__ac",
+   "title": "Meta-Analysis of the Alzheimer\\u27s Disease Human Brain Transcriptome and Functional Dissection in Mouse Models.",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/352126932.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Alzheimer_u27s_Disease_Approaches_to_Pathogenesis_in_the_Genomic_Age__ac",
+   "title": "Alzheimer\\u27s Disease: Approaches to Pathogenesis in the Genomic Age",
+   "doi": "10.5772/36505",
+   "source": "core",
+   "url": "https://core.ac.uk/download/322410843.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Inflammaging_in_the_Alzheimer_s_Brain_and_Beyond_Insights_from_a_Transgenic_Mouse_Model_on_the_Sex-specific_Path__ac",
+   "title": "Inflammaging in the Alzheimer’s Brain and Beyond: Insights from a Transgenic Mouse Model on the Sex-specific Pathophysiology of Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/617915641.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Lysosome_Dynamics_in_Models_of_Frontotemporal_Dementia_and_Alzheimer_s_Disease__ac",
+   "title": "Lysosome Dynamics in Models of Frontotemporal Dementia and Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/581548777.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cerebrospinal_fluid_proteomics_in_patients_with_Alzheimer_s_disease_reveals_five_molecular_subtypes_with_distinc__ac",
+   "title": "Cerebrospinal fluid proteomics in patients with Alzheimer’s disease reveals five molecular subtypes with distinct genetic risk profiles",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/596425071.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Meta-Analysis_of_the_Alzheimer_u27s_Disease_Human_Brain_Transcriptome_and_Functional_Dissection_in_Mouse_Models.__ac",
+   "title": "Meta-Analysis of the Alzheimer\\u27s Disease Human Brain Transcriptome and Functional Dissection in Mouse Models.",
+   "doi": "10.1016/j.celrep.2020.107908",
+   "source": "core",
+   "url": "https://core.ac.uk/download/352126932.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Translational_approaches_to_understanding_resilience_to_Alzheimer_u27s_disease.__ac",
+   "title": "Translational approaches to understanding resilience to Alzheimer\\u27s disease.",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/524157618.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Synapse_vulnerability_and_resilience_underlying_Alzheimer_s_disease__ac",
+   "title": "Synapse vulnerability and resilience underlying Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/665909513.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Evaluation_of_Exploratory_Fluid_Biomarker_Results_from_a_Phase_1_Senolytic_Trial_in_Mild_Alzheimer_u27s_Disease__ac",
+   "title": "Evaluation of Exploratory Fluid Biomarker Results from a Phase 1 Senolytic Trial in Mild Alzheimer\\u27s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/618194765.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_non-cell_autonomous_role_of_astrocytic_HSPB1_in_Alzheimer_s_Disease__ac",
+   "title": "Investigating the non-cell autonomous role of astrocytic HSPB1 in Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/587001933.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Different_pathways_of_molecular_pathophysiology_underlie_cognitive_and_motor_tauopathy_phenotypes_in_transge__nature",
+   "title": "Different pathways of molecular pathophysiology underlie cognitive and motor tauopathy phenotypes in transgenic models for Alzheimer’s disease and frontotemporal lobar degeneration",
+   "doi": "10.1007/s00018-014-1804-z",
+   "source": "core",
+   "url": "https://core.ac.uk/download/29408822.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Epigenetic_studies_in_Alzheimer_s_disease_Current_findings_caveats_and_considerations_for_future_studies__ac",
+   "title": "Epigenetic studies in Alzheimer's disease: Current findings, caveats, and considerations for future studies",
+   "doi": "10.1002/ajmg.b.32201",
+   "source": "core",
+   "url": "https://core.ac.uk/download/43096909.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Epigenetic_regulation_of_adult_neural_stem_cells_implications_for_Alzheimer_s_disease.__nature",
+   "title": "Epigenetic regulation of adult neural stem cells: implications for Alzheimer's disease.",
+   "doi": "10.1186/1750-1326-9-25",
+   "source": "core",
+   "url": "https://core.ac.uk/download/43096903.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Systematic_Analysis_and_Biomarker_Study_for_Alzheimer_s_Disease.__nature",
+   "title": "Systematic Analysis and Biomarker Study for Alzheimer's Disease.",
+   "doi": "10.1038/s41598-018-35789-3",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161938792.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Guinea_Pig_as_a_model_for_sporadic_Alzheimer_s_Disease_AD_the_impact_of_cholesterol_intake_on_expression_of___ac",
+   "title": "The Guinea Pig as a model for sporadic Alzheimer's Disease (AD): the impact of cholesterol intake on expression of AD-related genes",
+   "doi": "10.1371/journal.pone.0066235",
+   "source": "core",
+   "url": "https://core.ac.uk/download/16518681.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Clinical_phenotype_and_genetic_associations_in_autosomal_dominant_familial_Alzheimer_s_disease_a_case_series__ac",
+   "title": "Clinical phenotype and genetic associations in autosomal dominant familial Alzheimer's disease: a case series",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/79541971.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Guinea_Pig_as_a_Model_for_Sporadic_Alzheimer_u27s_Disease_AD_The_Impact_of_Cholesterol_Intake_on_Expression___ac",
+   "title": "The Guinea Pig as a Model for Sporadic Alzheimer\\u27s Disease (AD): The Impact of Cholesterol Intake on Expression of AD-Related Genes",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/41538252.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_new_non-aggregative_splicing_isoform_of_human_Tau_is_decreased_in_Alzheimer_s_disease.__nature",
+   "title": "A new non-aggregative splicing isoform of human Tau is decreased in Alzheimer's disease.",
+   "doi": "10.1007/s00401-021-02317-z",
+   "source": "core",
+   "url": "https://core.ac.uk/download/478199611.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_soluble_phosphorylated_tau_signature_links_tau_amyloid_and_the_evolution_of_stages_of_dominantly_inherited__nature",
+   "title": "A soluble phosphorylated tau signature links tau, amyloid and the evolution of stages of dominantly inherited Alzheimer’s disease",
+   "doi": "10.1038/s41591-020-0781-z",
+   "source": "openalex",
+   "url": "https://openalex.org/W3012272172"
+  },
+  {
+   "round": 3,
+   "paper_id": "Seeding_biosensor_cell_line_that_reproduces_the_Alzheimer_tau_fold.__nih",
+   "title": "Seeding biosensor cell line that reproduces the Alzheimer tau fold.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Tau_pathology_in_Creutzfeldt-Jakob_disease_revisited.__nih",
+   "title": "Tau pathology in Creutzfeldt-Jakob disease revisited.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Human_iPSC_4R_tauopathy_model_uncovers_modifiers_of_tau_propagation.__nih",
+   "title": "Human iPSC 4R tauopathy model uncovers modifiers of tau propagation.",
+   "doi": null,
+   "source": "pubmed",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "APOE2_protective_mechanism_and_therapeutic_implications_for_Alzheimer_s_disease__nature",
+  "APOE_in_the_bullseye_of_neurodegenerative_diseases_impact_of_the_APOE_genotype_in_Alzheimer_s_disease_pathol__nature",
+  "APP_mouse_models_for_Alzheimer_s_disease_preclinical_studies__ac",
+  "A_genetic_cause_of_Alzheimer_disease_mechanistic_insights_from_Down_syndrome__nature",
+  "A_human_Tau_expressing_zebrafish_model_of_progressive_supranuclear_palsy_identifies_Brd4_as_a_regulator_of_micr__nih",
+  "A_human_tau_seeded_neuronal_cell_model_recapitulates_molecular_responses_associated_with_Alzheimer_s_disease__nature",
+  "A_new_non-aggregative_splicing_isoform_of_human_Tau_is_decreased_in_Alzheimer_s_disease.__nature",
+  "A_post-translational_modification_signature_defines_changes_in_soluble_tau_correlating_with_oligomerization___nature",
+  "A_systematic_review_for_the_development_of_Alzheimer_s_disease_in_in_vitro_models_a_focus_on_different_inducing___ac",
+  "Advances_in_developing_novel_therapeutic_strategies_for_Alzheimer_s_disease__nature",
+  "Advances_in_genetic_and_molecular_understanding_of_Alzheimer_u27s_disease__ac",
+  "Age-_and_amyloid-_-dependent_initiation_of_neurofibrillary_tau_tangles_an_improved_mouse_model_of_Alzheimer_s_di__ac",
+  "Alterations_in_Causal_Functional_Brain_Networks_in_Alzheimer_s_Disease_A_resting-state_fMRI_study__biorxiv",
+  "Alzheimer_s_disease_risk_factors_and_potentially_protective_measures__nature",
+  "Alzheimer_s_disease_seeded_tau_forms_paired_helical_filaments_yet_lacks_seeding_potential.__nih",
+  "Alzheimer_u27s_Disease_Approaches_to_Pathogenesis_in_the_Genomic_Age__ac",
+  "Amyloid_-based_therapy_for_Alzheimer_s_disease_challenges_successes_and_future__nature",
+  "Anatomic_survey_of_seeding_in_Alzheimer_s_disease_brains_reveals_unexpected_patterns.__nih",
+  "Apolipoprotein_E_and_propagation_of_pathological_tau_in_Alzheimer_s_Disease__ac",
+  "Application_of_Metabolomics_in_Alzheimer_s_Disease__openalex",
+  "Aqueous_extractable_nonfibrillar_and_sarkosyl_extractable_fibrillar_Alzheimer_s_disease_tau_seeds_have_distinct__nih",
+  "Assessing_the_Role_of_Past_Depression_in_Individuals_with_and_Without_Alzheimer_s_Disease_using_Cerebrospinal_Fl__ac",
+  "Association_and_interaction_of_blood_homocysteine_and_p-tau217_levels_with_temporal_cortical_thinning_and_cogni__nih",
+  "Association_of_Genes_Related_to_Amyloid-_and_Tau_Clearance_with_Alzheimer_s_Disease_Markers__ac",
+  "Astrocyte_reactivity_is_associated_with_tau_tangle_load_and_cortical_thinning_in_Alzheimer_s_disease.__nih",
+  "Autophagy_and_Alzheimer_s_Disease_From_Molecular_Mechanisms_to_Therapeutic_Implications.__nih",
+  "Bidirectional_relationship_between_sleep_and_Alzheimer_s_disease_role_of_amyloid_tau_and_other_factors__nature",
+  "Biomarkers_for_the_Early_Detection_and_Progression_of_Alzheimer_s_Disease__nature",
+  "Biophysical_studies_of_protein_misfolding_and_aggregation_in_in_vivo_models_of_Alzheimer_s_and_Parkinson_s_disea__ac",
+  "Blood_and_cerebrospinal_fluid_biomarkers_for_Alzheimer_s_disease_from_clinical_to_preclinical_cohorts__ac",
+  "Blood_based_biomarkers_for_the_identification_of_Alzheimer_s_disease_using_proteomics_approaches__edu",
+  "Brain-derived_neurotrophic_factor_in_Alzheimer_s_disease_and_its_pharmaceutical_potential__nature",
+  "CIS-Regulatory_Elements_Relevance_for_Alzheimer_u27s_Disease__ac",
+  "CSF_proteomic_signatures_in_Alzheimer_s_disease_across_amyloid_and_tau_biomarker_subgroups__ac",
+  "CSF_tau_phosphorylation_occupancies_at_T217_and_T205_represent_improved_biomarkers_of_amyloid_and_tau_pathol__nature",
+  "Cellular_Models_of_Aggregation-dependent_Template-directed_Proteolysis_to_Characterize_Tau_Aggregation_Inhibito__nih",
+  "Cerebrospinal_fluid_proteomics_in_patients_with_Alzheimer_s_disease_reveals_five_molecular_subtypes_with_distinc__ac",
+  "Characterisation_of_Tau_splicing_factors_in_Alzheimer_s_disease__ac",
+  "Characterization_of_tau_propagation_pattern_and_cascading_hypometabolism_from_functional_connectivity_in_Alzhei__nih",
+  "Characterizing_the_involvement_of_NMDA_receptors_in_Alzheimer_s_disease__ac",
+  "Combined_Connectomics_MAPT_Gene_Expression_and_Amyloid_Deposition_to_Explain_Regional_Tau_Deposition_in_Alzheime__ac",
+  "Combining_connectivity_related_pathologies_and_genetic_factors_to_explain_tau_accumulation_in_Alzheimer_s_diseas__ac",
+  "Concerted_Perturbation_Observed_in_a_Hub_Network_in_Alzheimer_s_Disease__openalex",
+  "Design_and_application_of_a_Tau_seed_amplification_assay_for_screening_inhibitors_of_Tau_seeding.__nih",
+  "Different_pathways_of_molecular_pathophysiology_underlie_cognitive_and_motor_tauopathy_phenotypes_in_transge__nature",
+  "Different_pathways_of_molecular_pathophysiology_underlie_cognitive_and_motor_tauopathy_phenotypes_in_transgenic__nih",
+  "Early-Onset_Alzheimer_s_Disease_What_Is_Missing_in_Research__nature",
+  "Early_Electrophysiological_Disintegration_of_Hippocampal_Neural_Networks_in_a_Novel_Locus_Coeruleus_Tau-Seeding__nih",
+  "Early_memory_deficits_and_extensive_brain_network_disorganization_in_the_App_NL-F_MAPT_double_knock-in_mouse_mo__nih",
+  "Environmental_pollutants_as_risk_factors_for_neurodegenerative_disorders_Alzheimer_and_Parkinson_diseases__openalex",
+  "Epigenetic_regulation_of_adult_neural_stem_cells_implications_for_Alzheimer_s_disease.__nature",
+  "Epigenetic_studies_in_Alzheimer_s_disease_Current_findings_caveats_and_considerations_for_future_studies__ac",
+  "Exonic_splice_variant_discovery_using_in_vitro_models_of_inherited_retinal_disease__biorxiv",
+  "Exploring_Alzheimer_s_disease_and_Down_syndrome_neuro-immune_pathways_using_preclinical_models_and_human_post-mo__ac",
+  "Expression_of_P301L-hTau_in_mouse_MEC_induces_hippocampus-dependent_memory_deficit.__nih",
+  "GFP-Mutant_Human_Tau_Transgenic_Mice_Develop_Tauopathy_Following_CNS_Injections_of_Alzheimer_s_Brain-Derived_Pa__nih",
+  "Genetic_forms_of_tauopathies_inherited_causes_and_implications_of_Alzheimer_s_disease-like_TAU_pathology_in___nature",
+  "Genetic_screening_and_metabolomics_identify_glial_adenosine_metabolism_as_a_therapeutic_target_in_Parkinson__biorxiv",
+  "Genetics_of_Alzheimer_S_Disease__ac",
+  "Global_quantitative_analysis_of_the_human_brain_proteome_and_phosphoproteome_in_Alzheimer_s_disease__nature",
+  "Hippocampal_Connectivity_with_Retrosplenial_Cortex_is_Linked_to_Neocortical_Tau_Accumulation_and_Memory_Functio__nih",
+  "Hippocampal_expression_of_cell-adhesion_glycoprotein_neuroplastin_is_altered_in_Alzheimer_s_disease.__nih",
+  "Human_stem_cell_transplantation_models_of_Alzheimer_s_disease__ac",
+  "Ide_copy_number_variant_does_not_influence_lesion_size_and_mortality_in_two_C57BL_6J_mouse_models_of_cerebr__biorxiv",
+  "In_vitro_amplification_of_pathogenic_tau_conserves_disease-specific_bioactive_characteristics.__nih",
+  "In_vivo_pharmacological_evaluation_of_a_novel_dual-target_inhibitor_and_methylprednisolone_as_Alzheimer_s_diseas__ac",
+  "Inflammaging_in_the_Alzheimer_s_Brain_and_Beyond_Insights_from_a_Transgenic_Mouse_Model_on_the_Sex-specific_Path__ac",
+  "Investigating_Associations_between_Electrophysiological_and_Pathological_Changes_in_the_TgF344-AD_Rat_Model_for___ac",
+  "Investigating_Cell-type_Specific_Neuropathology_in_knock-in_APP_and_tau_Mouse_Models_of_Alzheimer_s_Disease_Corr__ac",
+  "Investigating_Glymphatic_Function_In_Alzheimer_s_Disease_Pathology__ac",
+  "Investigating_the_A_and_tau_pathology_in_autosomal_dominant_Alzheimer_s_disease_insights_from_hybrid_PET_MRI_an__nih",
+  "Investigating_the_non-cell_autonomous_role_of_astrocytic_HSPB1_in_Alzheimer_s_Disease__ac",
+  "Lack_of_association_between_TDP-43_pathology_and_tau_mis-splicing_in_Alzheimer_s_disease.__nih",
+  "Liquid_liquid_phase_separation_of_the_microtubule-binding_repeats_of_the_Alzheimer-related_protein_Tau__nature",
+  "Local_and_distant_relationships_between_amyloid_tau_and_neurodegeneration_in_Alzheimer_s_Disease.__nih",
+  "Looking_at_Alzheimer_s_disease_pathogenesis_from_the_nuclear_side__ac",
+  "Lysosome_Dynamics_in_Models_of_Frontotemporal_Dementia_and_Alzheimer_s_Disease__ac",
+  "Machine_Learning_for_Alzheimer_s_Disease_and_Related_Dementias__ac",
+  "Mass_spectrometry_analysis_of_tau_and_amyloid-beta_in_iPSC-derived_models_of_Alzheimer_s_disease_and_dementia__ac",
+  "Meta-Analysis_of_the_Alzheimer_u27s_Disease_Human_Brain_Transcriptome_and_Functional_Dissection_in_Mouse_Models.__ac",
+  "Microbiome_alterations_and_Alzheimer_s_Disease_modeling_strategies_with_transgenic_mice.__ac",
+  "Modeling_Alzheimer_s_disease_with_human_induced_pluripotent_stem_iPS_cells__ac",
+  "Modelling_progression_and_heterogeneity_in_Alzheimer_s_disease__ac",
+  "Molecular_and_cellular_mechanisms_underlying_the_pathogenesis_of_Alzheimer_s_disease__nature",
+  "Neurofibrillary_tangles_in_Alzheimer_s_disease_elucidation_of_the_molecular_mechanism_by_immunohistochemis__openalex",
+  "New_Insights_Into_the_Pathogenesis_of_Alzheimer_s_Disease__openalex",
+  "Non-mutated_human_tau_stimulates_Alzheimer_s_disease-relevant_neurodegeneration_in_a_microglia-dependent_manner__nih",
+  "Norepinephrine_metabolite_DOPEGAL_activates_AEP_and_pathological_Tau_aggregation_in_locus_coeruleus.__nih",
+  "PART_is_part_of_Alzheimer_disease__nature",
+  "PKR_kinase_directly_regulates_tau_expression_and_Alzheimer_s_disease-related_tau_phosphorylation.__nih",
+  "Plasma_MTBR-tau243_biomarker_identifies_tau_tangle_pathology_in_Alzheimer_s_disease.__nih",
+  "Polyphenols_and_miRNA_interplay_a_novel_approach_to_combat_apoptosis_and_inflammation_in_Alzheimer_s_disease__ac",
+  "Practical_considerations_for_choosing_a_mouse_model_of_Alzheimer_s_disease__nature",
+  "Pre-clinical_characterisation_of_E2814_a_high-affinity_antibody_targeting_the_microtubule-binding_repeat_domain__nih",
+  "Presubiculum_principal_cells_are_preserved_from_degeneration_in_knock-in_APP_TAU_mouse_models_of_Alzheimer_s_dis__ac",
+  "Propagation_of_Tau_pathology_in_Alzheimer_disease__ac",
+  "Proteomic_landscape_of_Alzheimer_s_Disease_novel_insights_into_pathogenesis_and_biomarker_discovery__nature",
+  "Quantitative_propagation_of_assembled_human_Tau_from_Alzheimer_s_disease_brain_in_microfluidic_neuronal_culture__nih",
+  "Rodent_Modeling_of_Alzheimer_s_Disease_in_Down_Syndrome_In_vivo_and_ex_vivo_Approaches__ac",
+  "Roles_of_tau_protein_in_health_and_disease__nature",
+  "Seeding_biosensor_cell_line_that_reproduces_the_Alzheimer_tau_fold.__nih",
+  "Selenoprotein_W_modulates_tau_homeostasis_in_an_Alzheimer_s_disease_mouse_model.__nih",
+  "Soluble_pre-fibrillar_tau_and_-amyloid_species_emerge_in_early_human_Alzheimer_s_disease_and_track_disease_p__nature",
+  "Spatial_risk_of_disease_transmission_between_wild_bovids_and_livestock_in_Thailand__biorxiv",
+  "Stem_cell_models_of_Alzheimer_s_disease_progress_and_challenges.__nature",
+  "Synapse_vulnerability_and_resilience_underlying_Alzheimer_s_disease__ac",
+  "Synergy_between_amyloid-_and_tau_in_Alzheimer_s_disease__ac",
+  "Synthetic_Tau_Fibrils_Mediate_Transmission_of_Neurofibrillary_Tangles_in_a_Transgenic_Mouse_Model_of_Alzhe__openalex",
+  "Systematic_Analysis_and_Biomarker_Study_for_Alzheimer_s_Disease.__nature",
+  "TREM2_dependent_and_independent_functions_of_microglia_in_Alzheimer_u27s_disease__nature",
+  "TREM2_ectodomain_and_its_soluble_form_in_Alzheimer_s_disease.__nih",
+  "Tau_and_neuroinflammation_in_Alzheimer_s_disease_interplay_mechanisms_and_clinical_translation__nature",
+  "Tau_bridging_the_gap_between_Alzheimer_s_and_Parkinson_s_diseases__ac",
+  "Tau_pathology_in_Creutzfeldt-Jakob_disease_revisited.__nih",
+  "Tau_pathology_microglia_activation_and_network_dysfunction_in_Alzheimer_s_disease__ac",
+  "Tau_seeding_activity_begins_in_the_transentorhinal_entorhinal_regions_and_anticipates_phospho-tau_pathology___nature",
+  "Tau_strains_shape_disease__nature",
+  "Temporal_Single_Cell_Analysis_of_Leukemia_Microenvironment_Identifies_Taurine-Taurine_Transporter_Axis_as_a__biorxiv",
+  "The_Amyloid-_Pathway_in_Alzheimer_s_Disease__nature",
+  "The_Genetics_of_Alzheimer_Disease__openalex",
+  "The_Guinea_Pig_as_a_Model_for_Sporadic_Alzheimer_u27s_Disease_AD_The_Impact_of_Cholesterol_Intake_on_Expression___ac",
+  "The_Zebrafish_equivalent_of_Alzheimer_s_disease-associated_PRESENILIN_Isoform_PS2V_regulates_inflammatory_and_ot__ac",
+  "The_multiple_roles_of_chronic_stress_and_glucocorticoids_in_Alzheimer_s_disease_pathogenesis.__nih",
+  "The_neuropathological_diagnosis_of_Alzheimer_s_disease__nature",
+  "The_olfactory_epithelium_a_critical_gateway_for_pathological_tau_propagation_and_a_target_for_mitigating_tauopa__nih",
+  "The_physiological_roles_of_tau_and_A_implications_for_Alzheimer_s_disease_pathology_and_therapeutics__nature",
+  "The_probabilistic_model_of_Alzheimer_disease_the_amyloid_hypothesis_revised__nature",
+  "The_role_of_Tau_amyloid-_and_neuroinflammation_in_the_association_between_cognition_and_white_matter_hyperinten__nih",
+  "The_six_brain-specific_TAU_isoforms_and_their_role_in_Alzheimer_s_disease_and_related_neurodegenerative_dementi__nih",
+  "The_synaptic_and_neurobiological_role_of_apolipoprotein_E4_in_models_of_Alzheimer_s_disease__ac",
+  "Translational_approaches_to_understanding_resilience_to_Alzheimer_u27s_disease.__ac",
+  "Unique_lipid_cargoes_in_APOE4_human_brain-derived_extracellular_vesicles_recruit_cell_adhesion_molecules_and_pr__nih",
+  "Updates_on_mouse_models_of_Alzheimer_s_disease__nature",
+  "hiPSC-neurons_recapitulate_the_subtype-specific_cell_intrinsic_nature_of_susceptibility_to_neurodegenerative_di__nih"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 2,
+   "paper_id": "A_human_Tau_expressing_zebrafish_model_of_progressive_supranuclear_palsy_identifies_Brd4_as_a_regulator_of_micr__nih",
+   "title": "A human Tau expressing zebrafish model of progressive supranuclear palsy identifies Brd4 as a regulator of microglial synaptic elimination.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11410960/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "A_post-translational_modification_signature_defines_changes_in_soluble_tau_correlating_with_oligomerization___nature",
+   "title": "A post-translational modification signature defines changes in soluble tau correlating with oligomerization in early stage Alzheimer’s disease brain",
+   "doi": "10.1186/s40478-019-0823-2",
+   "source": "openalex",
+   "url": "https://openalex.org/W2993562248",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Alzheimer_s_disease_risk_factors_and_potentially_protective_measures__nature",
+   "title": "Alzheimer’s disease: risk factors and potentially protective measures",
+   "doi": "10.1186/s12929-019-0524-y",
+   "source": "openalex",
+   "url": "https://openalex.org/W2947686928",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Alzheimer_s_disease_seeded_tau_forms_paired_helical_filaments_yet_lacks_seeding_potential.__nih",
+   "title": "Alzheimer's disease seeded tau forms paired helical filaments yet lacks seeding potential.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11440801/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Anatomic_survey_of_seeding_in_Alzheimer_s_disease_brains_reveals_unexpected_patterns.__nih",
+   "title": "Anatomic survey of seeding in Alzheimer's disease brains reveals unexpected patterns.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8507321/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Aqueous_extractable_nonfibrillar_and_sarkosyl_extractable_fibrillar_Alzheimer_s_disease_tau_seeds_have_distinct__nih",
+   "title": "Aqueous extractable nonfibrillar and sarkosyl extractable fibrillar Alzheimer's disease tau seeds have distinct properties.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11382398/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Association_and_interaction_of_blood_homocysteine_and_p-tau217_levels_with_temporal_cortical_thinning_and_cogni__nih",
+   "title": "Association and interaction of blood homocysteine and p-tau217 levels with temporal cortical thinning and cognitive impairment in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12268315/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Astrocyte_reactivity_is_associated_with_tau_tangle_load_and_cortical_thinning_in_Alzheimer_s_disease.__nih",
+   "title": "Astrocyte reactivity is associated with tau tangle load and cortical thinning in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11290175/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Autophagy_and_Alzheimer_s_Disease_From_Molecular_Mechanisms_to_Therapeutic_Implications.__nih",
+   "title": "Autophagy and Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Implications.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5797541/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "CSF_tau_phosphorylation_occupancies_at_T217_and_T205_represent_improved_biomarkers_of_amyloid_and_tau_pathol__nature",
+   "title": "CSF tau phosphorylation occupancies at T217 and T205 represent improved biomarkers of amyloid and tau pathology in Alzheimer’s disease",
+   "doi": "10.1038/s43587-023-00380-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W4324032790",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Cellular_Models_of_Aggregation-dependent_Template-directed_Proteolysis_to_Characterize_Tau_Aggregation_Inhibito__nih",
+   "title": "Cellular Models of Aggregation-dependent Template-directed Proteolysis to Characterize Tau Aggregation Inhibitors for Treatment of Alzheimer Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4409250/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Characterization_of_tau_propagation_pattern_and_cascading_hypometabolism_from_functional_connectivity_in_Alzhei__nih",
+   "title": "Characterization of tau propagation pattern and cascading hypometabolism from functional connectivity in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11069321/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Concerted_Perturbation_Observed_in_a_Hub_Network_in_Alzheimer_s_Disease__openalex",
+   "title": "Concerted Perturbation Observed in a Hub Network in Alzheimer’s Disease",
+   "doi": "10.1371/journal.pone.0040498",
+   "source": "openalex",
+   "url": "https://openalex.org/W2023148493",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Design_and_application_of_a_Tau_seed_amplification_assay_for_screening_inhibitors_of_Tau_seeding.__nih",
+   "title": "Design and application of a Tau seed amplification assay for screening inhibitors of Tau seeding.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12482674/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Different_pathways_of_molecular_pathophysiology_underlie_cognitive_and_motor_tauopathy_phenotypes_in_transgenic__nih",
+   "title": "Different pathways of molecular pathophysiology underlie cognitive and motor tauopathy phenotypes in transgenic models for Alzheimer's disease and frontotemporal lobar degeneration.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4427622/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Early_Electrophysiological_Disintegration_of_Hippocampal_Neural_Networks_in_a_Novel_Locus_Coeruleus_Tau-Seeding__nih",
+   "title": "Early Electrophysiological Disintegration of Hippocampal Neural Networks in a Novel Locus Coeruleus Tau-Seeding Mouse Model of Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6594257/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Early_memory_deficits_and_extensive_brain_network_disorganization_in_the_App_NL-F_MAPT_double_knock-in_mouse_mo__nih",
+   "title": "Early memory deficits and extensive brain network disorganization in the App(NL-F)/MAPT double knock-in mouse model of familial Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9997176/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Exonic_splice_variant_discovery_using_in_vitro_models_of_inherited_retinal_disease__biorxiv",
+   "title": "Exonic splice variant discovery using in vitro models of inherited retinal disease",
+   "doi": "10.1101/2024.05.06.592740",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.06.592740",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Expression_of_P301L-hTau_in_mouse_MEC_induces_hippocampus-dependent_memory_deficit.__nih",
+   "title": "Expression of P301L-hTau in mouse MEC induces hippocampus-dependent memory deficit.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5478664/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "GFP-Mutant_Human_Tau_Transgenic_Mice_Develop_Tauopathy_Following_CNS_Injections_of_Alzheimer_s_Brain-Derived_Pa__nih",
+   "title": "GFP-Mutant Human Tau Transgenic Mice Develop Tauopathy Following CNS Injections of Alzheimer's Brain-Derived Pathological Tau or Synthetic Mutant Human Tau Fibrils.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5700428/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Genetic_screening_and_metabolomics_identify_glial_adenosine_metabolism_as_a_therapeutic_target_in_Parkinson__biorxiv",
+   "title": "Genetic screening and metabolomics identify glial adenosine metabolism as a therapeutic target in Parkinson's disease",
+   "doi": "10.1101/2024.05.15.594309",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.594309",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Hippocampal_Connectivity_with_Retrosplenial_Cortex_is_Linked_to_Neocortical_Tau_Accumulation_and_Memory_Functio__nih",
+   "title": "Hippocampal Connectivity with Retrosplenial Cortex is Linked to Neocortical Tau Accumulation and Memory Function.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8528498/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Hippocampal_expression_of_cell-adhesion_glycoprotein_neuroplastin_is_altered_in_Alzheimer_s_disease.__nih",
+   "title": "Hippocampal expression of cell-adhesion glycoprotein neuroplastin is altered in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6349345/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Ide_copy_number_variant_does_not_influence_lesion_size_and_mortality_in_two_C57BL_6J_mouse_models_of_cerebr__biorxiv",
+   "title": "Ide copy number variant does not influence lesion size and mortality in two C57BL/6J mouse models of cerebrovascular ischemia nor in human cerebrovascular disease. An exploratory study",
+   "doi": "10.1101/2024.05.15.593342",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.593342",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "In_vitro_amplification_of_pathogenic_tau_conserves_disease-specific_bioactive_characteristics.__nih",
+   "title": "In vitro amplification of pathogenic tau conserves disease-specific bioactive characteristics.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7847465/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_A_and_tau_pathology_in_autosomal_dominant_Alzheimer_s_disease_insights_from_hybrid_PET_MRI_an__nih",
+   "title": "Investigating the Aβ and tau pathology in autosomal dominant Alzheimer's disease: insights from hybrid PET/MRI and network mapping.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11831832/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Lack_of_association_between_TDP-43_pathology_and_tau_mis-splicing_in_Alzheimer_s_disease.__nih",
+   "title": "Lack of association between TDP-43 pathology and tau mis-splicing in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4706155/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Liquid_liquid_phase_separation_of_the_microtubule-binding_repeats_of_the_Alzheimer-related_protein_Tau__nature",
+   "title": "Liquid–liquid phase separation of the microtubule-binding repeats of the Alzheimer-related protein Tau",
+   "doi": "10.1038/s41467-017-00480-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W2743471889",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Local_and_distant_relationships_between_amyloid_tau_and_neurodegeneration_in_Alzheimer_s_Disease.__nih",
+   "title": "Local and distant relationships between amyloid, tau and neurodegeneration in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5684433/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Norepinephrine_metabolite_DOPEGAL_activates_AEP_and_pathological_Tau_aggregation_in_locus_coeruleus.__nih",
+   "title": "Norepinephrine metabolite DOPEGAL activates AEP and pathological Tau aggregation in locus coeruleus.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6934194/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "PKR_kinase_directly_regulates_tau_expression_and_Alzheimer_s_disease-related_tau_phosphorylation.__nih",
+   "title": "PKR kinase directly regulates tau expression and Alzheimer's disease-related tau phosphorylation.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8018097/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Plasma_MTBR-tau243_biomarker_identifies_tau_tangle_pathology_in_Alzheimer_s_disease.__nih",
+   "title": "Plasma MTBR-tau243 biomarker identifies tau tangle pathology in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12176612/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Pre-clinical_characterisation_of_E2814_a_high-affinity_antibody_targeting_the_microtubule-binding_repeat_domain__nih",
+   "title": "Pre-clinical characterisation of E2814, a high-affinity antibody targeting the microtubule-binding repeat domain of tau for passive immunotherapy in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7001291/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Quantitative_propagation_of_assembled_human_Tau_from_Alzheimer_s_disease_brain_in_microfluidic_neuronal_culture__nih",
+   "title": "Quantitative propagation of assembled human Tau from Alzheimer's disease brain in microfluidic neuronal cultures.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7489902/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Roles_of_tau_protein_in_health_and_disease__nature",
+   "title": "Roles of tau protein in health and disease",
+   "doi": "10.1007/s00401-017-1707-9",
+   "source": "openalex",
+   "url": "https://openalex.org/W2605036205",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Selenoprotein_W_modulates_tau_homeostasis_in_an_Alzheimer_s_disease_mouse_model.__nih",
+   "title": "Selenoprotein W modulates tau homeostasis in an Alzheimer's disease mouse model.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11255228/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Spatial_risk_of_disease_transmission_between_wild_bovids_and_livestock_in_Thailand__biorxiv",
+   "title": "Spatial risk of disease transmission between wild bovids and livestock in Thailand",
+   "doi": "10.1101/2024.05.04.592526",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.04.592526",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Synthetic_Tau_Fibrils_Mediate_Transmission_of_Neurofibrillary_Tangles_in_a_Transgenic_Mouse_Model_of_Alzhe__openalex",
+   "title": "Synthetic Tau Fibrils Mediate Transmission of Neurofibrillary Tangles in a Transgenic Mouse Model of Alzheimer's-Like Tauopathy",
+   "doi": "10.1523/jneurosci.2642-12.2013",
+   "source": "openalex",
+   "url": "https://openalex.org/W2033672635",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "TREM2_ectodomain_and_its_soluble_form_in_Alzheimer_s_disease.__nih",
+   "title": "TREM2 ectodomain and its soluble form in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7341574/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Tau_seeding_activity_begins_in_the_transentorhinal_entorhinal_regions_and_anticipates_phospho-tau_pathology___nature",
+   "title": "Tau seeding activity begins in the transentorhinal/entorhinal regions and anticipates phospho-tau pathology in Alzheimer’s disease and PART",
+   "doi": "10.1007/s00401-018-1855-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W2799729840",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Tau_strains_shape_disease__nature",
+   "title": "Tau strains shape disease",
+   "doi": "10.1007/s00401-021-02301-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W3149587603",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Temporal_Single_Cell_Analysis_of_Leukemia_Microenvironment_Identifies_Taurine-Taurine_Transporter_Axis_as_a__biorxiv",
+   "title": "Temporal Single Cell Analysis of Leukemia Microenvironment Identifies Taurine-Taurine Transporter Axis as a Key Regulator of Myeloid Leukemia",
+   "doi": "10.1101/2024.05.11.593633",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.11.593633",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Genetics_of_Alzheimer_Disease__openalex",
+   "title": "The Genetics of Alzheimer Disease",
+   "doi": "10.1101/cshperspect.a006296",
+   "source": "openalex",
+   "url": "https://openalex.org/W4233829850",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_multiple_roles_of_chronic_stress_and_glucocorticoids_in_Alzheimer_s_disease_pathogenesis.__nih",
+   "title": "The multiple roles of chronic stress and glucocorticoids in Alzheimer's disease pathogenesis.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11563862/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_olfactory_epithelium_a_critical_gateway_for_pathological_tau_propagation_and_a_target_for_mitigating_tauopa__nih",
+   "title": "The olfactory epithelium: a critical gateway for pathological tau propagation and a target for mitigating tauopathy in the central nervous system.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179005/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_role_of_Tau_amyloid-_and_neuroinflammation_in_the_association_between_cognition_and_white_matter_hyperinten__nih",
+   "title": "The role of Tau, amyloid-β and neuroinflammation in the association between cognition and white matter hyperintensities in a southeast Asian cohort.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12501327/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_six_brain-specific_TAU_isoforms_and_their_role_in_Alzheimer_s_disease_and_related_neurodegenerative_dementi__nih",
+   "title": "The six brain-specific TAU isoforms and their role in Alzheimer's disease and related neurodegenerative dementia syndromes.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095451/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Unique_lipid_cargoes_in_APOE4_human_brain-derived_extracellular_vesicles_recruit_cell_adhesion_molecules_and_pr__nih",
+   "title": "Unique lipid cargoes in APOE4 human brain-derived extracellular vesicles recruit cell adhesion molecules and promote tauopathy in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12154133/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "hiPSC-neurons_recapitulate_the_subtype-specific_cell_intrinsic_nature_of_susceptibility_to_neurodegenerative_di__nih",
+   "title": "hiPSC-neurons recapitulate the subtype-specific cell intrinsic nature of susceptibility to neurodegenerative disease-relevant aggregation.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12087151/",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "ad",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/ad/tau_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_ad/tau",
+ "seed_set_matches_run_id": false,
+ "target_total_papers": null,
+ "actual_total_papers": 106,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}

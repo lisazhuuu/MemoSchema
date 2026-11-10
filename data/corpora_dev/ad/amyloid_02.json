@@ -1,0 +1,1497 @@
+{
+ "batch": "dev",
+ "run": "amyloid_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "The_contribution_of_activated_astrocytes_to_A_production_Implications_for_Alzheimer_s_disease_pathogenesis__nature",
+   "title": "The contribution of activated astrocytes to Aβ production: Implications for Alzheimer's disease pathogenesis",
+   "doi": "10.1186/1742-2094-8-150",
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/81707750.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Detection_of_the_Alzheimer_s_disease_soluble_amyloid_precursor_protein_and_modulation_of_its_proteolytic_process__ac",
+   "title": "Detection of the Alzheimer's disease soluble amyloid precursor protein and modulation of its proteolytic processing",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/79054919.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Alzheimer_s_Disease_as_a_Membrane_Disorder_Spatial_Cross-Talk_Among_Beta-Amyloid_Peptides_Nicotinic_Acetylcholin__ac",
+   "title": "Alzheimer’s Disease as a Membrane Disorder: Spatial Cross-Talk Among Beta-Amyloid Peptides, Nicotinic Acetylcholine Receptors and Lipid Rafts",
+   "doi": "10.3389/fncel.2019.00309/full",
+   "source": "core",
+   "url": "https://core.ac.uk/download/287882156.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Alzheimer_s_disease_mutations_in_APP_but_not_-secretase_modulators_affect_epsilon-cleavage-dependent_AICD_pr__nature",
+   "title": "Alzheimer's disease mutations in APP but not γ-secretase modulators affect epsilon-cleavage-dependent AICD production",
+   "doi": "10.1038/ncomms3246",
+   "source": "core",
+   "url": "https://core.ac.uk/download/147997574.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Determining_the_mechanism_of_dichloroacetate-regulated_processing_of_the_Alzheimer_s_disease-related_amyloid_pre__ac",
+   "title": "Determining the mechanism of dichloroacetate-regulated processing of the Alzheimer’s disease-related amyloid precursor protein",
+   "doi": "10.17635/lancaster/thesis/564",
+   "source": "core",
+   "url": "https://core.ac.uk/download/196590592.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Neuroprotectin_D1_induces_neuronal_survival_and_downregulation_of_amyloidogenic_processing_in_Alzheimer_s_disea__nih",
+   "title": "Neuroprotectin D1 induces neuronal survival and downregulation of amyloidogenic processing in Alzheimer's disease cellular models.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12866416/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Advances_in_the_cell_biology_of_the_trafficking_and_processing_of_amyloid_precursor_protein_impact_of_familial___nih",
+   "title": "Advances in the cell biology of the trafficking and processing of amyloid precursor protein: impact of familial Alzheimer's disease mutations.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11555708/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Levetiracetam_prevents_A_42_production_through_SV2a-dependent_modulation_of_App_processing_in_Alzheimer_s_disea__nih",
+   "title": "Levetiracetam prevents Aβ(42) production through SV2a-dependent modulation of App processing in Alzheimer's disease models.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11565754/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Alteration_in_synaptic_nanoscale_organization_dictates_amyloidogenic_processing_in_Alzheimer_s_disease.__nih",
+   "title": "Alteration in synaptic nanoscale organization dictates amyloidogenic processing in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7773964/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Targeting_Amyloidogenic_Processing_of_APP_in_Alzheimer_s_Disease.__nih",
+   "title": "Targeting Amyloidogenic Processing of APP in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7418514/"
+  },
+  {
+   "round": 1,
+   "paper_id": "miR-143-3p_Inhibits_Aberrant_Tau_Phosphorylation_and_Amyloidogenic_Processing_of_APP_by_Directly_Targeting_DAPK__nih",
+   "title": "miR-143-3p Inhibits Aberrant Tau Phosphorylation and Amyloidogenic Processing of APP by Directly Targeting DAPK1 in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9317260/"
+  },
+  {
+   "round": 1,
+   "paper_id": "MicroRNA_networks_surrounding_APP_and_amyloid-_metabolism_-_implications_for_Alzheimer_s_disease__ac",
+   "title": "MicroRNA networks surrounding APP and amyloid-β metabolism - implications for Alzheimer's disease",
+   "doi": "10.1016/j.expneurol.2011.11.013",
+   "source": "core",
+   "url": "https://core.ac.uk/download/19773938.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "-Secretase_modulators_show_selectivity_for_-secretase_mediated_amyloid_precursor_protein_intramembrane_processin__ac",
+   "title": "γ-Secretase modulators show selectivity for γ-secretase–mediated amyloid precursor protein intramembrane processing",
+   "doi": "10.1111/jcmm.17146",
+   "source": "core",
+   "url": "https://core.ac.uk/download/519716494.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Regulation_of_the_metabolism_of_the_Alzheimer_s_amyloid_precursor_protein_by_contactin_5_and_BIN1__ac",
+   "title": "Regulation of the metabolism of the Alzheimer's amyloid precursor protein by contactin 5 and BIN1",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/9848413.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigating_the_Role_of_the_Amyloid_Precursor_Protein_in_the_Pathogenesis_of_Alzheimer_s_Disease__ac",
+   "title": "Investigating the Role of the Amyloid Precursor Protein in the Pathogenesis of Alzheimer's Disease",
+   "doi": "10.7916/d8kp884b",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161437581.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Regulation_of_Extracellular_Amyloid-_Levels_by_Ionotropic_Glutamatergic_Transmission_in_an_Alzheimer_s_Disea__ac",
+   "title": "The Regulation of Extracellular Amyloid-β Levels by Ionotropic Glutamatergic Transmission in an Alzheimer’s Disease Mouse Model",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/233214088.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Development_of_a_human_cell_model_of_amyloid_seeding_and_aggregation_to_investigate_Alzheimer_s_Disease_patholog__ac",
+   "title": "Development of a human cell model of amyloid β seeding and aggregation to investigate Alzheimer's Disease pathology",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/158357458.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Behavioral_and_histochemical_characterization_of_a_novel_BACE_Knockout_x_PDAPP_mouse_model_of_Alzheimer_s_Diseas__ac",
+   "title": "Behavioral and histochemical characterization of a novel BACE Knockout x PDAPP mouse model of Alzheimer's Disease: examination of potential effects of BACE inhibition on Alzheimer's Disease and the role of APP, Aβ and BACE in normal and pathological memory function",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/429736006.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Investigating_the_role_of_normal_and_abnormal_beta-amyloid_processing_in_cognition__ac",
+   "title": "Investigating the role of normal and abnormal beta-amyloid processing in cognition",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/444055898.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "The_Amyloid-_Pathway_in_Alzheimer_s_Disease__nature",
+   "title": "The Amyloid-β Pathway in Alzheimer’s Disease",
+   "doi": "10.1038/s41380-021-01249-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W3198052269"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_34_is_a_BACE1-derived_degradation_intermediate_associated_with_amyloid_clearance_and_Alzheimer_s_disease_progr__ac",
+   "title": "Aβ34 is a BACE1-derived degradation intermediate associated with amyloid clearance and Alzheimer’s disease progression",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/212869066.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Alzheimer_s_Amyloid-_is_an_Antimicrobial_Peptide_A_Review_of_the_Evidence__ac",
+   "title": "Alzheimer's Amyloid-β is an Antimicrobial Peptide: A Review of the Evidence",
+   "doi": "10.3233/jad-171133",
+   "source": "core",
+   "url": "https://core.ac.uk/download/159573112.pdf"
+  },
+  {
+   "round": 1,
+   "paper_id": "Intraneuronal_-Amyloid_Aggregates_Neurodegeneration_and_Neuron_Loss_in_Transgenic_Mice_with_Five_Familial___openalex",
+   "title": "Intraneuronal β-Amyloid Aggregates, Neurodegeneration, and Neuron Loss in Transgenic Mice with Five Familial Alzheimer's Disease Mutations: Potential Factors in Amyloid Plaque Formation",
+   "doi": "10.1523/jneurosci.1202-06.2006",
+   "source": "openalex",
+   "url": "https://openalex.org/W2170644095"
+  },
+  {
+   "round": 1,
+   "paper_id": "Inhibition_of_mTOR_by_Rapamycin_Abolishes_Cognitive_Deficits_and_Reduces_Amyloid-_Levels_in_a_Mouse_Model___openalex",
+   "title": "Inhibition of mTOR by Rapamycin Abolishes Cognitive Deficits and Reduces Amyloid-β Levels in a Mouse Model of Alzheimer's Disease",
+   "doi": "10.1371/journal.pone.0009979",
+   "source": "openalex",
+   "url": "https://openalex.org/W2037653131"
+  },
+  {
+   "round": 1,
+   "paper_id": "Reconsideration_of_Amyloid_Hypothesis_and_Tau_Hypothesis_in_Alzheimer_s_Disease__openalex",
+   "title": "Reconsideration of Amyloid Hypothesis and Tau Hypothesis in Alzheimer's Disease",
+   "doi": "10.3389/fnins.2018.00025",
+   "source": "openalex",
+   "url": "https://openalex.org/W2790798430"
+  },
+  {
+   "round": 1,
+   "paper_id": "Amyloid_-based_therapy_for_Alzheimer_s_disease_challenges_successes_and_future__nature",
+   "title": "Amyloid β-based therapy for Alzheimer’s disease: challenges, successes and future",
+   "doi": "10.1038/s41392-023-01484-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W4382601497"
+  },
+  {
+   "round": 1,
+   "paper_id": "Glucocorticoids_Increase_Amyloid-_and_Tau_Pathology_in_a_Mouse_Model_of_Alzheimer_s_Disease__openalex",
+   "title": "Glucocorticoids Increase Amyloid-β and Tau Pathology in a Mouse Model of Alzheimer’s Disease",
+   "doi": "10.1523/jneurosci.2797-06.2006",
+   "source": "openalex",
+   "url": "https://openalex.org/W2031353556"
+  },
+  {
+   "round": 1,
+   "paper_id": "Synaptic_NMDA_Receptor_Activation_Stimulates_-Secretase_Amyloid_Precursor_Protein_Processing_and_Inhibits___openalex",
+   "title": "Synaptic NMDA Receptor Activation Stimulates α-Secretase Amyloid Precursor Protein Processing and Inhibits Amyloid-β Production",
+   "doi": "10.1523/jneurosci.6017-08.2009",
+   "source": "openalex",
+   "url": "https://openalex.org/W1983247143"
+  },
+  {
+   "round": 1,
+   "paper_id": "Novel_upregulation_of_amyloid-_precursor_protein_APP_by_microRNA-346_via_targeting_of_APP_mRNA_5_-untranslat__nature",
+   "title": "Novel upregulation of amyloid-β precursor protein (APP) by microRNA-346 via targeting of APP mRNA 5′-untranslated region: Implications in Alzheimer’s disease",
+   "doi": "10.1038/s41380-018-0266-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W2900885821"
+  },
+  {
+   "round": 2,
+   "paper_id": "AMPA_receptor_activation_promotes_non-amyloidogenic_amyloid_precursor_protein_processing_and_suppresses_neuronal__ac",
+   "title": "AMPA receptor activation promotes non-amyloidogenic amyloid precursor protein processing and suppresses neuronal amyloid-β production",
+   "doi": "10.1371/journal.pone.0078155",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161911970.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Sodium_dichloroacetate_DCA_impairs_-secretase-mediated_proteolysis_of_the_alzheimer_s_disease_amyloid_precursor___ac",
+   "title": "Sodium dichloroacetate (DCA) impairs β-secretase-mediated proteolysis of the alzheimer's disease amyloid precursor protein (APP)",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/554144016.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Alzheimer_disease_subcellular_A_mechanisms_and_treatment_strategies__ac",
+   "title": "Alzheimer disease : subcellular Aβ mechanisms and treatment strategies",
+   "doi": "10.3390/ijms22094530",
+   "source": "core",
+   "url": "https://core.ac.uk/download/553614385.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Is_the_Amyloid_Hypothesis_of_Alzheimer_s_disease_therapeutically_relevant__ac",
+   "title": "Is the Amyloid Hypothesis of Alzheimer’s disease therapeutically relevant?",
+   "doi": "10.7916/d8348hgv",
+   "source": "core",
+   "url": "https://core.ac.uk/download/161447129.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Amyloid_precursor_protein_APP_and_amyloid_A_interact_with_cell_adhesion_molecules_Implications_in_Alzheimer_s_di__ac",
+   "title": "Amyloid precursor protein (APP) and amyloid β (Aβ) interact with cell adhesion molecules: Implications in Alzheimer’s disease and normal physiology",
+   "doi": "10.3389/fcell.2022.969547",
+   "source": "core",
+   "url": "https://core.ac.uk/download/543871517.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Nanoelectrochemical_analysis_of_neurotransmitter_release_in_cell_models_of_Alzheimer_s_disease__ac",
+   "title": "Nanoelectrochemical analysis of neurotransmitter release in cell models of Alzheimer's disease",
+   "doi": "10.1021/jacs.4c08450",
+   "source": "core",
+   "url": "https://core.ac.uk/download/631531791.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Amyloid-_1-42_Peptide_Induces_Neutral_Lipids_Accumulation_in_Hippocampal_Neurons_in_Normal_and_Alzheimer_s_Disea__ac",
+   "title": "Amyloid-β(1-42) Peptide Induces Neutral Lipids Accumulation in Hippocampal Neurons in Normal and Alzheimer’s Disease Aging Models, Lipid Environment Remodeling Revealed by Hyperspectral Imaging and the Phasor Approach",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/667587985.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Nanoscale_Characterization_of_Melatonin_and_Amyloid_Beta_in_Model_Membranes-_in_Relation_to_Alzheimer_s_Disease__ac",
+   "title": "Nanoscale Characterization of Melatonin and Amyloid Beta in Model Membranes- in Relation to Alzheimer's Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/144147901.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "APP_processing_in_Alzheimer_s_disease__nature",
+   "title": "APP processing in Alzheimer's disease",
+   "doi": "10.1186/1756-6606-4-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W2110495164"
+  },
+  {
+   "round": 2,
+   "paper_id": "Amylin_and_pramlintide_modulate_-secretase_activity_and_APP_processing_in_lipid_rafts__ac",
+   "title": "Amylin and pramlintide modulate γ-secretase activity and APP processing in lipid rafts",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/650419615.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Alzheimer_u27s_Disease_Cholesterol_Membrane_Rafts_Isoprenoids_and_Statins__ac",
+   "title": "Alzheimer\\u27s Disease: Cholesterol, Membrane Rafts, Isoprenoids and Statins",
+   "doi": "10.1111/j.1582-4934.2007.00054.x",
+   "source": "core",
+   "url": "https://core.ac.uk/download/231121629.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Identifying_positional_candidate_genes_on_chromosome_10_that_are_involved_in_APP_processing__ac",
+   "title": "Identifying positional candidate genes on chromosome 10 that are involved in APP processing",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/190335698.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Role_of_Calcium_in_Inflammation_Relevance_to_Alzheimer_u27s_Disease__ac",
+   "title": "Role of Calcium in Inflammation: Relevance to Alzheimer\\u27s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/46951328.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "LRP-1_and_LRP-2_receptors_function_in_the_membrane_neuron._Trafficking_mechanisms_and_proteolytic_processi__openalex",
+   "title": "LRP-1 and LRP-2 receptors function in the membrane neuron. Trafficking mechanisms and proteolytic processing in Alzheimer's disease",
+   "doi": "10.3389/fphys.2012.00269",
+   "source": "openalex",
+   "url": "https://openalex.org/W2072082423"
+  },
+  {
+   "round": 2,
+   "paper_id": "Amyloid_-protein_oligomers_and_Alzheimer_s_disease__nature",
+   "title": "Amyloid β-protein oligomers and Alzheimer’s disease",
+   "doi": "10.1186/alzrt226",
+   "source": "openalex",
+   "url": "https://openalex.org/W2101027386"
+  },
+  {
+   "round": 2,
+   "paper_id": "Conformation-specific_antibodies_to_target_amyloid_oligomers_and_their_application_to_immunotherapy_for_Alzheime__ac",
+   "title": "Conformation-specific antibodies to target amyloid β oligomers and their application to immunotherapy for Alzheimer's disease.",
+   "doi": "10.1080/09168451.2014.940275",
+   "source": "core",
+   "url": "https://core.ac.uk/download/39323892.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_molecular_mechanisms_linking_amyloid-beta_the_prion_protein_and_tau_in_Alzheimer_s_disease__ac",
+   "title": "The molecular mechanisms linking amyloid-beta, the prion protein and tau in Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/80850630.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Correlative_Chemical_Imaging_of_Amyloid_Plaque_Pathology_in_Alzheimer_s_Disease__ac",
+   "title": "Correlative Chemical Imaging of Amyloid Plaque Pathology in Alzheimer’s Disease",
+   "doi": "10.1021/jacsau.2c00492",
+   "source": "core",
+   "url": "https://core.ac.uk/download/631531643.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "METAPLASTICITY_IN_A_MOUSE_MODEL_OF_ALZHEIMER_S_DISEASE_AND_POSSIBLE_THERAPEUTIC_INTERVENTIONS__ac",
+   "title": "METAPLASTICITY IN A MOUSE MODEL OF ALZHEIMER’S DISEASE AND POSSIBLE THERAPEUTIC INTERVENTIONS",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/424784042.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterisation_of_transgenic_mouse_models_of_Alzheimer_s_disease__ac",
+   "title": "Characterisation of transgenic mouse models of Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/40004073.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Characterisation_of_transgenic_mouse_models_of_Alzheimer_s_disease__ac",
+   "title": "Characterisation of transgenic mouse models of Alzheimer's disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/40004073.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "-Amyloid_and_the_Pathomechanisms_of_Alzheimer_s_Disease_A_Comprehensive_View.__nih",
+   "title": "β-Amyloid and the Pathomechanisms of Alzheimer's Disease: A Comprehensive View.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6151811/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Amyloid_-Induced_Inflammarafts_in_Alzheimer_s_Disease.__nih",
+   "title": "Amyloid β-Induced Inflammarafts in Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12111532/"
+  },
+  {
+   "round": 2,
+   "paper_id": "INTEGRATION_OF_DIFFERENT_PATHWAYS_IN_EARLY_STAGE_OF_ALZHEIMER_apos_S_DISEASE_PATHOGENESIS_FROM_ACTIN_REMODELLING__ac",
+   "title": "INTEGRATION OF DIFFERENT PATHWAYS IN EARLY STAGE OF ALZHEIMER&apos;S DISEASE PATHOGENESIS, FROM ACTIN REMODELLING TO A&amp;#914; FORMATION",
+   "doi": "10.13130/pelucchi-silvia-cecilia_phd2017-01-27",
+   "source": "core",
+   "url": "https://core.ac.uk/download/187962746.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_role_of_DKK3_in_synapse_dynamics_in_the_adult_hippocampus_and_in_Alzheimer_s_Disease__ac",
+   "title": "The role of DKK3 in synapse dynamics in the adult hippocampus and in Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/336578797.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Determinants_for_Alzheimer_s_Disease_An_Exploration_of_Metabolic_and_Clinical_Risk_Factors.__ac",
+   "title": "Determinants for Alzheimer’s Disease: An Exploration of Metabolic and Clinical Risk Factors.",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/638992557.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigation_of_synaptic_dysfunction_in_Alzheimer_s_disease__ac",
+   "title": "Investigation of synaptic dysfunction in Alzheimer’s disease",
+   "doi": "10.7488/ds/2133.",
+   "source": "core",
+   "url": "https://core.ac.uk/download/429728955.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Apolipoprotein_E_and_propagation_of_pathological_tau_in_Alzheimer_s_Disease__ac",
+   "title": "Apolipoprotein E and  propagation of pathological tau  in Alzheimer’s Disease",
+   "doi": "10.7488/era/1657",
+   "source": "core",
+   "url": "https://core.ac.uk/download/491156758.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Effects_of_the_Pentapeptide_P33_on_Memory_and_Synaptic_Plasticity_in_APP_PS1_Transgenic_Mice_A_Novel_Mechanism_P__ac",
+   "title": "Effects of the Pentapeptide P33 on Memory and Synaptic Plasticity in APP/PS1 Transgenic Mice: A Novel Mechanism Presenting the Protein Fe65 as a Target",
+   "doi": "10.3390/ijms20123050",
+   "source": "core",
+   "url": "https://core.ac.uk/download/479407964.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_A_A2V_paradigm_From_molecular_insights_to_therapeutic_strategies_in_Alzheimer_s_disease_and_primary_tauopath__ac",
+   "title": "The AβA2V paradigm: From molecular insights to therapeutic strategies in Alzheimer's disease and primary tauopathies",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/635938668.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "THE_ROLE_OF_NEURONAL_CALCIUM_SENSOR_PROTEIN_VILIP-1_IN_A_-INDUCED_NEURONAL_DEATH_IN_ALZHEIMER_DISEASE__ac",
+   "title": "THE ROLE OF NEURONAL CALCIUM SENSOR PROTEIN VILIP-1 IN Aβ-INDUCED NEURONAL DEATH IN ALZHEIMER DISEASE",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/33562751.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Copper_toxicity_links_to_pathogenesis_of_Alzheimer_s_disease_and_therapeutics_approaches__ac",
+   "title": "Copper toxicity links to pathogenesis of Alzheimer’s disease and therapeutics approaches",
+   "doi": "10.3390/ijms21207660",
+   "source": "core",
+   "url": "https://core.ac.uk/download/356679198.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Structural_aspects_of_the_plasmalemmal_Amyloid_Precursor_Protein_cluster__ac",
+   "title": "Structural aspects of the plasmalemmal Amyloid Precursor Protein cluster",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/618187308.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigating_protein-_protein_interactions_in_order_to_develop_novel_therapeutics_for_the_treatment_of_Alzheime__ac",
+   "title": "Investigating protein- protein interactions in order to develop novel therapeutics for the treatment of Alzheimer’s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/13120239.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Investigating_Cell-type_Specific_Neuropathology_in_knock-in_APP_and_tau_Mouse_Models_of_Alzheimer_s_Disease_Corr__ac",
+   "title": "Investigating Cell-type Specific Neuropathology in knock-in APP and tau Mouse Models of Alzheimer’s Disease Correlated with Cognitive Deficits and Anxiety",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/637015321.pdf"
+  },
+  {
+   "round": 2,
+   "paper_id": "Targeted_Nanoparticles_for_the_Treatment_of_Alzheimer_s_Disease__openalex",
+   "title": "Targeted Nanoparticles for the Treatment of Alzheimer's Disease",
+   "doi": "10.2174/1381612822666161226151011",
+   "source": "openalex",
+   "url": "https://openalex.org/W2591108686"
+  },
+  {
+   "round": 2,
+   "paper_id": "CRISPR_Cas9-Based_therapeutics_as_a_promising_strategy_for_management_of_Alzheimer_s_disease_progress_and___openalex",
+   "title": "CRISPR/Cas9-Based therapeutics as a promising strategy for management of Alzheimer’s disease: progress and prospects",
+   "doi": "10.3389/fncel.2025.1578138",
+   "source": "openalex",
+   "url": "https://openalex.org/W4409206163"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bridging_systemic_metabolic_dysfunction_and_Alzheimer_s_disease_the_liver_interface__nature",
+   "title": "Bridging systemic metabolic dysfunction and Alzheimer’s disease: the liver interface",
+   "doi": "10.1186/s13024-025-00849-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W4410796077"
+  },
+  {
+   "round": 2,
+   "paper_id": "Psychoactive_substances_novel_molecular_insights_and_therapeutic_potential_for_Alzheimer_s_disease__nature",
+   "title": "Psychoactive substances: novel molecular insights and therapeutic potential for Alzheimer's disease",
+   "doi": "10.1186/s40035-025-00498-1",
+   "source": "openalex",
+   "url": "https://openalex.org/W4412708184"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_structure_and_function_of_Alzheimer_s_gamma_secretase_enzyme_complex__ac",
+   "title": "The structure and function of Alzheimer's gamma secretase enzyme complex",
+   "doi": "10.3109/10408360903335821",
+   "source": "core",
+   "url": "https://core.ac.uk/download/195674693.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Endogenous_Regulators_of_Gamma-Secretase_and_Amyloid-Beta_Production_and_Engineering_of_Alzheimer_s_Disease_Ther__ac",
+   "title": "Endogenous Regulators of Gamma-Secretase and Amyloid-Beta Production, and Engineering of Alzheimer's Disease Therapeutic Tools",
+   "doi": "10.5075/epfl-thesis-6897",
+   "source": "core",
+   "url": "https://core.ac.uk/download/148019665.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Roles_of_the_Insulin-like_Growth_Factor-II_Cation-independent_Mannose_6-phosphate_Receptor_and_Cathepsin_D_in_Al__ac",
+   "title": "Roles of the Insulin-like Growth Factor-II/Cation-independent Mannose 6-phosphate Receptor and Cathepsin D in Alzheimer’s Disease Pathology",
+   "doi": "10.7939/r3bg2hr4j",
+   "source": "core",
+   "url": "https://core.ac.uk/download/668357018.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Biological_and_methodological_complexities_of_beta_amyloid_peptide_Implications_for_Alzheimer_s_disease_re__openalex",
+   "title": "Biological and methodological complexities of beta‐amyloid peptide: Implications for Alzheimer’s disease research",
+   "doi": "10.1111/jnc.15538",
+   "source": "openalex",
+   "url": "https://openalex.org/W3213471062"
+  },
+  {
+   "round": 3,
+   "paper_id": "Neuromodulatory_effect_of_vardenafil_on_aluminium_chloride_d-galactose_induced_Alzheimer_s_disease_in_rats_e__nature",
+   "title": "Neuromodulatory effect of vardenafil on aluminium chloride/d-galactose induced Alzheimer’s disease in rats: emphasis on amyloid-beta, p-tau, PI3K/Akt/p53 pathway, endoplasmic reticulum stress, and cellular senescence",
+   "doi": "10.1007/s10787-023-01287-w",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384522129"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_low-density_lipoprotein_receptor-related_protein_1_and_amyloid-_clearance_in_Alzheimer_s_disease__openalex",
+   "title": "The low-density lipoprotein receptor-related protein 1 and amyloid-Î² clearance in Alzheimerâ€™s disease",
+   "doi": "10.3389/fnagi.2014.00093",
+   "source": "openalex",
+   "url": "https://openalex.org/W2003708432"
+  },
+  {
+   "round": 3,
+   "paper_id": "Assessment_of_microglia_influence_in_synaptic_transmission_and_early_amyloid-_plaque_deposition_in_knock-in_mous__ac",
+   "title": "Assessment of microglia influence in synaptic transmission and early amyloid-β plaque deposition in knock-in mouse models for Alzheimer`s disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/483550628.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cellular_Physiology_and_Cell-to-Cell_Propagation_of_Tau_in_Neurodegeneration_The_Impact_of_Late-Onset_Alzheimer___ac",
+   "title": "Cellular Physiology and Cell-to-Cell Propagation of Tau in Neurodegeneration : The Impact of Late-Onset Alzheimer's Disease Susceptibility Genes",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/33738834.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Amyloid-beta_Pathway_in_Alzheimer_s_Disease__ac",
+   "title": "The Amyloid-beta Pathway in Alzheimer's Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/480391484.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Early_Events_That_Initiate_-Amyloid_Aggregation_in_Alzheimer_s_Disease__ac",
+   "title": "The Early Events That Initiate β-Amyloid Aggregation in Alzheimer’s Disease",
+   "doi": "10.3389/fnagi.2018.00359",
+   "source": "core",
+   "url": "https://core.ac.uk/download/201736803.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "MicroRNA-137_181c_Regulates_Serine_Palmitoyltransferase_and_In_Turn_Amyloid_Novel_Targets_in_Sporadic_Alzh__openalex",
+   "title": "MicroRNA-137/181c Regulates Serine Palmitoyltransferase and In Turn Amyloid β, Novel Targets in Sporadic Alzheimer's Disease",
+   "doi": "10.1523/jneurosci.3883-11.2011",
+   "source": "openalex",
+   "url": "https://openalex.org/W2055103272"
+  },
+  {
+   "round": 3,
+   "paper_id": "Relationship_Between_Amyloid-_Deposition_and_Blood_Brain_Barrier_Dysfunction_in_Alzheimer_s_Disease__openalex",
+   "title": "Relationship Between Amyloid-β Deposition and Blood–Brain Barrier Dysfunction in Alzheimer’s Disease",
+   "doi": "10.3389/fncel.2021.695479",
+   "source": "openalex",
+   "url": "https://openalex.org/W3186565724"
+  },
+  {
+   "round": 3,
+   "paper_id": "Delta-secretase_cleaves_amyloid_precursor_protein_and_regulates_the_pathogenesis_in_Alzheimer_s_disease__nature",
+   "title": "Delta-secretase cleaves amyloid precursor protein and regulates the pathogenesis in Alzheimer’s disease",
+   "doi": "10.1038/ncomms9762",
+   "source": "openalex",
+   "url": "https://openalex.org/W2192805543"
+  },
+  {
+   "round": 3,
+   "paper_id": "ENDOCYTIC_TRAFFICKING_OF_THE_AMYLOID_PRECURSOR_PROTEIN_IN_RAT_CORTICAL_NEURONS__ac",
+   "title": "ENDOCYTIC TRAFFICKING OF THE AMYLOID PRECURSOR PROTEIN IN RAT CORTICAL NEURONS",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/151746108.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Comparison_of_the_amyloid_plaque_proteome_in_Down_syndrome_early-onset_Alzheimer_s_disease_and_late-onset_Al__nature",
+   "title": "Comparison of the amyloid plaque proteome in Down syndrome, early-onset Alzheimer's disease, and late-onset Alzheimer's disease",
+   "doi": "10.1007/s00401-025-02844-z",
+   "source": "core",
+   "url": "https://core.ac.uk/download/688676378.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Roles_Of_Readily_Releasable_Stores_Of_Endolysosome_Iron_In_The_Pathogenesis_And_Treatment_Of_Alzheimer_u27s___ac",
+   "title": "The Roles Of Readily Releasable Stores Of Endolysosome Iron In The Pathogenesis And Treatment Of Alzheimer\\u27s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/669694304.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Stress_and_Rab35_modulate_Alzheimer_s_disease-related_protein_trafficking__ac",
+   "title": "Stress and Rab35 modulate Alzheimer’s disease-related protein trafficking",
+   "doi": "10.7916/d8-fk2b-eb93",
+   "source": "core",
+   "url": "https://core.ac.uk/download/482689550.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "-Secretase_mediated_proteolytic_processing_of_the_triggering_receptor_expressed_on_myeloid_cells-2_functional_im__ac",
+   "title": "γ-Secretase mediated proteolytic processing of the triggering receptor expressed on myeloid cells-2 : functional implications for intracellular signaling",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/304639254.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Exploiting_formyl_peptide_receptor_2_to_promote_microglial_resolution_a_new_approach_to_Alzheimer_s_disease_trea__ac",
+   "title": "Exploiting formyl peptide receptor 2 to promote microglial resolution: a new approach to Alzheimer's disease treatment.",
+   "doi": "10.1111/febs.15861",
+   "source": "core",
+   "url": "https://core.ac.uk/download/417928825.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Microglia_in_Alzheimer_s_Disease_Risk_Factors_and_Inflammation__ac",
+   "title": "Microglia in Alzheimer's Disease: Risk Factors and Inflammation",
+   "doi": "10.3389/fneur.2018.00978",
+   "source": "core",
+   "url": "https://core.ac.uk/download/201615692.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Molecular_Mechanisms_of_Synaptotoxicity_and_Neuroinflammation_in_Alzheimer_s_Disease__ac",
+   "title": "Molecular Mechanisms of Synaptotoxicity and Neuroinflammation in Alzheimer’s Disease",
+   "doi": "10.3389/fnins.2018.00963",
+   "source": "core",
+   "url": "https://core.ac.uk/download/201563153.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_genetic_and_molecular_understanding_of_Alzheimer_u27s_disease__ac",
+   "title": "Advances in genetic and molecular understanding of Alzheimer\\u27s disease",
+   "doi": "10.3390/genes12081247",
+   "source": "core",
+   "url": "https://core.ac.uk/download/480388838.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Neuroinflammation_microglia_and_the_cell_biology_of_Alzheimer_s_Disease__ac",
+   "title": "Neuroinflammation, microglia and the cell biology of Alzheimer's Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/322961870.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Neuroinflammation_and_its_resolution_in_Alzheimer_s_disease__ac",
+   "title": "Neuroinflammation and its resolution in Alzheimer's disease",
+   "doi": "10.2174/1567205018666210330162207",
+   "source": "core",
+   "url": "https://core.ac.uk/download/459196054.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "TREM2_dependent_and_independent_functions_of_microglia_in_Alzheimer_u27s_disease__nature",
+   "title": "TREM2 dependent and independent functions of microglia in Alzheimer\\u27s disease",
+   "doi": "10.1186/s13024-022-00588-y",
+   "source": "core",
+   "url": "https://core.ac.uk/download/591667231.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Trem2_Deficiency_Differentially_Affects_the_Phenotype_and_Transcriptome_of_Human_APOE3_and_APOE4_mice_The_Role_o__ac",
+   "title": "Trem2 Deficiency Differentially Affects the Phenotype and Transcriptome of Human APOE3 and APOE4 mice: The Role of APOE and TREM2 in Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/333874050.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_impact_of_amyloid_plaques_on_surrounding_tissue_with_particular_focus_on_microglia__ac",
+   "title": "Investigating the impact of amyloid plaques on surrounding tissue with particular focus on microglia",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/672899667.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "New_insights_in_lipid_metabolism_potential_therapeutic_targets_for_the_treatment_of_Alzheimer_s_disease__ac",
+   "title": "New insights in lipid metabolism: potential therapeutic targets for the treatment of Alzheimer’s disease",
+   "doi": "10.3389/fnins.2024.1430465",
+   "source": "core",
+   "url": "https://core.ac.uk/download/629506950.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Interplay_Between_the_Neuronal_Plasma_Membrane_and_Cell_Signaling_in_Alzheimer_s_Disease__ac",
+   "title": "The Interplay Between the Neuronal Plasma Membrane and Cell Signaling in Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/561009139.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Neurometabolic_alterations_after_traumatic_brain_injury_Links_to_mitochondria-associated_ER_membranes_and_Alzhei__ac",
+   "title": "Neurometabolic alterations after traumatic brain injury: Links to mitochondria-associated ER membranes and Alzheimer’s disease",
+   "doi": "10.7916/d8-njy3-9h22",
+   "source": "core",
+   "url": "https://core.ac.uk/download/395050351.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cellular_Uptake_of_Amyloid_Forming_Proteins_Related_to_Neurodegenerative_Disease__ac",
+   "title": "Cellular Uptake of Amyloid Forming Proteins Related to Neurodegenerative Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/287066161.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "__ac",
+   "title": "고농도 포도당에 의한 엔도리소좀 기능장애가 신경세포의 아밀로이드 베타 축적에 미치는 영향",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/577805239.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "APP_cellular_biology_in_a_mouse_model_of_Down_syndrome__ac",
+   "title": "APP cellular biology in a mouse model of Down syndrome",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/428359366.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Amyloid_Proteins_in_Neurodegenerative_Disease_Role_of_Extrinsic_Modifiers__ac",
+   "title": "Amyloid Proteins in Neurodegenerative Disease – Role of Extrinsic Modifiers",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/553664713.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "BACE1_Cleavage_Site_Selection_Critical_for_Amyloidogenesis_and_Alzheimer_s_Pathogenesis__openalex",
+   "title": "BACE1 Cleavage Site Selection Critical for Amyloidogenesis and Alzheimer's Pathogenesis",
+   "doi": "10.1523/jneurosci.0340-17.2017",
+   "source": "openalex",
+   "url": "https://openalex.org/W2624778884"
+  },
+  {
+   "round": 3,
+   "paper_id": "Alzheimer_s_disease_a_comprehensive_review_of_epidemiology_risk_factors_symptoms_diagnosis_management_care__openalex",
+   "title": "Alzheimer's disease: a comprehensive review of epidemiology, risk factors, symptoms diagnosis, management, caregiving, advanced treatments and associated challenges",
+   "doi": "10.3389/fmed.2024.1474043",
+   "source": "openalex",
+   "url": "https://openalex.org/W4405457019"
+  },
+  {
+   "round": 3,
+   "paper_id": "Discovery_and_characterisation_of_anti-amyloid_beta_fibril_antibodies_from_naive_phage_display_VHH_libraries__ac",
+   "title": "Discovery and characterisation of anti-amyloid beta fibril antibodies from naive phage display VHH libraries",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/552444871.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Photobiomodulation_in_experimental_models_of_Alzheimer_s_disease_state-of-the-art_and_translational_perspect__nature",
+   "title": "Photobiomodulation in experimental models of Alzheimer’s disease: state-of-the-art and translational perspectives",
+   "doi": "10.1186/s13195-024-01484-x",
+   "source": "openalex",
+   "url": "https://openalex.org/W4398173192"
+  },
+  {
+   "round": 3,
+   "paper_id": "ADAM10_isoforms_Optimizing_usage_of_antibodies_based_on_protein_regulation_structural_features_biological___openalex",
+   "title": "ADAM10 isoforms: Optimizing usage of antibodies based on protein regulation, structural features, biological activity and clinical relevance to Alzheimer’s disease",
+   "doi": "10.1016/j.arr.2024.102464",
+   "source": "openalex",
+   "url": "https://openalex.org/W4401833590"
+  },
+  {
+   "round": 3,
+   "paper_id": "Biochemical_and_Structural_Studies_on_Amyloid_Aggregation_in_C._elegans__ac",
+   "title": "Biochemical and Structural Studies on Amyloid Aggregation in C. elegans",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/618576011.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Biophysical_investigation_on_therapeutic_proteins_Chaperonins_Hsp60_and_CCT_TRiC_involved_in_human_diseases__ac",
+   "title": "Biophysical investigation on therapeutic proteins  (Chaperonins, Hsp60 and CCT/TRiC) involved in human diseases",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/80167179.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Pathological_changes_within_the_cerebral_vasculature_in_Alzheimer_s_disease_New_perspectives__ac",
+   "title": "Pathological changes within the cerebral vasculature in Alzheimer's disease:New perspectives",
+   "doi": "10.1111/bpa.13061",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "The_Effect_of_S1P-lyase_Deficiency_on_the_Metabolism_of_the_Alzheimer_s_related_Amyloid_Precursor_Protein__ac",
+   "title": "The Effect of S1P-lyase Deficiency on the Metabolism of the Alzheimer’s related Amyloid Precursor Protein",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/pdf/304639136.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cellular_fates_and_secretion_ofAlzheimer_s_disease-related_proteins_APP_and_tau__ac",
+   "title": "Cellular fates and secretion ofAlzheimer’s disease-related proteins APP and tau",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/335969354.pdf"
+  },
+  {
+   "round": 3,
+   "paper_id": "Association_of_Genes_Related_to_Amyloid-_and_Tau_Clearance_with_Alzheimer_s_Disease_Markers__ac",
+   "title": "Association of Genes Related to Amyloid-β and Tau Clearance with Alzheimer's Disease Markers",
+   "doi": null,
+   "source": "core",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "-Amyloid_and_the_Pathomechanisms_of_Alzheimer_s_Disease_A_Comprehensive_View.__nih",
+  "-Secretase_in_Alzheimer_s_disease__nature",
+  "-Secretase_modulators_show_selectivity_for_-secretase_mediated_amyloid_precursor_protein_intramembrane_processin__ac",
+  "ADAM10_isoforms_Optimizing_usage_of_antibodies_based_on_protein_regulation_structural_features_biological___openalex",
+  "AMPA_receptor_activation_promotes_non-amyloidogenic_amyloid_precursor_protein_processing_and_suppresses_neuronal__ac",
+  "APP_cellular_biology_in_a_mouse_model_of_Down_syndrome__ac",
+  "APP_lysine_612_lactylation_ameliorates_amyloid_pathology_and_memory_decline_in_Alzheimer_s_disease.__nih",
+  "APP_processing_in_Alzheimer_s_disease__nature",
+  "A_34_is_a_BACE1-derived_degradation_intermediate_associated_with_amyloid_clearance_and_Alzheimer_s_disease_progr__ac",
+  "A_novel_ferroptosis_inhibitor_Thonningianin_A_improves_Alzheimer_s_disease_by_activating_GPX4.__nih",
+  "Advances_in_genetic_and_molecular_understanding_of_Alzheimer_u27s_disease__ac",
+  "Advances_in_the_cell_biology_of_the_trafficking_and_processing_of_amyloid_precursor_protein_impact_of_familial___nih",
+  "Alzheimer_disease_models_and_human_neuropathology_similarities_and_differences__nature",
+  "Alzheimer_disease_subcellular_A_mechanisms_and_treatment_strategies__ac",
+  "Alzheimer_s_Amyloid-_is_an_Antimicrobial_Peptide_A_Review_of_the_Evidence__ac",
+  "Alzheimer_s_Disease_as_a_Membrane_Disorder_Spatial_Cross-Talk_Among_Beta-Amyloid_Peptides_Nicotinic_Acetylcholin__ac",
+  "Alzheimer_s_disease_a_comprehensive_review_of_epidemiology_risk_factors_symptoms_diagnosis_management_care__openalex",
+  "Alzheimer_s_disease_mutations_in_APP_but_not_-secretase_modulators_affect_epsilon-cleavage-dependent_AICD_pr__nature",
+  "Alzheimer_s_disease_pathogenesis_diagnostics_and_therapeutics.__nih",
+  "Alzheimer_u27s_Disease_Cholesterol_Membrane_Rafts_Isoprenoids_and_Statins__ac",
+  "Amylin_and_pramlintide_modulate_-secretase_activity_and_APP_processing_in_lipid_rafts__ac",
+  "Amyloid_-Induced_Inflammarafts_in_Alzheimer_s_Disease.__nih",
+  "Amyloid_-based_therapy_for_Alzheimer_s_disease_challenges_successes_and_future__nature",
+  "Amyloid_-protein_oligomers_and_Alzheimer_s_disease__nature",
+  "Amyloid_Proteins_in_Neurodegenerative_Disease_Role_of_Extrinsic_Modifiers__ac",
+  "Amyloid_beta_glycation_leads_to_neuronal_mitochondrial_dysfunction_and_Alzheimers_pathogenesis_through_VDAC__biorxiv",
+  "Amyloid_precursor_protein-mediated_mitochondrial_regulation_and_Alzheimer_s_disease.__nih",
+  "Amyloid_precursor_protein_APP_and_amyloid_A_interact_with_cell_adhesion_molecules_Implications_in_Alzheimer_s_di__ac",
+  "Apolipoprotein_E_and_Apolipoprotein_E_Receptors_Normal_Biology_and_Roles_in_Alzheimer_Disease__openalex",
+  "Application_of_Multiomics_Approach_to_Investigate_the_Therapeutic_Potentials_of_Stem_Cell-derived_Extracell__biorxiv",
+  "Assessment_of_microglia_influence_in_synaptic_transmission_and_early_amyloid-_plaque_deposition_in_knock-in_mous__ac",
+  "Association_of_Genes_Related_to_Amyloid-_and_Tau_Clearance_with_Alzheimer_s_Disease_Markers__ac",
+  "Astrocytic_and_microglial_cells_as_the_modulators_of_neuroinflammation_in_Alzheimer_s_disease__nature",
+  "BACE1_Cleavage_Site_Selection_Critical_for_Amyloidogenesis_and_Alzheimer_s_Pathogenesis__openalex",
+  "BACE1_inhibitor_drugs_in_clinical_trials_for_Alzheimer_s_disease__nature",
+  "Biological_and_methodological_complexities_of_beta_amyloid_peptide_Implications_for_Alzheimer_s_disease_re__openalex",
+  "Brain-derived_neurotrophic_factor_in_Alzheimer_s_disease_and_its_pharmaceutical_potential__nature",
+  "Bridging_systemic_metabolic_dysfunction_and_Alzheimer_s_disease_the_liver_interface__nature",
+  "Caracteriza_o_das_fun_es_neurotr_ficas_da_prote_na_precursora_de_amil_ide_de_Alzheimer__ac",
+  "Cell_invasive_amyloid_assemblies_from_SARS-CoV-2_peptides_can_form_multiple_polymorphs_with_varying_neuroto__biorxiv",
+  "Cellular_Uptake_of_Amyloid_Forming_Proteins_Related_to_Neurodegenerative_Disease__ac",
+  "Characterisation_of_transgenic_mouse_models_of_Alzheimer_s_disease__ac",
+  "Comparison_of_the_amyloid_plaque_proteome_in_Down_syndrome_early-onset_Alzheimer_s_disease_and_late-onset_Al__nature",
+  "Conformation-specific_antibodies_to_target_amyloid_oligomers_and_their_application_to_immunotherapy_for_Alzheime__ac",
+  "Contribution_of_Multivesicular_Bodies_to_the_Prion-Like_Propagation_of_Lesions_in_Alzheimer_s_Disease__openalex",
+  "Copper_toxicity_links_to_pathogenesis_of_Alzheimer_s_disease_and_therapeutics_approaches__ac",
+  "Correlative_Chemical_Imaging_of_Amyloid_Plaque_Pathology_in_Alzheimer_s_Disease__ac",
+  "Deciphering_the_Astrocyte_Reaction_in_Alzheimer_s_Disease__openalex",
+  "Deletion_of_Murine_APP_Aggravates_Tau_and_Amyloid_Pathologies_in_the_5xFADXTg30_Alzheimer_s_Disease_Model.__nih",
+  "Detection_of_the_Alzheimer_s_disease_soluble_amyloid_precursor_protein_and_modulation_of_its_proteolytic_process__ac",
+  "Determining_the_mechanism_of_dichloroacetate-regulated_processing_of_the_Alzheimer_s_disease-related_amyloid_pre__ac",
+  "Development_of_a_human_cell_model_of_amyloid_seeding_and_aggregation_to_investigate_Alzheimer_s_Disease_patholog__ac",
+  "ENDOCYTIC_TRAFFICKING_OF_THE_AMYLOID_PRECURSOR_PROTEIN_IN_RAT_CORTICAL_NEURONS__ac",
+  "Effects_of_the_Pentapeptide_P33_on_Memory_and_Synaptic_Plasticity_in_APP_PS1_Transgenic_Mice_A_Novel_Mechanism_P__ac",
+  "Efficient_production_of_a_mature_and_functional_gamma_secretase_protease__ac",
+  "Endogenous_Regulators_of_Gamma-Secretase_and_Amyloid-Beta_Production_and_Engineering_of_Alzheimer_s_Disease_Ther__ac",
+  "Exploiting_formyl_peptide_receptor_2_to_promote_microglial_resolution_a_new_approach_to_Alzheimer_s_disease_trea__ac",
+  "Flavonoids_as_regulators_of_amyloid_precursor_protein_processing__ac",
+  "Glucocorticoids_Increase_Amyloid-_and_Tau_Pathology_in_a_Mouse_Model_of_Alzheimer_s_Disease__openalex",
+  "Haploinsufficiency_and_Alzheimer_s_Disease_The_Possible_Pathogenic_and_Protective_Genetic_Factors.__nih",
+  "INTEGRATION_OF_DIFFERENT_PATHWAYS_IN_EARLY_STAGE_OF_ALZHEIMER_apos_S_DISEASE_PATHOGENESIS_FROM_ACTIN_REMODELLING__ac",
+  "Ide_copy_number_variant_does_not_influence_lesion_size_and_mortality_in_two_C57BL_6J_mouse_models_of_cerebr__biorxiv",
+  "Identifying_positional_candidate_genes_on_chromosome_10_that_are_involved_in_APP_processing__ac",
+  "Inconsistencies_and_Controversies_Surrounding_the_Amyloid_Hypothesis_of_Alzheimer_s_Disease__nature",
+  "Inflammation_the_link_between_comorbidities_genetics_and_Alzheimer_s_disease__nature",
+  "Inhibition_of_mTOR_by_Rapamycin_Abolishes_Cognitive_Deficits_and_Reduces_Amyloid-_Levels_in_a_Mouse_Model___openalex",
+  "Intraneuronal_-Amyloid_Aggregates_Neurodegeneration_and_Neuron_Loss_in_Transgenic_Mice_with_Five_Familial___openalex",
+  "Investigating_Cell-type_Specific_Neuropathology_in_knock-in_APP_and_tau_Mouse_Models_of_Alzheimer_s_Disease_Corr__ac",
+  "Investigating_protein-_protein_interactions_in_order_to_develop_novel_therapeutics_for_the_treatment_of_Alzheime__ac",
+  "Investigating_the_Role_of_the_Amyloid_Precursor_Protein_in_the_Pathogenesis_of_Alzheimer_s_Disease__ac",
+  "Investigating_the_impact_of_amyloid_plaques_on_surrounding_tissue_with_particular_focus_on_microglia__ac",
+  "Investigating_the_non-cell_autonomous_role_of_astrocytic_HSPB1_in_Alzheimer_s_Disease__ac",
+  "Investigation_of_synaptic_dysfunction_in_Alzheimer_s_disease__ac",
+  "Is_the_Amyloid_Hypothesis_of_Alzheimer_s_disease_therapeutically_relevant__ac",
+  "Ketogenic_-hydroxybutyrate_regulates_-hydroxybutyrylation_of_TCA_cycle-associated_enzymes_and_attenuates_diseas__nih",
+  "Kr_ppel-like_factor_5_accelerates_the_pathogenesis_of_Alzheimer_s_disease_via_BACE1-mediated_APP_processing.__nih",
+  "Levetiracetam_prevents_A_42_production_through_SV2a-dependent_modulation_of_App_processing_in_Alzheimer_s_disea__nih",
+  "MicroRNA-137_181c_Regulates_Serine_Palmitoyltransferase_and_In_Turn_Amyloid_Novel_Targets_in_Sporadic_Alzh__openalex",
+  "MicroRNA_networks_surrounding_APP_and_amyloid-_metabolism_-_implications_for_Alzheimer_s_disease__ac",
+  "Microglia_in_Alzheimer_s_Disease_Risk_Factors_and_Inflammation__ac",
+  "Microglia_in_Alzheimer_s_disease__openalex",
+  "Mitochondria_dysfunction_in_the_pathogenesis_of_Alzheimer_s_disease_recent_advances__nature",
+  "Molecular_Mechanisms_of_Synaptotoxicity_and_Neuroinflammation_in_Alzheimer_s_Disease__ac",
+  "Molecular_and_cellular_mechanisms_underlying_the_pathogenesis_of_Alzheimer_s_disease__nature",
+  "Nanoelectrochemical_analysis_of_neurotransmitter_release_in_cell_models_of_Alzheimer_s_disease__ac",
+  "Nanoscale_Characterization_of_Melatonin_and_Amyloid_Beta_in_Model_Membranes-_in_Relation_to_Alzheimer_s_Disease__ac",
+  "Neuroinflammation_and_its_resolution_in_Alzheimer_s_disease__ac",
+  "Neuroinflammation_microglia_and_the_cell_biology_of_Alzheimer_s_Disease__ac",
+  "Neurometabolic_alterations_after_traumatic_brain_injury_Links_to_mitochondria-associated_ER_membranes_and_Alzhei__ac",
+  "Neuromodulatory_effect_of_vardenafil_on_aluminium_chloride_d-galactose_induced_Alzheimer_s_disease_in_rats_e__nature",
+  "Neuroprotectin_D1_induces_neuronal_survival_and_downregulation_of_amyloidogenic_processing_in_Alzheimer_s_disea__nih",
+  "Novel_upregulation_of_amyloid-_precursor_protein_APP_by_microRNA-346_via_targeting_of_APP_mRNA_5_-untranslat__nature",
+  "Pathological_changes_within_the_cerebral_vasculature_in_Alzheimer_s_disease_New_perspectives__ac",
+  "Periodontitis-induced_neuroinflammation_triggers_IFITM3-A_axis_to_cause_alzheimer_s_disease-like_pathology_and___nih",
+  "Photobiomodulation_in_experimental_models_of_Alzheimer_s_disease_state-of-the-art_and_translational_perspect__nature",
+  "Potential_Contribution_of_Exosomes_to_the_Prion-Like_Propagation_of_Lesions_in_Alzheimer_s_Disease__openalex",
+  "Potential_Implications_of_miRNAs_in_the_Pathogenesis_Diagnosis_and_Therapeutics_of_Alzheimer_s_Disease.__nih",
+  "Protective_Effects_of_Positive_Lysosomal_Modulation_in_Alzheimer_s_Disease_Transgenic_Mouse_Models__openalex",
+  "Psychoactive_substances_novel_molecular_insights_and_therapeutic_potential_for_Alzheimer_s_disease__nature",
+  "Recent_advances_in_Alzheimer_s_disease_mechanisms_clinical_trials_and_new_drug_development_strategies__nature",
+  "Reconsideration_of_Amyloid_Hypothesis_and_Tau_Hypothesis_in_Alzheimer_s_Disease__openalex",
+  "Regulation_of_the_metabolism_of_the_Alzheimer_s_amyloid_precursor_protein_by_contactin_5_and_BIN1__ac",
+  "Relationship_Between_Amyloid-_Deposition_and_Blood_Brain_Barrier_Dysfunction_in_Alzheimer_s_Disease__openalex",
+  "Role_of_Copper_in_the_Onset_of_Alzheimer_s_Disease_Compared_to_Other_Metals__openalex",
+  "Roles_of_the_Insulin-like_Growth_Factor-II_Cation-independent_Mannose_6-phosphate_Receptor_and_Cathepsin_D_in_Al__ac",
+  "Sodium_dichloroacetate_DCA_impairs_-secretase-mediated_proteolysis_of_the_alzheimer_s_disease_amyloid_precursor___ac",
+  "Split_minireporters_facilitate_monitoring_of_gene_expression_and_peptide_production_in_linear_cell-free_tra__biorxiv",
+  "Stress_and_Rab35_modulate_Alzheimer_s_disease-related_protein_trafficking__ac",
+  "Structural_basis_of_3_-tRNA_maturation_by_the_human_mitochondrial_RNAse_Z_complex__biorxiv",
+  "Synaptic_NMDA_Receptor_Activation_Stimulates_-Secretase_Amyloid_Precursor_Protein_Processing_and_Inhibits___openalex",
+  "Synaptotoxicit_dans_la_maladie_d_Alzheimer_Influence_du_processing_d_APP_sur_les_synapses_excitatrices__openalex",
+  "TGR5_deficiency_in_excitatory_neurons_ameliorates_Alzheimer_s_pathology_by_regulating_APP_processing.__nih",
+  "TREM2_dependent_and_independent_functions_of_microglia_in_Alzheimer_u27s_disease__nature",
+  "Targeted_Nanoparticles_for_the_Treatment_of_Alzheimer_s_Disease__openalex",
+  "Targeting_Amyloidogenic_Processing_of_APP_in_Alzheimer_s_Disease.__nih",
+  "Temporal_Single_Cell_Analysis_of_Leukemia_Microenvironment_Identifies_Taurine-Taurine_Transporter_Axis_as_a__biorxiv",
+  "The_40_Hz_flickering_light_restores_synaptic_plasticity_and_mitochondrial_phenotype_in_experimental_model_o__biorxiv",
+  "The_A_A2V_paradigm_From_molecular_insights_to_therapeutic_strategies_in_Alzheimer_s_disease_and_primary_tauopath__ac",
+  "The_Amyloid-_Pathway_in_Alzheimer_s_Disease__nature",
+  "The_Amyloid-beta_Pathway_in_Alzheimer_s_Disease__ac",
+  "The_Early_Events_That_Initiate_-Amyloid_Aggregation_in_Alzheimer_s_Disease__ac",
+  "The_Icelandic_Mutation_APP-A673T_Is_Protective_against_Amyloid_Pathology_In_Vivo.__nih",
+  "The_Interplay_Between_the_Neuronal_Plasma_Membrane_and_Cell_Signaling_in_Alzheimer_s_Disease__ac",
+  "The_PKC_-_-arrestin2_axis_disrupts_SORLA_retrograde_trafficking_driving_its_degradation_and_amyloid_pathology_i__nih",
+  "The_contribution_of_activated_astrocytes_to_A_production_Implications_for_Alzheimer_s_disease_pathogenesis__nature",
+  "The_duality_of_amyloid-_its_role_in_normal_and_Alzheimer_s_disease_states.__nih",
+  "The_gut-brain_axis_in_Alzheimer_s_disease_is_shaped_by_commensal_gut_microbiota_derived_extracellular_vesicles.__nih",
+  "The_impact_of_capsaicinoids_on_APP_processing_in_Alzheimer_s_disease_in_SH-SY5Y_cells.__nih",
+  "The_low-density_lipoprotein_receptor-related_protein_1_and_amyloid-_clearance_in_Alzheimer_s_disease__openalex",
+  "The_molecular_mechanisms_linking_amyloid-beta_the_prion_protein_and_tau_in_Alzheimer_s_disease__ac",
+  "The_physiological_roles_of_tau_and_A_implications_for_Alzheimer_s_disease_pathology_and_therapeutics__nature",
+  "The_structure_and_function_of_Alzheimer_s_gamma_secretase_enzyme_complex__ac",
+  "Trafficking_regulation_of_proteins_in_Alzheimer_s_disease__nature",
+  "Trem2_Deficiency_Differentially_Affects_the_Phenotype_and_Transcriptome_of_Human_APOE3_and_APOE4_mice_The_Role_o__ac",
+  "__ac"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 3,
+   "paper_id": "-Secretase_in_Alzheimer_s_disease__nature",
+   "title": "γ-Secretase in Alzheimer’s disease",
+   "doi": "10.1038/s12276-022-00754-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W4223545467",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "APP_lysine_612_lactylation_ameliorates_amyloid_pathology_and_memory_decline_in_Alzheimer_s_disease.__nih",
+   "title": "APP lysine 612 lactylation ameliorates amyloid pathology and memory decline in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11684803/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "A_novel_ferroptosis_inhibitor_Thonningianin_A_improves_Alzheimer_s_disease_by_activating_GPX4.__nih",
+   "title": "A novel ferroptosis inhibitor, Thonningianin A, improves Alzheimer's disease by activating GPX4.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11488096/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Alzheimer_disease_models_and_human_neuropathology_similarities_and_differences__nature",
+   "title": "Alzheimer disease models and human neuropathology: similarities and differences",
+   "doi": "10.1007/s00401-007-0312-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W1981288814",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Alzheimer_s_disease_pathogenesis_diagnostics_and_therapeutics.__nih",
+   "title": "Alzheimer's disease: pathogenesis, diagnostics, and therapeutics.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6650620/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Amyloid_beta_glycation_leads_to_neuronal_mitochondrial_dysfunction_and_Alzheimers_pathogenesis_through_VDAC__biorxiv",
+   "title": "Amyloid beta glycation leads to neuronal mitochondrial dysfunction and Alzheimers pathogenesis through VDAC1-dependent mtDNA efflux",
+   "doi": "10.1101/2024.05.14.594173",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.14.594173",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Amyloid_precursor_protein-mediated_mitochondrial_regulation_and_Alzheimer_s_disease.__nih",
+   "title": "Amyloid precursor protein-mediated mitochondrial regulation and Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6715589/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Apolipoprotein_E_and_Apolipoprotein_E_Receptors_Normal_Biology_and_Roles_in_Alzheimer_Disease__openalex",
+   "title": "Apolipoprotein E and Apolipoprotein E Receptors: Normal Biology and Roles in Alzheimer Disease",
+   "doi": "10.1101/cshperspect.a006312",
+   "source": "openalex",
+   "url": "https://openalex.org/W2143955562",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Application_of_Multiomics_Approach_to_Investigate_the_Therapeutic_Potentials_of_Stem_Cell-derived_Extracell__biorxiv",
+   "title": "Application of Multiomics Approach to Investigate the Therapeutic Potentials of Stem Cell-derived Extracellular Vesicle Subpopulations for Alzheimer's Disease",
+   "doi": "10.1101/2024.05.10.593647",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.10.593647",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Astrocytic_and_microglial_cells_as_the_modulators_of_neuroinflammation_in_Alzheimer_s_disease__nature",
+   "title": "Astrocytic and microglial cells as the modulators of neuroinflammation in Alzheimer’s disease",
+   "doi": "10.1186/s12974-022-02565-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4292320039",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "BACE1_inhibitor_drugs_in_clinical_trials_for_Alzheimer_s_disease__nature",
+   "title": "BACE1 inhibitor drugs in clinical trials for Alzheimer’s disease",
+   "doi": "10.1186/s13195-014-0089-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W2166109990",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Brain-derived_neurotrophic_factor_in_Alzheimer_s_disease_and_its_pharmaceutical_potential__nature",
+   "title": "Brain-derived neurotrophic factor in Alzheimer’s disease and its pharmaceutical potential",
+   "doi": "10.1186/s40035-022-00279-0",
+   "source": "openalex",
+   "url": "https://openalex.org/W4210324338",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Caracteriza_o_das_fun_es_neurotr_ficas_da_prote_na_precursora_de_amil_ide_de_Alzheimer__ac",
+   "title": "Caracterização das funções neurotróficas da proteína precursora de amilóide de Alzheimer",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/154355416.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Cell_invasive_amyloid_assemblies_from_SARS-CoV-2_peptides_can_form_multiple_polymorphs_with_varying_neuroto__biorxiv",
+   "title": "Cell invasive amyloid assemblies from SARS-CoV-2 peptides can form multiple polymorphs with varying neurotoxicity",
+   "doi": "10.1101/2024.05.16.594465",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.16.594465",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Contribution_of_Multivesicular_Bodies_to_the_Prion-Like_Propagation_of_Lesions_in_Alzheimer_s_Disease__openalex",
+   "title": "Contribution of Multivesicular Bodies to the Prion-Like Propagation of Lesions in Alzheimer’s Disease",
+   "doi": "10.5772/20567",
+   "source": "openalex",
+   "url": "https://openalex.org/W1495383936",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Deciphering_the_Astrocyte_Reaction_in_Alzheimer_s_Disease__openalex",
+   "title": "Deciphering the Astrocyte Reaction in Alzheimer’s Disease",
+   "doi": "10.3389/fnagi.2018.00114",
+   "source": "openalex",
+   "url": "https://openalex.org/W2801244110",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Deletion_of_Murine_APP_Aggravates_Tau_and_Amyloid_Pathologies_in_the_5xFADXTg30_Alzheimer_s_Disease_Model.__nih",
+   "title": "Deletion of Murine APP Aggravates Tau and Amyloid Pathologies in the 5xFADXTg30 Alzheimer's Disease Model.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11853399/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Efficient_production_of_a_mature_and_functional_gamma_secretase_protease__ac",
+   "title": "Efficient production of a mature and functional gamma secretase protease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/210552536.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Flavonoids_as_regulators_of_amyloid_precursor_protein_processing__ac",
+   "title": "Flavonoids as regulators of amyloid precursor protein processing",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/161920793.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Haploinsufficiency_and_Alzheimer_s_Disease_The_Possible_Pathogenic_and_Protective_Genetic_Factors.__nih",
+   "title": "Haploinsufficiency and Alzheimer's Disease: The Possible Pathogenic and Protective Genetic Factors.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11594089/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Ide_copy_number_variant_does_not_influence_lesion_size_and_mortality_in_two_C57BL_6J_mouse_models_of_cerebr__biorxiv",
+   "title": "Ide copy number variant does not influence lesion size and mortality in two C57BL/6J mouse models of cerebrovascular ischemia nor in human cerebrovascular disease. An exploratory study",
+   "doi": "10.1101/2024.05.15.593342",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.15.593342",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Inconsistencies_and_Controversies_Surrounding_the_Amyloid_Hypothesis_of_Alzheimer_s_Disease__nature",
+   "title": "Inconsistencies and Controversies Surrounding the Amyloid Hypothesis of Alzheimer's Disease",
+   "doi": "10.1186/s40478-014-0135-5",
+   "source": "openalex",
+   "url": "https://openalex.org/W2148020885",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Inflammation_the_link_between_comorbidities_genetics_and_Alzheimer_s_disease__nature",
+   "title": "Inflammation: the link between comorbidities, genetics, and Alzheimer’s disease",
+   "doi": "10.1186/s12974-018-1313-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W2891379852",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigating_the_non-cell_autonomous_role_of_astrocytic_HSPB1_in_Alzheimer_s_Disease__ac",
+   "title": "Investigating the non-cell autonomous role of astrocytic HSPB1 in Alzheimer’s Disease",
+   "doi": null,
+   "source": "core",
+   "url": "https://core.ac.uk/download/587001933.pdf",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Ketogenic_-hydroxybutyrate_regulates_-hydroxybutyrylation_of_TCA_cycle-associated_enzymes_and_attenuates_diseas__nih",
+   "title": "Ketogenic β-hydroxybutyrate regulates β-hydroxybutyrylation of TCA cycle-associated enzymes and attenuates disease-associated pathologies in Alzheimer's mice.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11709107/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Kr_ppel-like_factor_5_accelerates_the_pathogenesis_of_Alzheimer_s_disease_via_BACE1-mediated_APP_processing.__nih",
+   "title": "Krüppel-like factor 5 accelerates the pathogenesis of Alzheimer's disease via BACE1-mediated APP processing.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9316766/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Microglia_in_Alzheimer_s_disease__openalex",
+   "title": "Microglia in Alzheimer’s disease",
+   "doi": "10.1172/jci90606",
+   "source": "openalex",
+   "url": "https://openalex.org/W2750718695",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Mitochondria_dysfunction_in_the_pathogenesis_of_Alzheimer_s_disease_recent_advances__nature",
+   "title": "Mitochondria dysfunction in the pathogenesis of Alzheimer’s disease: recent advances",
+   "doi": "10.1186/s13024-020-00376-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W3029234273",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Molecular_and_cellular_mechanisms_underlying_the_pathogenesis_of_Alzheimer_s_disease__nature",
+   "title": "Molecular and cellular mechanisms underlying the pathogenesis of Alzheimer’s disease",
+   "doi": "10.1186/s13024-020-00391-7",
+   "source": "openalex",
+   "url": "https://openalex.org/W3042981350",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Periodontitis-induced_neuroinflammation_triggers_IFITM3-A_axis_to_cause_alzheimer_s_disease-like_pathology_and___nih",
+   "title": "Periodontitis-induced neuroinflammation triggers IFITM3-Aβ axis to cause alzheimer's disease-like pathology and cognitive decline.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12275411/",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Potential_Contribution_of_Exosomes_to_the_Prion-Like_Propagation_of_Lesions_in_Alzheimer_s_Disease__openalex",
+   "title": "Potential Contribution of Exosomes to the Prion-Like Propagation of Lesions in Alzheimer’s Disease",
+   "doi": "10.3389/fphys.2012.00229",
+   "source": "openalex",
+   "url": "https://openalex.org/W2094618353",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Potential_Implications_of_miRNAs_in_the_Pathogenesis_Diagnosis_and_Therapeutics_of_Alzheimer_s_Disease.__nih",
+   "title": "Potential Implications of miRNAs in the Pathogenesis, Diagnosis, and Therapeutics of Alzheimer's Disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10671222/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Protective_Effects_of_Positive_Lysosomal_Modulation_in_Alzheimer_s_Disease_Transgenic_Mouse_Models__openalex",
+   "title": "Protective Effects of Positive Lysosomal Modulation in Alzheimer's Disease Transgenic Mouse Models",
+   "doi": "10.1371/journal.pone.0020501",
+   "source": "openalex",
+   "url": "https://openalex.org/W2003464757",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Recent_advances_in_Alzheimer_s_disease_mechanisms_clinical_trials_and_new_drug_development_strategies__nature",
+   "title": "Recent advances in Alzheimer’s disease: mechanisms, clinical trials and new drug development strategies",
+   "doi": "10.1038/s41392-024-01911-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4401806028",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Role_of_Copper_in_the_Onset_of_Alzheimer_s_Disease_Compared_to_Other_Metals__openalex",
+   "title": "Role of Copper in the Onset of Alzheimer’s Disease Compared to Other Metals",
+   "doi": "10.3389/fnagi.2017.00446",
+   "source": "openalex",
+   "url": "https://openalex.org/W2793307595",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Split_minireporters_facilitate_monitoring_of_gene_expression_and_peptide_production_in_linear_cell-free_tra__biorxiv",
+   "title": "Split minireporters facilitate monitoring of gene expression and peptide production in linear cell-free transcription-translation systems",
+   "doi": "10.1101/2024.05.16.594532",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.16.594532",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Structural_basis_of_3_-tRNA_maturation_by_the_human_mitochondrial_RNAse_Z_complex__biorxiv",
+   "title": "Structural basis of 3'-tRNA maturation by the human mitochondrial RNAse Z complex",
+   "doi": "10.1101/2024.05.14.593974",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.14.593974",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Synaptotoxicit_dans_la_maladie_d_Alzheimer_Influence_du_processing_d_APP_sur_les_synapses_excitatrices__openalex",
+   "title": "Synaptotoxicité dans la maladie d'Alzheimer : Influence du processing d'APP sur les synapses excitatrices",
+   "doi": null,
+   "source": "openalex",
+   "url": "https://openalex.org/W3011497515",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "TGR5_deficiency_in_excitatory_neurons_ameliorates_Alzheimer_s_pathology_by_regulating_APP_processing.__nih",
+   "title": "TGR5 deficiency in excitatory neurons ameliorates Alzheimer's pathology by regulating APP processing.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11212731/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Temporal_Single_Cell_Analysis_of_Leukemia_Microenvironment_Identifies_Taurine-Taurine_Transporter_Axis_as_a__biorxiv",
+   "title": "Temporal Single Cell Analysis of Leukemia Microenvironment Identifies Taurine-Taurine Transporter Axis as a Key Regulator of Myeloid Leukemia",
+   "doi": "10.1101/2024.05.11.593633",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.11.593633",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_40_Hz_flickering_light_restores_synaptic_plasticity_and_mitochondrial_phenotype_in_experimental_model_o__biorxiv",
+   "title": "The 40 Hz flickering light restores synaptic plasticity and mitochondrial phenotype in experimental model of Alzheimer's disease",
+   "doi": "10.1101/2024.05.12.593775",
+   "source": "biorxiv",
+   "url": "https://doi.org/10.1101/2024.05.12.593775",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Icelandic_Mutation_APP-A673T_Is_Protective_against_Amyloid_Pathology_In_Vivo.__nih",
+   "title": "The Icelandic Mutation (APP-A673T) Is Protective against Amyloid Pathology In Vivo.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11580785/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_PKC_-_-arrestin2_axis_disrupts_SORLA_retrograde_trafficking_driving_its_degradation_and_amyloid_pathology_i__nih",
+   "title": "The PKCι-β-arrestin2 axis disrupts SORLA retrograde trafficking, driving its degradation and amyloid pathology in Alzheimer's disease.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12186327/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_duality_of_amyloid-_its_role_in_normal_and_Alzheimer_s_disease_states.__nih",
+   "title": "The duality of amyloid-β: its role in normal and Alzheimer's disease states.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256416/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "The_gut-brain_axis_in_Alzheimer_s_disease_is_shaped_by_commensal_gut_microbiota_derived_extracellular_vesicles.__nih",
+   "title": "The gut-brain axis in Alzheimer's disease is shaped by commensal gut microbiota derived extracellular vesicles.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12077474/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_impact_of_capsaicinoids_on_APP_processing_in_Alzheimer_s_disease_in_SH-SY5Y_cells.__nih",
+   "title": "The impact of capsaicinoids on APP processing in Alzheimer's disease in SH-SY5Y cells.",
+   "doi": null,
+   "source": "pubmed",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7280252/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "The_physiological_roles_of_tau_and_A_implications_for_Alzheimer_s_disease_pathology_and_therapeutics__nature",
+   "title": "The physiological roles of tau and Aβ: implications for Alzheimer’s disease pathology and therapeutics",
+   "doi": "10.1007/s00401-020-02196-w",
+   "source": "openalex",
+   "url": "https://openalex.org/W3045897262",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Trafficking_regulation_of_proteins_in_Alzheimer_s_disease__nature",
+   "title": "Trafficking regulation of proteins in Alzheimer’s disease",
+   "doi": "10.1186/1750-1326-9-6",
+   "source": "openalex",
+   "url": "https://openalex.org/W2138178640",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "ad",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/ad/amyloid_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_ad/amyloid_02",
+ "seed_set_matches_run_id": true,
+ "target_total_papers": 250,
+ "actual_total_papers": 112,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}

@@ -1,0 +1,837 @@
+{
+ "batch": "r4",
+ "run": "ZIF_01",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Ferulic_Acid-Loaded_Zeolitic_Imidazolate_Frameworks-8_Nanoparticles_ZIF-8_Exhibited_Anticancer_Activity_by_t__nature",
+   "title": "Ferulic Acid-Loaded Zeolitic Imidazolate Frameworks-8 Nanoparticles (ZIF-8) Exhibited Anticancer Activity by the Increase of Apoptotic Proteins in Ishikawa and HEC1B cells",
+   "doi": "10.1007/s44411-025-00317-z",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44411-025-00317-z"
+  },
+  {
+   "round": 1,
+   "paper_id": "Curcumin_encapsulated_zeolitic_imidazolate_frameworks_as_stimuli_responsive_drug_delivery_system_and_their_i__nature",
+   "title": "Curcumin encapsulated zeolitic imidazolate frameworks as stimuli responsive drug delivery system and their interaction with biomimetic environment",
+   "doi": "10.1038/s41598-017-12786-6",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-12786-6"
+  },
+  {
+   "round": 1,
+   "paper_id": "Ligand_engineering_enhances_photo_electrocatalytic_activity_and_stability_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction",
+   "doi": "10.1038/s41467-024-53385-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41467-024-53385-0"
+  },
+  {
+   "round": 1,
+   "paper_id": "Magnetic_Nanoparticles_Encapsulated_Zeolitic_Imidazolate_Frameworks_A_New_Delivery_System_for_Crocin__nature",
+   "title": "Magnetic Nanoparticles Encapsulated Zeolitic Imidazolate Frameworks: A New Delivery System for Crocin",
+   "doi": "10.1007/s10876-023-02526-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10876-023-02526-4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Manganese-Zeolitic_Imidazolate_Frameworks-90_with_High_Blood_Circulation_Stability_for_MRI-Guided_Tumor_Ther__nature",
+   "title": "Manganese-Zeolitic Imidazolate Frameworks-90 with High Blood Circulation Stability for MRI-Guided Tumor Therapy",
+   "doi": "10.1007/s40820-019-0292-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Vapor-deposited_zeolitic_imidazolate_frameworks_as_gap-filling_ultra-low-k_dielectrics__nature",
+   "title": "Vapor-deposited zeolitic imidazolate frameworks as gap-filling ultra-low-k dielectrics",
+   "doi": "10.1038/s41467-019-11703-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Solvent-free_bottom-up_patterning_of_zeolitic_imidazolate_frameworks__nature",
+   "title": "Solvent-free bottom-up patterning of zeolitic imidazolate frameworks",
+   "doi": "10.1038/s41467-022-28050-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Effect_of_Solvent_Assisted_Linker_Exchange_SALE_and_De_Novo_Synthetic_Routes_on_CO2_Uptake_and_Fixation_by_M__nature",
+   "title": "Effect of Solvent Assisted Linker Exchange (SALE) and De Novo Synthetic Routes on CO2 Uptake and Fixation by Mixed-Linker Zeolitic Imidazolate Frameworks",
+   "doi": "10.1007/s10904-023-02653-5",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "In_vitro_antitumor_efficacy_of_hyaluronic_acid_coating_for_curcumin-loaded_zeolitic_imidazole_frameworks-8_Z__nature",
+   "title": "In vitro antitumor efficacy of hyaluronic acid coating for curcumin-loaded zeolitic imidazole frameworks-8 (ZIF-8) versus that of uncoated curcumin-loaded ZIF-8 nanocomposites",
+   "doi": "10.1038/s41598-026-48707-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Zeolitic_imidazolate_framework-8_nanoparticle_a_promising_adsorbent_for_effective_fluoride_removal_from_aque__nature",
+   "title": "Zeolitic imidazolate framework-8 nanoparticle: a promising adsorbent for effective fluoride removal from aqueous solution",
+   "doi": "10.1007/s13201-019-1030-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Post-synthetic_Ti_Exchanged_UiO-66_Metal-Organic_Frameworks_that_Deliver_Exceptional_Gas_Permeability_in_Mix__nature",
+   "title": "Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes",
+   "doi": "10.1038/srep07823",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 1,
+   "paper_id": "Discovering_metal-organic_framework_polymer_mixed-matrix_membranes_via_machine_learning_for_CO2_separation__nature",
+   "title": "Discovering metal-organic framework/polymer mixed-matrix membranes via machine learning for CO2 separation",
+   "doi": "10.1038/s43246-026-01207-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+   "title": "Reduced electron/hole recombination in Z-scheme nanostructure of zeolitic imidazolate framework-11/graphitic carbon nitride as photocatalyst under visible light",
+   "doi": "10.1038/s41598-023-49315-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-023-49315-7"
+  },
+  {
+   "round": 2,
+   "paper_id": "Ultra-sensitive_glyphosate_detection_in_soil_and_wastewater_using_Zn-zeolitic_imidazolate_framework-67_montm__nature",
+   "title": "Ultra-sensitive glyphosate detection in soil and wastewater using Zn-zeolitic imidazolate framework-67/montmorillonite nanocomposite electrochemical sensor",
+   "doi": "10.1007/s00604-026-07880-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s00604-026-07880-4"
+  },
+  {
+   "round": 2,
+   "paper_id": "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+   "title": "Revolutionizing acridine synthesis: novel core-shell magnetic nanoparticles and Co-Zn zeolitic imidazolate framework with 1-aza-18-crown-6-ether-Ni catalysts",
+   "doi": "10.1038/s41598-024-75591-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-024-75591-y"
+  },
+  {
+   "round": 2,
+   "paper_id": "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+   "title": "Correction to: Dual-acting cellulose nanocomposites filled with carbon nanotubes and zeolitic imidazolate framework-67 (ZIF-67)–derived polyhedral porous Co3O4 for symmetric supercapacitors",
+   "doi": "10.1007/s42114-021-00328-8",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+   "title": "Cobalt/Copper Doped Bimetallic Zeolitic Imidazolate Frameworks as Peroxymonosulfate Activators for the Removal of Veterinary Antibiotics: Response Surface Modeling and Optimization of Reaction Parameters",
+   "doi": "10.1007/s13369-025-10392-7",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Electrospun_polyetherimide_nanofibers_with_reduced_graphene_oxide-zeolitic_imidazolate_framework_for_conduct__nature",
+   "title": "Electrospun polyetherimide nanofibers with reduced graphene oxide-zeolitic imidazolate framework for conductivity improvement",
+   "doi": "10.1007/s42247-022-00410-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+   "title": "Enhanced peroxymonosulfate activation for tetracycline removal using magnesium–aluminum layered double hydroxide/zeolitic imidazolate framework-8 nanocomposite",
+   "doi": "10.1038/s41598-026-49645-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Development_and_optimization_of_polyoxometalate-modified_metal-organic_frameworks_for_efficient_removal_of_s__nature",
+   "title": "Development and optimization of polyoxometalate-modified metal-organic frameworks for efficient removal of sulfur and nitrogen compounds from diesel fuel under visible light",
+   "doi": "10.1038/s41598-025-34559-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Plasmonic_silver_quantum_dots_coupled_with_hierarchical_TiO2_nanotube_arrays_photoelectrodes_for_efficient_v__nature",
+   "title": "Plasmonic silver quantum dots coupled with hierarchical TiO2 nanotube arrays photoelectrodes for efficient visible-light photoelectrocatalytic hydrogen evolution",
+   "doi": "10.1038/srep10461",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "Catalytic_role_of_pre-adsorbed_CO_in_platinum-based_catalysts_The_reduction_of_SO_2_by_CO_on_Pt_l_Au_m_CO_n__edu",
+   "title": "Catalytic role of pre-adsorbed CO in platinum-based catalysts: The reduction of SO 2 by CO on Pt l Au m (CO) n",
+   "doi": "10.1039/c3cp44712j",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Bespoke_Energetic_Zeolite_Imidazolate_Frameworks-8_ZIF-8_Ammonium_Perchlorate_Nanocomposite_A_Novel_Reactive__nature",
+   "title": "Bespoke Energetic Zeolite Imidazolate Frameworks-8 (ZIF-8)/Ammonium Perchlorate Nanocomposite: A Novel Reactive Catalyzed High Energy Dense Material with Superior Decomposition Kinetics",
+   "doi": "10.1007/s10904-023-02834-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Porous_SnCo2O4-rGO_nanohybrids_for_visible-light_photocatalytic_degradation_of_methylene_blue_and_4-nitrophe__nature",
+   "title": "Porous SnCo2O4-rGO nanohybrids for visible-light photocatalytic degradation of methylene blue and 4-nitrophenol reduction",
+   "doi": "10.1038/s41598-026-40727-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "In_situ_synthesis_of_ZnO_g-C3N4_based_composites_for_photodegradation_of_methylene_blue_under_visible_light__nature",
+   "title": "In situ synthesis of ZnO/g-C3N4 based composites for photodegradation of methylene blue under visible light",
+   "doi": "10.1038/s41598-024-84645-0",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Photocatalytic_degradation_of_metronidazole_and_methylene_blue_by_PVA-assisted_Bi2WO6_CdS_nanocomposite_film__nature",
+   "title": "Photocatalytic degradation of metronidazole and methylene blue by PVA-assisted Bi2WO6–CdS nanocomposite film under visible light irradiation",
+   "doi": "10.1007/s13204-018-0652-9",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "N_and_Fe_doped_NiO_nanoparticles_for_enhanced_photocatalytic_degradation_of_azo_dye_methylene_blue_in_the_pr__nature",
+   "title": "N and Fe doped NiO nanoparticles for enhanced photocatalytic degradation of azo dye methylene blue in the presence of visible light",
+   "doi": "10.1007/s42452-021-04803-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Photocatalytic_Degradation_of_Isopropanol_Over_PbSnO3Nanostructures_Under_Visible_Light_Irradiation__nature",
+   "title": "Photocatalytic Degradation of Isopropanol Over PbSnO3Nanostructures Under Visible Light Irradiation",
+   "doi": "10.1007/s11671-008-9237-y",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_and_photocatalytic_improvement_for_methylene_blue_degradation_of_MgO_g-C3N4_and_ZnO_g-C3N4_composi__nature",
+   "title": "Synthesis and photocatalytic improvement for methylene blue degradation of MgO/g-C3N4 and ZnO/g-C3N4 composites",
+   "doi": "10.1007/s43939-025-00433-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Bifunctional_Co3O4_g-C3N4_hetrostructures_for_photoelectrochemical_water_splitting__ktu",
+   "title": "Bifunctional Co3O4/g-C3N4 hetrostructures for photoelectrochemical water splitting /",
+   "doi": "10.1021/acsomega.4c01677",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "First_principles_explain_microscopic_origins_of_electron_hole_recombination_in_silicon__nature",
+   "title": "First principles explain microscopic origins of electron–hole recombination in silicon",
+   "doi": "10.1557/s43577-023-00632-2",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "A_general_nonaqueous_sol-gel_route_to_g-C3N4-coupling_photocatalysts_the_case_of_Z-scheme_g-C3N4_TiO2_with_e__nature",
+   "title": "A general nonaqueous sol-gel route to g-C3N4-coupling photocatalysts: the case of Z-scheme g-C3N4/TiO2 with enhanced photodegradation toward RhB under visible-light",
+   "doi": "10.1038/srep39531",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "RETRACTED_ARTICLE_Investigating_the_Heteronjunction_between_ZnO_Fe2O3_and_g-C3N4_for_an_Enhanced_Photocataly__nature",
+   "title": "RETRACTED ARTICLE: Investigating the Heteronjunction between ZnO/Fe2O3 and g-C3N4 for an Enhanced Photocatalytic H2 production under visible-light irradiation",
+   "doi": "10.1038/s41598-019-48730-z",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Retraction_Note_Investigating_the_Heteronjunction_between_ZnO_Fe2O3_and_g-C3N4_for_an_Enhanced_Photocatalyti__nature",
+   "title": "Retraction Note: Investigating the Heteronjunction between ZnO/Fe2O3 and g-C3N4 for an Enhanced Photocatalytic H2 production under visible-light irradiation",
+   "doi": "10.1038/s41598-024-58322-1",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Removal_of_Congo_red_dye_by_electrochemical_advanced_oxidation_process_optimization_degradation_pathways_and__nature",
+   "title": "Removal of Congo red dye by electrochemical advanced oxidation process: optimization, degradation pathways, and mineralization",
+   "doi": "10.1007/s40899-023-01022-x",
+   "source": "crossref",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synergic_Effect_between_Adsorption_and_Photocatalysis_of_Metal-Free_g-C3N4_Derived_from_Different_Precurs__europepmc",
+   "title": "Synergic Effect between Adsorption and Photocatalysis of Metal-Free g-C3N4 Derived from Different Precursors.",
+   "doi": "10.1371/journal.pone.0142616",
+   "source": "core",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Imidazolate_framework_derived_porous_ZnO_Co3O4_ZnCo2O4_interfaced_nitrogen-rich_g-C3N4_sheets_for_electroche__nature",
+   "title": "Imidazolate framework–derived porous ZnO/Co3O4/ZnCo2O4 interfaced nitrogen-rich g-C3N4 sheets for electrochemical detection of nitrofurantoin",
+   "doi": "10.1007/s42114-025-01327-9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Zn-modulated_phase_transformation_in_ZIFs_for_bifunctional_pesticide_adsorption_and_bacterial_inactivation__openalex",
+   "title": "Zn-modulated phase transformation in ZIFs for bifunctional pesticide adsorption and bacterial inactivation",
+   "doi": "10.1088/2515-7620/aea9f8",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Soybean_residues_assisted_g-C3N4_SiC_photocatalyst_prepared_from_waste_materials_Synthesis_characterizatio__openalex",
+   "title": "Soybean residues assisted g-C3N4/SiC photocatalyst prepared from waste materials: Synthesis, characterization, and application of tetracycline photodegradation irradiated with simulated sunlight",
+   "doi": "10.21203/rs.3.rs-4200475/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advances_in_metal_organic_frameworks_as_adsorbents_photocatalysts_and_membranes_a_new_frontier_in_water_puri__nature",
+   "title": "Advances in metal–organic frameworks as adsorbents, photocatalysts and membranes: a new frontier in water purification",
+   "doi": "10.1007/s43832-024-00119-4",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Current_trends_in_the_synthesis_characterization_and_application_of_metal-organic_frameworks__openalex",
+   "title": "Current trends in the synthesis, characterization and application of metal-organic frameworks",
+   "doi": "10.1039/d2re00365a",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_advances_on_metal-organic_frameworks_MOFs_and_their_applications_in_energy_conversion_devices_Compr__openalex",
+   "title": "Recent advances on metal-organic frameworks (MOFs) and their applications in energy conversion devices: Comprehensive review",
+   "doi": "10.1016/j.energy.2024.131127",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Metal-organic_frameworks_MOFs_and_covalent_organic_frameworks_COFs_-based_prototyping_of_integrated_sensin__openalex",
+   "title": "Metal-organic frameworks (MOFs) and covalent organic frameworks (COFs)-based prototyping of integrated sensing devices for robust analysis",
+   "doi": "10.1016/j.trac.2024.117678",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Advanced_metal_organic_frameworks_for_next-generation_energy_storage_and_conversion_From_nanoscale_design___openalex",
+   "title": "Advanced metal–organic frameworks for next-generation energy storage and conversion: From nanoscale design to widespread applications",
+   "doi": "10.26599/nr.2026.94909093",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "From_biomass_to_energy_storage_sustainable_carbon_materials_for_next-generation_supercapacitors__nature",
+   "title": "From biomass to energy storage: sustainable carbon materials for next-generation supercapacitors",
+   "doi": "10.1007/s44405-025-00028-7",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Voltammetric_sensing_of_heavy_metals_for_global_water_security_a_critical_materials_perspective_on_field-dep__nature",
+   "title": "Voltammetric sensing of heavy metals for global water security: a critical materials perspective on field-deployable monitoring platforms",
+   "doi": "10.1038/s41545-026-00598-z",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Additive_manufacturing_of_materials_with_embedded_electrically_conductive_paths_and_their_applications__openalex",
+   "title": "Additive manufacturing of materials with embedded electrically conductive paths and their applications",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "5th_International_Workshop_on_Functional_Nanostructured_Materials_FuNaM-5_September_24th-26th_2025_Krakow___openalex",
+   "title": "5th International Workshop on Functional Nanostructured Materials (FuNaM-5) September 24th-26th, 2025, Krakow, Poland : book of abstracts",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Fe_doped_ZIF_8_for_sunlight_driven_photocatalytic_degradation_of_methylene_blue_synthesis_characterization__openalex",
+   "title": "Fe doped ZIF 8 for sunlight driven photocatalytic degradation of methylene blue synthesis, characterization, and AI based process modeling",
+   "doi": null,
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "A_highly_efficient_adsorption-photocatalytic_synergistic_degradation_of_tetracycline_by_in-situ_constructed___nature",
+   "title": "A highly efficient adsorption-photocatalytic synergistic degradation of tetracycline by in-situ constructed Bi5O7I/ZIF-8 heterojunction",
+   "doi": "10.1007/s42114-024-01116-w",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "ZIF-8_graphene_composite_for_photocatalytic_degradation_under_low_intensity_UV_irradiation_and_antibacterial__nature",
+   "title": "ZIF-8/graphene composite for photocatalytic degradation under low intensity UV irradiation and antibacterial applications",
+   "doi": "10.1038/s41598-025-07444-1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Preparation_of_ZIF-67_C3N4_composite_material_and_adsorption_of_tetracycline_hydrochloride__openalex",
+   "title": "Preparation of ZIF-67/C3N4 composite material and adsorption of tetracycline hydrochloride",
+   "doi": "10.21203/rs.3.rs-2787881/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Mechanochemical_Fullerene_Nanoencapsulation_in_Amino_Functionalized_ZIF_12_for_Visible_Light_Disinfection___openalex",
+   "title": "Mechanochemical Fullerene Nanoencapsulation in Amino‐Functionalized ZIF‐12 for Visible‐Light Disinfection of Waterborne Viruses and Bacteria",
+   "doi": "10.1002/smll.202512881",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Facile_and_scalable_preparation_of_ZIF-67_decorated_cotton_fibers_as_recoverable_and_efficient_adsorbents_fo__nature",
+   "title": "Facile and scalable preparation of ZIF-67 decorated cotton fibers as recoverable and efficient adsorbents for removal of malachite green",
+   "doi": "10.1186/s42825-021-00069-w",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Hydrolyzed_MOF_based_Mo_h-ZIF-8_ZnS_composite_for_enhanced_photodegradation_of_dye_pollutants_using_a_combin__nature",
+   "title": "Hydrolyzed MOF based Mo@h-ZIF-8/ZnS composite for enhanced photodegradation of dye pollutants using a combined experimental and RSM approach",
+   "doi": "10.1038/s41598-025-16201-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Investigation_of_Congo_Red_Photodegradation_Catalyzed_by_MOFs_ZIF-67_SiO2_Composite_Under_Sunlight__openalex",
+   "title": "Investigation of Congo Red Photodegradation Catalyzed by MOFs ZIF-67@SiO2 Composite Under Sunlight",
+   "doi": "10.33263/briac154.051",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Interface-Engineered_g-C3_N4_CuAl-LDH_Composite_for_Photocatalytic_Degradation_of_Bromophenol_Blue_Dye__openalex",
+   "title": "Interface-Engineered g-C3 N4 @CuAl-LDH Composite for Photocatalytic Degradation of Bromophenol Blue Dye",
+   "doi": "10.21203/rs.3.rs-8860713/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Synthesis_of_ZIF-8_g-C_3_N_4_nanomaterial_and_its_use_for_rapid_removal_of_alizarin_red_and_ketoprofen_fro__openalex",
+   "title": "Synthesis of ZIF-8@g-C 3 N 4 nanomaterial and its use for rapid removal of alizarin red and ketoprofen from water via chemical catalysis",
+   "doi": "10.21203/rs.3.rs-9093452/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Fabrication_of_a_ZGTPM_nanocomposite_membrane_for_the_synergistic_removal_of_tetracycline_via_size_selective__nature",
+   "title": "Fabrication of a ZGTPM nanocomposite membrane for the synergistic removal of tetracycline via size selective sieving and photocatalytic degradation",
+   "doi": "10.1038/s41598-026-47068-7",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Exploring_Ca-doped_BaTiO3_perovskite_as_a_promising_photocatalyst_for_visible_light_degradation_of_bromophen__nature",
+   "title": "Exploring Ca-doped BaTiO3 perovskite as a promising photocatalyst for visible light degradation of bromophenol blue",
+   "doi": "10.1007/s44344-025-00021-8",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recyclable_Ag_TiO2_PDMS_Coated_Cotton_Fabric_with_Visible-Light_Photocatalytic_for_Efficient_Water_Purific__openalex",
+   "title": "Recyclable Ag/TiO2@PDMS Coated Cotton Fabric with Visible-Light Photocatalytic for Efficient Water Purification",
+   "doi": "10.21203/rs.3.rs-990415/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Construction_of_S-scheme_CuFe12O19_CuS_green_nanocomposite_for_effective_photocatalytic_degradation_of_tetra__nature",
+   "title": "Construction of S-scheme CuFe12O19/CuS green nanocomposite for effective photocatalytic degradation of tetracycline from aqueous solution: mechanism, recyclability, and kinetic study",
+   "doi": "10.1007/s13201-024-02346-5",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Effective_removal_of_Eriochrome_black_T_by_a_novel_ZnxCu01-xFe2O4_C3N4_composite_under_simulated_visible_l__openalex",
+   "title": "Effective removal of Eriochrome black T by a novel ZnxCu01-xFe2O4/C3N4 composite under simulated visible light irradiation",
+   "doi": "10.21203/rs.3.rs-4173227/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Comparative_photocatalytic_degradation_of_cationic_rhodamine_B_and_anionic_bromocresol_green_using_reduced__openalex",
+   "title": "Comparative photocatalytic degradation of cationic rhodamine B and anionic bromocresol green using reduced ZnO: A detailed kinetic modeling approach",
+   "doi": "10.1016/j.chemosphere.2024.144052",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Rational_design_of_a_self-cleaning_PES_UiO-66-NH2_g-C3N4_mixed-matrix_membrane_for_high-efficiency_oil_water__nature",
+   "title": "Rational design of a self-cleaning PES/UiO-66-NH2@g-C3N4 mixed-matrix membrane for high-efficiency oil–water separation",
+   "doi": "10.1038/s41598-026-55643-1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Sliver_Doped_Sodium_Antimonate_with_Greatly_Reduced_the_Band_Gap_for_Efficiently_Enhanced_Photocatalytic_A__openalex",
+   "title": "Sliver Doped Sodium Antimonate with Greatly Reduced the Band Gap for Efficiently Enhanced Photocatalytic Activities Under Visible Light (Experiment and DFT Calculation)",
+   "doi": "10.1590/1980-5373-mr-2021-0100",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Efficiency_of_Persulfate_Activated_by_UV_Irradiation_in_the_Presence_of_Granular_Activated_Carbon_for_Remo__openalex",
+   "title": "Efficiency of Persulfate Activated by UV Irradiation in the Presence of Granular Activated Carbon for Removal of Methylene Blue Dye from Aqueous Solution",
+   "doi": "10.52547/sjku.26.3.52",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Recent_updates_on_g-C3N4_ZnO-based_binary_and_ternary_heterojunction_photocatalysts_toward_environmental_r__openalex",
+   "title": "Recent updates on g-C3N4/ZnO-based binary and ternary heterojunction photocatalysts toward environmental remediation and energy conversion",
+   "doi": "10.37819/nanofab.8.1774",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Defect-engineered_C_N-ZnO_Co3O4_CoFe2O4_Fe3O4_for_ultra-fast_tetracycline_degradation_and_environmental_impa__nature",
+   "title": "Defect-engineered C,N-ZnO/Co3O4/CoFe2O4/Fe3O4 for ultra-fast tetracycline degradation and environmental impact assessment using an in silico mathematical model",
+   "doi": "10.1007/s42114-025-01230-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "A_novel_synergistic_and_eco-friendly_approach_for_efficient_crude_oil_removal_from_water_using_ZnO_g-C3N4_ch__nature",
+   "title": "A novel synergistic and eco-friendly approach for efficient crude oil removal from water using ZnO/g-C3N4/chitosan nanostructure and spirulina algae",
+   "doi": "10.1038/s41598-025-15117-2",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Photocatalytic_Adsorption_Synergistic_Degradation_of_Tetracycline_by_Z-scheme_Bi2WO6_ZIF-8__openalex",
+   "title": "Photocatalytic Adsorption Synergistic Degradation of Tetracycline by Z-scheme Bi2WO6/ZIF-8",
+   "doi": "10.21203/rs.3.rs-883282/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Insitu_synthesis_of_Cu-doped_ZIF-8_for_efficient_photocatalytic_water_splitting__openalex",
+   "title": "Insitu synthesis of Cu-doped ZIF-8 for efficient photocatalytic water splitting",
+   "doi": "10.21203/rs.3.rs-1504980/v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "A_novel_noble-metal-free_ZIF-8-based_composite_for_photocatalytic_production_of_green_hydrogen__openalex",
+   "title": "A novel noble-metal-free ZIF-8-based composite for photocatalytic production of green hydrogen",
+   "doi": "10.20517/scierxiv202604.0221.v1",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Enhanced_removal_of_tetracycline_using_amine-modified_ZIF-11_isotherms_kinetics_and_thermodynamics__nature",
+   "title": "Enhanced removal of tetracycline using amine-modified ZIF-11: isotherms, kinetics, and thermodynamics",
+   "doi": "10.1038/s41598-026-57617-9",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Nanoengineering_Construction_of_Cu_2_O_Nanowire_Arrays_Encapsulated_with_g-C_3_N_4_as_3D_Spatial_Reticulat__openalex",
+   "title": "Nanoengineering Construction of Cu 2 O Nanowire Arrays Encapsulated with g-C 3 N 4 as 3D Spatial Reticulation All-Solid-State Direct Z-Scheme Photocatalysts for Photocatalytic Reduction of Carbon Dioxide",
+   "doi": "10.1021/acscatal.0c01033",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Bio-based_matrix_photocatalysts_for_photodegradation_of_antibiotics__nature",
+   "title": "Bio-based matrix photocatalysts for photodegradation of antibiotics",
+   "doi": "10.1007/s43630-024-00536-3",
+   "source": "openalex",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Design_and_Optimization_of_Nanostructured_Fe2TiO5_Photocatalysts_for_Efficient_CO2_Reduction__openalex",
+   "title": "Design and Optimization of Nanostructured Fe2TiO5 Photocatalysts for Efficient CO2 Reduction",
+   "doi": "10.11606/t.46.2024.tde-30042025-184407",
+   "source": "openalex",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "5th_International_Workshop_on_Functional_Nanostructured_Materials_FuNaM-5_September_24th-26th_2025_Krakow___openalex",
+  "A_general_nonaqueous_sol-gel_route_to_g-C3N4-coupling_photocatalysts_the_case_of_Z-scheme_g-C3N4_TiO2_with_e__nature",
+  "A_highly_efficient_adsorption-photocatalytic_synergistic_degradation_of_tetracycline_by_in-situ_constructed___nature",
+  "A_novel_noble-metal-free_ZIF-8-based_composite_for_photocatalytic_production_of_green_hydrogen__openalex",
+  "A_novel_synergistic_and_eco-friendly_approach_for_efficient_crude_oil_removal_from_water_using_ZnO_g-C3N4_ch__nature",
+  "Additive_manufacturing_of_materials_with_embedded_electrically_conductive_paths_and_their_applications__openalex",
+  "Advanced_metal_organic_frameworks_for_next-generation_energy_storage_and_conversion_From_nanoscale_design___openalex",
+  "Advances_in_metal_organic_frameworks_as_adsorbents_photocatalysts_and_membranes_a_new_frontier_in_water_puri__nature",
+  "Bespoke_Energetic_Zeolite_Imidazolate_Frameworks-8_ZIF-8_Ammonium_Perchlorate_Nanocomposite_A_Novel_Reactive__nature",
+  "Bifunctional_Co3O4_g-C3N4_hetrostructures_for_photoelectrochemical_water_splitting__ktu",
+  "Bio-based_matrix_photocatalysts_for_photodegradation_of_antibiotics__nature",
+  "Catalytic_role_of_pre-adsorbed_CO_in_platinum-based_catalysts_The_reduction_of_SO_2_by_CO_on_Pt_l_Au_m_CO_n__edu",
+  "Cobalt_Copper_Doped_Bimetallic_Zeolitic_Imidazolate_Frameworks_as_Peroxymonosulfate_Activators_for_the_Remov__nature",
+  "Comparative_photocatalytic_degradation_of_cationic_rhodamine_B_and_anionic_bromocresol_green_using_reduced__openalex",
+  "Construction_of_S-scheme_CuFe12O19_CuS_green_nanocomposite_for_effective_photocatalytic_degradation_of_tetra__nature",
+  "Correction_to_Dual-acting_cellulose_nanocomposites_filled_with_carbon_nanotubes_and_zeolitic_imidazolate_fra__nature",
+  "Correction_to_Highly_efficient_visible_light-induced_photocatalytic_degradation_of_methylene_blue_over_InVO4__nature",
+  "Current_trends_in_the_synthesis_characterization_and_application_of_metal-organic_frameworks__openalex",
+  "Defect-engineered_C_N-ZnO_Co3O4_CoFe2O4_Fe3O4_for_ultra-fast_tetracycline_degradation_and_environmental_impa__nature",
+  "Design_and_Optimization_of_Nanostructured_Fe2TiO5_Photocatalysts_for_Efficient_CO2_Reduction__openalex",
+  "Development_and_optimization_of_polyoxometalate-modified_metal-organic_frameworks_for_efficient_removal_of_s__nature",
+  "Effective_removal_of_Eriochrome_black_T_by_a_novel_ZnxCu01-xFe2O4_C3N4_composite_under_simulated_visible_l__openalex",
+  "Efficiency_of_Persulfate_Activated_by_UV_Irradiation_in_the_Presence_of_Granular_Activated_Carbon_for_Remo__openalex",
+  "Electrospun_polyetherimide_nanofibers_with_reduced_graphene_oxide-zeolitic_imidazolate_framework_for_conduct__nature",
+  "Enhanced_peroxymonosulfate_activation_for_tetracycline_removal_using_magnesium_aluminum_layered_double_hydro__nature",
+  "Enhanced_removal_of_tetracycline_using_amine-modified_ZIF-11_isotherms_kinetics_and_thermodynamics__nature",
+  "Exploring_Ca-doped_BaTiO3_perovskite_as_a_promising_photocatalyst_for_visible_light_degradation_of_bromophen__nature",
+  "Fabrication_of_a_ZGTPM_nanocomposite_membrane_for_the_synergistic_removal_of_tetracycline_via_size_selective__nature",
+  "Fabrication_of_a_polydopamine_blue_TiO_nanotube_thin-film_nanocomposite_membrane_for_visible-light_photocata__nature",
+  "Facile_and_scalable_preparation_of_ZIF-67_decorated_cotton_fibers_as_recoverable_and_efficient_adsorbents_fo__nature",
+  "Fe_doped_ZIF_8_for_sunlight_driven_photocatalytic_degradation_of_methylene_blue_synthesis_characterization__openalex",
+  "First_principles_explain_microscopic_origins_of_electron_hole_recombination_in_silicon__nature",
+  "From_biomass_to_energy_storage_sustainable_carbon_materials_for_next-generation_supercapacitors__nature",
+  "Hydrolyzed_MOF_based_Mo_h-ZIF-8_ZnS_composite_for_enhanced_photodegradation_of_dye_pollutants_using_a_combin__nature",
+  "Imidazolate_framework_derived_porous_ZnO_Co3O4_ZnCo2O4_interfaced_nitrogen-rich_g-C3N4_sheets_for_electroche__nature",
+  "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+  "In_situ_synthesis_of_ZnO_g-C3N4_based_composites_for_photodegradation_of_methylene_blue_under_visible_light__nature",
+  "Insitu_synthesis_of_Cu-doped_ZIF-8_for_efficient_photocatalytic_water_splitting__openalex",
+  "Interface-Engineered_g-C3_N4_CuAl-LDH_Composite_for_Photocatalytic_Degradation_of_Bromophenol_Blue_Dye__openalex",
+  "Investigation_of_Congo_Red_Photodegradation_Catalyzed_by_MOFs_ZIF-67_SiO2_Composite_Under_Sunlight__openalex",
+  "Mechanochemical_Fullerene_Nanoencapsulation_in_Amino_Functionalized_ZIF_12_for_Visible_Light_Disinfection___openalex",
+  "Metal-organic_frameworks_MOFs_and_covalent_organic_frameworks_COFs_-based_prototyping_of_integrated_sensin__openalex",
+  "N_and_Fe_doped_NiO_nanoparticles_for_enhanced_photocatalytic_degradation_of_azo_dye_methylene_blue_in_the_pr__nature",
+  "Nanoengineering_Construction_of_Cu_2_O_Nanowire_Arrays_Encapsulated_with_g-C_3_N_4_as_3D_Spatial_Reticulat__openalex",
+  "Noble_metal_photocatalysts_under_visible_light_and_UV_light_irradiation__edu",
+  "Perspective_for_OER_electrocatalysts_Lattice_engineering_of_clay-like_frameworks_with_near-surface_cluster_a__nature",
+  "Photocatalytic_Adsorption_Synergistic_Degradation_of_Tetracycline_by_Z-scheme_Bi2WO6_ZIF-8__openalex",
+  "Photocatalytic_Degradation_of_Isopropanol_Over_PbSnO3Nanostructures_Under_Visible_Light_Irradiation__nature",
+  "Photocatalytic_degradation_of_metronidazole_and_methylene_blue_by_PVA-assisted_Bi2WO6_CdS_nanocomposite_film__nature",
+  "Plasmonic_silver_quantum_dots_coupled_with_hierarchical_TiO2_nanotube_arrays_photoelectrodes_for_efficient_v__nature",
+  "Porous_SnCo2O4-rGO_nanohybrids_for_visible-light_photocatalytic_degradation_of_methylene_blue_and_4-nitrophe__nature",
+  "Preparation_of_ZIF-67_C3N4_composite_material_and_adsorption_of_tetracycline_hydrochloride__openalex",
+  "Promotion_of_the_excited_electron_transfer_over_Ni-_and_Co_-sulfide_co-doped_g-C3N4_photocatalyst_g-C3N4_Nix__nature",
+  "RETRACTED_ARTICLE_Investigating_the_Heteronjunction_between_ZnO_Fe2O3_and_g-C3N4_for_an_Enhanced_Photocataly__nature",
+  "Rational_design_of_a_self-cleaning_PES_UiO-66-NH2_g-C3N4_mixed-matrix_membrane_for_high-efficiency_oil_water__nature",
+  "Recent_advances_on_metal-organic_frameworks_MOFs_and_their_applications_in_energy_conversion_devices_Compr__openalex",
+  "Recent_updates_on_g-C3N4_ZnO-based_binary_and_ternary_heterojunction_photocatalysts_toward_environmental_r__openalex",
+  "Recyclable_Ag_TiO2_PDMS_Coated_Cotton_Fabric_with_Visible-Light_Photocatalytic_for_Efficient_Water_Purific__openalex",
+  "Reduced_electron_hole_recombination_in_Z-scheme_nanostructure_of_zeolitic_imidazolate_framework-11_graphitic__nature",
+  "Removal_of_Congo_red_dye_by_electrochemical_advanced_oxidation_process_optimization_degradation_pathways_and__nature",
+  "Retraction_Note_Investigating_the_Heteronjunction_between_ZnO_Fe2O3_and_g-C3N4_for_an_Enhanced_Photocatalyti__nature",
+  "Revolutionizing_acridine_synthesis_novel_core-shell_magnetic_nanoparticles_and_Co-Zn_zeolitic_imidazolate_fr__nature",
+  "Silane_modification_of_TiO2_nanoparticles_and_usage_in_acrylic_film_for_effective_photocatalytic_degradation__nature",
+  "Sliver_Doped_Sodium_Antimonate_with_Greatly_Reduced_the_Band_Gap_for_Efficiently_Enhanced_Photocatalytic_A__openalex",
+  "Soybean_residues_assisted_g-C3N4_SiC_photocatalyst_prepared_from_waste_materials_Synthesis_characterizatio__openalex",
+  "Synergic_Effect_between_Adsorption_and_Photocatalysis_of_Metal-Free_g-C3N4_Derived_from_Different_Precurs__europepmc",
+  "Synthesis_and_photocatalytic_improvement_for_methylene_blue_degradation_of_MgO_g-C3N4_and_ZnO_g-C3N4_composi__nature",
+  "Synthesis_of_ZIF-8_g-C_3_N_4_nanomaterial_and_its_use_for_rapid_removal_of_alizarin_red_and_ketoprofen_fro__openalex",
+  "Ultra-sensitive_glyphosate_detection_in_soil_and_wastewater_using_Zn-zeolitic_imidazolate_framework-67_montm__nature",
+  "Visible_light-assisted_photocatalytic_degradation_kinetics_of_methylene_blue_MB_dye_by_-MoO3_nanoplates_and___nature",
+  "Voltammetric_sensing_of_heavy_metals_for_global_water_security_a_critical_materials_perspective_on_field-dep__nature",
+  "ZIF-8_graphene_composite_for_photocatalytic_degradation_under_low_intensity_UV_irradiation_and_antibacterial__nature",
+  "Zn-modulated_phase_transformation_in_ZIFs_for_bifunctional_pesticide_adsorption_and_bacterial_inactivation__openalex"
+ ],
+ "run_config": {
+  "created": "2026-10-05T09:41:55",
+  "code": {
+   "sha256": "9828f7aec047c712a88fc49a4a8fb9a2e9d310665c2983fa948ddbb615cb8d37",
+   "n_files": 75
+  },
+  "config_name": "anchorschema+cluster",
+  "fixes": [
+   "anchorschema",
+   "cluster"
+  ],
+  "fix_env": {
+   "MEMOSCHEMA_FIX_RETRIEVAL": "",
+   "MEMOSCHEMA_FIX_MATCH": "",
+   "MEMOSCHEMA_FIX_CLUSTER": "1",
+   "MEMOSCHEMA_FIX_ANCHOR_SCHEMA": "1",
+   "MEMOSCHEMA_FIX_FULLTEXT": "",
+   "MEMOSCHEMA_FIX_ANCHOR_DEDUP": "",
+   "MEMOSCHEMA_FIX_ANCHOR_ABSORB": "",
+   "MEMOSCHEMA_API_MAX_RETRIES": "6"
+  },
+  "models": {
+   "chat_deployment": "gpt-5.4",
+   "embed_deployment": "text-embedding-3-large"
+  },
+  "text": {
+   "read_chars": 12000,
+   "distill_input_chars": 60000,
+   "render_chars": 12000
+  },
+  "inputs": {
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_01",
+   "sources": "core,openalex,nature",
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "target_total_papers": 250
+  },
+  "args": {
+   "domain": "chem",
+   "subdomain": "ZIF",
+   "last_tier": "Zeolitic imidazolate frameworks (ZIFs)",
+   "target_run_id": "01",
+   "seed_dir": "<repo>/seeds/seed_chem/ZIF_01",
+   "output_root": "results/e2e/e2e_v3/r4/chem/ZIF_01",
+   "memory_store_root": null,
+   "rounds": 3,
+   "max_queries": 15,
+   "results_per_source": 20,
+   "sources": "core,openalex,nature",
+   "target_total_papers": 250,
+   "min_corpus_for_induction": 20,
+   "embed_threshold": 0.65,
+   "min_support": 2,
+   "max_final_fields": 8,
+   "max_chars_per_paper": 12000,
+   "distill_input_chars": 60000,
+   "skip_refine": false,
+   "handover_out_dir": null,
+   "memory_suggestions_path": null,
+   "resume_run_dir": null,
+   "no_memory": true,
+   "fixes": "cluster,anchorschema"
+  }
+ },
+ "induction_papers_not_in_collected": [
+  {
+   "round": 3,
+   "paper_id": "Correction_to_Highly_efficient_visible_light-induced_photocatalytic_degradation_of_methylene_blue_over_InVO4__nature",
+   "title": "Correction to: Highly efficient visible light-induced photocatalytic degradation of methylene blue over InVO4/BiVO4 composite photocatalyst",
+   "doi": "10.1007/s10853-020-05442-4",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s10853-020-05442-4",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Fabrication_of_a_polydopamine_blue_TiO_nanotube_thin-film_nanocomposite_membrane_for_visible-light_photocata__nature",
+   "title": "Fabrication of a polydopamine/blue TiO₂ nanotube thin-film nanocomposite membrane for visible-light photocatalytic degradation of methylene blue",
+   "doi": "10.1038/s41598-026-63545-5",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-026-63545-5",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Improvement_of_optical_and_structural_properties_of_ZIF-8_by_producing_multifunctional_Zn_Co_bimetallic_ZIFs__nature",
+   "title": "Improvement of optical and structural properties of ZIF-8 by producing multifunctional Zn/Co bimetallic ZIFs for wastewater treatment from copper ions and dye",
+   "doi": "10.1038/s41598-024-66276-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-024-66276-7",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Noble_metal_photocatalysts_under_visible_light_and_UV_light_irradiation__edu",
+   "title": "Noble metal photocatalysts under visible light and UV light irradiation",
+   "doi": null,
+   "source": "core",
+   "url": null,
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Perspective_for_OER_electrocatalysts_Lattice_engineering_of_clay-like_frameworks_with_near-surface_cluster_a__nature",
+   "title": "Perspective for OER electrocatalysts: Lattice engineering of clay-like frameworks with near-surface cluster active sites",
+   "doi": "10.1007/s11431-023-2504-8",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s11431-023-2504-8",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Promotion_of_the_excited_electron_transfer_over_Ni-_and_Co_-sulfide_co-doped_g-C3N4_photocatalyst_g-C3N4_Nix__nature",
+   "title": "Promotion of the excited electron transfer over Ni- and Co -sulfide co-doped g-C3N4 photocatalyst (g-C3N4/NixCo1−xS2) for hydrogen Production under visible light irradiation",
+   "doi": "10.1038/s41598-017-08163-y",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-017-08163-y",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Silane_modification_of_TiO2_nanoparticles_and_usage_in_acrylic_film_for_effective_photocatalytic_degradation__nature",
+   "title": "Silane modification of TiO2 nanoparticles and usage in acrylic film for effective photocatalytic degradation of methylene blue under visible light",
+   "doi": "10.1038/s41598-023-34463-7",
+   "source": "crossref",
+   "url": "https://doi.org/10.1038/s41598-023-34463-7",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Visible_light-assisted_photocatalytic_degradation_kinetics_of_methylene_blue_MB_dye_by_-MoO3_nanoplates_and___nature",
+   "title": "Visible light-assisted photocatalytic degradation kinetics of methylene blue (MB) dye by β-MoO3 nanoplates and α-MoO3 nanorods",
+   "doi": "10.1007/s44371-026-00967-0",
+   "source": "crossref",
+   "url": "https://doi.org/10.1007/s44371-026-00967-0",
+   "metadata_found": true
+  }
+ ],
+ "role": "cross-run history for the reuse replay (memexp38 REUSEC) and the r10 live run; not an evaluation corpus"
+}

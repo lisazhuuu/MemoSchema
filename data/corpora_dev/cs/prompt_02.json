@@ -1,0 +1,1602 @@
+{
+ "batch": "dev",
+ "run": "prompt_02",
+ "papers_collected": [
+  {
+   "round": 1,
+   "paper_id": "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__openalex",
+   "title": "Unleashing the potential of prompt engineering for large language models",
+   "doi": "10.48550/arxiv.2310.14735",
+   "source": "openalex",
+   "url": "https://openalex.org/W4387929411"
+  },
+  {
+   "round": 1,
+   "paper_id": "Integrating_Chemistry_Knowledge_in_Large_Language_Models_via_Prompt_Engineering__arxiv",
+   "title": "Integrating Chemistry Knowledge in Large Language Models via Prompt Engineering",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.14467v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Controllable_Abstraction_in_Summary_Generation_for_Large_Language_Models_via_Prompt_Engineering__arxiv",
+   "title": "Controllable Abstraction in Summary Generation for Large Language Models via Prompt Engineering",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.15436v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Metaphor_identification_using_large_language_models_A_comparison_of_RAG_prompt_engineering_and_fine-tuning__arxiv",
+   "title": "Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2509.24866v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancing_Sentiment_Classification_and_Irony_Detection_in_Large_Language_Models_through_Advanced_Prompt_Engin__arxiv",
+   "title": "Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.08302v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Leveraging_Large_Language_Models_with_Chain-of-Thought_and_Prompt_Engineering_for_Traffic_Crash_Severity__openreview",
+   "title": "Leveraging Large Language Models with Chain-of-Thought and Prompt Engineering for Traffic Crash Severity Analysis and Inference",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=EUJQrA0yxO"
+  },
+  {
+   "round": 1,
+   "paper_id": "Leveraging_Large_Language_Models_with_Chain-of-Thought_and_Prompt_Engineering_for_Traffic_Crash_Severity__openreview",
+   "title": "Leveraging Large Language Models with Chain-of-Thought and Prompt Engineering for Traffic Crash Severity Analysis and Inference",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=EUJQrA0yxO"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_comprehensive_taxonomy_of_prompt_engineering_techniques_for_large_language_models__openreview",
+   "title": "A comprehensive taxonomy of prompt engineering techniques for large language models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=MRurK5ru6f"
+  },
+  {
+   "round": 1,
+   "paper_id": "Unleashing_the_potential_of_prompt_engineering_in_Large_Language_Models_a_comprehensive_review__openreview",
+   "title": "Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=S6VVFLeDGB"
+  },
+  {
+   "round": 1,
+   "paper_id": "RePrompt_Planning_by_Automatic_Prompt_Engineering_for_Large_Language_Models_Agents__openreview",
+   "title": "RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=ewbxfI0z1l"
+  },
+  {
+   "round": 1,
+   "paper_id": "Wordflow_Social_Prompt_Engineering_for_Large_Language_Models__openreview",
+   "title": "Wordflow: Social Prompt Engineering for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=muDMgWtuCc"
+  },
+  {
+   "round": 1,
+   "paper_id": "Wordflow_Social_Prompt_Engineering_for_Large_Language_Models__openreview",
+   "title": "Wordflow: Social Prompt Engineering for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=muDMgWtuCc"
+  },
+  {
+   "round": 1,
+   "paper_id": "ELPO_Ensemble_Learning_Based_Prompt_Optimization_for_Large_Language_Models__arxiv",
+   "title": "ELPO: Ensemble Learning Based Prompt Optimization for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2511.16122v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Large_Language_Models_Are_Human-Level_Prompt_Engineers__arxiv",
+   "title": "Large Language Models Are Human-Level Prompt Engineers",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2211.01910v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Using_Pretrained_Large_Language_Model_with_Prompt_Engineering_to_Answer_Biomedical_Questions__arxiv",
+   "title": "Using Pretrained Large Language Model with Prompt Engineering to Answer Biomedical Questions",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.06779v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "APEER_Automatic_Prompt_Engineering_Enhances_Large_Language_Model_Reranking__openreview",
+   "title": "APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=JvinJBlfq3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Promptomatix_An_Automatic_Prompt_Optimization_Framework_for_Large_Language_Models__openreview",
+   "title": "Promptomatix: An Automatic Prompt Optimization Framework for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=5xN57bua4B"
+  },
+  {
+   "round": 1,
+   "paper_id": "CoolPrompt_An_Automatic_Prompt_Optimization_Framework_for_Large_Language_Models__openreview",
+   "title": "CoolPrompt: An Automatic Prompt Optimization Framework for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=XGECnjDEcS"
+  },
+  {
+   "round": 1,
+   "paper_id": "Active_Prompting_with_Chain-of-Thought_for_Large_Language_Models__openalex",
+   "title": "Active Prompting with Chain-of-Thought for Large Language Models",
+   "doi": "10.48550/arxiv.2302.12246",
+   "source": "openalex",
+   "url": "https://openalex.org/W4321855256"
+  },
+  {
+   "round": 1,
+   "paper_id": "Progressive-Hint_Prompting_Improves_Reasoning_in_Large_Language_Models__openalex",
+   "title": "Progressive-Hint Prompting Improves Reasoning in Large Language Models",
+   "doi": "10.48550/arxiv.2304.09797",
+   "source": "openalex",
+   "url": "https://openalex.org/W4366565380"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_on_Large_Language_Models_for_Software_Engineering__openalex",
+   "title": "A Survey on Large Language Models for Software Engineering",
+   "doi": "10.48550/arxiv.2312.15223",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390306128"
+  },
+  {
+   "round": 1,
+   "paper_id": "PMPO_Probabilistic_Metric_Prompt_Optimization_for_Small_and_Large_Language_Models__arxiv",
+   "title": "PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2505.16307v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "When_Prompt_Optimization_Becomes_Jailbreaking_Adaptive_Red-Teaming_of_Large_Language_Models__arxiv",
+   "title": "When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2603.19247v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Applying_Large_Language_Models_and_Chain-of-Thought_for_Automatic_Scoring__arxiv",
+   "title": "Applying Large Language Models and Chain-of-Thought for Automatic Scoring",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2312.03748v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "Text-to-SQL_Empowered_by_Large_Language_Models_A_Benchmark_Evaluation__arxiv",
+   "title": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2308.15363v4"
+  },
+  {
+   "round": 1,
+   "paper_id": "Automatic_Prompt_Selection_for_Large_Language_Models__openreview",
+   "title": "Automatic Prompt Selection for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=FqUlokfFvz"
+  },
+  {
+   "round": 1,
+   "paper_id": "GrIPS_Gradient-free_Edit-based_Instruction_Search_for_Prompting_Large_Language_Models__aclanthology",
+   "title": "GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models",
+   "doi": "10.48550/arXiv.2203.07281",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.eacl-main.277/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancing_Large_Language_Models_Against_Inductive_Instructions_with_Dual-critique_Prompting__aclanthology",
+   "title": "Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting",
+   "doi": "10.18653/v1/2024.naacl-long.299",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.299/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Active_Prompting_with_Chain-of-Thought_for_Large_Language_Models__openalex",
+   "title": "Active Prompting with Chain-of-Thought for Large Language Models",
+   "doi": "10.18653/v1/2024.acl-long.73",
+   "source": "openalex",
+   "url": "https://openalex.org/W4321855256"
+  },
+  {
+   "round": 1,
+   "paper_id": "Prompt_Space_Optimizing_Few-shot_Reasoning_Success_with_Large_Language_Models__openalex",
+   "title": "Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models",
+   "doi": "10.18653/v1/2024.findings-naacl.119",
+   "source": "openalex",
+   "url": "https://openalex.org/W4401043136"
+  },
+  {
+   "round": 1,
+   "paper_id": "Plan-and-Solve_Prompting_Improving_Zero-Shot_Chain-of-Thought_Reasoning_by_Large_Language_Models__openreview",
+   "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=5ZmRF6DWqq"
+  },
+  {
+   "round": 1,
+   "paper_id": "Applying_Large_Language_Models_and_Chain-of-Thought_for_Automatic_Scoring__openreview",
+   "title": "Applying Large Language Models and Chain-of-Thought for Automatic Scoring",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=AZD8AAXPnw"
+  },
+  {
+   "round": 1,
+   "paper_id": "Plan-and-Solve_Prompting_Improving_Zero-Shot_Chain-of-Thought_Reasoning_by_Large_Language_Models__aclanthology",
+   "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+   "doi": "10.48550/arXiv.2305.04091",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.acl-long.147/"
+  },
+  {
+   "round": 1,
+   "paper_id": "MathPrompter_Mathematical_Reasoning_using_Large_Language_Models__aclanthology",
+   "title": "MathPrompter: Mathematical Reasoning using Large Language Models",
+   "doi": "10.48550/arXiv.2303.05398",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.acl-industry.4/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Enhancing_Text-to-SQL_Capabilities_of_Large_Language_Models_through_Tailored_Promptings__aclanthology",
+   "title": "Enhancing Text-to-SQL Capabilities of Large Language Models through Tailored Promptings",
+   "doi": "10.63317/3e8xmkzdqsjc",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.539/"
+  },
+  {
+   "round": 1,
+   "paper_id": "GLaPE_Gold_Label-agnostic_Prompt_Evaluation_for_Large_Language_Models__aclanthology",
+   "title": "GLaPE: Gold Label-agnostic Prompt Evaluation for Large Language Models",
+   "doi": "10.48550/arXiv.2402.02408",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.121/"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Wolf_in_Sheep_s_Clothing_Generalized_Nested_Jailbreak_Prompts_can_Fool_Large_Language_Models_Easily__aclanthology",
+   "title": "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily",
+   "doi": "10.48550/arXiv.2311.08268",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.118/"
+  },
+  {
+   "round": 1,
+   "paper_id": "Multi-expert_Prompting_Improves_Reliability_Safety_and_Usefulness_of_Large_Language_Models__aclanthology",
+   "title": "Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models",
+   "doi": "10.18653/v1/2024.emnlp-main.1135",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.1135/"
+  },
+  {
+   "round": 1,
+   "paper_id": "CoTAL_Human-in-the-Loop_Prompt_Engineering_for_Generalizable_Formative_Assessment_Scoring__arxiv",
+   "title": "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2504.02323v3"
+  },
+  {
+   "round": 1,
+   "paper_id": "Evaluating_Prompt_Engineering_Techniques_for_Accuracy_and_Confidence_Elicitation_in_Medical_LLMs__arxiv",
+   "title": "Evaluating Prompt Engineering Techniques for Accuracy and Confidence Elicitation in Medical LLMs",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.00072v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "PEEM_Prompt_Engineering_Evaluation_Metrics_for_Interpretable_Joint_Evaluation_of_Prompts_and_Responses__arxiv",
+   "title": "PEEM: Prompt Engineering Evaluation Metrics for Interpretable Joint Evaluation of Prompts and Responses",
+   "doi": "10.1109/ACCESS.2026.3679809",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2603.10477v2"
+  },
+  {
+   "round": 1,
+   "paper_id": "DUPE_Detection_Undermining_via_Prompt_Engineering_for_Deepfake_Text__arxiv",
+   "title": "DUPE: Detection Undermining via Prompt Engineering for Deepfake Text",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2404.11408v1"
+  },
+  {
+   "round": 1,
+   "paper_id": "Prompt_Engineering_a_Prompt_Engineer__openreview",
+   "title": "Prompt Engineering a Prompt Engineer",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=eojWsJQ2fe"
+  },
+  {
+   "round": 1,
+   "paper_id": "Prompt_Engineering_a_Prompt_Engineer__openreview",
+   "title": "Prompt Engineering a Prompt Engineer",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=eojWsJQ2fe"
+  },
+  {
+   "round": 1,
+   "paper_id": "Evaluating_Large_Language_Models_at_Evaluating_Instruction_Following__openreview",
+   "title": "Evaluating Large Language Models at Evaluating Instruction Following",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=tC2lDRhHNT"
+  },
+  {
+   "round": 1,
+   "paper_id": "Chain_of_Natural_Language_Inference_for_Reducing_Large_Language_Model_Hallucinations__openreview",
+   "title": "Chain of Natural Language Inference for Reducing Large Language Model Hallucinations",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=byNSabn9cA"
+  },
+  {
+   "round": 1,
+   "paper_id": "Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey__openalex",
+   "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2312.10997",
+   "source": "openalex",
+   "url": "https://openalex.org/W4389984066"
+  },
+  {
+   "round": 1,
+   "paper_id": "Challenges_and_Applications_of_Large_Language_Models__openalex",
+   "title": "Challenges and Applications of Large Language Models",
+   "doi": "10.48550/arxiv.2307.10169",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384920109"
+  },
+  {
+   "round": 1,
+   "paper_id": "InstructCoder_Instruction_Tuning_Large_Language_Models_for_Code_Editing__arxiv",
+   "title": "InstructCoder: Instruction Tuning Large Language Models for Code Editing",
+   "doi": "10.18653/v1/2024.acl-srw.6",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/30f04f34c3794bc6d8be403de55d733141afc55b"
+  },
+  {
+   "round": 1,
+   "paper_id": "PACE_Improving_Prompt_with_Actor-Critic_Editing_for_Large_Language_Model__arxiv",
+   "title": "PACE: Improving Prompt with Actor-Critic Editing for Large Language Model",
+   "doi": "10.48550/arXiv.2308.10088",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/d8ecaac57de593207c85461ccfc7d10c8807d78d"
+  },
+  {
+   "round": 1,
+   "paper_id": "HoneyBee_Progressive_Instruction_Finetuning_of_Large_Language_Models_for_Materials_Science__arxiv",
+   "title": "HoneyBee: Progressive Instruction Finetuning of Large Language Models for Materials Science",
+   "doi": "10.48550/arXiv.2310.08511",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/9c217c50addaee50e91e3481be8778bf62d71df0"
+  },
+  {
+   "round": 1,
+   "paper_id": "Large_Language_Models_as_Optimizers__openalex",
+   "title": "Large Language Models as Optimizers",
+   "doi": "10.48550/arxiv.2309.03409",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386554921"
+  },
+  {
+   "round": 1,
+   "paper_id": "Evaluating_Large_Language_Models_A_Comprehensive_Survey__openalex",
+   "title": "Evaluating Large Language Models: A Comprehensive Survey",
+   "doi": "10.48550/arxiv.2310.19736",
+   "source": "openalex",
+   "url": "https://openalex.org/W4388184238"
+  },
+  {
+   "round": 1,
+   "paper_id": "Multi-Step_Reasoning_with_Large_Language_Models_a_Survey__openalex",
+   "title": "Multi-Step Reasoning with Large Language Models, a Survey",
+   "doi": "10.48550/arxiv.2407.11511",
+   "source": "openalex",
+   "url": "https://openalex.org/W4403754500"
+  },
+  {
+   "round": 1,
+   "paper_id": "Revisiting_Large_Language_Models_as_Zero-shot_Relation_Extractors__arxiv",
+   "title": "Revisiting Large Language Models as Zero-shot Relation Extractors",
+   "doi": "10.48550/arXiv.2310.05028",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/497acdc02c50073e714838a8d4f16f7482d37e64"
+  },
+  {
+   "round": 1,
+   "paper_id": "AnnoLLM_Making_Large_Language_Models_to_Be_Better_Crowdsourced_Annotators__arxiv",
+   "title": "AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators",
+   "doi": "10.48550/arXiv.2303.16854",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/70da4fb798a86cbe8cad96c27ced0415885bbd9d"
+  },
+  {
+   "round": 1,
+   "paper_id": "A_Survey_on_Large_Language_Models_for_Code_Generation__openalex",
+   "title": "A Survey on Large Language Models for Code Generation",
+   "doi": "10.48550/arxiv.2406.00515",
+   "source": "openalex",
+   "url": "https://openalex.org/W4399357038"
+  },
+  {
+   "round": 2,
+   "paper_id": "Prompt_Engineering_Large_Language_Models_Forecasting_Capabilities__arxiv",
+   "title": "Prompt Engineering Large Language Models' Forecasting Capabilities",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.01578v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Enhancing_Finite_State_Machine_Design_Automation_with_Large_Language_Models_and_Prompt_Engineering_Techniques__arxiv",
+   "title": "Enhancing Finite State Machine Design Automation with Large Language Models and Prompt Engineering Techniques",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2506.00001v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Employing_General-Purpose_and_Biomedical_Large_Language_Models_with_Advanced_Prompt_Engineering_for_Pharmacoe__arxiv",
+   "title": "Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2604.17988v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "OpenMedLM_Prompt_engineering_can_out-perform_fine-tuning_in_medical_question-answering_with_open-source_large__arxiv",
+   "title": "OpenMedLM: Prompt engineering can out-perform fine-tuning in medical question-answering with open-source large language models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.19371v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Autonomous_Prompt_Engineering_in_Large_Language_Models__arxiv",
+   "title": "Autonomous Prompt Engineering in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.11000v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Extracting_Accurate_Materials_Data_from_Research_Papers_with_Conversational_Language_Models_and_Prompt_Engin__nature",
+   "title": "Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering",
+   "doi": "10.1038/s41467-024-45914-8",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2303.05352v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Iterative_Prompt_Refinement_for_Radiation_Oncology_Symptom_Extraction_Using_Teacher-Student_Large_Language_Mo__arxiv",
+   "title": "Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.04075v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Position_Engineering_Boosting_Large_Language_Models_through_Positional_Information_Manipulation__openreview",
+   "title": "Position Engineering: Boosting Large Language Models through Positional Information Manipulation",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=LpND1T88Pu"
+  },
+  {
+   "round": 2,
+   "paper_id": "Position_Engineering_Boosting_Large_Language_Models_through_Positional_Information_Manipulation__openreview",
+   "title": "Position Engineering: Boosting Large Language Models through Positional Information Manipulation",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=LpND1T88Pu"
+  },
+  {
+   "round": 2,
+   "paper_id": "Position_Engineering_Boosting_Large_Language_Models_through_Positional_Information_Manipulation__openreview",
+   "title": "Position Engineering: Boosting Large Language Models through Positional Information Manipulation",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=LpND1T88Pu"
+  },
+  {
+   "round": 2,
+   "paper_id": "Do_Advanced_Language_Models_Eliminate_the_Need_for_Prompt_Engineering_in_Software_Engineering__openreview",
+   "title": "Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=3WiF6QJlDd"
+  },
+  {
+   "round": 2,
+   "paper_id": "Prototype-Based_Dynamic_Steering_for_Large_Language_Models__arxiv",
+   "title": "Prototype-Based Dynamic Steering for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.05498v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Jailbreak_Mimicry_Automated_Discovery_of_Narrative-Based_Jailbreaks_for_Large_Language_Models__arxiv",
+   "title": "Jailbreak Mimicry: Automated Discovery of Narrative-Based Jailbreaks for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.22085v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Prompt_Refinement-based_Large_Language_Model_for_Metro_Passenger_Flow_Forecasting_under_Delay_Conditions__arxiv",
+   "title": "A Prompt Refinement-based Large Language Model for Metro Passenger Flow Forecasting under Delay Conditions",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.15111v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Linear_Feedback_Control_Systems_for_Iterative_Prompt_Optimization_in_Large_Language_Models__arxiv",
+   "title": "Linear Feedback Control Systems for Iterative Prompt Optimization in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2501.11979v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Unleashing_the_Potential_of_Large_Language_Models_as_Prompt_Optimizers_Analogical_Analysis_with_Gradient-base__arxiv",
+   "title": "Unleashing the Potential of Large Language Models as Prompt Optimizers: Analogical Analysis with Gradient-based Model Optimizers",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2402.17564v3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Exploring_Approaches_for_Detecting_Memorization_of_Recommender_System_Data_in_Large_Language_Models__arxiv",
+   "title": "Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2601.02002v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Self-Adaptive_Cognitive_Debiasing_for_Large_Language_Models_in_Decision-Making__arxiv",
+   "title": "Self-Adaptive Cognitive Debiasing for Large Language Models in Decision-Making",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2504.04141v4"
+  },
+  {
+   "round": 2,
+   "paper_id": "On_the_Limitations_of_Large_Language_Models_for_Conceptual_Database_Modeling__arxiv",
+   "title": "On the Limitations of Large Language Models for Conceptual Database Modeling",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2605.11986v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "LogEval_A_Comprehensive_Benchmark_Suite_for_Large_Language_Models_In_Log_Analysis__arxiv",
+   "title": "LogEval: A Comprehensive Benchmark Suite for Large Language Models In Log Analysis",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2407.01896v1"
+  },
+  {
+   "round": 2,
+   "paper_id": "Efficient_Prompting_Methods_for_Large_Language_Models_A_Survey__openalex",
+   "title": "Efficient Prompting Methods for Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2404.01077",
+   "source": "openalex",
+   "url": "https://openalex.org/W4393739747"
+  },
+  {
+   "round": 2,
+   "paper_id": "Position_Engineering_Boosting_Large_Language_Models_through_Positional_Information_Manipulation__aclanthology",
+   "title": "Position Engineering: Boosting Large Language Models through Positional Information Manipulation",
+   "doi": "10.48550/arXiv.2404.11216",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.417/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Bounding_the_Capabilities_of_Large_Language_Models_in_Open_Text_Generation_with_Prompt_Constraints__aclanthology",
+   "title": "Bounding the Capabilities of Large Language Models in Open Text Generation with Prompt Constraints",
+   "doi": "10.48550/arXiv.2302.09185",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.findings-eacl.148/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Prompting_Large_Language_Models_for_Counterfactual_Generation_An_Empirical_Study__aclanthology",
+   "title": "Prompting Large Language Models for Counterfactual Generation: An Empirical Study",
+   "doi": "10.63317/3xeiq2g96jjy",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.1156/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Null-Shot_Prompting_Rethinking_Prompting_Large_Language_Models_With_Hallucination__aclanthology",
+   "title": "Null-Shot Prompting: Rethinking Prompting Large Language Models With Hallucination",
+   "doi": "10.18653/v1/2024.emnlp-main.740",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.740/"
+  },
+  {
+   "round": 2,
+   "paper_id": "ChainLM_Empowering_Large_Language_Models_with_Improved_Chain-of-Thought_Prompting__aclanthology",
+   "title": "ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting",
+   "doi": "10.48550/arXiv.2403.14312",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.265/"
+  },
+  {
+   "round": 2,
+   "paper_id": "Transforming_Science_with_Large_Language_Models_A_Survey_on_AI-assisted_Scientific_Discovery_Experimentati__openalex",
+   "title": "Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation",
+   "doi": "10.48550/arxiv.2502.05151",
+   "source": "openalex",
+   "url": "https://openalex.org/W4407310674"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Comprehensive_Overview_of_Large_Language_Models__openalex",
+   "title": "A Comprehensive Overview of Large Language Models",
+   "doi": "10.48550/arxiv.2307.06435",
+   "source": "openalex",
+   "url": "https://openalex.org/W4384389802"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_on_Evaluation_of_Large_Language_Models__openalex",
+   "title": "A Survey on Evaluation of Large Language Models",
+   "doi": "10.48550/arxiv.2307.03109",
+   "source": "openalex",
+   "url": "https://openalex.org/W4383605161"
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_Language_Models_A_Survey__openalex",
+   "title": "Large Language Models: A Survey",
+   "doi": "10.48550/arxiv.2402.06196",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391766565"
+  },
+  {
+   "round": 2,
+   "paper_id": "Evaluating_Large_Language_Models_in_Theory_of_Mind_Tasks__openalex",
+   "title": "Evaluating Large Language Models in Theory of Mind Tasks",
+   "doi": "10.48550/arxiv.2302.02083",
+   "source": "openalex",
+   "url": "https://openalex.org/W4319452268"
+  },
+  {
+   "round": 2,
+   "paper_id": "Having_Beer_after_Prayer_Measuring_Cultural_Bias_in_Large_Language_Models__arxiv",
+   "title": "Having Beer after Prayer? Measuring Cultural Bias in Large Language Models",
+   "doi": "10.48550/arXiv.2305.14456",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/430a95e3cbebddf8d727c874e007d32ab844f148"
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Comprehensive_Survey_of_Hallucination_Mitigation_Techniques_in_Large_Language_Models__openalex",
+   "title": "A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models",
+   "doi": "10.48550/arxiv.2401.01313",
+   "source": "openalex",
+   "url": "https://openalex.org/W4390602555"
+  },
+  {
+   "round": 2,
+   "paper_id": "The_Effect_of_Sampling_Temperature_on_Problem_Solving_in_Large_Language_Models__arxiv",
+   "title": "The Effect of Sampling Temperature on Problem Solving in Large Language Models",
+   "doi": "10.18653/v1/2024.findings-emnlp.432",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/c9b6d0db6c2bebe0bcf593d95bea0e62b2443ef3"
+  },
+  {
+   "round": 2,
+   "paper_id": "Enhancing_Large_Language_Models_in_Coding_Through_Multi-Perspective_Self-Consistency__arxiv",
+   "title": "Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency",
+   "doi": "10.48550/arXiv.2309.17272",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/0d22f06a1f5ad9f62b2f35c126b514f927586c85"
+  },
+  {
+   "round": 2,
+   "paper_id": "CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing__openalex",
+   "title": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
+   "doi": "10.48550/arxiv.2305.11738",
+   "source": "openalex",
+   "url": "https://openalex.org/W4377372007"
+  },
+  {
+   "round": 2,
+   "paper_id": "Unifying_Large_Language_Models_and_Knowledge_Graphs_A_Roadmap__openalex",
+   "title": "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "doi": "10.48550/arxiv.2306.08302",
+   "source": "openalex",
+   "url": "https://openalex.org/W4380993239"
+  },
+  {
+   "round": 2,
+   "paper_id": "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__arxiv",
+   "title": "Unleashing the potential of prompt engineering for large language models",
+   "doi": "10.1016/j.patter.2025.101260",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.14735v6"
+  },
+  {
+   "round": 2,
+   "paper_id": "APEER_Automatic_Prompt_Engineering_Enhances_Large_Language_Model_Reranking__arxiv",
+   "title": "APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.14449v2"
+  },
+  {
+   "round": 2,
+   "paper_id": "PACE_Improving_Prompt_with_Actor-Critic_Editing_for_Large_Language_Model__arxiv",
+   "title": "PACE: Improving Prompt with Actor-Critic Editing for Large Language Model",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 2,
+   "paper_id": "PACE_Improving_Prompt_with_Actor-Critic_Editing_for_Large_Language_Model__openreview",
+   "title": "PACE: Improving Prompt with Actor-Critic Editing for Large Language Model",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=t6Vqo5E82U"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Systematic_Survey_of_Prompt_Engineering_in_Large_Language_Models_Techniques_and_Applications__openalex",
+   "title": "A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications",
+   "doi": "10.48550/arxiv.2402.07927",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391833078"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Sequential_Optimal_Learning_Approach_to_Automated_Prompt_Engineering_in_Large_Language_Models__openalex",
+   "title": "A Sequential Optimal Learning Approach to Automated Prompt Engineering in Large Language Models",
+   "doi": "10.48550/arxiv.2501.03508",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406191093"
+  },
+  {
+   "round": 3,
+   "paper_id": "SOPL_A_Sequential_Optimal_Learning_Approach_to_Automated_Prompt_Engineering_in_Large_Language_Models__openalex",
+   "title": "SOPL: A Sequential Optimal Learning Approach to Automated Prompt Engineering in Large Language Models",
+   "doi": "10.18653/v1/2025.findings-emnlp.1155",
+   "source": "openalex",
+   "url": "https://openalex.org/W4416034180"
+  },
+  {
+   "round": 3,
+   "paper_id": "Beyond_Prompt_Engineering_A_Reinforced_Token-Level_Input_Refinement_for_Large_Language_Models__openreview",
+   "title": "Beyond Prompt Engineering: A Reinforced Token-Level Input Refinement for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=pGu8eVgvD9"
+  },
+  {
+   "round": 3,
+   "paper_id": "EmbedGrad_Gradient-Based_Prompt_Optimization_in_Embedding_Space_for_Large_Language_Models__arxiv",
+   "title": "EmbedGrad: Gradient-Based Prompt Optimization in Embedding Space for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2508.03533v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "An_Empirical_Study_on_Prompt_Compression_for_Large_Language_Models__openreview",
+   "title": "An Empirical Study on Prompt Compression for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=lbFVTPv4s6"
+  },
+  {
+   "round": 3,
+   "paper_id": "iPrOp_Interactive_Prompt_Optimization_for_Large_Language_Models_with_a_Human_in_the_Loop__openreview",
+   "title": "iPrOp: Interactive Prompt Optimization for Large Language Models with a Human in the Loop",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=JL0ylyGNOU"
+  },
+  {
+   "round": 3,
+   "paper_id": "LLMLingua_Compressing_Prompts_for_Accelerated_Inference_of_Large_Language_Models__arxiv",
+   "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models",
+   "doi": "10.48550/arXiv.2310.05736",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/2392b6d3a5cad9e5cf349169eaeee848266adf6a"
+  },
+  {
+   "round": 3,
+   "paper_id": "Can_large_language_models_reason_about_medical_questions__arxiv",
+   "title": "Can large language models reason about medical questions?",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2207.08143v4"
+  },
+  {
+   "round": 3,
+   "paper_id": "Demystifying_Large_Language_Models_for_Medicine_A_Primer__arxiv",
+   "title": "Demystifying Large Language Models for Medicine: A Primer",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.18856v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Utilizing_Modern_Large_Language_Models_LLM_for_Financial_Trend_Analysis_and_Digest_Creation__arxiv",
+   "title": "Utilizing Modern Large Language Models (LLM) for Financial Trend Analysis and Digest Creation",
+   "doi": "10.1109/SUMMA64428.2024.10803746",
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2510.01225v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "LearNAT_Learning_NL2SQL_with_AST-guided_Task_Decomposition_for_Large_Language_Models__arxiv",
+   "title": "LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2504.02327v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "MindMap_Knowledge_Graph_Prompting_Sparks_Graph_of_Thoughts_in_Large_Language_Models__arxiv",
+   "title": "MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models",
+   "doi": "10.48550/arXiv.2308.09729",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/ca261cb681b082e90ca6c7a9d325b4265ed1dc28"
+  },
+  {
+   "round": 3,
+   "paper_id": "Prompt_Compression_for_Large_Language_Models_A_Survey__openalex",
+   "title": "Prompt Compression for Large Language Models: A Survey",
+   "doi": "10.18653/v1/2025.naacl-long.368",
+   "source": "openalex",
+   "url": "https://openalex.org/W4411119429"
+  },
+  {
+   "round": 3,
+   "paper_id": "LLMLingua_Compressing_Prompts_for_Accelerated_Inference_of_Large_Language_Models__openreview",
+   "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=ADsEdyI32n"
+  },
+  {
+   "round": 3,
+   "paper_id": "Using_Large_Language_Models_to_Automate_and_Expedite_Reinforcement_Learning_with_Reward_Machine__openreview",
+   "title": "Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=Q7dBSli2sP"
+  },
+  {
+   "round": 3,
+   "paper_id": "Using_Large_Language_Models_to_Automate_and_Expedite_Reinforcement_Learning_with_Reward_Machine__openreview",
+   "title": "Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=Q7dBSli2sP"
+  },
+  {
+   "round": 3,
+   "paper_id": "CROP_Token-Efficient_Reasoning_in_Large_Language_Models_via_Regularized_Prompt_Optimization__openreview",
+   "title": "CROP: Token-Efficient Reasoning in Large Language Models via Regularized Prompt Optimization",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=O2LmrF5Yzq"
+  },
+  {
+   "round": 3,
+   "paper_id": "Counterfactual_Token_Generation_in_Large_Language_Models__openreview",
+   "title": "Counterfactual Token Generation in Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=S4pwjKmLGR"
+  },
+  {
+   "round": 3,
+   "paper_id": "Exploring_Prompt_Engineering_with_GPT_Language_Models_for_Document-Level_Machine_Translation_Insights___aclanthology",
+   "title": "Exploring Prompt Engineering with GPT Language Models for Document-Level Machine Translation: Insights and Findings",
+   "doi": "10.18653/v1/2023.wmt-1.15",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.wmt-1.15/"
+  },
+  {
+   "round": 3,
+   "paper_id": "An_Empirical_Evaluation_of_Prompting_Strategies_for_Large_Language_Models_in_Zero-Shot_Clinical_Natural_La__openalex",
+   "title": "An Empirical Evaluation of Prompting Strategies for Large Language Models in Zero-Shot Clinical Natural Language Processing: Algorithm Development and Validation Study",
+   "doi": "10.2196/55318",
+   "source": "openalex",
+   "url": "https://openalex.org/W4394579747"
+  },
+  {
+   "round": 3,
+   "paper_id": "Unlocking_Memorization_in_Large_Language_Models_with_Dynamic_Soft_Prompting__aclanthology",
+   "title": "Unlocking Memorization in Large Language Models with Dynamic Soft Prompting",
+   "doi": "10.48550/arXiv.2409.13853",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.546/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Auto-Evolve_Enhancing_Large_Language_Model_s_Performance_via_Self-Reasoning_Framework__arxiv",
+   "title": "Auto-Evolve: Enhancing Large Language Model's Performance via Self-Reasoning Framework",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.06328v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Attention-Guided_Context_Pruning_for_Large_Language_Models__openreview",
+   "title": "Attention-Guided Context Pruning for Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=lm4lItXNtJ"
+  },
+  {
+   "round": 3,
+   "paper_id": "The_What_Why_and_How_of_Context_Length_Extension_Techniques_in_Large_Language_Models_--_A_Detailed_Survey__openalex",
+   "title": "The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey",
+   "doi": "10.48550/arxiv.2401.07872",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391014168"
+  },
+  {
+   "round": 3,
+   "paper_id": "SpreadsheetLLM_Encoding_Spreadsheets_for_Large_Language_Models__openalex",
+   "title": "SpreadsheetLLM: Encoding Spreadsheets for Large Language Models",
+   "doi": "10.48550/arxiv.2407.09025",
+   "source": "openalex",
+   "url": "https://openalex.org/W4400667208"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Survey_on_Hallucination_in_Large_Language_Models_Principles_Taxonomy_Challenges_and_Open_Questions__openalex",
+   "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+   "doi": "10.48550/arxiv.2311.05232",
+   "source": "openalex",
+   "url": "https://openalex.org/W4388585881"
+  },
+  {
+   "round": 3,
+   "paper_id": "Auto-Prompting_with_Retrieval_Guidance_for_Frame_Detection_in_Logistics__arxiv",
+   "title": "Auto-Prompting with Retrieval Guidance for Frame Detection in Logistics",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2512.19247v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Why_Prompt_Design_Matters_and_Works_A_Complexity_Analysis_of_Prompt_Search_Space_in_LLMs__arxiv",
+   "title": "Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.10084v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "SPELL_Semantic_Prompt_Evolution_based_on_a_LLM__arxiv",
+   "title": "SPELL: Semantic Prompt Evolution based on a LLM",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2310.01260v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "StraGo_Harnessing_Strategic_Guidance_for_Prompt_Optimization__arxiv",
+   "title": "StraGo: Harnessing Strategic Guidance for Prompt Optimization",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2410.08601v1"
+  },
+  {
+   "round": 3,
+   "paper_id": "Which_Words_Matter_Most_in_Zero-Shot_Prompts__arxiv",
+   "title": "Which Words Matter Most in Zero-Shot Prompts?",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2502.03418v3"
+  },
+  {
+   "round": 3,
+   "paper_id": "Large_Language_Models_As_Evolution_Strategies__openalex",
+   "title": "Large Language Models As Evolution Strategies",
+   "doi": "10.48550/arxiv.2402.18381",
+   "source": "openalex",
+   "url": "https://openalex.org/W4392340943"
+  },
+  {
+   "round": 3,
+   "paper_id": "Large_Language_Models_are_Interpretable_Learners__openalex",
+   "title": "Large Language Models are Interpretable Learners",
+   "doi": "10.48550/arxiv.2406.17224",
+   "source": "openalex",
+   "url": "https://openalex.org/W4400064758"
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models__arxiv",
+   "title": "A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models",
+   "doi": "10.18653/v1/2024.findings-acl.443",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/53092cd4e91f641134617add052329e2495a4fad"
+  },
+  {
+   "round": 3,
+   "paper_id": "V-DPO_Mitigating_Hallucination_in_Large_Vision_Language_Models_via_Vision-Guided_Direct_Preference_Optimizati__arxiv",
+   "title": "V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization",
+   "doi": "10.18653/v1/2024.findings-emnlp.775",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/73020a07af4cfc42286e299097a0e35d2fe71a6c"
+  },
+  {
+   "round": 3,
+   "paper_id": "BAPO_Base-Anchored_Preference_Optimization_for_Overcoming_Forgetting_in_Large_Language_Models_Personalization__arxiv",
+   "title": "BAPO: Base-Anchored Preference Optimization for Overcoming Forgetting in Large Language Models Personalization",
+   "doi": "10.18653/v1/2024.findings-emnlp.398",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/e9b156ddf40f660dfb6a9b2a720d0b0735414dc0"
+  },
+  {
+   "round": 3,
+   "paper_id": "Scaling_Sentence_Embeddings_with_Large_Language_Models__arxiv",
+   "title": "Scaling Sentence Embeddings with Large Language Models",
+   "doi": "10.48550/arXiv.2307.16645",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/f7ccf8ecd508e0b2d423169588dd1c1a82dd3b4d"
+  },
+  {
+   "round": 3,
+   "paper_id": "ZhuJiu-Knowledge_A_Fairer_Platform_for_Evaluating_Multiple_Knowledge_Types_in_Large_Language_Models__aclanthology",
+   "title": "ZhuJiu-Knowledge: A Fairer Platform for Evaluating Multiple Knowledge Types in Large Language Models",
+   "doi": "10.18653/v1/2024.naacl-demo.20",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-demo.20/"
+  },
+  {
+   "round": 3,
+   "paper_id": "Extending_Context_Window_of_Large_Language_Models_via_Semantic_Compression__openalex",
+   "title": "Extending Context Window of Large Language Models via Semantic Compression",
+   "doi": "10.18653/v1/2024.findings-acl.306",
+   "source": "openalex",
+   "url": "https://openalex.org/W4402670549"
+  },
+  {
+   "round": 3,
+   "paper_id": "PromptIntern_Saving_Inference_Costs_by_Internalizing_Recurrent_Prompt_during_Large_Language_Model_Fine-tun__openalex",
+   "title": "PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning",
+   "doi": "10.18653/v1/2024.findings-emnlp.602",
+   "source": "openalex",
+   "url": "https://openalex.org/W4404781785"
+  },
+  {
+   "round": 3,
+   "paper_id": "Encoding_Spreadsheets_for_Large_Language_Models__openalex",
+   "title": "Encoding Spreadsheets for Large Language Models",
+   "doi": "10.18653/v1/2024.emnlp-main.1154",
+   "source": "openalex",
+   "url": "https://openalex.org/W4404782145"
+  },
+  {
+   "round": 3,
+   "paper_id": "Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought__aclanthology",
+   "title": "Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought",
+   "doi": "10.48550/arXiv.2404.03414",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.252/"
+  },
+  {
+   "round": 3,
+   "paper_id": "DynaThink_Fast_or_Slow_A_Dynamic_Decision-Making_Framework_for_Large_Language_Models__aclanthology",
+   "title": "DynaThink: Fast or Slow? A Dynamic Decision-Making Framework for Large Language Models",
+   "doi": "10.48550/arXiv.2407.01009",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.814/"
+  },
+  {
+   "round": 3,
+   "paper_id": "DiffusionDB_A_Large-scale_Prompt_Gallery_Dataset_for_Text-to-Image_Generative_Models__openalex",
+   "title": "DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models",
+   "doi": "10.18653/v1/2023.acl-long.51",
+   "source": "openalex",
+   "url": "https://openalex.org/W4385570204"
+  },
+  {
+   "round": 3,
+   "paper_id": "Cutting_Down_on_Prompts_and_Parameters_Simple_Few-Shot_Learning_with_Language_Models__openalex",
+   "title": "Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models",
+   "doi": "10.18653/v1/2022.findings-acl.222",
+   "source": "openalex",
+   "url": "https://openalex.org/W3173617765"
+  },
+  {
+   "round": 3,
+   "paper_id": "MAPO_Boosting_Large_Language_Model_Performance_with_Model-Adaptive_Prompt_Optimization__aclanthology",
+   "title": "MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization",
+   "doi": "10.18653/v1/2023.findings-emnlp.215",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/91b6158978b248e9a0e65d0d588bc1054e72bc16"
+  },
+  {
+   "round": 3,
+   "paper_id": "What_Changes_Can_Large-scale_Language_Models_Bring_Intensive_Study_on_HyperCLOVA_Billions-scale_Korean__aclanthology",
+   "title": "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers",
+   "doi": "10.18653/v1/2021.emnlp-main.274",
+   "source": "acl",
+   "url": "https://aclanthology.org/2021.emnlp-main.274/"
+  },
+  {
+   "round": 3,
+   "paper_id": "RePrompt_Planning_by_Automatic_Prompt_Engineering_for_Large_Language_Models_Agents__arxiv",
+   "title": "RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2406.11132v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Intelligent_Reservoir_Decision_Support_An_Integrated_Framework_Combining_Large_Language_Models_Advanced_Promp__arxiv",
+   "title": "Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Prompt_Space_Optimizing_Few-shot_Reasoning_Success_with_Large_Language_Models__arxiv",
+   "title": "Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2306.03799v2"
+  },
+  {
+   "round": 3,
+   "paper_id": "Prompt_Programming_for_Cultural_Bias_and_Alignment_of_Large_Language_Models__arxiv",
+   "title": "Prompt Programming for Cultural Bias and Alignment of Large Language Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  },
+  {
+   "round": 3,
+   "paper_id": "Evaluation_is_all_you_need._Prompting_Generative_Large_Language_Models_for_Annotation_Tasks_in_the_Social_Sci__arxiv",
+   "title": "Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models",
+   "doi": null,
+   "source": "arxiv",
+   "url": null
+  }
+ ],
+ "papers_used_for_schema_induction": [
+  "4th_International_Workshop_on_Language_Engineering_ATEM_2007__openreview",
+  "APEER_Automatic_Prompt_Engineering_Enhances_Large_Language_Model_Reranking__arxiv",
+  "APEER_Automatic_Prompt_Engineering_Enhances_Large_Language_Model_Reranking__openreview",
+  "A_Comprehensive_Overview_of_Large_Language_Models__openalex",
+  "A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models__arxiv",
+  "A_Review_on_Large_Language_Models_Architectures_Applications_Taxonomies_Open_Issues_and_Challenges__openalex",
+  "A_Sequential_Optimal_Learning_Approach_to_Automated_Prompt_Engineering_in_Large_Language_Models__openalex",
+  "A_Survey_of_Large_Language_Models__nature",
+  "A_Survey_on_Evaluation_of_Large_Language_Models__openalex",
+  "A_Survey_on_Hallucination_in_Large_Language_Models_Principles_Taxonomy_Challenges_and_Open_Questions__openalex",
+  "A_Survey_on_Large_Language_Models_for_Code_Generation__openalex",
+  "A_Survey_on_Large_Language_Models_for_Software_Engineering__openalex",
+  "A_Systematic_Survey_of_Prompt_Engineering_in_Large_Language_Models_Techniques_and_Applications__openalex",
+  "A_Systematic_Survey_on_Large_Language_Models_for_Algorithm_Design__openalex",
+  "A_comprehensive_taxonomy_of_prompt_engineering_techniques_for_large_language_models__openreview",
+  "An_Empirical_Evaluation_of_Prompting_Strategies_for_Large_Language_Models_in_Zero-Shot_Clinical_Natural_La__openalex",
+  "An_Empirical_Study_on_Prompt_Compression_for_Large_Language_Models__openreview",
+  "AnnoLLM_Making_Large_Language_Models_to_Be_Better_Crowdsourced_Annotators__arxiv",
+  "Applying_Large_Language_Models_and_Chain-of-Thought_for_Automatic_Scoring__arxiv",
+  "Assessing_Logical_Puzzle_Solving_in_Large_Language_Models_Insights_from_a_Minesweeper_Case_Study__aclanthology",
+  "Attention-Guided_Context_Pruning_for_Large_Language_Models__openreview",
+  "Auto-Evolve_Enhancing_Large_Language_Model_s_Performance_via_Self-Reasoning_Framework__arxiv",
+  "Auto-Prompting_with_Retrieval_Guidance_for_Frame_Detection_in_Logistics__arxiv",
+  "AutoHint_Automatic_Prompt_Optimization_with_Hint_Generation__openreview",
+  "Automatic_Construction_of_a_Korean_Toxic_Instruction_Dataset_for_Ethical_Tuning_of_Large_Language_Models__openreview",
+  "Automatic_Prompt_Selection_for_Large_Language_Models__openreview",
+  "Autonomous_Prompt_Engineering_in_Large_Language_Models__arxiv",
+  "Bootstrapping_Multilingual_Semantic_Parsers_using_Large_Language_Models__aclanthology",
+  "Bounding_the_Capabilities_of_Large_Language_Models_in_Open_Text_Generation_with_Prompt_Constraints__aclanthology",
+  "CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing__openalex",
+  "Can_Large_Language_Models_Automatically_Score_Proficiency_of_Written_Essays__aclanthology",
+  "Can_Open_Large_Language_Models_Catch_Vulnerabilities__openalex",
+  "Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought__aclanthology",
+  "Can_large_language_models_reason_about_medical_questions__arxiv",
+  "ChainLM_Empowering_Large_Language_Models_with_Improved_Chain-of-Thought_Prompting__aclanthology",
+  "Chain_of_Natural_Language_Inference_for_Reducing_Large_Language_Model_Hallucinations__openreview",
+  "Challenges_and_Applications_of_Large_Language_Models__openalex",
+  "ChatUIE_Exploring_Chat-based_Unified_Information_Extraction_Using_Large_Language_Models__aclanthology",
+  "CoTAL_Human-in-the-Loop_Prompt_Engineering_for_Generalizable_Formative_Assessment_Scoring__arxiv",
+  "Controllable_Abstraction_in_Summary_Generation_for_Large_Language_Models_via_Prompt_Engineering__arxiv",
+  "CoolPrompt_An_Automatic_Prompt_Optimization_Framework_for_Large_Language_Models__openreview",
+  "Counterfactual_Token_Generation_in_Large_Language_Models__openreview",
+  "Demystifying_Large_Language_Models_for_Medicine_A_Primer__arxiv",
+  "DiffusionDB_A_Large-scale_Prompt_Gallery_Dataset_for_Text-to-Image_Generative_Models__openalex",
+  "DynaThink_Fast_or_Slow_A_Dynamic_Decision-Making_Framework_for_Large_Language_Models__aclanthology",
+  "ELPO_Ensemble_Learning_Based_Prompt_Optimization_for_Large_Language_Models__arxiv",
+  "Efficient_Prompting_Methods_for_Large_Language_Models_A_Survey__openalex",
+  "EmbedGrad_Gradient-Based_Prompt_Optimization_in_Embedding_Space_for_Large_Language_Models__arxiv",
+  "Encoding_Spreadsheets_for_Large_Language_Models__openalex",
+  "Enhancing_Finite_State_Machine_Design_Automation_with_Large_Language_Models_and_Prompt_Engineering_Techniques__arxiv",
+  "Enhancing_Large_Language_Models_Against_Inductive_Instructions_with_Dual-critique_Prompting__aclanthology",
+  "Enhancing_Large_Language_Models_in_Coding_Through_Multi-Perspective_Self-Consistency__arxiv",
+  "Enhancing_Sentiment_Classification_and_Irony_Detection_in_Large_Language_Models_through_Advanced_Prompt_Engin__arxiv",
+  "Enhancing_Text-to-SQL_Capabilities_of_Large_Language_Models_through_Tailored_Promptings__aclanthology",
+  "Evaluating_Large_Language_Models_A_Comprehensive_Survey__openalex",
+  "Evaluating_Large_Language_Models_at_Evaluating_Instruction_Following__openreview",
+  "Evaluating_Large_Language_Models_in_Theory_of_Mind_Tasks__openalex",
+  "Evaluation_is_all_you_need._Prompting_Generative_Large_Language_Models_for_Annotation_Tasks_in_the_Social_Sci__arxiv",
+  "Exploring_Approaches_for_Detecting_Memorization_of_Recommender_System_Data_in_Large_Language_Models__arxiv",
+  "Extracting_Accurate_Materials_Data_from_Research_Papers_with_Conversational_Language_Models_and_Prompt_Engin__nature",
+  "FinGPT_Instruction_Tuning_Benchmark_for_Open-Source_Large_Language_Models_in_Financial_Datasets__openreview",
+  "GrIPS_Gradient-free_Edit-based_Instruction_Search_for_Prompting_Large_Language_Models__aclanthology",
+  "HDLCoRe_A_Training-Free_Framework_for_Mitigating_Hallucinations_in_LLM-Generated_HDL__arxiv",
+  "Have_LLMs_Advanced_Enough_A_Challenging_Problem_Solving_Benchmark_For_Large_Language_Models__arxiv",
+  "Having_Beer_after_Prayer_Measuring_Cultural_Bias_in_Large_Language_Models__arxiv",
+  "HoneyBee_Progressive_Instruction_Finetuning_of_Large_Language_Models_for_Materials_Science__arxiv",
+  "InsTag_Instruction_Tagging_for_Analyzing_Supervised_Fine-tuning_of_Large_Language_Models__openreview",
+  "Integrating_Chemistry_Knowledge_in_Large_Language_Models_via_Prompt_Engineering__arxiv",
+  "Intelligent_Reservoir_Decision_Support_An_Integrated_Framework_Combining_Large_Language_Models_Advanced_Promp__arxiv",
+  "Interactive_computer-aided_diagnosis_on_medical_image_using_large_language_models__nature",
+  "Iterative_Prompt_Refinement_for_Radiation_Oncology_Symptom_Extraction_Using_Teacher-Student_Large_Language_Mo__arxiv",
+  "Jailbreak_Mimicry_Automated_Discovery_of_Narrative-Based_Jailbreaks_for_Large_Language_Models__arxiv",
+  "Jais_and_Jais-chat_Arabic-Centric_Foundation_and_Instruction-Tuned_Open_Generative_Large_Language_Models__openalex",
+  "LLMLingua_Compressing_Prompts_for_Accelerated_Inference_of_Large_Language_Models__arxiv",
+  "Large_Language_Models_A_Survey__openalex",
+  "Large_Language_Models_Are_Human-Level_Prompt_Engineers__arxiv",
+  "Large_Language_Models_are_Interpretable_Learners__openalex",
+  "Large_Language_Models_as_Optimizers__openalex",
+  "Large_language_models_for_generative_information_extraction_a_survey__nature",
+  "LearNAT_Learning_NL2SQL_with_AST-guided_Task_Decomposition_for_Large_Language_Models__arxiv",
+  "Leveraging_Large_Language_Models_with_Chain-of-Thought_and_Prompt_Engineering_for_Traffic_Crash_Severity__openreview",
+  "Linear_Feedback_Control_Systems_for_Iterative_Prompt_Optimization_in_Large_Language_Models__arxiv",
+  "Lion_Adversarial_Distillation_of_Proprietary_Large_Language_Models__aclanthology",
+  "Low-code_LLM_Graphical_User_Interface_over_Large_Language_Models__aclanthology",
+  "Metaphor_identification_using_large_language_models_A_comparison_of_RAG_prompt_engineering_and_fine-tuning__arxiv",
+  "MindMap_Knowledge_Graph_Prompting_Sparks_Graph_of_Thoughts_in_Large_Language_Models__arxiv",
+  "Multi-Step_Reasoning_with_Large_Language_Models_a_Survey__openalex",
+  "Multi-expert_Prompting_Improves_Reliability_Safety_and_Usefulness_of_Large_Language_Models__aclanthology",
+  "Null-Shot_Prompting_Rethinking_Prompting_Large_Language_Models_With_Hallucination__aclanthology",
+  "On_the_Limitations_of_Large_Language_Models_for_Conceptual_Database_Modeling__arxiv",
+  "OpenMedLM_Prompt_engineering_can_out-perform_fine-tuning_in_medical_question-answering_with_open-source_large__arxiv",
+  "PACE_Improving_Prompt_with_Actor-Critic_Editing_for_Large_Language_Model__arxiv",
+  "PEEM_Prompt_Engineering_Evaluation_Metrics_for_Interpretable_Joint_Evaluation_of_Prompts_and_Responses__arxiv",
+  "PMPO_Probabilistic_Metric_Prompt_Optimization_for_Small_and_Large_Language_Models__arxiv",
+  "Plan-and-Solve_Prompting_Improving_Zero-Shot_Chain-of-Thought_Reasoning_by_Large_Language_Models__aclanthology",
+  "Position_Engineering_Boosting_Large_Language_Models_through_Positional_Information_Manipulation__aclanthology",
+  "Progressive-Hint_Prompting_Improves_Reasoning_in_Large_Language_Models__openalex",
+  "Prompt-MII_Meta-Learning_Instruction_Induction_for_LLMs__openreview",
+  "PromptIntern_Saving_Inference_Costs_by_Internalizing_Recurrent_Prompt_during_Large_Language_Model_Fine-tun__openalex",
+  "Prompt_Compression_for_Large_Language_Models_A_Survey__openalex",
+  "Prompt_Engineering_Large_Language_Models_Forecasting_Capabilities__arxiv",
+  "Prompt_Engineering_a_Prompt_Engineer__openreview",
+  "Prompt_Programming_for_Cultural_Bias_and_Alignment_of_Large_Language_Models__arxiv",
+  "Prompt_Space_Optimizing_Few-shot_Reasoning_Success_with_Large_Language_Models__arxiv",
+  "Prompt_Space_Optimizing_Few-shot_Reasoning_Success_with_Large_Language_Models__openalex",
+  "Prompting_Large_Language_Models_for_Counterfactual_Generation_An_Empirical_Study__aclanthology",
+  "Promptomatix_An_Automatic_Prompt_Optimization_Framework_for_Large_Language_Models__openreview",
+  "QUIK_Towards_End-to-end_4-Bit_Inference_on_Generative_Large_Language_Models__aclanthology",
+  "ReEvo_Large_Language_Models_as_Hyper-Heuristics_with_Reflective_Evolution__openalex",
+  "RePrompt_Planning_by_Automatic_Prompt_Engineering_for_Large_Language_Models_Agents__arxiv",
+  "RePrompt_Planning_by_Automatic_Prompt_Engineering_for_Large_Language_Models_Agents__openreview",
+  "Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey__openalex",
+  "Revisiting_Large_Language_Models_as_Zero-shot_Relation_Extractors__arxiv",
+  "SOPL_A_Sequential_Optimal_Learning_Approach_to_Automated_Prompt_Engineering_in_Large_Language_Models__openalex",
+  "SPELL_Semantic_Prompt_Evolution_based_on_a_LLM__arxiv",
+  "Self-Adaptive_Cognitive_Debiasing_for_Large_Language_Models_in_Decision-Making__arxiv",
+  "Sem-DPO_Mitigating_Semantic_Inconsistency_in_Preference_Optimization_for_Prompt_Engineering__openreview",
+  "SpreadsheetLLM_Encoding_Spreadsheets_for_Large_Language_Models__openalex",
+  "StablePrompt_Automatic_Prompt_Tuning_using_Reinforcement_Learning_for_Large_Language_Model__aclanthology",
+  "Style_Vectors_for_Steering_Generative_Large_Language_Models__aclanthology",
+  "Text-to-SQL_Empowered_by_Large_Language_Models_A_Benchmark_Evaluation__arxiv",
+  "The_Effect_of_Sampling_Temperature_on_Problem_Solving_in_Large_Language_Models__arxiv",
+  "The_What_Why_and_How_of_Context_Length_Extension_Techniques_in_Large_Language_Models_--_A_Detailed_Survey__openalex",
+  "Unifying_Large_Language_Models_and_Knowledge_Graphs_A_Roadmap__openalex",
+  "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__arxiv",
+  "Unleashing_the_potential_of_prompt_engineering_for_large_language_models__openalex",
+  "Unlocking_Memorization_in_Large_Language_Models_with_Dynamic_Soft_Prompting__aclanthology",
+  "Using_Pretrained_Large_Language_Model_with_Prompt_Engineering_to_Answer_Biomedical_Questions__arxiv",
+  "Utilizing_Modern_Large_Language_Models_LLM_for_Financial_Trend_Analysis_and_Digest_Creation__arxiv",
+  "V-DPO_Mitigating_Hallucination_in_Large_Vision_Language_Models_via_Vision-Guided_Direct_Preference_Optimizati__arxiv",
+  "When_Prompt_Optimization_Becomes_Jailbreaking_Adaptive_Red-Teaming_of_Large_Language_Models__arxiv",
+  "Which_Words_Matter_Most_in_Zero-Shot_Prompts__arxiv",
+  "ZhuJiu-Knowledge_A_Fairer_Platform_for_Evaluating_Multiple_Knowledge_Types_in_Large_Language_Models__aclanthology",
+  "iPrOp_Interactive_Prompt_Optimization_for_Large_Language_Models_with_a_Human_in_the_Loop__openreview"
+ ],
+ "run_config": null,
+ "induction_papers_not_in_collected": [
+  {
+   "round": 2,
+   "paper_id": "4th_International_Workshop_on_Language_Engineering_ATEM_2007__openreview",
+   "title": "4th International Workshop on Language Engineering (ATEM 2007)",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=YGaXrCRkRj",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "A_Review_on_Large_Language_Models_Architectures_Applications_Taxonomies_Open_Issues_and_Challenges__openalex",
+   "title": "A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",
+   "doi": "10.1109/access.2024.3365742",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391855109",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Survey_of_Large_Language_Models__nature",
+   "title": "A Survey of Large Language Models",
+   "doi": "10.1007/s11704-026-60308-3",
+   "source": "openalex",
+   "url": "https://openalex.org/W4362515116",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "A_Systematic_Survey_on_Large_Language_Models_for_Algorithm_Design__openalex",
+   "title": "A Systematic Survey on Large Language Models for Algorithm Design",
+   "doi": "10.48550/arxiv.2410.14716",
+   "source": "openalex",
+   "url": "https://openalex.org/W4404344236",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Assessing_Logical_Puzzle_Solving_in_Large_Language_Models_Insights_from_a_Minesweeper_Case_Study__aclanthology",
+   "title": "Assessing Logical Puzzle Solving in Large Language Models: Insights from a Minesweeper Case Study",
+   "doi": "10.18653/v1/2024.naacl-long.4",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-long.4/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "AutoHint_Automatic_Prompt_Optimization_with_Hint_Generation__openreview",
+   "title": "AutoHint: Automatic Prompt Optimization with Hint Generation",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=OMkczshA1a",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Automatic_Construction_of_a_Korean_Toxic_Instruction_Dataset_for_Ethical_Tuning_of_Large_Language_Models__openreview",
+   "title": "Automatic Construction of a Korean Toxic Instruction Dataset for Ethical Tuning of Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=kqtB2AueFm",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Bootstrapping_Multilingual_Semantic_Parsers_using_Large_Language_Models__aclanthology",
+   "title": "Bootstrapping Multilingual Semantic Parsers using Large Language Models",
+   "doi": "10.48550/arXiv.2210.07313",
+   "source": "acl",
+   "url": "https://aclanthology.org/2023.eacl-main.180/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Can_Large_Language_Models_Automatically_Score_Proficiency_of_Written_Essays__aclanthology",
+   "title": "Can Large Language Models Automatically Score Proficiency of Written Essays?",
+   "doi": "10.48550/arXiv.2403.06149",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.247/",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Can_Open_Large_Language_Models_Catch_Vulnerabilities__openalex",
+   "title": "Can Open Large Language Models Catch Vulnerabilities?",
+   "doi": "10.4230/oasics.icpec.2025.4",
+   "source": "openalex",
+   "url": "https://openalex.org/W4406779522",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "ChatUIE_Exploring_Chat-based_Unified_Information_Extraction_Using_Large_Language_Models__aclanthology",
+   "title": "ChatUIE: Exploring Chat-based Unified Information Extraction Using Large Language Models",
+   "doi": "10.48550/arXiv.2403.05132",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.lrec-main.279/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "FinGPT_Instruction_Tuning_Benchmark_for_Open-Source_Large_Language_Models_in_Financial_Datasets__openreview",
+   "title": "FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=FuOMomaQa8",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "HDLCoRe_A_Training-Free_Framework_for_Mitigating_Hallucinations_in_LLM-Generated_HDL__arxiv",
+   "title": "HDLCoRe: A Training-Free Framework for Mitigating Hallucinations in LLM-Generated HDL",
+   "doi": null,
+   "source": "arxiv",
+   "url": "http://arxiv.org/abs/2503.16528v1",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Have_LLMs_Advanced_Enough_A_Challenging_Problem_Solving_Benchmark_For_Large_Language_Models__arxiv",
+   "title": "Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models",
+   "doi": "10.48550/arXiv.2305.15074",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/2cf1f6c723006f258599fd9f000bb616ae83387a",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "InsTag_Instruction_Tagging_for_Analyzing_Supervised_Fine-tuning_of_Large_Language_Models__openreview",
+   "title": "#InsTag: Instruction Tagging for Analyzing Supervised Fine-tuning of Large Language Models",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=wcSx5VjTPP",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Interactive_computer-aided_diagnosis_on_medical_image_using_large_language_models__nature",
+   "title": "Interactive computer-aided diagnosis on medical image using large language models",
+   "doi": "10.1038/s44172-024-00271-8",
+   "source": "openalex",
+   "url": "https://openalex.org/W4402582321",
+   "metadata_found": true
+  },
+  {
+   "round": 1,
+   "paper_id": "Jais_and_Jais-chat_Arabic-Centric_Foundation_and_Instruction-Tuned_Open_Generative_Large_Language_Models__openalex",
+   "title": "Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models",
+   "doi": "10.48550/arxiv.2308.16149",
+   "source": "openalex",
+   "url": "https://openalex.org/W4386365131",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Large_language_models_for_generative_information_extraction_a_survey__nature",
+   "title": "Large language models for generative information extraction: a survey",
+   "doi": "10.1007/s11704-024-40555-y",
+   "source": "openalex",
+   "url": "https://openalex.org/W4404239715",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Lion_Adversarial_Distillation_of_Proprietary_Large_Language_Models__aclanthology",
+   "title": "Lion: Adversarial Distillation of Proprietary Large Language Models",
+   "doi": "10.18653/v1/2023.emnlp-main.189",
+   "source": "acl",
+   "url": "https://www.semanticscholar.org/paper/02529b2666a536053a2e2940de5b28de36fd594b",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Low-code_LLM_Graphical_User_Interface_over_Large_Language_Models__aclanthology",
+   "title": "Low-code LLM: Graphical User Interface over Large Language Models",
+   "doi": "10.18653/v1/2024.naacl-demo.2",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.naacl-demo.2/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Prompt-MII_Meta-Learning_Instruction_Induction_for_LLMs__openreview",
+   "title": "Prompt-MII: Meta-Learning Instruction Induction for LLMs",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=zD9fjEj4Oz",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "QUIK_Towards_End-to-end_4-Bit_Inference_on_Generative_Large_Language_Models__aclanthology",
+   "title": "QUIK: Towards End-to-end 4-Bit Inference on Generative Large Language Models",
+   "doi": "10.18653/v1/2024.emnlp-main.197",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.197/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "ReEvo_Large_Language_Models_as_Hyper-Heuristics_with_Reflective_Evolution__openalex",
+   "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution",
+   "doi": "10.48550/arxiv.2402.01145",
+   "source": "openalex",
+   "url": "https://openalex.org/W4391555829",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "Sem-DPO_Mitigating_Semantic_Inconsistency_in_Preference_Optimization_for_Prompt_Engineering__openreview",
+   "title": "Sem-DPO: Mitigating Semantic Inconsistency in Preference Optimization for Prompt Engineering",
+   "doi": null,
+   "source": "openreview",
+   "url": "https://openreview.net/forum?id=fkLt9HgMqj",
+   "metadata_found": true
+  },
+  {
+   "round": 3,
+   "paper_id": "StablePrompt_Automatic_Prompt_Tuning_using_Reinforcement_Learning_for_Large_Language_Model__aclanthology",
+   "title": "StablePrompt : Automatic Prompt Tuning using Reinforcement Learning for Large Language Model",
+   "doi": "10.48550/arXiv.2410.07652",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.emnlp-main.551/",
+   "metadata_found": true
+  },
+  {
+   "round": 2,
+   "paper_id": "Style_Vectors_for_Steering_Generative_Large_Language_Models__aclanthology",
+   "title": "Style Vectors for Steering Generative Large Language Models",
+   "doi": "10.48550/arXiv.2402.01618",
+   "source": "acl",
+   "url": "https://aclanthology.org/2024.findings-eacl.52/",
+   "metadata_found": true
+  }
+ ],
+ "group": "development (introduction diagnostic, 9 runs: seed set 02 of chem, ad, cs)",
+ "domain": "cs",
+ "role": "source of both sides of the introduction diagnostic: top-40 candidate pool (scripts/pool_coverage.py -> results/abl_pool_old/top40) and 8-field baseline schema (scripts/dev_baseline_schemas.py -> results/abl_old/baseline)",
+ "source_run_dir": "Ablation/cs/prompt_02",
+ "seed_dir_recorded": "<repo>/seeds/seed_cs/prompt_02",
+ "seed_set_matches_run_id": true,
+ "target_total_papers": null,
+ "actual_total_papers": 143,
+ "rounds_completed": 3,
+ "diagnostic_inputs": {
+  "pool_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_candidates": "round03/schema_from_cumulative_corpus/canonical_schema_candidates.json",
+  "baseline_anchors": "round03/schema_from_cumulative_corpus/discovered_anchors.json"
+ },
+ "configuration_note": "Iterative run without memory, original (LEGACY) clustering and selection; no run_config file was written for these runs."
+}
